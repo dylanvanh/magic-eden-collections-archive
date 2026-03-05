@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:22.841Z",
+  "slug": "rune_pizza",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "rune_pizza",
+    "collection": {
+      "symbol": "rune_pizza",
+      "name": "Piza Rune",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-rune_pizza_pfp_1715985388884.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The memecoin with the greatest historical provenance. 10K Rune Pizza's airdropped as an ode to the infamous 2 pizza for 10K BTC. 🍕",
+      "supply": 10892,
+      "twitterLink": "https://twitter.com/btcpizzaxyz",
+      "discordLink": "",
+      "websiteLink": "https://btcpizza.io/",
+      "createdAt": "Sat, 13 Apr 2024 19:44:37 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3EJq6ymHbUTNnK2E79yqAPetijMvXVb7Fe",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

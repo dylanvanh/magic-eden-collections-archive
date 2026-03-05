@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:01.779Z",
+  "slug": "bitcoinbulls",
+  "tokenCount": 400,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoinbulls",
+    "collection": {
+      "symbol": "bitcoinbulls",
+      "name": "Bitcoin Bulls",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoinbulls.avif",
+      "chain": "btc",
+      "inscriptionIcon": "a99166c7a3e76fccb0bc5465971180e45798b7769b9301dd57a04a2347f2abcci0",
+      "description": "400 of the biggest Bitcoin Bulls on the blockchain. With a missions of further decentralizing the network. Holding historical value as the first free airdrop on ordinals.",
+      "supply": 400,
+      "twitterLink": "https://twitter.com/ordeclipse",
+      "discordLink": "https://discord.gg/J3AYbxMgNR",
+      "websiteLink": "",
+      "createdAt": "Wed, 27 Mar 2024 22:04:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

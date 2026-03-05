@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:25.877Z",
+  "slug": "btc-artifacts",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "btc-artifacts",
+    "collection": {
+      "symbol": "btc-artifacts",
+      "name": "BTC Artifacts",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/btc-artifacts.avif",
+      "chain": "btc",
+      "inscriptionIcon": "bc1p6v0v7az6vwfpeanyfypdjypauq866r8jugtfnq63968x5pfs03xql2ggt0",
+      "description": "BTC Artifacts",
+      "supply": 49739,
+      "twitterLink": "https://twitter.com/btcordinal",
+      "discordLink": "https://discord.gg/btcmachine",
+      "websiteLink": "https://www.satoria.world/",
+      "createdAt": "Wed, 12 Apr 2023 00:14:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcmn0l7w382ygvpehvtz57n2r75l5j7nyzkq54lf8zr3pm48y0aesh4pd96",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

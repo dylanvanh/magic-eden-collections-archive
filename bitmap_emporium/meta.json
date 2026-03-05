@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:19.722Z",
+  "slug": "bitmap_emporium",
+  "tokenCount": 2474,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "parentInscriptionId": "c1e3330f25adaec23b5361ef1c1412e3fc29d5615f19fe02bf4c017a80c6031bi0",
+    "collectionSymbol": "bitmap_emporium",
+    "collection": {
+      "symbol": "bitmap_emporium",
+      "name": "Bitmap Emporium",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitmap_emporium_pfp_1729601925814.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "First Bitmap PFP. An exclusive club for the initiated. Each piece in the collection is unified under the Bitmap.717328 through distinct parent-child inscriptions placed on rare sats, adding a layer of intricate unity. The golden dynasty of Emporium reigns supreme.",
+      "supply": 2574,
+      "twitterLink": "https://twitter.com/BitmapEmporium",
+      "discordLink": "https://discord.gg/evESVWXJHu",
+      "websiteLink": "https://emporium.online",
+      "createdAt": "Mon, 15 Apr 2024 08:13:48 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3NrvKcydoRqZzGBYewXGqMsbhhcujjX3dj",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 15817,
+    "satBlockTime": "Thu, 28 May 2009 01:57:04 GMT",
+    "satributes": [
+      "Common",
+      "Nakamoto"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

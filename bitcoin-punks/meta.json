@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:56.441Z",
+  "slug": "bitcoin-punks",
+  "tokenCount": 10000,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-punks",
+    "collection": {
+      "symbol": "bitcoin-punks",
+      "name": "Bitcoin Punks",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoin-punks.avif",
+      "chain": "btc",
+      "inscriptionIcon": "068c2e7b7a9e53d0b5bca70aa95377c24385ef1b8a8bad33abb60a1faeceadc0i0",
+      "description": "Bitcoin Punks is the first 10k NFT collection on Ordinals.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/Bitcoin_Punks_",
+      "discordLink": "https://discord.gg/bitcoinpunks",
+      "websiteLink": "https://bitcoinpunks.com",
+      "createdAt": "Fri, 24 Mar 2023 01:51:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

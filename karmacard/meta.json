@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:38.440Z",
+  "slug": "karmacard",
+  "tokenCount": 4657,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "karmacard",
+    "collection": {
+      "symbol": "karmacard",
+      "name": "KarmaCard",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-karmacard_pfp_1710983981209.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "KarmaCard: Alpha. Access.",
+      "supply": 5000,
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://karmacoin.xyz",
+      "createdAt": "Thu, 21 Mar 2024 01:40:37 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

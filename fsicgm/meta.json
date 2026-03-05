@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:19.599Z",
+  "slug": "fsicgm",
+  "tokenCount": 880,
+  "defaults": {
+    "contentType": "image/gif",
+    "chain": "btc",
+    "parentInscriptionId": "3c3131e4eead2ba7e1b82e0c3d267664540233132078b5ca77960765511153cdi0",
+    "collectionSymbol": "fsicgm",
+    "collection": {
+      "symbol": "fsicgm",
+      "name": "FSIC Genesis Miner",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fsicgm_pfp_1725037119369.gif",
+      "chain": "btc",
+      "inscriptionIcon": "3c3131e4eead2ba7e1b82e0c3d267664540233132078b5ca77960765511153cdi0",
+      "description": "880 bonus Ordinals for FSIC presale buyers and OG supporters. These GM Ordinals do not mine $FB, but will receive rewards from future FSIC initiatives.",
+      "supply": 880,
+      "twitterLink": "https://twitter.com/BTCFSIC",
+      "discordLink": "",
+      "websiteLink": "https://btcfsic.com/",
+      "createdAt": "Fri, 30 Aug 2024 18:30:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p6hgg0xg9384e7fyp3ha7rq94ql7gx30wkmtvfx6knnlgu0ptfh9qc4efly",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 286,
+    "satBlockTime": "Tue, 13 Jan 2009 04:54:58 GMT",
+    "satributes": [
+      "Block 286",
+      "Common",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

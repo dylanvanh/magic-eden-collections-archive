@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:09.020Z",
+  "slug": "escher_punk_edition_by_viola",
+  "tokenCount": 63,
+  "defaults": {
+    "contentType": "text/html",
+    "contentBody": "PGRpdiBpZD0ib3JkLXJvb3QiIGRhdGEtbD0nWyIvY29udGVudC83YjA3ZjE3ZDdjNmM2YzFiZTM0ZThmYzlmNTU3M2NiNTY0OWE0ZGFhMTQ1Njk0OTRlNzY4Y2RhOTBjNTJmZWYzaTAiXSc+PC9kaXY+CjxzY3JpcHQgc3JjPSIvY29udGVudC81YjBlMmNmMmQzZDlhMmFlZTEwYjVhZTg2MDQ4NzM3NmJhZGFhM2ZhNGYyYWM0NzBmYTI1YTRlM2MxMjE3YzNjaTAiPjwvc2NyaXB0Pg==",
+    "chain": "btc",
+    "outputValue": 546,
+    "collectionSymbol": "escher_punk_edition_by_viola",
+    "collection": {
+      "symbol": "escher_punk_edition_by_viola",
+      "name": "ESCHER PUNK Edition by Viola MissCode",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-escher_punk_edition_by_viola_pfp_1767299363586.png",
+      "chain": "btc",
+      "inscriptionIcon": "7b07f17d7c6c6c1be34e8fc9f5573cb5649a4daa14569494e768cda90c52fef3i0",
+      "description": "\"I don't feel punk, I AM PUNK!\" - Free Open Edition by Viola MissCode",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ViolaMissCode",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 01 Jan 2026 20:57:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q6f0rl59t9xhwntsxgmcd9a4e3g4kn8a6tskpgs",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

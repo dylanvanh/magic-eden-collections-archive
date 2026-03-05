@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:28.893Z",
+  "slug": "abouquetofintimatepassings",
+  "tokenCount": 27,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "parentInscriptionId": "ca668b8969d9c832cffa9255c1d9752aada3e6035195385ec015bcf42303c2b3i0",
+    "collectionSymbol": "abouquetofintimatepassings",
+    "collection": {
+      "symbol": "abouquetofintimatepassings",
+      "name": "A Bouquet of Intimate Passings by Zoe Louise",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-abouquetofintimatepassings_pfp_1730341677523.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "e8699b1afc2c58fda75816eb6c2e5265274ceefc1bb0ead2859bc69710003873i0",
+      "description": "Can we find grace in the face of mortality? 27 artworks using parent/child inscription process. Incorporating hand selected black uncommon sats dating back to 2009. Large file sizes filled with human touch + metadata.",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/MelzieQ",
+      "discordLink": "",
+      "websiteLink": "https://www.melzieq.com/",
+      "createdAt": "Fri, 01 Nov 2024 09:17:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3ATRAD6CFBn5eBNtGJy2wF9VjwxD8DcEKY",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "black_uncommon"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:08.655Z",
+  "slug": "neoyauto",
+  "tokenCount": 7918,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "neoyauto",
+    "collection": {
+      "symbol": "neoyauto",
+      "name": "Neo Yauto",
+      "imageURI": "https://bafybeigcgulbgnxp5dxc4t23ndpsxcgvzvljhzc6tbkx4mw7jljt74ovo4.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "ac867bf6fa8c0ee0690439b24e1056a10734efd5a732d0fc548162717d50d41ai0",
+      "description": "A collection of NeoYauto Citizens created by NUO2069 with BRC-20 $NYTO. Each NeoYauto Citizen has unique art and original Eastern cyberpunk background stories with the infusion of Cantonese culture from Guangzhou. The collection is free mint and the team charges you nothing for the art. We only want to 得閒飲茶 with you.",
+      "supply": 7777,
+      "twitterLink": "https://twitter.com/NeoYauto",
+      "discordLink": "https://discord.com/invite/nuo2069",
+      "websiteLink": "https://www.neoyauto.com/",
+      "createdAt": "Mon, 22 May 2023 18:35:40 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

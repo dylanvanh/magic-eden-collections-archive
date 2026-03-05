@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:32.603Z",
+  "slug": "runesterminal",
+  "tokenCount": 4999,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "runesterminal",
+    "collection": {
+      "symbol": "runesterminal",
+      "name": "Ape Odyssey",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-runesterminal_pfp_1712754159912.gif",
+      "chain": "btc",
+      "inscriptionIcon": "683f1e962326817d60661ef3821ad24c70737ef2d70db6e48030695cf4c5c55bi0",
+      "description": "ApeOdyssey: Discover the saga where ancient apes unite, evolve, and rebuild their broken home: Terminal 1",
+      "supply": 5000,
+      "twitterLink": "https://twitter.com/runes_terminal",
+      "discordLink": "https://discord.gg/whBnamzUU9",
+      "websiteLink": "https://runesterminal.io",
+      "createdAt": "Wed, 10 Apr 2024 12:49:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qk00gax3yddp8ttdjp70f7g0xqs0nqncckkflag",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

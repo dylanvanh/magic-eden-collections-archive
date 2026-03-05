@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:20.300Z",
+  "slug": "bitmon",
+  "tokenCount": 145,
+  "defaults": {
+    "contentType": "image/gif",
+    "chain": "btc",
+    "parentInscriptionId": "ac2700446b9736b853b4c10e2f4261b387f072deb32b9f1f1314db8e75f5eea4i0",
+    "outputValue": 546,
+    "collectionSymbol": "bitmon",
+    "collection": {
+      "symbol": "bitmon",
+      "name": "BitMON",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitmon_pfp_1710257186281.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "150 unique 16-bit Monsters made to be your digital companion.",
+      "supply": 150,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/DesLucrece",
+      "discordLink": "https://discord.gg/lucrece",
+      "websiteLink": "https://deslucrece.com/bitmon",
+      "createdAt": "Tue, 12 Mar 2024 16:59:05 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "3DBTmJWNtkiQUQAwKVKKEN8Wb77UmSCxpZ",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "black_uncommon"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

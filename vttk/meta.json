@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:53.375Z",
+  "slug": "vttk",
+  "tokenCount": 262,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "vttk",
+    "collection": {
+      "symbol": "vttk",
+      "name": "VTTK Attack Force",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-vttk_pfp_1771193655399.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The VTTK Attack Force are here to save the universe in the new on-chain game VTTK Dogfighter. These 3D interactive attack ships are coded so you can use your own ship in the game.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/3dOrdinalClub",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 15 Feb 2026 22:33:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p2h5vmfgldwls64g23p3qqdaq4xsgdmdmcyhjrqzlvzlpy8n4ek8sx8zq0m",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

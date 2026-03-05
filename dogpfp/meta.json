@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:01.696Z",
+  "slug": "dogpfp",
+  "tokenCount": 4199,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "dogpfp",
+    "collection": {
+      "symbol": "dogpfp",
+      "name": "DOG",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dogpfp_pfp_1719210409300.gif",
+      "chain": "btc",
+      "inscriptionIcon": "2e026dc35369417223c0edc403634858a22c053bcaec5ac8c22ed069659479e3i0",
+      "description": "The $DOG and Runestone PFP",
+      "supply": 4200,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/CreatorBitcoin",
+      "discordLink": "https://discord.gg/pcMRttadJQ",
+      "websiteLink": "https://ordinal.dog",
+      "createdAt": "Sun, 23 Jun 2024 08:40:52 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

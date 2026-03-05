@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:23.138Z",
+  "slug": "gfkxrs",
+  "tokenCount": 9929,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHN0eWxlPmJvZHl7YmFja2dyb3VuZDojMDAwfTwvc3R5bGU+CjxzY3JpcHQgaWQ9Im9yZC1yb290IgogICAgICAgIHNyYz0iL2NvbnRlbnQvYjE2MjZhZDI3OTE4MTA3MTNjODA3ZmJkMmJmYTdhNTdhMWQ2NTUzOTdhOTQ1OTcxN2U3NzM2MjlhMjBjYTMwN2kwIgogICAgICAgIGRhdGEtZD0iNDguNjYyIgogICAgICAgIGRhdGEtaT0iL2NvbnRlbnQvOTlkMWNlNDY4ZWNjYWM4YTQzZWIwN2ZjOTlmODNkOTIwYmJkNDg0NjI1NWQ0NzdmYzk3NDZiMjhmODc3ZWU0Y2kwIgogICAgICAgIGRhdGEtYT0iL2NvbnRlbnQvMDY5Zjc5Njg1YzA0YWY2MzU3MDU4ZWVlYjY1YzQ4MzVlZDEzZDAwYjViZjVhNjljNGNmZjVlNTEzZDliMGZmZmkwIgo+PC9zY3JpcHQ+",
+    "chain": "btc",
+    "collectionSymbol": "gfkxrs",
+    "collection": {
+      "symbol": "gfkxrs",
+      "name": "Ghost Face Killah x Rare Scrilla",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-gfkxrs_pfp_1713559950202.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "GHOSTFACE KILLAH x Rare Scrilla x Nakapepes / Lyrics by GHOSTFACE KILLAH / Art by Rare Scrilla / Production by BL’EVE Brown x Rare Scrilla / Curated by Nakapepes",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/NakamotosOnBTC",
+      "discordLink": "https://discord.gg/E6q8zCbr",
+      "websiteLink": "",
+      "createdAt": "Fri, 19 Apr 2024 21:33:25 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3EFQcrzqiWfQjNNi5ya1UCExteAWePUoHH",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:50.445Z",
+  "slug": "masterpass",
+  "tokenCount": 88,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "masterpass",
+    "collection": {
+      "symbol": "masterpass",
+      "name": "MasterWorks MasterPass",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-masterpass_pfp_1701292686837.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "88 MasterPasses. Holding the Pass will give you lifetime exclusive access to all our Private Collections, never available to the public.It's entry into The Fellowship of MasterWorks💫 A Project that harnesses the True Power of Fine Art on Bitcoin for a greater purpose. Every 33 days, a new 88 pieces of Amazing Art will be inscribed on Block9 sats for holders only.Our Magisterial Art holds a truth.Great Art brings out the best in people.We come together to as a Fellowship to encourage each other as we trek our own paths in finding our True North💫Art.Advancement.Rarity.💫Beautifying Bitcoin.💫We Live on Block 9.💫",
+      "supply": 88,
+      "twitterLink": "https://twitter.com/MasterWorksBTC",
+      "discordLink": "https://discord.gg/CaDx9pR9",
+      "websiteLink": "",
+      "createdAt": "Wed, 29 Nov 2023 22:49:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "35wkcra9ae7Ebt1Phwehvz7q1SUe23PrRv",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

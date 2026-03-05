@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:17.985Z",
+  "slug": "bitdogs_btc",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "bitdogs_btc",
+    "collection": {
+      "symbol": "bitdogs_btc",
+      "name": "Bitdogs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitdogs_btc_pfp_1713462791648.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Bitdogs are a 10k Ordinals PFP collection digging for the BONES•OF•BITDOG on runes.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/bitdogs_btc",
+      "discordLink": "https://discord.gg/bitdogs",
+      "websiteLink": "",
+      "createdAt": "Thu, 18 Apr 2024 19:26:06 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qeuxe6jnu37atqlass9yf720sawmg66k0l3pm5f4ewa0elexvpq2qv0sdjy",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

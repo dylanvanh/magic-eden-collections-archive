@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:52.418Z",
+  "slug": "untitled",
+  "tokenCount": 222,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "parentInscriptionId": "152b928e97bb9e874da1bd4abdf766ae0cdc7a2f260dad5542967cb414c58489i0",
+    "outputValue": 546,
+    "collectionSymbol": "untitled",
+    "collection": {
+      "symbol": "untitled",
+      "name": "Untitled",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-untitled_pfp_1721229720767.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "bc5031ba108ab267dcdad0aa787bd0f1e81bddb7b0d7211705a6f2e958f560aei3",
+      "description": "The first Ordinals project to be minted with a Rune.",
+      "supply": 222,
+      "twitterLink": "https://twitter.com/decentralized02",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 17 Jul 2024 16:01:38 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qsqgx050l8cal4hlaewjhl6495l3fnxzv592vrl",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:48.816Z",
+  "slug": "radio-waves",
+  "tokenCount": 696,
+  "defaults": {
+    "contentType": "text/html",
+    "genesisTransaction": "69696078f08e8f499f048a7f322957b0ce69666b25db3985d7cd6c1fde546696",
+    "genesisTransactionBlockTime": "Thu, 01 May 2025 01:12:55 GMT",
+    "genesisTransactionBlockHash": "000000000000000000011119814549cb6eac1dec00b2685b54c91a094418ad2f",
+    "genesisTransactionBlockHeight": 894673,
+    "chain": "btc",
+    "parentInscriptionId": "4cf83318a41883fae993d8ef17e4c732fccf198ce35a5084f9435a2665527f6di0",
+    "collectionSymbol": "radio-waves",
+    "collection": {
+      "symbol": "radio-waves",
+      "name": "Light Waves: Radio Waves by Kanetix",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-radio-waves_pfp_1750988345582.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The second wave in the Light Waves series arrives as Radio Waves – an encrypted audio signal hiding within the mysterious light that reached earth within the first wave of the series - Light Waves.\n\nWithin this mysterious signal lies the secrets (reinscriptions) to the journey ahead: A navigatable Alien Interface that can only be unlocked with the human genome,  Star Map revealing the origin of the signal, Blueprints for a ship capable of reaching the source of the distant light, Cosmic (audio) Sonification as the signal traveled through space it was corrupted with bits of audio it encountered foreshadowing the journey ahead and DNA Profiles of Rh Null known as \"Golden Blood\" found in fewer than 1000 people worldwide, whose biology is key to the mission.\n\nLight is not passive. It moves, it travels, it sacrifices itself to illuminate the darkness.\n\n Challenging us to ask: How far are you willing to go to share your light?",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/yT3gP7uEGD",
+      "websiteLink": "https://www.kanetix.io",
+      "createdAt": "Mon, 28 Apr 2025 23:26:27 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qu5y63y08yzy3y3adu94r75mrr6srzrru7tek6r",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

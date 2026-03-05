@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:33.772Z",
+  "slug": "jesters",
+  "tokenCount": 10,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "jesters",
+    "collection": {
+      "symbol": "jesters",
+      "name": "Jesters in Love by Eka",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-jesters_pfp_1739979366063.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "10 prints on Gamma. \nThe Court of the Crimson Moon\n\nIn a jester’s kingdom under a mischievous crimson moon, Quibble and Marotte danced through life, hiding their love behind jokes and acrobatics. Quibble’s tear-painted eye sparkled with mischief, while Marotte’s crooked hat tilted like his riddles. They loved in secret, for love in their world was a forbidden punchline—those caught were banished to the dreadful Land of Serious Things.\n\nBut the moon had its own sense of humor. One night, during a grand performance, it cracked open, bathing the jesters in a glowing light that unveiled their secret.\nThe court gasped as Marotte clasped Quibble’s hand, and her bells chimed like a confession.\nThen came the voice of the crimson moon itself, whispering down: \"Tell me, fools, what do you think love is—comedy or tragedy?\" Quibble’s tear-painted eye shimmered. “Both,” she replied. “It’s falling off a tightrope and laughing because you were never meant to walk straight in the first place.”",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ekavibes",
+      "discordLink": "",
+      "websiteLink": "https://linktr.ee/ekalest",
+      "createdAt": "Wed, 19 Feb 2025 15:38:19 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "36XcEn7p2dMfnHshac21v3wsmSddYia8Qy",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

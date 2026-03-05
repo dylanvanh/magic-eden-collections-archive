@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:29.289Z",
+  "slug": "ac0usin",
+  "tokenCount": 4242,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "ac0usin",
+    "collection": {
+      "symbol": "ac0usin",
+      "name": "xXLeLXx PUPtarDio † Ac0uSIN  ₿) Prophetmaker xXLeLXx",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ac0usin_pfp_1746973678466.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "MS Paint PUPtarDio Ac0UsiN by DuKe HöEK ✟ VPL\n\nu r ac0ustic\n\ninspired by the current thing which we hate lel \n\nyou can just CTO this",
+      "supply": 10010,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/DuKeHoEK",
+      "discordLink": "",
+      "websiteLink": "https://ac0ustic.world/#abouts",
+      "createdAt": "Sun, 18 Aug 2024 09:56:31 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pqtk7z58kcjj9pgt88zuj9xe28k2rtmyezr8l7n847g3x229cqqeqh4ta23",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:16.179Z",
+  "slug": "fomojis_2",
+  "tokenCount": 2215,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "fomojis_2",
+    "collection": {
+      "symbol": "fomojis_2",
+      "name": "Fomojis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fomojis_2_pfp_1701331213308.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Fomojis 2.0 and Cursed Fomojis",
+      "supply": 2009,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/fomojis",
+      "discordLink": "https://discord.gg/FBZtZvt4rm",
+      "websiteLink": "https://www.fomojis.io/",
+      "createdAt": "Thu, 30 Nov 2023 08:26:19 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qj7gzn7exhs9j928vzja8mm97vkvtn3puw3zwew",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

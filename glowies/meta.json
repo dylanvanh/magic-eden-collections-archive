@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:24.789Z",
+  "slug": "glowies",
+  "tokenCount": 6631,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "parentInscriptionId": "fd52f09abe54984f37ea585d153f9ef9878c7ca86babc52a927b835174869a36i0",
+    "collectionSymbol": "glowies",
+    "collection": {
+      "symbol": "glowies",
+      "name": "Glowies",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-glowies_pfp_1711757261147.png",
+      "chain": "btc",
+      "inscriptionIcon": "813b616bd877d6035ba29f5720dba66db97bdf1b3303fb479fc14d1c92c42587i49",
+      "description": "And Ye Shall Know the Truth and the Truth Shall Make You Free",
+      "supply": 6666,
+      "twitterLink": "https://twitter.com/glowiesbtc",
+      "discordLink": "",
+      "websiteLink": "https://glowies.art",
+      "createdAt": "Sat, 30 Mar 2024 01:21:33 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pyw072d6urvny7regjwptmzedjwddrm6ulksttjfpqj5nzah70hps6nq30n",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

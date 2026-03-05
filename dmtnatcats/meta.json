@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:57.348Z",
+  "slug": "dmtnatcats",
+  "tokenCount": 8063,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "dmtnatcats",
+    "collection": {
+      "symbol": "dmtnatcats",
+      "name": "Natcats",
+      "imageURI": "https://media.cdn.magiceden.dev/ord-dmtnatcats_pfp_1759817091000.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Cats produced autonomously by Bitcoin.",
+      "supply": 8064,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/dmtnatcats",
+      "discordLink": "https://discord.gg/7NEr48CtWv",
+      "websiteLink": "",
+      "createdAt": "Sat, 02 Mar 2024 00:10:19 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ONCHAIN"
+      ],
+      "creatorTipsAddress": "bc1qen36dallj3p0x87qrp5qmlcth56f9dh6wzgq0n",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

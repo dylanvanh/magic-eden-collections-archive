@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:57.605Z",
+  "slug": "rmm2",
+  "tokenCount": 9962,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHNjcmlwdCBzcmM9Ii9jb250ZW50L2MxODU4NGVmY2QwYmZhNTdhNGJjNjFhOGMzMWE3YWY1ZTI3YjM2MzU4NGM5OTM0ZGZiNzg5YzU4MjUxMTcyOGVpMCI+PC9zY3JpcHQ+",
+    "chain": "btc",
+    "collectionSymbol": "rmm2",
+    "collection": {
+      "symbol": "rmm2",
+      "name": "Rune Mania Miner Season 2",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-rmm2_pfp_1712764216780.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Season 2 mining starts at Block 840,000. Mine Runes using Lava Boost, Fire Boost and other gaming dynamics",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/RuneManiaMiner",
+      "discordLink": "",
+      "websiteLink": "https://www.runemania.com",
+      "createdAt": "Wed, 10 Apr 2024 17:04:08 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pwd6ckujez9jymxcfujxkc36g7ehfcj63f29lydslfkxdqjltsjhs8rt73w",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

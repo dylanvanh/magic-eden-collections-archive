@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:54.303Z",
+  "slug": "wiggles",
+  "tokenCount": 1117,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "wiggles",
+    "collection": {
+      "symbol": "wiggles",
+      "name": "Lil Wiggles",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-wiggles_pfp_1734275652094.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Lil Wiggles are the demonic retard offspring of Ordinals that embody Bitcoin. Decentralised and freedom loving. They may misuse some drugs and have a penchant for violence but their hearts are in the right place.Join us or envy us, it matters nought. We are here, we may be a tad queer and were immortal! The noble legends that inscribe us will be pioneers, creators themselves, burning their Lil Wiggle onto Satoshi's, permanently on Bitcoin forever.The ONLY chain that really matters!  Mint FULLY DECENTRALISED",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/itchatoshi",
+      "discordLink": "https://discord.gg/x9rxFvYsvW",
+      "websiteLink": "https://wigglewiggle.world/",
+      "createdAt": "Sun, 15 Dec 2024 16:43:04 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "3NYKgEvfLjNDt5eMaXqcX9CidNaoSCQpzW",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

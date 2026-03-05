@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:37.950Z",
+  "slug": "soley",
+  "tokenCount": 69,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "soley",
+    "collection": {
+      "symbol": "soley",
+      "name": "Soley",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-soley_pfp_1695733020796.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Soley Fine Art Collection The Soley collection embodies a seamless blend of traditional artistry and cutting-edge blockchain innovation. Each 1-of-1 hand-painted piece is inscribed on block 9 rare and uncommon sats on the Bitcoin blockchain, cementing its place in both the fine art and digital realms.With its bold contrasts of black, white the collection captures the essence of minimalism and modernity. Each work invites the viewer to explore the interplay between simplicity and sophistication, showcasing the timeless appeal of minimalist expression.Crafted by Yelo’s founder and artist, David Michael, Soley debuted as an exclusive offering to Yelo Genesis holders at cost. This groundbreaking collection redefines how fine art is created, preserved, and appreciated in the digital age, marking a milestone in the evolution of art and technology.",
+      "supply": 69,
+      "twitterLink": "https://twitter.com/Yelonft",
+      "discordLink": "https://discord.gg/MXWyESHyep",
+      "websiteLink": "https://linktr.ee/yelonft",
+      "createdAt": "Tue, 26 Sep 2023 13:12:37 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pghrulajhwgwgyc9r0kmwqefacp7vrgfcpwgt8zttt0rrdxj0r6tsgy57qs",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

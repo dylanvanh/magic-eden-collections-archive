@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:45.616Z",
+  "slug": "lettuce_goat_additions",
+  "tokenCount": 743,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "lettuce_goat_additions",
+    "collection": {
+      "symbol": "lettuce_goat_additions",
+      "name": "LETTUCE GOAT by BRICK and 0gbe",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-lettuce_goat_additions_pfp_1756070840408.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Welcome to the Lettuce Goat Collection, the foundational series from the Secret Society of the Lettuce Goat—a vibrant community championing positivity, ambition, and excellence in the web3 ecosystem. Inspired by the playful pun \"Lettuce Goat\" (as in \"let us all be the greatest of all Time), this Ordinals collection on Bitcoin invites collectors to embrace a mindset of growth and greatness. Featuring whimsical, cartoonish goat characters with magical elements. These unique inscriptions span numbers 96,247,416 to 103,525,109, offering a massive array of digital artifacts inscribed directly on the Bitcoin blockchain.\n\nAs the goats drop, this collection serves as an entry point to the society's ethos: spreading uplifting messages, supporting fellow projects, and building a supportive network in crypto.  Owning one means joining a movement to \"be the greatest one can be\" in all endeavors. Let us all be the greatest of all time! 🥬🐐",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://lettucegoat.com",
+      "createdAt": "Fri, 29 Aug 2025 03:48:01 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3N4TUUfkBMkFNPTHNVW8cZSjhGtKynvrSq",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

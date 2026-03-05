@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:00.449Z",
+  "slug": "dogeworld",
+  "tokenCount": 1001,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "dogeworld",
+    "collection": {
+      "symbol": "dogeworld",
+      "name": "DogeWorld",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/dogeworld.avif",
+      "chain": "btc",
+      "inscriptionIcon": "4a97890ebad49f3391b00b84f40e48696941a893673e82b16b125e53502174c8i0",
+      "description": "Join DogeWorld - the only collectible collection with a supply of 1001 inscriptions starting under 300k. Featuring 121 unique characters, drawn pixel by pixel and expanded into four rarity tiers. 33 specials complete the puzzle, including a themed collection dedicated to BITCOIN JPGs - of which we are the exclusive partners. But the story doesn't end here.Our mission is to create a vibrant and playful community united by strength and awareness in the crypto space. Let the adventure begin!",
+      "supply": 1001,
+      "twitterLink": "https://twitter.com/weareDogeWorld",
+      "discordLink": "https://discord.gg/epZbStn8me",
+      "websiteLink": "https://linktr.ee/wearedogeworld",
+      "createdAt": "Thu, 04 May 2023 21:26:29 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

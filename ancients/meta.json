@@ -1,0 +1,46 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:31.667Z",
+  "slug": "ancients",
+  "tokenCount": 33,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "d9576180448f9e2cb770e4756d0448556fe615c00373cd7078966200894f72cai0",
+    "outputValue": 330,
+    "listed": false,
+    "listedPrice": 0,
+    "collectionSymbol": "ancients",
+    "collection": {
+      "symbol": "ancients",
+      "name": "Λncients",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ancients_pfp_1765850026008.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "d9576180448f9e2cb770e4756d0448556fe615c00373cd7078966200894f72cai0",
+      "description": "From the old world of Tasmonic – a collection of hand drawn pfps of a mysterious group, known in public as the Λncients... But are truly only known by their symbol.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/tasmonic",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 16 Dec 2025 02:47:55 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "39qMb23o4Wr14i6qvN8TocsdvV33HadKUc",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

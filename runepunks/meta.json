@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:30.324Z",
+  "slug": "runepunks",
+  "tokenCount": 9832,
+  "defaults": {
+    "contentType": "image/gif",
+    "chain": "btc",
+    "collectionSymbol": "runepunks",
+    "collection": {
+      "symbol": "runepunks",
+      "name": "RunePunks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-runepunks_pfp_1712632000262.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "10000 unique RunePunks",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/RunesPunks",
+      "discordLink": "https://discord.gg/JzURt45hNe",
+      "websiteLink": "https://runepunks.xyz/",
+      "createdAt": "Tue, 09 Apr 2024 03:15:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pma3xycpf3v40f4v8c37q8skrcmptmun2p59au269sgdx2jxzmnas9ljhx5",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

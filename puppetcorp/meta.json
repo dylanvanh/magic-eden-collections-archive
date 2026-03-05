@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:47.578Z",
+  "slug": "puppetcorp",
+  "tokenCount": 993,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "parentInscriptionId": "b4f14fa186f236e29065aba52ffa756ade40ee67e5d4bbe44400cbc5d5c70e6di0",
+    "collectionSymbol": "puppetcorp",
+    "collection": {
+      "symbol": "puppetcorp",
+      "name": "Puppet Corp",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-puppetcorp_pfp_1771278964885.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Puppet Corp is a feeble attempt to organize chaos with the goal of having a goal and accomplishing things collectively as long as they help spread the message that our grandmaster Lefou put into the world; a simple message of world peace through art, humor and community. Puppet Corp takes that same mantra and attempts to combine it with that of normal day to day life in the modern corporate world.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/PuppetCorpbtw",
+      "discordLink": "https://discord.gg/mTJ9a6U7tp",
+      "websiteLink": "https://worldpeace.money",
+      "createdAt": "Mon, 16 Feb 2026 22:13:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

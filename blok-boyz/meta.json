@@ -1,0 +1,46 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:22.774Z",
+  "slug": "blok-boyz",
+  "tokenCount": 984,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "blok-boyz",
+    "collection": {
+      "symbol": "blok-boyz",
+      "name": "Blok Boyz by Blok",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-blok-boyz_pfp_1771030955429.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Giga Chads occupying blok space with the malicious intent of mogging. Each trait hand-drawn by Blok.",
+      "supply": 1000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Blok905",
+      "discordLink": "",
+      "websiteLink": "https://blok-space.com/",
+      "createdAt": "Sat, 10 Aug 2024 22:42:34 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pgd255z8pjqeawqzc96dwjzuuprcyp3jdckqzzlq98mf48hy29nmqst8x2y",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 78,
+    "satBlockTime": "Sun, 11 Jan 2009 01:00:54 GMT",
+    "satributes": [
+      "Block 78",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

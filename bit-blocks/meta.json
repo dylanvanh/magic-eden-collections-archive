@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:47.404Z",
+  "slug": "bit-blocks",
+  "tokenCount": 6523,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "bit-blocks",
+    "collection": {
+      "symbol": "bit-blocks",
+      "name": "BitBlocks by Billy Restey",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bit-blocks_pfp_1703274529621.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "b5e47d7b856e1bafc3aafa597604f4c2abd47f586b6225da6c94cc0eb4ad9267i0",
+      "description": "User-generated, code-based art using recursion to source data from other inscriptions by billyrestey",
+      "supply": 6527,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/billyrestey",
+      "discordLink": "https://discord.gg/dvdnsZDRzk",
+      "websiteLink": "",
+      "createdAt": "Fri, 22 Dec 2023 17:28:44 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "33wS3vdqmWYGopFWt3QM2XSv28usFGUjKv",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

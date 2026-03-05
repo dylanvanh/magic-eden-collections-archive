@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:05.699Z",
+  "slug": "natowls",
+  "tokenCount": 10077,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "natowls",
+    "collection": {
+      "symbol": "natowls",
+      "name": "Natowls - The First Dynamic UNAT collection",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-natowls_pfp_1710341663386.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Natowls is the first dynamic art collection created from Digital Matter. Each Natowl has unique dynamic traits that change over time, and is generated autonomously through the Bitcoin blockchain.",
+      "supply": 10080,
+      "twitterLink": "https://twitter.com/owlinals",
+      "discordLink": "https://discord.gg/V7rvPEV9nU",
+      "websiteLink": "https://natowls.xyz",
+      "createdAt": "Thu, 14 Mar 2024 21:25:11 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

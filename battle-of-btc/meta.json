@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:35.895Z",
+  "slug": "battle-of-btc",
+  "tokenCount": 9980,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "battle-of-btc",
+    "collection": {
+      "symbol": "battle-of-btc",
+      "name": "Battle of BTC",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/battle-of-btc.webp",
+      "chain": "btc",
+      "inscriptionIcon": "a81e79267f884af9d72848b8b1689356797d65368c2763245563587dc99c57fbi0",
+      "description": "The first 10,000 GIF collection on BTC",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/CrusadeStudios",
+      "discordLink": "https://discord.gg/frU6Ykr3kZ",
+      "websiteLink": "https://www.crusadestudios.com/",
+      "createdAt": "Sun, 28 May 2023 12:08:50 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

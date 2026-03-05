@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:48.628Z",
+  "slug": "culturesculptures",
+  "tokenCount": 33,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "parentInscriptionId": "5d276a80677f6c3ae4781f4a709ca0c95beb616677be19030684bec0654f9000i0",
+    "outputValue": 330,
+    "collectionSymbol": "culturesculptures",
+    "collection": {
+      "symbol": "culturesculptures",
+      "name": "CULTURE SCULPTURES",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-culturesculptures_pfp_1770310068722.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Nostalgia viewed through a distorted lens. Clay + crayon artworks by NO LEGS.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/boywithnolegs",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 05 Feb 2026 16:57:02 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3NZhy3zNoK38rMtcjpCtZX7USazhiZaUqz",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

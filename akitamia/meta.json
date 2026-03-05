@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:31.560Z",
+  "slug": "akitamia",
+  "tokenCount": 3379,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "akitamia",
+    "collection": {
+      "symbol": "akitamia",
+      "name": "Akita Mia",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-akitamia_pfp_1757279647305.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Akita Mia is the First true meme on the Bitcoin Lightning Network & Spark Network. Created by an anonymous GitHub developer focused on LRC-20, a revolutionary standard for creating and managing tokens on Bitcoin and the Lightning Network.\n\nThe Akita Mia dog was developed to demonstrate that LRC-20 (BTKN) tokens highlight an exciting way to have fun with technology on Bitcoin.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://akitamia.dog",
+      "createdAt": "Mon, 08 Sep 2025 05:50:10 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qg5z5ckhf95pylvczmmt32ljlrqsamy9kljuua2",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

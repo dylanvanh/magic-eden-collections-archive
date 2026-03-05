@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:31.869Z",
+  "slug": "ordinalprinters",
+  "tokenCount": 3499,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "ordinalprinters",
+    "collection": {
+      "symbol": "ordinalprinters",
+      "name": "Ordinal Printers",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordinalprinters_pfp_1719933620639.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Ordinal Printers are a 3.5k pixel art pfp fully inscribed on pizza sats and based on the meme \"Money Printer Goes BRRR\".Our goal is in the name, we are a printer and if you stake our pfp along side our rune \"LONG LIVE ORDINALS\" you'll get a basket of different runes as staking rewards.",
+      "supply": 3500,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://x.com/OrdinalPrinter",
+      "discordLink": "https://discord.gg/WabmjKKx56",
+      "websiteLink": "https://www.ordinalprinters.com/",
+      "createdAt": "Sat, 13 Jul 2024 01:09:49 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "38cNusB6fRwhzQZG8umn9wKDRNooHqha7m",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

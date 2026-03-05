@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:44.900Z",
+  "slug": "lazynobodies",
+  "tokenCount": 36,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "lazynobodies",
+    "collection": {
+      "symbol": "lazynobodies",
+      "name": "LazyNobodies",
+      "imageURI": "https://v5.airtableusercontent.com/v1/18/18/1687125600000/9eQK3EWb64RyzBcOEZkNDw/RqlD9KSX9GfNn3ZmtYr4ETSelCGLMkAe9ce9P65kyUshA57fuXMQfCAzhJfT5CVQkUOrrmjkrgTqXbiQVwlna6VGxcVz285z-D2zd25Qn2IsqK5dA8MxKN7B5P9E-H75/d1PnPTqyFTTxvWcznQPdcX2-IXjWFk_St0NjuHGcrVI",
+      "chain": "btc",
+      "inscriptionIcon": "a3452d3c069181ce5dfa1578c86708fa86e6bab88daccd04150323ab909fcfdfi0",
+      "description": "cool nerdy guys who dev",
+      "supply": 38,
+      "twitterLink": "https://twitter.com/fromtwo1two",
+      "discordLink": "https://discord.gg/g0dbabes",
+      "websiteLink": "",
+      "createdAt": "Sun, 18 Jun 2023 19:39:59 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:54.982Z",
+  "slug": "wizzy",
+  "tokenCount": 999,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "bfe4d1c8f8217a1c7408db5e143ba6eae646068ee5fccabeb527e961aedfc670i0",
+    "collectionSymbol": "wizzy",
+    "collection": {
+      "symbol": "wizzy",
+      "name": "Wizzy",
+      "imageURI": "https://bafkreibzdnt4zx2hgqzufnpq7rvtdnbydvg47bwbf77sak5zwsjdraoy7a.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The Wizzy collection is hand drawn pixel art comprising of 999 recursive cursed inscriptions. He is a fun loving adventurous wizard who just wants to love everyone.",
+      "supply": 999,
+      "twitterLink": "https://twitter.com/Wizzystwizzy999",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 21 Nov 2023 15:52:44 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "37AvdNVUdvfRqFUxN2zS2PoWgHqeP1pyK8",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 816077,
+    "satBlockTime": "Fri, 10 Nov 2023 01:51:01 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

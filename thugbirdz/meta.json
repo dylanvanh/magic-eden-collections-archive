@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:45.467Z",
+  "slug": "thugbirdz",
+  "tokenCount": 420,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "thugbirdz",
+    "collection": {
+      "symbol": "thugbirdz",
+      "name": "Thugbirdz",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-thugbirdz_pfp_1688392167537.png",
+      "chain": "btc",
+      "inscriptionIcon": "1ec8bc119aef0acf06f87ba6c3c1e290082806a6921263b77ea503eddc4e96c9i0",
+      "description": "THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ THUGBIRDZ",
+      "supply": 420,
+      "twitterLink": "https://twitter.com/thugbirdz",
+      "discordLink": "https://discord.gg/thugdao",
+      "websiteLink": "",
+      "createdAt": "Thu, 20 Jul 2023 16:25:30 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

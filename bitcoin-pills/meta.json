@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:55.674Z",
+  "slug": "bitcoin-pills",
+  "tokenCount": 6584,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-pills",
+    "collection": {
+      "symbol": "bitcoin-pills",
+      "name": "Bitcoin Pills",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoin-pills_pfp_1735443862738.gif",
+      "chain": "btc",
+      "inscriptionIcon": "a85b164d8921c1a3918e23f1cf750a6af89c4a2df33690ae0ff5354173b4589bi0",
+      "description": "Bitcoin Pills by Micha Klein are a limited collection of Ordinals Inscriptions on Bitcoin. They are Orange Little Pills that are symbols of the financial revolution that Bitcoin is leading, as the old system of fiat money and central banks crumbles.All 6,666 Bitcoin Pills are painstakingly generated from 51 categories and 410 traits, allowing some to be rarer than others. All Bitcoin Pill’s features were created by winner of the NFT.NYC Digital NFT Artist Of The Year 2021 Award; Micha Klein. They are multi-gender, orange, white, black, diamond and golden, representing the United Colors of Bitcoin.  Bitcoin Pills are inspired by Micha’s famous Pillman character that Eminem brought on his first tour in 2000, and by his successful NFT collection 'Crypto Pills' on the ETH blockchain that sold out in 11 minutes in 2021.Phase 1 & 2 of the mint took place in early 2023, with phase 3 following as a free mint for $DOG and Runestone holders, celebrating the Free & Fair movement in 2024",
+      "supply": 6666,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/TheCryptoPills",
+      "discordLink": "https://discord.gg/gugEcXepmY",
+      "websiteLink": "https://bitcoin-pills.com/",
+      "createdAt": "Wed, 26 Jul 2023 07:04:44 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3CHG7AmaeZsJAKVjLh4KdiMxknAk7J73bt",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

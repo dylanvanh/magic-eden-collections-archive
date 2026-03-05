@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:39.684Z",
+  "slug": "pepenals",
+  "tokenCount": 6873,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "pepenals",
+    "collection": {
+      "symbol": "pepenals",
+      "name": "PepeNals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pepenals_pfp_1708678415522.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Say #bonjour to 6900 PepeNals looking for a home on BTC 🟧 No roadmap. No BS. Just 26x26 pixels of iconic perfection.",
+      "supply": 6900,
+      "twitterLink": "https://twitter.com/PepeNals",
+      "discordLink": "https://discord.com/invite/thepixelgang",
+      "websiteLink": "https://hub.xyz/the-pixel-gang",
+      "createdAt": "Mon, 19 Feb 2024 16:57:26 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:27.323Z",
+  "slug": "grand-8",
+  "tokenCount": 888,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "grand-8",
+    "collection": {
+      "symbol": "grand-8",
+      "name": "Grand8",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-grand-8_pfp_1748392691855.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Vrooom, put your helmet on in this crazy web3 race, designed by 8th project. You'll need it because the blows are violent, but the finish line is worth it",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://x.com/8thproject1",
+      "createdAt": "Wed, 28 May 2025 00:39:12 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3DKtYCK9gTePKgKxsEHneHuCvSxdRHYgbS",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

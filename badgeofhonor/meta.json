@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:34.370Z",
+  "slug": "badgeofhonor",
+  "tokenCount": 269,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "badgeofhonor",
+    "collection": {
+      "symbol": "badgeofhonor",
+      "name": "Badge Of Honor",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-badgeofhonor_pfp_1717923195700.png",
+      "chain": "btc",
+      "inscriptionIcon": "acacbd0b364bf2ac1d44426c16d0bd8a083e3bda514a5d28e5352249c19a94aci0",
+      "description": "269 GENERATIVE ART PIECE INSCRIBED ON THE BITCOIN BLOCKCHAIN BY THE BRAIN BOX INTEL USING THE ORDINALS PROTOCOL BY CASEY RODARMOR REFLECTING OUR BELIEF IN THE ECOSYSTEM AND ITS FUTURE PROSPECT.",
+      "supply": 269,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/brainboxintel",
+      "discordLink": "https://discord.gg/XHNXbA5wvU",
+      "websiteLink": "https://www.brainboxintel.xyz/",
+      "createdAt": "Sun, 09 Jun 2024 22:46:33 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3FVMqYFVinUXVkiUm7VTyrxcHPMy48jcSS",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

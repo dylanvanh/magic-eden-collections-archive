@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:40.227Z",
+  "slug": "philately",
+  "tokenCount": 99,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "philately",
+    "collection": {
+      "symbol": "philately",
+      "name": " Bitcoin Philately",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-philately_pfp_1740356881418.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Bitcoin Philately is an exclusive collection of 99 stamps, each celebrating significant moments in human history.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/PhilatelyBtc",
+      "discordLink": "",
+      "websiteLink": "https://bitcoinphilately.wixsite.com/mint",
+      "createdAt": "Mon, 24 Feb 2025 00:48:30 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

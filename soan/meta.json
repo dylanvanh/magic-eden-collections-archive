@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:37.912Z",
+  "slug": "soan",
+  "tokenCount": 541,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "parentInscriptionId": "41c5de1fa0116ccd3243b0587706562682ba70e6ac4bb144ee9d9633e36d3271i0",
+    "outputValue": 330,
+    "collectionSymbol": "soan",
+    "collection": {
+      "symbol": "soan",
+      "name": "Story of an Artist  by Duke Höek",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-soan_pfp_1770569692468.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Story of an Artist  by Duke Höek is a collection showcasing my journey, discovery and mind from youth to young adult",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/TheArtistBTC",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 08 Feb 2026 17:25:30 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qjhn3wvzwpygmpxkqwkuzpkh6m7exnmwu093wkr",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

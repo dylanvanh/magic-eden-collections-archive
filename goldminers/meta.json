@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:25.989Z",
+  "slug": "goldminers",
+  "tokenCount": 1000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "genesisTransaction": "c006c55f1598c04c39f246a849aa1ffd931dc2a4e2ccad20f0e0565c2791a6a1",
+    "genesisTransactionBlockTime": "Mon, 29 Apr 2024 03:48:14 GMT",
+    "genesisTransactionBlockHash": "00000000000000000001e68657c1fae78b44cd748d6c6ad4b16586d5343842f1",
+    "genesisTransactionBlockHeight": 841315,
+    "chain": "btc",
+    "parentInscriptionId": "67966c8d5e57b952100e9b5b97a22c463f712340f73255bd0042374fbc0626f6i0",
+    "collectionSymbol": "goldminers",
+    "collection": {
+      "symbol": "goldminers",
+      "name": "Goldminers",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-goldminers_pfp_1714397076015.png",
+      "chain": "btc",
+      "inscriptionIcon": "67966c8d5e57b952100e9b5b97a22c463f712340f73255bd0042374fbc0626f6i0",
+      "description": "Goldminers give you access to exclusive tools and discounts in the goldmine.",
+      "supply": 1000,
+      "twitterLink": "https://twitter.com/goldmine_tools",
+      "discordLink": "https://discord.gg/GdUUAnC3St",
+      "websiteLink": "https://goldmine.tools/",
+      "createdAt": "Mon, 29 Apr 2024 13:41:02 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qnphfqu35wg6tvsplg5tctahaanta98jw3akn70",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

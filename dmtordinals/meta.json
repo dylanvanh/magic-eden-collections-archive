@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:58.866Z",
+  "slug": "dmtordinals",
+  "tokenCount": 2016,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "dmtordinals",
+    "collection": {
+      "symbol": "dmtordinals",
+      "name": "DMT-Ordinals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dmtordinals_pfp_1710306416775.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A non-arbitrary art collection on Bitcoin. Each ordinal has unique traits and is generated autonomously by Bitcoin data.",
+      "supply": 2016,
+      "twitterLink": "https://twitter.com/dmtordinals",
+      "discordLink": "https://discord.gg/MccamkWFUU",
+      "websiteLink": "",
+      "createdAt": "Wed, 13 Mar 2024 05:35:33 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

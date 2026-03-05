@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:54.924Z",
+  "slug": "wizardz",
+  "tokenCount": 330,
+  "defaults": {
+    "contentType": "image/gif",
+    "chain": "btc",
+    "collectionSymbol": "wizardz",
+    "collection": {
+      "symbol": "wizardz",
+      "name": "wizardz",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-wizardz_pfp_1698207926078.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "exclusive club of 333 animated wizardz, inscribed for eternity on Bitcoin Ordinals Uncommon Sats.",
+      "supply": 333,
+      "twitterLink": "https://twitter.com/wizardzBTC",
+      "discordLink": "https://discord.gg/wizardz",
+      "websiteLink": "https://wizardz.art",
+      "createdAt": "Wed, 25 Oct 2023 05:05:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "uncommon"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

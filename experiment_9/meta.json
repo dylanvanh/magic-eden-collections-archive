@@ -1,0 +1,50 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:11.980Z",
+  "slug": "experiment_9",
+  "tokenCount": 420,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "genesisTransaction": "e848226abba20b920306c9a73d96f48afc899cfa4abda2f6fa11fce8c73462a1",
+    "genesisTransactionBlockTime": "Wed, 30 Oct 2024 01:29:51 GMT",
+    "genesisTransactionBlockHash": "000000000000000000014f789df449308328d624cb26df6668fb66882b2f01b6",
+    "genesisTransactionBlockHeight": 868012,
+    "chain": "btc",
+    "parentInscriptionId": "2312dc77afc774cecac54ab83da4b799d1a14707f79ff51ee892069ded7b7126i0",
+    "collectionSymbol": "experiment_9",
+    "collection": {
+      "symbol": "experiment_9",
+      "name": "Experiment 9 ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-experiment_9_pfp_1733826007695.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Experiment 9 (E9) is the genesis collection under the full block parent \"A Good Doctor.\" Born on Block 9 sats and consisting of 420 true pixel creatures with animated onchain personalities, E9 is the first collection to use a named sat for its parent inscription.",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/AGoodDoctorBTC",
+      "discordLink": "https://discord.gg/whdXmDNcA4",
+      "websiteLink": "https://www.agooddoctorstudio.com/",
+      "createdAt": "Wed, 30 Oct 2024 05:36:43 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3DNpwwNAc3Qr5wQzGxSeiLHAJfj9oTEPUL",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

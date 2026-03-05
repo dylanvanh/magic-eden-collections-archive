@@ -1,0 +1,46 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.866Z",
+  "slug": "ordinal_seiyans",
+  "tokenCount": 111,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "outputValue": 546,
+    "collectionSymbol": "ordinal_seiyans",
+    "collection": {
+      "symbol": "ordinal_seiyans",
+      "name": "Seiyan Council",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordinal_seiyans_pfp_1711382410697.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "111 Seiyans",
+      "supply": 111,
+      "twitterLink": "https://twitter.com/OrdinalSeiyans",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 25 Mar 2024 16:18:47 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

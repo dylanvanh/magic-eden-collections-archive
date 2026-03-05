@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:29.085Z",
+  "slug": "runemilio",
+  "tokenCount": 3197,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "runemilio",
+    "collection": {
+      "symbol": "runemilio",
+      "name": "Runemilio",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-runemilio_pfp_1713498597733.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "3222 Runemilios will live on Bitcoin forever",
+      "supply": 3222,
+      "twitterLink": "https://twitter.com/runemilio",
+      "discordLink": "",
+      "websiteLink": "https://runemilio.xyz/",
+      "createdAt": "Sat, 20 Apr 2024 21:22:22 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3HRLYXXms8ZQPhRRq3WUx7rXoWrNy618Xu",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

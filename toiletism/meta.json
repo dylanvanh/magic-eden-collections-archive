@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:46.925Z",
+  "slug": "toiletism",
+  "tokenCount": 330,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "toiletism",
+    "collection": {
+      "symbol": "toiletism",
+      "name": "BTCWC.Toiletism.MAXI",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-toiletism_pfp_1722388246686.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Toiletism is the new dada",
+      "supply": 3900,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BTC_WC",
+      "discordLink": "https://discord.gg/Gyjvb9Fehq",
+      "websiteLink": "https://www.ord.io/70291637",
+      "createdAt": "Thu, 18 Apr 2024 11:42:05 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p8quhrlvxp92ky0cgcg4v3f68yr5w695qs6dppn26k6hn53xnkqyq0jdu7z",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

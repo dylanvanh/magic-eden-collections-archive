@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:04.198Z",
+  "slug": "bitcoinknots",
+  "tokenCount": 998,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoinknots",
+    "collection": {
+      "symbol": "bitcoinknots",
+      "name": "Bitcoin Knots",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoinknots_pfp_1768330643371.png",
+      "chain": "btc",
+      "inscriptionIcon": "b60a69a105e392249ca68bf779cf41775e59e3b7cd44e4c9568aa5db2a23d2edi0",
+      "description": "1000 Knots inscribed on the Bitcoin Blockchain.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Evonbit",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 13 Jan 2026 20:38:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p5ulxtars5gtexpkz9400r7zj7t090qmy0ncqhqvthetct8r23seq4h8um4",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

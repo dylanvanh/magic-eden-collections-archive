@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:09.028Z",
+  "slug": "eternalsignatures",
+  "tokenCount": 49,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "eternalsignatures",
+    "collection": {
+      "symbol": "eternalsignatures",
+      "name": "Eternal Signatures",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-eternalsignatures_pfp_1756763209774.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "50 autographs from some of the most influential figures in human history.Albert Einstein, Nikola Tesla, Michael Jackson, and more. These legendary signatures, once captured in ink, have been forever immortalized on the Bitcoin blockchain, ensuring their preservation for eternity in an unchangeable and incorruptible digital form, preserved beyond the limits of time and space.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://galeryst.com/gallery/a069647e-0e74-4cc1-81b5-074d8d0785df/view?version=2025-03-06T20:23:00.975Z",
+      "createdAt": "Mon, 01 Sep 2025 20:45:35 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

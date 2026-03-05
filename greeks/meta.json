@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:27.344Z",
+  "slug": "greeks",
+  "tokenCount": 68,
+  "defaults": {
+    "contentType": "text/plain;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "greeks",
+    "collection": {
+      "symbol": "greeks",
+      "name": "Ordinal Greeks",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/greeks.avif",
+      "chain": "btc",
+      "inscriptionIcon": "https://ordinals.com/inscription/156bd0cf8d48bb08a4a8e08042ba2557ba37631177ff8c7dd5b00db907ca21e1i0",
+      "description": "A unique collection of timeless symbols, words, and highly offensive inscriptions. 100% Original first time stamps sub 10K.",
+      "supply": 71,
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 12 May 2023 01:41:25 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

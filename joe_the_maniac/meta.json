@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:33.791Z",
+  "slug": "joe_the_maniac",
+  "tokenCount": 222,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "joe_the_maniac",
+    "collection": {
+      "symbol": "joe_the_maniac",
+      "name": "J.O.E : The Maniac Unleashed",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-joe_the_maniac_pfp_1763673833697.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "They are known as the glorious survival in crypto world. But, unfortunately...not for long...They let the greed get in..and now...they just. . . . .  \n\nThis is J.O.E, and this is the final seasons of the elite.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/sxulrcat",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 20 Nov 2025 23:12:05 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1quqgthzq9njn36xe0p20ufs3ushad6r3q0k6vh4",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

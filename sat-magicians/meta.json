@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:34.547Z",
+  "slug": "sat-magicians",
+  "tokenCount": 3333,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "sat-magicians",
+    "collection": {
+      "symbol": "sat-magicians",
+      "name": "Sat Magicians",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-sat-magicians_pfp_1757540042696.png",
+      "chain": "btc",
+      "inscriptionIcon": "76993b8415d12176481e65b45f28bcfa35c3f5f158cd126da5e13743a1aadfc6i0",
+      "description": "Sat Magicians is a collection of 3333 pixel-art wizards etched on rare sats. Each piece is more than just digital art. It’s a mix of Bitcoin magic and rare artifacts, making every wizard a unique and tied to the rarity of the satoshi it’s inscribed on, turning rare sats into timeless amulets.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/nsDX8n6ahm",
+      "websiteLink": "https://magisat.io/collection/sat-magicians",
+      "createdAt": "Wed, 10 Sep 2025 20:42:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pgq92pn40g2l96aj8h95pntf7rrln3r8lv4kue0qyrkden3qh3tusquszxj",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

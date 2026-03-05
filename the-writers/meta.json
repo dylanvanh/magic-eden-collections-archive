@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:43.603Z",
+  "slug": "the-writers",
+  "tokenCount": 68,
+  "defaults": {
+    "chain": "btc",
+    "outputValue": 330,
+    "collectionSymbol": "the-writers",
+    "collection": {
+      "symbol": "the-writers",
+      "name": "The Writers ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-the-writers_pfp_1770492102204.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "No Roadmap, No Creative / Art Direction. Just a Autist Writer on Ordinals \n\nArt by LeZin\n\nPeace & Love",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Lezin_OG",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 02 Jan 2026 23:58:13 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

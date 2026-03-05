@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:21.942Z",
+  "slug": "opunk",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "opunk",
+    "collection": {
+      "symbol": "opunk",
+      "name": "Ordinal Punks",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/opunk.avif",
+      "chain": "btc",
+      "inscriptionIcon": "96d87d7e59d75ebc0e6144b09fdd96355fcdaa86fd098d64c46f19a424012bbei0",
+      "description": "100 Ordinal Punks - minted within the first 650 inscriptions on Bitcoin, paying homage to Larva Labs/Yuga Labs CryptoPunks, created with PunksNotDead open-source algorithm.",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/OrdinalPunks",
+      "discordLink": "https://discord.gg/U4UyTWArjV",
+      "websiteLink": "",
+      "createdAt": "Thu, 23 Mar 2023 04:12:43 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:50.435Z",
+  "slug": "mastermind",
+  "tokenCount": 300,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "mastermind",
+    "collection": {
+      "symbol": "mastermind",
+      "name": "Mastermind",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/mastermind.webp",
+      "chain": "btc",
+      "inscriptionIcon": "7383d344594534a5c1b14bd21a143d9cb0579982550ac9af2ac4e0560a717128i0",
+      "description": "Official collection of Ordynals.com",
+      "supply": 300,
+      "twitterLink": "https://twitter.com/MastermindsDAO",
+      "discordLink": "https://discord.gg/zt46ZKpWBA",
+      "websiteLink": "https://ordynals.com/",
+      "createdAt": "Mon, 15 May 2023 14:21:05 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

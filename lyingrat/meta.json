@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:50.138Z",
+  "slug": "lyingrat",
+  "tokenCount": 199,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "lyingrat",
+    "collection": {
+      "symbol": "lyingrat",
+      "name": "Lying rats",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-lyingrat_pfp_1758287807019.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Magic Internet Lying Rats. Born of the asylum, inspiried under  past times of ruling by our Savior, Nomad! Bitcoin Wizard lore runs deep, like sewer pipes. These rats are part of the WHY LYING WITCHES series, created by grand wizard -WizrdMc Blizzrd.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 21 Sep 2025 20:00:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3HQMBbnx6NfbmcGuNGp7qmvLFGzp2HpJwH",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 139056,
+    "satBlockTime": "Mon, 01 Aug 2011 03:03:52 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

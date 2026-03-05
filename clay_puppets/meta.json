@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:43.427Z",
+  "slug": "clay_puppets",
+  "tokenCount": 6933,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "clay_puppets",
+    "collection": {
+      "symbol": "clay_puppets",
+      "name": "Clay Puppets",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-clay_puppets_pfp_1713210516748.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A collection of 6969 3D Clay puppets rendered to perfection",
+      "supply": 6969,
+      "twitterLink": "https://twitter.com/AK_creations_",
+      "discordLink": "https://discord.gg/J9dmfBNvKF",
+      "websiteLink": "",
+      "createdAt": "Mon, 15 Apr 2024 20:21:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1ptgt6l27kysalcr4u4wx8kqgzctcxtdy2d2zzyx7rdaqqpzc50qpq20ns8r",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

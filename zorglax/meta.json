@@ -1,0 +1,51 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:58.200Z",
+  "slug": "zorglax",
+  "tokenCount": 111,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "genesisTransaction": "1112ccb29cc7f900ddbc87ac4012562d5ff4c80ff5dada3d4ecbfa9433acde51",
+    "genesisTransactionBlockTime": "Sat, 09 Mar 2024 12:45:54 GMT",
+    "genesisTransactionBlockHash": "0000000000000000000164cae45c3629c3556488079c45b6e630e824ced815a7",
+    "genesisTransactionBlockHeight": 833900,
+    "chain": "btc",
+    "parentInscriptionId": "78ce5307bb3180e07d193daf3670c5b6fa5342127aa053fa1498bf4396ac97d2i0",
+    "outputValue": 546,
+    "collectionSymbol": "zorglax",
+    "collection": {
+      "symbol": "zorglax",
+      "name": "Zorglax",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-zorglax_pfp_1710069921052.png",
+      "chain": "btc",
+      "inscriptionIcon": "78ce5307bb3180e07d193daf3670c5b6fa5342127aa053fa1498bf4396ac97d2i0",
+      "description": "Zorglax by \"Geo Ordinals\" is a generative art collection based upon shattered glass, through geometric chaos. Zorglax is a collection of 111 ordinals inscribed on the Block 9 450x, with the Parent/Child provenance.The goal of this collection is to reward genuine art collectors.",
+      "supply": 111,
+      "twitterLink": "https://twitter.com/Geoordinals",
+      "discordLink": "https://discord.gg/HH8barrA6P",
+      "websiteLink": "https://geoordinals.art/",
+      "createdAt": "Sun, 10 Mar 2024 14:26:46 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

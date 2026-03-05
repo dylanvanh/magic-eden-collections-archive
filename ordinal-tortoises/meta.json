@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.538Z",
+  "slug": "ordinal-tortoises",
+  "tokenCount": 547,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ordinal-tortoises",
+    "collection": {
+      "symbol": "ordinal-tortoises",
+      "name": "Ordinal Tortoises",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinal-tortoises.avif",
+      "chain": "btc",
+      "inscriptionIcon": "3d545362c71b84c6496606ec07c1509be25f07c9daed34b772bb1bbbd2316d60i0",
+      "description": "555 Ordinal Tortoises inscribed on BTC. Tortoises are among the oldest living animals left in the world, now they will live forever on the BTC blockchain as Ordinal Tortoises. Ordinal Tortoise Inscription Numbers are between 15k-50k. 64x64px",
+      "supply": 555,
+      "twitterLink": "https://twitter.com/ordinaltortoise",
+      "discordLink": "https://discord.com/invite/5smURqaSAQ",
+      "websiteLink": "https://ordinaltortoises.com/",
+      "createdAt": "Mon, 20 Mar 2023 21:04:22 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

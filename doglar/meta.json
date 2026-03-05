@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:00.500Z",
+  "slug": "doglar",
+  "tokenCount": 164,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "doglar",
+    "collection": {
+      "symbol": "doglar",
+      "name": "\"DOGLAR\" Free Edition by Viola MissCode",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-doglar_pfp_1718190758629.png",
+      "chain": "btc",
+      "inscriptionIcon": "9e09424ad24ff0433975a304045b26efac13c4b25165afea1bfaadb3cf50e699i0",
+      "description": "DOGLAR Free Edition by Viola MissCode - 1 DOG = 1$ - NOT IF, BUT WHEN!",
+      "supply": 164,
+      "twitterLink": "https://twitter.com/ViolaMissCode",
+      "discordLink": "https://discord.gg/SpZuniverse",
+      "websiteLink": "",
+      "createdAt": "Wed, 12 Jun 2024 11:33:18 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "361pWBMHuTGgyqxuBTCqNEagXBrxQ86P6d",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

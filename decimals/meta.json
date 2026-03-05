@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:51.930Z",
+  "slug": "decimals",
+  "tokenCount": 1010,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "decimals",
+    "collection": {
+      "symbol": "decimals",
+      "name": "Decimals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-decimals_pfp_1697857222519.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Decimals are mischievous creatures, discovered by exploring new habitats in digital worlds. Once befriended, they become loyal to their companion, causing chaos and bringing unexpected surprises.",
+      "supply": 1000,
+      "twitterLink": "https://twitter.com/decimals_xyz",
+      "discordLink": "https://discord.gg/okaybears",
+      "websiteLink": "https://okay.xyz/",
+      "createdAt": "Sat, 21 Oct 2023 17:35:03 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 78,
+    "satBlockTime": "Sun, 11 Jan 2009 01:00:54 GMT",
+    "satributes": [
+      "Block 78",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

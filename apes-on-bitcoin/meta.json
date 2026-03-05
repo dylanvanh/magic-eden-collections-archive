@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:32.606Z",
+  "slug": "apes-on-bitcoin",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "apes-on-bitcoin",
+    "collection": {
+      "symbol": "apes-on-bitcoin",
+      "name": "Apes on Bitcoin",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-apes-on-bitcoin_pfp_1708601489064.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Apes on Bitcoin with inscriptions ranging from #646 to #5943 (100 pieces).",
+      "supply": 100,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/apes_pixelated",
+      "discordLink": "",
+      "websiteLink": "https://www.pixelatedapes.xyz/",
+      "createdAt": "Thu, 22 Feb 2024 12:24:02 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qm8gmndssvpsmsk7yx0h4zulfs364y3suwq29h7",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

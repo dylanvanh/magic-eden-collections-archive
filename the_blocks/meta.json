@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:43.621Z",
+  "slug": "the_blocks",
+  "tokenCount": 333,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "the_blocks",
+    "collection": {
+      "symbol": "the_blocks",
+      "name": "The Blocks by Theezy",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-the_blocks_pfp_1688258368750.png",
+      "chain": "btc",
+      "inscriptionIcon": "d9044bf5be65ce38d4df8ac47bb03e2bfde5c3a58f0cc8d6c4313c610f0e63fdi0",
+      "description": "A generative art collection for Bitcoin, inspired by Bitcoin. Includes historic \"blockprints\" and abstract block art.",
+      "supply": 333,
+      "twitterLink": "https://twitter.com/the_blocks_btc",
+      "discordLink": "https://discord.gg/jCS6JVYvTv",
+      "websiteLink": "",
+      "createdAt": "Sun, 02 Jul 2023 00:51:11 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "33EQ7EbeAxFerCVJpstrKSTAin2FnqjuVE",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

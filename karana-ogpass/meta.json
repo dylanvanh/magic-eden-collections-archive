@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:35.809Z",
+  "slug": "karana-ogpass",
+  "tokenCount": 8400,
+  "defaults": {
+    "contentType": "video/mp4",
+    "chain": "btc",
+    "meta": {
+      "name": "Karana OG PASS",
+      "high_res_img_url": "https://lime-glamorous-swordfish-551.mypinata.cloud/ipfs/QmaXDP8Ff4vXmKhG8sdwrqKSE7NCHqbnSeLJmjUFtyXLhS"
+    },
+    "collectionSymbol": "karana-ogpass",
+    "collection": {
+      "symbol": "karana-ogpass",
+      "name": "Karana OG PASS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-karana-ogpass_pfp_1722097623148.png",
+      "chain": "btc",
+      "inscriptionIcon": "6040aab4c2d2a66dc5079828f74eefad487a76cc51674a0e13ca2a78dd8facf2i0",
+      "description": "The Karana OG PASS NFT Collection features 8400 exclusive pieces minted at 0.006 BTC each. OG PASS holders benefit from a 40% share of the inscription revenue from the Karana Omnichain Inscription Platform, priority access to participate in testing new features on the Karana Network, and an airdrop of mainnet tokens upon the Karana mainnet launch.",
+      "supply": 8400,
+      "twitterLink": "https://twitter.com/ordi666566",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sat, 27 Jul 2024 16:39:45 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "displayName": "Karana OG PASS",
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

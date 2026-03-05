@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.789Z",
+  "slug": "ordinal_geese",
+  "tokenCount": 1035,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ordinal_geese",
+    "collection": {
+      "symbol": "ordinal_geese",
+      "name": "Ordinal Geese",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinal_geese.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "'Ordinal Geese' are 1000 pixelated long necks who in perfect V-formation flew onto the Bitcoin blockchain. Some of these Geese managed to land sub 100k inscriptions, and the rest... well, just came in too hot and missed by a hair. Ordinal Geese, or the OGs, are an all original art collection with early inscription provenance.",
+      "supply": 1000,
+      "twitterLink": "https://twitter.com/OrdinalGeese",
+      "discordLink": "https://discord.gg/2cZscEP6HD",
+      "websiteLink": "https://www.ordinalgeese.io/",
+      "createdAt": "Tue, 06 Jun 2023 17:30:40 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:03.357Z",
+  "slug": "domain_dot_sats",
+  "tokenCount": 10100,
+  "defaults": {
+    "chain": "btc",
+    "listed": true,
+    "listedMakerFeeBp": 50,
+    "listedForMint": false,
+    "collectionSymbol": "domain_dot_sats",
+    "collection": {
+      "symbol": "domain_dot_sats",
+      "name": "Sats Names",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/domain_dot_sats.avif",
+      "chain": "btc",
+      "description": "Sats Names is a standard for writing names to Bitcoin using ordinals. The goal is to build a name ecosystem for Bitcoin, that is built by Bitcoiners, and developed entirely on Bitcoin. WARNING: this is experimental indexing, please DYOR and cross verify the data",
+      "twitterLink": "https://twitter.com/satsnames",
+      "createdAt": "Sat, 27 May 2023 03:32:16 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

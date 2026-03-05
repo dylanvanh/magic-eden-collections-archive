@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:47.178Z",
+  "slug": "pulsar",
+  "tokenCount": 451,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "ICA8c2NyaXB0PgogICAgYXN5bmMgZnVuY3Rpb24gZmV0Y2hJbnNjcmlwdGlvbklkKCkgewogICAgICBsZXQgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaCgiL3Ivc2F0LzI5MjYwNTAwMDAwMDAwMC9hdC8tMSIpOwogICAgICBsZXQgZGF0YSA9IGF3YWl0IHJlc3BvbnNlLnRleHQoKTsKICAgICAgcmV0dXJuIEpTT04ucGFyc2UoZGF0YSkuaWQ7CiAgICB9CgogICAgd2luZG93Lm9ubG9hZCA9IGFzeW5jICgpID0+IHsKICAgICAgY29uc3QgaWQgPSBhd2FpdCBmZXRjaEluc2NyaXB0aW9uSWQoKTsKICAgICAgY29uc3QgaWlkID0gd2luZG93LmxvY2F0aW9uLnBhdGhuYW1lLnNwbGl0KCIvIikucG9wKCk7CiAgICAgIGNvbnN0IHN0eWxlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc3R5bGUnKTsKICAgICAgc3R5bGUudGV4dENvbnRlbnQgPSBgCiAgICAgICAgaWZyYW1lIHsKICAgICAgICAgIHBvc2l0aW9uOiBmaXhlZDsKICAgICAgICAgIHRvcDogMDsKICAgICAgICAgIGxlZnQ6IDA7CiAgICAgICAgICBib3R0b206IDA7CiAgICAgICAgICByaWdodDogMDsKICAgICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgICAgYm9yZGVyOiBub25lOwogICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgICAgcGFkZGluZzogMDsKICAgICAgICAgIG92ZXJmbG93OiBoaWRkZW47CiAgICAgICAgICB6LWluZGV4OiA5OTk5OwogICAgICAgIH0KICAgICAgYDsKICAgICAgZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChzdHlsZSk7CgogICAgICBjb25zdCBpZnJhbWUgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdpZnJhbWUnKTsKICAgICAgaWZyYW1lLnNyYyA9IGAvY29udGVudC8ke2lkfT9paWQ9JHtpaWR9YDsKICAgICAgZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChpZnJhbWUpOwogICAgfTsKICA8L3NjcmlwdD4K",
+    "chain": "btc",
+    "collectionSymbol": "pulsar",
+    "collection": {
+      "symbol": "pulsar",
+      "name": "Pulsar by OTO",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pulsar_pfp_1726392596049.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "\"Pulsar\" is an audiovisual generative art piece created by OTO. The design is inspired by the visuals of analog synthesizers and integrates visual elements and sound based on blockchain data. Using the Sat number as a seed, the algorithm ensures each output is unique.  By clicking, viewers trigger an electromagnetic pulse animation and an 8-bar sound loop. The artwork evolves in real-time, with patterns, colors, and sounds changing with each Bitcoin block.  \"Pulsar\" represents the dynamic interplay between order and chaos, illustrating the constant evolution of technology and creativity, as well as the flow of energy and relationships in an electronic world.",
+      "supply": 451,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/otograf_jp",
+      "discordLink": "https://discord.gg/Z9MyjqgvHP",
+      "websiteLink": "",
+      "createdAt": "Sun, 15 Sep 2024 09:33:03 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "336i9yrjqBkt9y8DBUAvL8JcR7UeoMph5t",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:13.582Z",
+  "slug": "feeling-good",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHNjcmlwdCBzcmM9Ii9jb250ZW50L2MyNjA2YTc0MWIwMzVhOWY4MDljYzI1YTBhOGE5ZmI1YzUzMDMzNDhhMjMxNWRiOTU4MmJkNDU2YjNmNzQ4NDNpMCI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0ibW9kdWxlIj4KICBpbXBvcnQgeyBFbnRyeVBvaW50IH0gZnJvbSAnL2NvbnRlbnQvMWFmMmM1MzkwMDNlYzY5YTk0NWNmOGU5ZTUxNmUzMmM4NDY0OWUwM2YwN2UwZWMyOTgyZjM0MzRjZjgyYjRmZmkwJzsKICBFbnRyeVBvaW50LmxvYWQoKTsKPC9zY3JpcHQ+",
+    "chain": "btc",
+    "metaprotocol": "Feeling-Good",
+    "collectionSymbol": "feeling-good",
+    "collection": {
+      "symbol": "feeling-good",
+      "name": "Feeling Good",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-feeling-good_pfp_1712838739189.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "In 2024, as we commemorate a year of milestones for Bitcoin and the ascension of Ordinals, 'Feeling Good' emerges as a collection dedicated to the early builders and believers in the Bitcoin ecosystem.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/GeniiData",
+      "discordLink": "",
+      "websiteLink": "https://geniidata.com/ordinals/home",
+      "createdAt": "Wed, 10 Apr 2024 18:44:25 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcp2dxqjn3hplzau5pndqvmh2qtvrnjeg9hztzmxkj0v4efj6dzusutx6qx",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

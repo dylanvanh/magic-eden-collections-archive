@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:34.267Z",
+  "slug": "sanctum",
+  "tokenCount": 2451,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "sanctum",
+    "collection": {
+      "symbol": "sanctum",
+      "name": "THE SANCTUM By Memphis & Frens",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-sanctum_pfp_1742424317527.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Various Collaborations by Memphis and other artists in the space",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 19 Mar 2025 23:22:56 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3Cj139CWiyMEi1rsegXvB3DuVpqX6zkUyT",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

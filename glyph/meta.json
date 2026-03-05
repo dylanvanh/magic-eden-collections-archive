@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:25.305Z",
+  "slug": "glyph",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "video/mp4",
+    "chain": "btc",
+    "collectionSymbol": "glyph",
+    "collection": {
+      "symbol": "glyph",
+      "name": "GLYPHS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-glyph_pfp_1711465635701.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "GLYPHS is a Discord-based game where you mine for Runes. Get a Pass, start mining, and watch your GLYPHS transform into Runes tokens after the halving event.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/glyphs_runes",
+      "discordLink": "https://discord.gg/ZAZUhVzRBe",
+      "websiteLink": "https://www.glyphsrunes.com/",
+      "createdAt": "Tue, 26 Mar 2024 15:39:50 GMT",
+      "overrideContentType": "video/mp4",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3GdNL7BZHUxk5vBya1QWSAmzcz3p9YXo6e",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

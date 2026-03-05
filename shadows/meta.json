@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:35.060Z",
+  "slug": "shadows",
+  "tokenCount": 664,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "shadows",
+    "collection": {
+      "symbol": "shadows",
+      "name": "Shadows by Forgotten Runes",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-shadows_pfp_1704734126629.png",
+      "chain": "btc",
+      "inscriptionIcon": "fe4773f6ae5809084494dd42dcf28fdaf534535efee38fde562243bb076f9334i0",
+      "description": "666 ORDINALS in THE QUANTUM SHADOW At the heart of The Shadows lies the intrigue of secret societies and mythical archetypes, drawing inspiration from the the Illuminati, the Freemasons, and the elusive Satoshi Nakamoto himself.Our narrative delves into the realm of the 'quantum shadow,' a mysterious and metaphysical force that binds the destiny of our Shadows.",
+      "supply": 666,
+      "twitterLink": "https://twitter.com/forgottenrunes",
+      "discordLink": "https://discord.gg/forgottenrunes",
+      "websiteLink": "https://forgottenrunes.com",
+      "createdAt": "Mon, 08 Jan 2024 19:34:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 666,
+    "satBlockTime": "Fri, 16 Jan 2009 04:10:36 GMT",
+    "satributes": [
+      "Block 666",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

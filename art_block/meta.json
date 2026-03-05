@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:32.707Z",
+  "slug": "art_block",
+  "tokenCount": 21,
+  "defaults": {
+    "contentType": "text/plain;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "art_block",
+    "collection": {
+      "symbol": "art_block",
+      "name": "ART Block",
+      "imageURI": "https://bafybeih7kr2ow6fkhjxmu2kdiiphkbjnwsfnwkmeszvdzpjafs3jic3qua.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "026872831540b05b8e03bbc285bf5ac98f00a296520e39947fbd0440d7356469i0",
+      "description": "ART Block Ordinal",
+      "supply": 21,
+      "twitterLink": "https://twitter.com/artblockordinal",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 21 May 2023 02:27:58 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

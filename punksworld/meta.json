@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:47.375Z",
+  "slug": "punksworld",
+  "tokenCount": 60,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "punksworld",
+    "collection": {
+      "symbol": "punksworld",
+      "name": "Punks World",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-punksworld_pfp_1717532205179.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The World's Greatest Characters & Historic Figures in 24x24 Pixel Art",
+      "supply": 756,
+      "twitterLink": "https://twitter.com/PW420BTC",
+      "discordLink": "",
+      "websiteLink": "https://ordzaar.com/marketplace/collections/punksworld/mints",
+      "createdAt": "Tue, 04 Jun 2024 22:01:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "36X89jtvSTJSDnGf1GSxpfdSbVvN2nfF5n",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

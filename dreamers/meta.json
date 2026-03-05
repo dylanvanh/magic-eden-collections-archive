@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:04.044Z",
+  "slug": "dreamers",
+  "tokenCount": 86,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "dreamers",
+    "collection": {
+      "symbol": "dreamers",
+      "name": "DREAMERS by HYAIPE",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dreamers_pfp_1770221922902.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Dreamers transform imagination into lasting artifacts, inscribed and stored on Bitcoin.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/HYAIPE",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 05 Jan 2026 08:51:06 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qtzaa78xyagn73lctyfyytkcxyen8dty7c4hype",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

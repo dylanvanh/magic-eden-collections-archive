@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:35.215Z",
+  "slug": "basedhomiesbtc",
+  "tokenCount": 3330,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "basedhomiesbtc",
+    "collection": {
+      "symbol": "basedhomiesbtc",
+      "name": "Based Homies",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-basedhomiesbtc_pfp_1735585627666.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "3333 Homies: Unhinged, Unfiltered and Based AF!",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/Basedhomiesbtc",
+      "discordLink": "https://discord.gg/E8NvQH4K7m",
+      "websiteLink": "",
+      "createdAt": "Mon, 30 Dec 2024 19:39:30 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pm0hdx9dtuvkrfsx2h5swrrhj9nnxt5z5rzzur2xk88drskchtgtsm4xhpe",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:21.063Z",
+  "slug": "galacticpassport",
+  "tokenCount": 777,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PGh0bWw+PGJvZHkgc3R5bGU9Im1hcmdpbjogMDsiPjxvYmplY3QgdHlwZT0idGV4dC9odG1sIiBzdHlsZT0id2lkdGg6MTAwJTtoZWlnaHQ6MTAwJTsiIGRhdGE9Ii9jb250ZW50LzIyNmY3ZDZlYTk2YmE3NTgzMjRjNzFjMDJhMGViYzM1NGMxMzE4ZDA5NzA1N2VkNTFjMzQ3OWQ5NGMwY2JiOTFpMCI+PC9vYmplY3Q+PC9ib2R5PjwvaHRtbD4=",
+    "chain": "btc",
+    "collectionSymbol": "galacticpassport",
+    "collection": {
+      "symbol": "galacticpassport",
+      "name": "Ordinauts Galactic Passport",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-galacticpassport_pfp_1748302775770.png",
+      "chain": "btc",
+      "inscriptionIcon": "ab8b8c639cd85dcbe37441904f100521d339c4724430588daefe7fca3e757d32i0",
+      "description": "The Ordinauts Galactic Passport serves as your exclusive entry pass into the Ordinauts discord and ecosystem.  Citizenship has its benefits and the Passport will play an integral part in our future activations.",
+      "supply": 777,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Ordinauts",
+      "discordLink": "",
+      "websiteLink": "https://www.ordinauts.ai/",
+      "createdAt": "Tue, 02 Jan 2024 04:11:54 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "34B2vhBEP4esHdQjvaeHj3sivETPLFW9PF",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

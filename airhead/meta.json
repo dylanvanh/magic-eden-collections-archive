@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:31.193Z",
+  "slug": "airhead",
+  "tokenCount": 10001,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "f1435e237e8ae4f6ca6763baec63cbd7f1d197e8a4faec08c367e0403b029313i0",
+    "collectionSymbol": "airhead",
+    "collection": {
+      "symbol": "airhead",
+      "name": "Airhead",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-airhead_pfp_1732321105047.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "f1435e237e8ae4f6ca6763baec63cbd7f1d197e8a4faec08c367e0403b029313i0",
+      "description": "You’re salivating aren’t you. Brought to you by Arthur Hayes and Oyl Wallet — Airheads will fuck up your shit. Yeah that’s right, you found real art on bitcoin. They’re highly addictive, fat positive & a mirror of human culture. 100% original hand blown 3d art filled with air and wrapped in sexy themes and packages. Airheads cannot be popped. Bring your airhead to Oyl wallet to earn XP. Stay fat.",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/AirheadFun",
+      "discordLink": "",
+      "websiteLink": "https://airhead.fun",
+      "createdAt": "Sat, 23 Nov 2024 00:24:18 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qeq2rataxyw80y8xf09022nddkuearll0r09lhu",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

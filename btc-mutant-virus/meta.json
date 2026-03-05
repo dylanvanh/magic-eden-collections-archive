@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:27.566Z",
+  "slug": "btc-mutant-virus",
+  "tokenCount": 777,
+  "defaults": {
+    "contentType": "image/png",
+    "genesisTransactionBlockTime": "Sun, 28 May 2023 20:33:35 GMT",
+    "genesisTransactionBlockHash": "0000000000000000000115f80d0171ff2e3562c89ed6edc0beacd692ce0ad2b4",
+    "genesisTransactionBlockHeight": 791836,
+    "chain": "btc",
+    "collectionSymbol": "btc-mutant-virus",
+    "collection": {
+      "symbol": "btc-mutant-virus",
+      "name": "BTC Mutant Virus",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/btc-mutant-virus.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The Mutant Virus is no ordinary virus—it possesses the potential to unlock incredible abilities within individuals, transcending the boundaries of human capabilities. Through meticulous research and advancements in genetic engineering, SATORIA CORP has harnessed this virus to create a remarkable transformation within select participants.",
+      "supply": 777,
+      "twitterLink": "https://twitter.com/btcordinal",
+      "discordLink": "https://discord.gg/btcmachine",
+      "websiteLink": "https://www.satoria.world/",
+      "createdAt": "Sun, 28 May 2023 23:38:27 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcmn0l7w382ygvpehvtz57n2r75l5j7nyzkq54lf8zr3pm48y0aesh4pd96",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

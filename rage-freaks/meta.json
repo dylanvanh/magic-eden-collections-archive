@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:48.958Z",
+  "slug": "rage-freaks",
+  "tokenCount": 2008,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "rage-freaks",
+    "collection": {
+      "symbol": "rage-freaks",
+      "name": "RAGE FREAKS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-rage-freaks_pfp_1745340352656.png",
+      "chain": "btc",
+      "inscriptionIcon": "5e4ad442bfaa60855a8348a5136bbdf2983dc58a50d89f16fa73297e9920e998i1",
+      "description": "Rage Freaks is a CC0 pixel art collection on Bitcoin created by LORS. Inspired by rage comics and Web3 culture. Free mint. 2008 supply. All spots were given to collectors, who could choose who to invite. No public mint.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/MhVVzUtX5w",
+      "websiteLink": "https://x.com/LorsOnChain",
+      "createdAt": "Tue, 22 Apr 2025 19:26:27 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3M2HgSYmCmt4gnVfsHRnYMgjWdEZ73JSng",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

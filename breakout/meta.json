@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:24.910Z",
+  "slug": "breakout",
+  "tokenCount": 503,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "breakout",
+    "collection": {
+      "symbol": "breakout",
+      "name": "Breakout by CHAINVIRUS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-breakout_pfp_1705170492273.gif",
+      "chain": "btc",
+      "inscriptionIcon": "de7484546a13b2c6a81a8ba17823b49c0cd8ad63307aa125f5a1ee8c1af6147ai0",
+      "description": "Genesis Edition on Bitcoin, immutably inscribed on-chain using recursions, 2024. by ChainVirus",
+      "supply": 504,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ChainVirus",
+      "discordLink": "https://discord.gg/cWDU39yECZ",
+      "websiteLink": "https://linktr.ee/chainvirus",
+      "createdAt": "Mon, 15 Jan 2024 13:54:35 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

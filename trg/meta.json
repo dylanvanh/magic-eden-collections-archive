@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:48.167Z",
+  "slug": "trg",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "6b5a0edce1b73634ebba9ebe7d926dfc41c77143b1abe9e8b68e0eafbd07bc6ci0",
+    "collectionSymbol": "trg",
+    "collection": {
+      "symbol": "trg",
+      "name": "The Rune Guardians",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-trg_pfp_1707682377690.png",
+      "chain": "btc",
+      "inscriptionIcon": "c19f83ec0931cd2ccf57dff3d418631079f5b28b7ff8185a99f03b4bac7bf0a2i99",
+      "description": "The Rune Guardians: Protectors of mystical runes. This elite 10k Collection, magically airdropped to Guardian Masters across Ordinal Universe, bridges the guardians with their celestial duty. Tap into your Guardian to unveil your rune balance, a reflection of your bond with the ancient elements. Each block heralds new rewards, celebrating the symbiosis of Guardians and the sacred runes they safeguard.",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/RuneGuardians",
+      "discordLink": "https://discord.gg/YNgHPVRQZe",
+      "websiteLink": "http://theruneguardians.com",
+      "createdAt": "Tue, 13 Feb 2024 02:49:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

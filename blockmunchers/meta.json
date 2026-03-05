@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:22.646Z",
+  "slug": "blockmunchers",
+  "tokenCount": 50,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "blockmunchers",
+    "collection": {
+      "symbol": "blockmunchers",
+      "name": "Blockmunchers",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/blockmunchers.avif",
+      "chain": "btc",
+      "inscriptionIcon": "987af6319b866f7e4692ab6c6a38ed738e92067f4575f6cfd83cab89c174de03i0",
+      "description": "The Munchers, a species of monsters shrouded in mystery and hunger, wander the vastness of the universe in search of sustenance. Their insatiable appetite is the stuff of legend, and they have returned to wreak havoc upon the digital realm.",
+      "supply": 50,
+      "twitterLink": "https://twitter.com/muncherverse",
+      "discordLink": "https://discord.gg/munchers",
+      "websiteLink": "https://blockmunchers.com",
+      "createdAt": "Mon, 20 Mar 2023 21:02:33 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

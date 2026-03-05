@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:32.368Z",
+  "slug": "ape-in",
+  "tokenCount": 311,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "ape-in",
+    "collection": {
+      "symbol": "ape-in",
+      "name": "Ape In by Hafftka",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ape-in_pfp_1735281972937.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "7994d54aa01f02ce020f60a9fb9e8d63535479a449844c5915b10e3c0cb5fdf6i0",
+      "description": "Ape In is an ordinal edition of 311",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/hafftka",
+      "discordLink": "",
+      "websiteLink": "https://gamma.io/prints/375556e163be7f9834857314ae70b060f5ae7e6b3ebde501553b556aabc3f03ci0?tab=market",
+      "createdAt": "Fri, 27 Dec 2024 09:39:05 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q8xquajhfllf5kq7zpezhjup5ecu2dv023ns2pk",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

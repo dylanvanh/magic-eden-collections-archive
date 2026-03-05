@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:33.906Z",
+  "slug": "asicgenesis",
+  "tokenCount": 333,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "4bf30a3148877100763610fa7ffdaf6b1570031c64ef9fb49cad160693c359e9i0",
+    "collectionSymbol": "asicgenesis",
+    "collection": {
+      "symbol": "asicgenesis",
+      "name": "AsicGenesis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-asicgenesis_pfp_1768934159940.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "ASIC Genesis is a sci-fi Ordinals collection of 4,444 pieces, each one linked to real Bitcoin mining hashrate powered by clean hydroelectric energy from Paraguay. The collection also features weekly raffles with prizes paid in Bitcoin, rewarding active participants where collectors become miners, and mining becomes art. ⚡",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ASICGenesis",
+      "discordLink": "https://discord.gg/vH3R742ZTx",
+      "websiteLink": "https://www.asicgenesis.io/",
+      "createdAt": "Tue, 20 Jan 2026 18:56:27 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "322KsWykGE8LZQL2fadGCDR68riPFrCLd6",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

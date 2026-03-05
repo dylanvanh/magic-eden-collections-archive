@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:37.790Z",
+  "slug": "sloths",
+  "tokenCount": 1755,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "sloths",
+    "collection": {
+      "symbol": "sloths",
+      "name": "SLOTHS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-sloths_pfp_1754243483791.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "1777 SLOTH PFPs on BRC 2.0. Meet the laziest legends on the most powerful chain.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "http://x.com/OrdinalSloth",
+      "createdAt": "Sun, 03 Aug 2025 19:04:54 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qtsm7egc6k3pqnxzsukjr98kx7puszfljhahnvt",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

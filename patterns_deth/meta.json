@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:38.671Z",
+  "slug": "patterns_deth",
+  "tokenCount": 111,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "G8kBQBwH7r6BgO6U79n0YM1SnTYDP7aWkL1a+wCJPcsdSPPA9G9dv4IgCTyh3wriMJSAPE3dRFmvjyykxgqR4uFgJPKyer8gbYVjHkTgND949hu7m6mggi0IlcYRLUXOioR3CktNEMTcCc8QQN0RoxWgaMgjWDJItyEN3i21Ff5Gi1G7/He+/eX3ylTHu6f/ef/oCvvrahkVMnfBZy/TsbMeSuiw4W8SFIBwxAgFdiD6fE7zGD0PjDi4vTP4DiNQuq1uLqHFZWTYAHfLHVdbV43PXUrRQkNSXe32lAA=",
+    "chain": "btc",
+    "parentInscriptionId": "062393c7ca93f19914cc6be7495b3b6261c00f8f3bc6cbbd7dfa4b282d24bcbci0",
+    "collectionSymbol": "patterns_deth",
+    "collection": {
+      "symbol": "patterns_deth",
+      "name": " Plottable Patterns by Deth",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-patterns_deth_pfp_1736853011587.png",
+      "chain": "btc",
+      "inscriptionIcon": "7c469f10296e68541555916acfa9271dd4db8e8f0b63f564f768af1194ec023ci2",
+      "description": "Plottable Patterns by Deth",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/_dethreaper_",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 14 Jan 2025 18:42:18 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qfs0cflg27wwycg83s2dxvmeuq7vtt4ucdlj3tw",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

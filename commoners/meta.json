@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:46.722Z",
+  "slug": "commoners",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "commoners",
+    "collection": {
+      "symbol": "commoners",
+      "name": "Commoners",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-commoners_pfp_1709481886866.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The first 10k Ordinals collection inscribed on Uncommon Sats.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/Commoners_",
+      "discordLink": "https://discord.gg/commoners",
+      "websiteLink": "https://commoners.com",
+      "createdAt": "Wed, 24 Jan 2024 02:45:40 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "uncommon"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

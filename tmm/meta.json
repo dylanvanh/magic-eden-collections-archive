@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:46.878Z",
+  "slug": "tmm",
+  "tokenCount": 5000,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "tmm",
+    "collection": {
+      "symbol": "tmm",
+      "name": "THE MEMENTO MORI",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-tmm_pfp_1730578695718.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "As fans of the concept, we are excited to create a unique NFT inspired by the Memento Mori Rune in Bitcoin. A digital piece that captures the essence of legacy and remembrance. 💀",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/MementoMoriBTC",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sat, 02 Nov 2024 23:12:51 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qqyrmpqzsz2rw3ka6pcuetmxp2fafxqe8fdz25q",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

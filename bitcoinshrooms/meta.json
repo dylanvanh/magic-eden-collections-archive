@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:11.641Z",
+  "slug": "bitcoinshrooms",
+  "tokenCount": 224,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoinshrooms",
+    "collection": {
+      "symbol": "bitcoinshrooms",
+      "name": "Bitcoin Shrooms",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoinshrooms.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Bitcoin Ordinal Art by Shroomtoshi. Learn more: https://bitcoinshrooms.com/",
+      "supply": 400,
+      "twitterLink": "https://x.com/bitcoinshrooms?s=21&t=8EszMtTCOESLAEMgGDwNMw",
+      "discordLink": "",
+      "websiteLink": "https://bitcoinshrooms.com/",
+      "createdAt": "Wed, 06 Dec 2023 19:49:43 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

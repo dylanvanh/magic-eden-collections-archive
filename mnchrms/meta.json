@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:53.190Z",
+  "slug": "mnchrms",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "mnchrms",
+    "collection": {
+      "symbol": "mnchrms",
+      "name": "MNCHRMS",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/mnchrms.avif",
+      "chain": "btc",
+      "inscriptionIcon": "cde91a481f29522ad8905103cbb5e96e7f6dbd6d8cca7c84188badaa16e885f7i0",
+      "description": "MNCHRMS, pronounced \"monochromes\", is a 10101 PFP collection on Bitcoin Ordinals. Using only black (hex code #000000) and white (hex code #FFFFFF) colors, MNCHRMS is bold, timeless, simple yet striking making it the fitting, classic, and perfect visual representation for Bitcoin.",
+      "supply": 10101,
+      "twitterLink": "https://twitter.com/MNCHRMSBTC",
+      "discordLink": "https://discord.gg/bt9BWtTMXE",
+      "websiteLink": "https://mnchrms.com/",
+      "createdAt": "Sat, 15 Apr 2023 19:32:47 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

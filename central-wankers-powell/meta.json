@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:36.678Z",
+  "slug": "central-wankers-powell",
+  "tokenCount": 97,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "contentBody": "PHN2ZyB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48aW1hZ2UgaGVpZ2h0PSIxMDAlIiB3aWR0aD0iMTAwJSIgaHJlZj0iL2NvbnRlbnQvZDE4NjU1NWZmYzNjMTRhNTIzZmM4MDA2MDljNmIzMDA5MDFiNTc1MjNhNjA5YjU1Y2FlZjllYzY0MmQ3ZTJlNmkwIi8+PC9zdmc+",
+    "chain": "btc",
+    "collectionSymbol": "central-wankers-powell",
+    "collection": {
+      "symbol": "central-wankers-powell",
+      "name": "Central Wankers: Powell",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-central-wankers-powell_pfp_1697570009865.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "d186555ffc3c14a523fc800609c6b300901b57523a609b55caef9ec642d7e2e6i0",
+      "description": "Jerome \"Inflation is Just a Phase\" Powell is a one-of-a-kind American central wanker. From his early days of collecting Monopoly money, he displayed a unique understanding of financial systems (or lack thereof). Jerome mastered the art of kicking the economic can down the road and coined the popular phrase \"What's a few trillion dollars between friends?\" Jerome will always be remembered for his unwavering belief in the transient nature of inflation, even when evidence suggested otherwise.",
+      "supply": 97,
+      "twitterLink": "https://twitter.com/SeizeCTRL",
+      "discordLink": "https://discord.gg/seizectrl",
+      "websiteLink": "https://www.seizectrl.io/",
+      "createdAt": "Tue, 17 Oct 2023 19:58:22 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

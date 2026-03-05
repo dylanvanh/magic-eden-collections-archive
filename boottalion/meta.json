@@ -1,0 +1,33 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:24.869Z",
+  "slug": "boottalion",
+  "tokenCount": 1784,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "boottalion",
+    "collection": {
+      "symbol": "boottalion",
+      "name": "Bitcoin Boos: Boottalion",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/boottalion.avif",
+      "chain": "btc",
+      "inscriptionIcon": "66d19394fcf4bbb0c867b547c7711cab5d15186d5a5c7f50205ff11b666e56fei0",
+      "description": "⚔️ Embark on a unique journey with our cursed collection of 1820 unique digital warriors, each inscribed under the revered Boo King as provenance. 🛡️",
+      "supply": 1820,
+      "twitterLink": "https://twitter.com/BitcoinBoos",
+      "discordLink": "https://discord.gg/bitcoinboos",
+      "websiteLink": "https://bitcoinboos.com/",
+      "createdAt": "Tue, 30 May 2023 01:25:16 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

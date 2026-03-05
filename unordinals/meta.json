@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:51.970Z",
+  "slug": "unordinals",
+  "tokenCount": 1000,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "unordinals",
+    "collection": {
+      "symbol": "unordinals",
+      "name": "Unordinals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-unordinals_pfp_1721673993477.png",
+      "chain": "btc",
+      "inscriptionIcon": "93cf8a87f4e006c3fc19b0bd4b1ab189abe652744231bd8eb18008064a970d08i0",
+      "description": "what is dead may never die",
+      "supply": 1000,
+      "twitterLink": "https://twitter.com/Unordinals",
+      "discordLink": "https://discord.gg/unordinals",
+      "websiteLink": "https://unordinals.com/",
+      "createdAt": "Tue, 21 Mar 2023 04:34:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "38GTdcGLhaaJdEsea82y1QsAJRTgC51xc3",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:50.086Z",
+  "slug": "lunatics",
+  "tokenCount": 3333,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "2db99ecdae38282e6e6676de9076818ff2fd5b3cd25d92cc9f6551bbc176f7fci0",
+    "collectionSymbol": "lunatics",
+    "collection": {
+      "symbol": "lunatics",
+      "name": "Lunatics",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-lunatics_pfp_1744384220913.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Lunatics is a love letter to Ordinals, a collection of 3,333 agents of change, handcrafted to push the protocol and its users to the limit. Peace, Love, and Lunacy.",
+      "supply": 3333,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/LunaticsBTC",
+      "discordLink": "",
+      "websiteLink": "https://www.lunatics.space/",
+      "createdAt": "Mon, 07 Apr 2025 23:13:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qjhn3wvzwpygmpxkqwkuzpkh6m7exnmwu093wkr",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Pizza"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

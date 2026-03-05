@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:53.591Z",
+  "slug": "dickbutts",
+  "tokenCount": 69,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "dickbutts",
+    "collection": {
+      "symbol": "dickbutts",
+      "name": "Bitcoin Dickbutts",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/dickbutts.avif",
+      "chain": "btc",
+      "inscriptionIcon": "3216cd4731a6f356ef61ae68471f63fb27a3a5b4f9b4ac0d225e2fce4d2503b4i0",
+      "description": "A 69 piece collection of Bitcoin Dickbutts - the very first art by Bas - bridging the parallel and powerful stories of Bitcoin and Dickbutts, forever inscribed, and to be enjoyed for eternity. There will only ever be 69. Not for children.",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/btcdickbot",
+      "discordLink": "https://discord.gg/tFt2KMwz",
+      "websiteLink": "https://bitcoindickbutts.com/",
+      "createdAt": "Sat, 10 Jun 2023 10:51:13 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:18.573Z",
+  "slug": "okayaman",
+  "tokenCount": 40,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "okayaman",
+    "collection": {
+      "symbol": "okayaman",
+      "name": "OK WORKS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-okayaman_pfp_1743137134494.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A collection of works using code, handwriting, pen, watercolor, etc. Basically, they are 1/1 originals, and some works come with physical artwork. In that case, they are in the [physical +] category. Some works have already been sent to collectors, so please check the transaction or contact me.",
+      "supply": 1,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/FKYNArt",
+      "discordLink": "",
+      "websiteLink": "https://lit.link/okayamannft",
+      "createdAt": "Tue, 11 Jun 2024 22:07:40 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p5859u9vhsf2wns2p2v056386fuuw67d7uhp6cch2n8vt5qe562wswd9asc",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

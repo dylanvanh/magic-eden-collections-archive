@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.155Z",
+  "slug": "ordinal-fomojis",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "ordinal-fomojis",
+    "collection": {
+      "symbol": "ordinal-fomojis",
+      "name": "Genesis Fomojis",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinal-fomojis.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "100 Genesis Fomojis inscribed for eternity on Bitcoin",
+      "supply": 100,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/fomojis",
+      "discordLink": "https://discord.gg/2bU9xsPDY5",
+      "websiteLink": "https://www.fomojis.io",
+      "createdAt": "Mon, 20 Mar 2023 21:04:01 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qj7gzn7exhs9j928vzja8mm97vkvtn3puw3zwew",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

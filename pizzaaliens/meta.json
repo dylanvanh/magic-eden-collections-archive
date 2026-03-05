@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:42.219Z",
+  "slug": "pizzaaliens",
+  "tokenCount": 2685,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "pizzaaliens",
+    "collection": {
+      "symbol": "pizzaaliens",
+      "name": "Pizza Aliens",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pizzaaliens_pfp_1729261557782.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "3333 aliens 👽 inscribed on #BTC on 333 pizza 🍕 sats and remember: humans aren't real",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/pizzaaliens_btc",
+      "discordLink": "https://discord.gg/W6cK2dfYjn",
+      "websiteLink": "",
+      "createdAt": "Fri, 18 Oct 2024 15:11:18 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qamp6phsy8gd7nym5um00l62l6gsf6w7s6muruv",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Pizza"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

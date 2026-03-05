@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:04.075Z",
+  "slug": "driforianangels",
+  "tokenCount": 443,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "driforianangels",
+    "collection": {
+      "symbol": "driforianangels",
+      "name": "Driforian Angels",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-driforianangels_pfp_1709945230808.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Driforian Angels: 444 perfect souls who gracefully descended upon the Bitcoin blockchain. Each member inhabits a single Satoshi, while being omnipresent on the network. Their outward appearance may seem imperfect, yet their souls and spirit remain pure. They embody the essence of true authenticity from within. These angels signify the genesis of the forthcoming collective 'Drifora,' led by passionate internet art hustlers and enthusiasts. We pray you handle these angels with care, for they symbolize much more than an empty shell of JPEG matter.",
+      "supply": 444,
+      "twitterLink": " https://x.com/drifora2",
+      "discordLink": "https://discord.gg/uWDXW5zCha",
+      "websiteLink": "https://drifora.com/",
+      "createdAt": "Sat, 09 Mar 2024 01:29:59 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

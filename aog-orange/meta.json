@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:32.319Z",
+  "slug": "aog-orange",
+  "tokenCount": 2768,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "aog-orange",
+    "collection": {
+      "symbol": "aog-orange",
+      "name": "Apostles of Greed",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-aog-orange_pfp_1709949173800.png",
+      "chain": "btc",
+      "inscriptionIcon": "8888845351e228c8c84e57abfcde84fadd326fdf974d1d3d7477f44fe0ed8888i0",
+      "description": "2664 Unique Collectibles inscribed on satoshis from the first Bitcoin in circulation, bringing to life a forgotten world engulfed in greed",
+      "supply": 2768,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/const_quary",
+      "discordLink": "https://discord.gg/ZzQdqGcth2",
+      "websiteLink": "https://twitter.com/const_quary",
+      "createdAt": "Sat, 09 Mar 2024 02:09:14 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pgq92pn40g2l96aj8h95pntf7rrln3r8lv4kue0qyrkden3qh3tusquszxj",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

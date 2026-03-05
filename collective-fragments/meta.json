@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:46.109Z",
+  "slug": "collective-fragments",
+  "tokenCount": 300,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "collective-fragments",
+    "collection": {
+      "symbol": "collective-fragments",
+      "name": "Collective Fragments",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/collective-fragments.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "\"Fragments of innovation, bound by collaboration.\"\n\nThe Collective: Fragments marks a pioneering step into the future of on-chain creativity. More than art, this collection embodies innovation, collaboration, and the vibrant exchange of ideas. Each fragment symbolizes the contributions of individuals united by a shared mission: to push boundaries and reimagine possibilities in the ecosystem.",
+      "supply": 300,
+      "twitterLink": "https://twitter.com/Collectivebtc",
+      "discordLink": "https://discord.com/invite/collectivefragments",
+      "websiteLink": "",
+      "createdAt": "Mon, 16 Dec 2024 05:16:32 GMT",
+      "overrideContentType": "text/html;charset=utf-8",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

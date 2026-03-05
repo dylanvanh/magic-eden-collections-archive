@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:48.964Z",
+  "slug": "bitcoin-digits",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "text/plain;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-digits",
+    "collection": {
+      "symbol": "bitcoin-digits",
+      "name": "Bitcoin Digits",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoin-digits_pfp_1699810815965.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The very first and earliest registered digits in Ordinals.",
+      "supply": 11110,
+      "twitterLink": "https://twitter.com/bitcoindigits",
+      "discordLink": "https://discord.gg/VddAANnq5g",
+      "websiteLink": "https://bitcoindigits.com/",
+      "createdAt": "Sat, 06 May 2023 06:48:55 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

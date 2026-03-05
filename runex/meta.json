@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:34.060Z",
+  "slug": "runex",
+  "tokenCount": 7777,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "runex",
+    "collection": {
+      "symbol": "runex",
+      "name": "RuneX: UNNAMED",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-runex_pfp_1713637105535.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The PFP of Runes. ▣",
+      "supply": 7777,
+      "twitterLink": "https://twitter.com/RuneX_Tech",
+      "discordLink": "https://discord.gg/OfficialRuneX",
+      "websiteLink": "https://RuneX.Tech",
+      "createdAt": "Mon, 11 Mar 2024 22:40:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

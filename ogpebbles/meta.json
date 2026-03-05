@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:18.564Z",
+  "slug": "ogpebbles",
+  "tokenCount": 333,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ogpebbles",
+    "collection": {
+      "symbol": "ogpebbles",
+      "name": "OG Pebbles",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ogpebbles_pfp_1732038073615.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "e8a51ed779d37764718ad28427b9a9a982c3aa9b08ceb72d562ebdcb180d260fi0",
+      "description": "OG Pebbles by OG Satoshis! No roadmap, utility, or expectation of profit",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/OGsatoshis",
+      "discordLink": "https://discord.gg/bvfQ5nyQTw",
+      "websiteLink": "",
+      "createdAt": "Thu, 07 Nov 2024 00:32:16 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

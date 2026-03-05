@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:34.577Z",
+  "slug": "satoshibles-the-ordinals",
+  "tokenCount": 98,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "satoshibles-the-ordinals",
+    "collection": {
+      "symbol": "satoshibles-the-ordinals",
+      "name": "Satoshibles: The Ordinals",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/satoshibles-the-ordinals.webp",
+      "chain": "btc",
+      "inscriptionIcon": "3542f12dbe5fe3bd7fd622d1bb54994432e9a9184d24ff62ceb83234383b558ei0",
+      "description": "Satoshi has come home to Bitcoin! The Ordinals collection by OG NFT project Satoshibles are a limited edition collection of 98 ordinals, featuring all new traits from the original artist Ayyoub Bouzerda. This collection is a tribute to Satoshi and the enduring legacy of Bitcoin. Don't miss your chance to own a piece of history!",
+      "supply": 98,
+      "twitterLink": "https://twitter.com/satoshibles",
+      "discordLink": "https://discord.gg/7Wm9Jg8MkW",
+      "websiteLink": "https://satoshibles.com",
+      "createdAt": "Mon, 27 Mar 2023 00:25:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

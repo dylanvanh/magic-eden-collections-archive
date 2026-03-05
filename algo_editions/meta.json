@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:31.602Z",
+  "slug": "algo_editions",
+  "tokenCount": 298,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "algo_editions",
+    "collection": {
+      "symbol": "algo_editions",
+      "name": "Algorithmic Blooms Editions",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-algo_editions_pfp_1761330251266.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "b0ce113a87db27c3eda391971690d702ed95807bfe5497e9d0a21c7bdac79899i0",
+      "description": "This collection features works that originate as AI images. Each image is then transformed using a unique p5.js algorithm, where code functions not as a replication tool, but as an artistic brush, creating distinct pieces.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/_dethreaper_",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 24 Oct 2025 19:13:06 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qfs0cflg27wwycg83s2dxvmeuq7vtt4ucdlj3tw",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

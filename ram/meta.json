@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:48.985Z",
+  "slug": "ram",
+  "tokenCount": 47,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "ram",
+    "collection": {
+      "symbol": "ram",
+      "name": "Random Art Memory",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ram_pfp_1737993841593.png",
+      "chain": "btc",
+      "inscriptionIcon": "0ac73d8f9f77647360e2d39afe48fb3b796a4dd299e80b2deff39185a8ac3087i0",
+      "description": "1/1 on-chain MS Paint art made along the time, engraving moments of the century",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/redisdead",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 22 Jan 2025 10:40:18 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3Krtp2MWL2tUUreRDZMH9ZLMKwuQPAQDdx",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

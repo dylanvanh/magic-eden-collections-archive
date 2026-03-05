@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:18.351Z",
+  "slug": "rune-whisperers",
+  "tokenCount": 10009,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "rune-whisperers",
+    "collection": {
+      "symbol": "rune-whisperers",
+      "name": "Rune Whisperers",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/rune-whisperers.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The first 10k PFP collection for Runestone holders ᛤ Art by @soclowdy",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Rune_whisperers",
+      "discordLink": "https://discord.gg/YBsV5g6tAr",
+      "websiteLink": "https://officialbozo.wtf/",
+      "createdAt": "Sun, 31 Mar 2024 17:27:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3Cj139CWiyMEi1rsegXvB3DuVpqX6zkUyT",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

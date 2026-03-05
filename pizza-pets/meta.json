@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:41.762Z",
+  "slug": "pizza-pets",
+  "tokenCount": 10100,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "pizza-pets",
+    "collection": {
+      "symbol": "pizza-pets",
+      "name": "Pizza Pets Game",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/pizza-pets.webp",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Bitcoin’s first digital pet. Feed it or it dies forever!",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Pizza_Pets",
+      "discordLink": "",
+      "websiteLink": "https://www.pizzapets.fun/",
+      "createdAt": "Thu, 12 Dec 2024 14:08:30 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "32AVbFU83DPmheg9hjxJc8ZBXiCKpQ3Bfs",
+      "enableCollectionOffer": false,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Pizza"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

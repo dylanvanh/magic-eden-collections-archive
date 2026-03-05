@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:54.893Z",
+  "slug": "wizards",
+  "tokenCount": 3333,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "wizards",
+    "collection": {
+      "symbol": "wizards",
+      "name": "The Wizards of Ord",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-wizards_pfp_1699090652197.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "3,333 ordinal wizards inscribed exclusively on the historic block 78 sats.",
+      "supply": 3333,
+      "twitterLink": "https://twitter.com/TheWizardsOfOrd",
+      "discordLink": "https://discord.gg/https://discord.com/invite/TheWizardsOfOrd",
+      "websiteLink": "https://gallery.wizards.art/",
+      "createdAt": "Sat, 04 Nov 2023 10:38:24 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qjahak3msfkfhp83g90vjad7lg8xxfpv57z8epa",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 78,
+    "satBlockTime": "Sun, 11 Jan 2009 01:00:54 GMT",
+    "satributes": [
+      "Block 78",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

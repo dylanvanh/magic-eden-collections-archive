@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:43.888Z",
+  "slug": "the_equinals_by_bitcoin_derby",
+  "tokenCount": 1582,
+  "defaults": {
+    "contentType": "video/mp4",
+    "chain": "btc",
+    "parentInscriptionId": "875331b0b58c77af2893c8d6b20a196873d87c81b087c8fe65693c601c857c7ei0",
+    "collectionSymbol": "the_equinals_by_bitcoin_derby",
+    "collection": {
+      "symbol": "the_equinals_by_bitcoin_derby",
+      "name": "The Equinals Horses: Genesis Batch by Bitcoin Derby",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-the_equinals_by_bitcoin_derby_pfp_1742772159784.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The Equinals: Genesis Batch by Bitcoin Derby consists of 1,584 horses, represented by ownership scrolls rated between 1 to 3 stars. These ratings define each Equinal's initial AI capabilities, influencing both their racing performance and breeding potential.\n\nWhat Is Bitcoin Derby?\nBitcoin Derby is the first AI-enhanced horse racing game on Bitcoin. Players can own, race, trade, breed, and bet on AI-enhanced horses, The Equinals, each with unique traits and capabilities.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/gD66rA9tW5",
+      "websiteLink": "https://www.bitcoinderby.live/",
+      "createdAt": "Mon, 24 Mar 2025 00:38:06 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pwv8da0wfqjgs4ucdx95l2s0hd4xk5ljy7a9qtfas23ljj6q3ms0sjmshrw",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Nakamoto"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

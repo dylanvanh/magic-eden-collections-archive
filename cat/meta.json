@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:35.419Z",
+  "slug": "cat",
+  "tokenCount": 2222,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "be813be7d5ab89e5b7059b28bb4419d09e2988e42bf066ff0987ea555f6439fbi0",
+    "collectionSymbol": "cat",
+    "collection": {
+      "symbol": "cat",
+      "name": "C.A.T. (Cats Against TradFi)",
+      "imageURI": "https://media.cdn.magiceden.dev/launchpad/catsvstradfi/bc936ccc-2944-4569-94fc-96496663cb45",
+      "chain": "btc",
+      "inscriptionIcon": "be813be7d5ab89e5b7059b28bb4419d09e2988e42bf066ff0987ea555f6439fbi0",
+      "description": "Are you ready to break free?",
+      "supply": 2222,
+      "twitterLink": "https://twitter.com/catsvstradfi",
+      "discordLink": "https://discord.gg/catsvstradfi",
+      "websiteLink": "https://www.catsvstradfi.com/",
+      "createdAt": "Sat, 15 Jun 2024 19:24:54 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "39RWwk12RmiGCvywTCh5x3CouxJvCqJEtT",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 32343,
+    "satBlockTime": "Wed, 30 Dec 2009 23:15:25 GMT",
+    "satributes": [
+      "Common",
+      "JPEG"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

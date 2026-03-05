@@ -1,0 +1,52 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:50.959Z",
+  "slug": "dead-doges",
+  "tokenCount": 666,
+  "defaults": {
+    "contentType": "text/html",
+    "contentBody": "H24CIGRQzz/PNSlg6+uOJ6SDBm+aBqJ7p6L38VygcwkCyTCwbLN9YtCj17LZnJ4ILSva5LTaTJDlYAnHP9hZ5jKhfPS0kCEnBYuO+5AVkVvHTE6Vc4WKhHmmjAsqkFwdNQyLzre5lVviqPDZpyb4tGbVkwFmKdnfyZZZzLKJx6D4hs1NCekf9PhX50HaeAivKh/IhKMwy0vgCNIKKnxG3wqPSF24j2B7XC9I4xqaAgmXp+P5XF6r3tG8YEHEpdzLfYyUFsZtV+ZX3apJq1liEoLvdDZv2i/otX2Uul4y4MxjwKqS49vagOXoOzPYx5WvvRg6t5lpfMPJdLjguRCSi4LmTGYKUytI9Xz+80HAVm79X5+YdQ6hsgSUk+ava1m71xk2AzWELQkA",
+    "genesisTransaction": "dead666e2993d0da0d64c6fc451b6b4d594a1430d4a0911c4f26edd3812b93f7",
+    "genesisTransactionBlockTime": "Tue, 18 Nov 2025 18:53:55 GMT",
+    "genesisTransactionBlockHash": "0000000000000000000087b3b8e12c047f573f6f16e4c93767e1f182604ff18b",
+    "genesisTransactionBlockHeight": 924191,
+    "chain": "btc",
+    "parentInscriptionId": "dead5f33f9a0df9dae9ce33bc2dd035069302d35b85189a7ef7cf538543bc648i0",
+    "collectionSymbol": "dead-doges",
+    "collection": {
+      "symbol": "dead-doges",
+      "name": "Dead Doges",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dead-doges_pfp_1769103598557.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "dead666e2993d0da0d64c6fc451b6b4d594a1430d4a0911c4f26edd3812b93f7i38",
+      "description": "666 Dead Doges resurrected on Bitcoin",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/DeadOrdinals",
+      "discordLink": "https://discord.gg/7TaFy7H249",
+      "websiteLink": "https://dead.global",
+      "createdAt": "Thu, 22 Jan 2026 17:42:14 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "3P9UbRdVBe47kFfuV7XAfniwMY3VhxozMB",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 666,
+    "satBlockTime": "Fri, 16 Jan 2009 04:10:36 GMT",
+    "satributes": [
+      "Block 666",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

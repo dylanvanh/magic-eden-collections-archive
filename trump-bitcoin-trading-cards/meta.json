@@ -1,0 +1,46 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:48.340Z",
+  "slug": "trump-bitcoin-trading-cards",
+  "tokenCount": 127,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "genesisTransaction": "0c392b4d6aea13ed364d422b50ec1b0775f25bdce05e873504ede3549aeb1be5",
+    "genesisTransactionBlockTime": "Thu, 25 Apr 2024 20:12:00 GMT",
+    "genesisTransactionBlockHash": "00000000000000000001cac8b0071da5ee269041e22c6d0bacac997655a68dff",
+    "genesisTransactionBlockHeight": 840859,
+    "chain": "btc",
+    "parentInscriptionId": "32f8f73926d7e4a89f7ec4882e9efbf5cc9d7a7c6093789aa970e562e7c5a280i0",
+    "outputValue": 546,
+    "collectionSymbol": "trump-bitcoin-trading-cards",
+    "collection": {
+      "symbol": "trump-bitcoin-trading-cards",
+      "name": "Trump Bitcoin Digital Trading Cards",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/trump-bitcoin-trading-cards.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The First Official Bitcoin Ordinals ever created by Trump Digital Trading Cards and President Trump. Exclusive one of one cards rewarded to buyers who purchased 100 cards from the Mugshot Edition.",
+      "supply": 1,
+      "twitterLink": "https://x.com/CollectTrump",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 30 Dec 2024 20:42:04 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Alpha",
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

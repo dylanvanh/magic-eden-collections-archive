@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:21.868Z",
+  "slug": "onespark",
+  "tokenCount": 1000,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "parentInscriptionId": "f0fdbf4a6b2ec3e41dd1a47ab858f733df513ab8ac3954d98914d489ea43e0a9i0",
+    "collectionSymbol": "onespark",
+    "collection": {
+      "symbol": "onespark",
+      "name": "OneSpark",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-onespark_pfp_1717583934132.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "OneSpark stands as the cornerstone NFT within the Oneness Labs ecosystem, offering its holders future access to a wealth of benefits, including exclusive airdrops, community roles, and special privileges.",
+      "supply": 1000,
+      "twitterLink": "https://twitter.com/Oneness_Labs",
+      "discordLink": "https://discord.gg/onenesslabs",
+      "websiteLink": "https://onenesslabs.io/",
+      "createdAt": "Wed, 05 Jun 2024 12:44:16 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:36.743Z",
+  "slug": "orpepes-5000",
+  "tokenCount": 5000,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "parentInscriptionId": "b0aaf987aaa594a993561de2277f2356b4fae5a8b84335db63e3639964607651i0",
+    "collectionSymbol": "orpepes-5000",
+    "collection": {
+      "symbol": "orpepes-5000",
+      "name": "ORPEPES 5000",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-orpepes-5000_pfp_1711303396923.gif",
+      "chain": "btc",
+      "inscriptionIcon": "73ac824b543c0990c0ce31772e54824d588b958a3a15a64202c9691d908162ebi231",
+      "description": "ORPEPES EXPANSION SET // BOOSTER PACK // GIGA DILUTION EDITION 5000",
+      "supply": 5000,
+      "twitterLink": "https://twitter.com/orpepes",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 14 Mar 2024 02:15:12 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

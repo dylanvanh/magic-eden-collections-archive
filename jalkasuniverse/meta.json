@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:33.466Z",
+  "slug": "jalkasuniverse",
+  "tokenCount": 798,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "jalkasuniverse",
+    "collection": {
+      "symbol": "jalkasuniverse",
+      "name": "Jalkas Universe",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-jalkasuniverse_pfp_1769561747789.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Jalkas Universe is a Free Mint initiative dedicated to expanding the Jalkas ecosystem, offering exclusive utility to committed community members. Holders of three or more Jalkas Universe NFTs gain full access to the proprietary software suite at www.jalkasuniverse.com.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/JalkasByWira",
+      "discordLink": "https://discord.gg/8Q6S8Qu9mq",
+      "websiteLink": "https://www.jalkas.io/",
+      "createdAt": "Wed, 28 Jan 2026 04:46:31 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "35Lf2joCisnATsXiArNoLDJFeYLhfqLMpV",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

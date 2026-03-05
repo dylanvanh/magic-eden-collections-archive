@@ -1,0 +1,47 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:20.843Z",
+  "slug": "on1force_void_drives",
+  "tokenCount": 3333,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "8a8b3aaa1cbcbf4af7ae4659a0c721b85ae384bb9f713b2d259a119cab5ff4a2i0",
+    "collectionSymbol": "on1force_void_drives",
+    "collection": {
+      "symbol": "on1force_void_drives",
+      "name": "0N1 FORCE: Void Drives",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-on1force_void_drives_pfp_1716066649751.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The key for the F4LL3N to harness the power of Runes. Void Drives are the essential artifacts that channel the untapped potential of Runes, fueling the F4LL3N's journey and empowering their abilities. As the cornerstone of their strength, these drives transform the raw energy of Runes into formidable power, ready to be unleashed in the Enclave.",
+      "supply": 3333,
+      "twitterLink": "https://twitter.com/0n1Force",
+      "discordLink": "https://discord.gg/0n1force",
+      "websiteLink": "https://www.0n1force.com/",
+      "createdAt": "Sat, 18 May 2024 21:38:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qey8kcctd587d859pdhd2ck2nzes5cq8kvkwmgf",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

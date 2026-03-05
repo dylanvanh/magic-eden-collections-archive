@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:43.005Z",
+  "slug": "pngs",
+  "tokenCount": 8888,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "pngs",
+    "collection": {
+      "symbol": "pngs",
+      "name": "PNGS",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/pngs.webp",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "8,888 Pengs giving you access to revenue share out of the first ever BRC-20 Bot created on top of Discord, and so much more. \nPowered by PNG Labs®.",
+      "supply": 8888,
+      "twitterLink": "https://twitter.com/pngs_xyz",
+      "discordLink": "https://discord.gg/pngsxyz",
+      "websiteLink": "https://pngs.xyz",
+      "createdAt": "Mon, 05 Feb 2024 12:53:09 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

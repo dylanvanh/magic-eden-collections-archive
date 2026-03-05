@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:37.376Z",
+  "slug": "skullx_collabs",
+  "tokenCount": 169,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "skullx_collabs",
+    "collection": {
+      "symbol": "skullx_collabs",
+      "name": "Skullx: The Artist Series",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-skullx_collabs_pfp_1754871027594.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A fusion of Bitcoin’s dark art legacy with 100+ fresh visions, pairing original on-chain relics with bold new interpretations that are forever bound.",
+      "supply": 56,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/SkullxNFT",
+      "discordLink": "",
+      "websiteLink": "https://skullx.com",
+      "createdAt": "Thu, 02 May 2024 14:48:35 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1pxz6f0kcz335n8mm2k06mg05qry7m3vv6lg0g06te9t2lchq0hwpqjz6h6h",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

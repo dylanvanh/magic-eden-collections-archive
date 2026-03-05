@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:45.328Z",
+  "slug": "themisfits",
+  "tokenCount": 2060,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "themisfits",
+    "collection": {
+      "symbol": "themisfits",
+      "name": "The Misfits",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-themisfits_pfp_1769797431847.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The Misfits aren’t tied to a single story or definition. They bring us back to a time when everything felt new, possibilities were endless, and the smallest things sparked joy. A playful mix of nostalgic charm and modern themes, this collection recalls childhood memories while embracing individuality and creativity. Inscribed on Bitcoin, each Misfit captures a bit of who we were while leaving room for what we’ll become. What will your Misfit represent?\"",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/TheMisfits___",
+      "discordLink": "https://discord.gg/vGQyAW34mR",
+      "websiteLink": "https://misfitslab.org/",
+      "createdAt": "Wed, 09 Apr 2025 14:32:09 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "39SQzDbLHxq1p4Z55PnjmReNiVqiSnsofY",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

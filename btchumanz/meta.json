@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:32.328Z",
+  "slug": "btchumanz",
+  "tokenCount": 1000,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "btchumanz",
+    "collection": {
+      "symbol": "btchumanz",
+      "name": "BTC Humanz",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-btchumanz_pfp_1710479604689.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "BTC Humanz is an Bitcoin Ordinals project crafted by the world-renowned artist Haizeel (https://haizeel.myportfolio.com/) known for his amazing work creating NFT collections such as Brohalla & SoDead.",
+      "supply": 1000,
+      "twitterLink": "https://twitter.com/Web3Humanz",
+      "discordLink": "https://discord.gg/humanz",
+      "websiteLink": "https://www.humanz.me/",
+      "createdAt": "Wed, 20 Mar 2024 17:02:47 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3Cnh58ouKwzwNAszNuhRXwG2zRPzeqxhhu",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

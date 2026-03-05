@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:42.281Z",
+  "slug": "planetary-ordinals",
+  "tokenCount": 68,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "planetary-ordinals",
+    "collection": {
+      "symbol": "planetary-ordinals",
+      "name": "Planetary Ordinals",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/planetary-ordinals.avif",
+      "chain": "btc",
+      "inscriptionIcon": "5cc66dc49244cd7f1c0a052af34de9c703eee7d4e06303ee263966d1a7a5c162i0",
+      "description": "One of the first NFT collections ever minted on Ordinals. Inscriptions #463-1103.",
+      "supply": 69,
+      "twitterLink": "https://twitter.com/ordeclipse",
+      "discordLink": "https://discord.gg/ordeclipse",
+      "websiteLink": "",
+      "createdAt": "Thu, 23 Mar 2023 04:06:38 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

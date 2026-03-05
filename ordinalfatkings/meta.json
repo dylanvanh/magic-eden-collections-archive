@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:31.328Z",
+  "slug": "ordinalfatkings",
+  "tokenCount": 10000,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "ordinalfatkings",
+    "collection": {
+      "symbol": "ordinalfatkings",
+      "name": "Ordinal Fat Kings",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordinalfatkings_pfp_1706774006325.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Ordinal Fat Kings is a 10k collection all inscribed on Pizza Sats, created to share the love of pizza culture among everyone who’s enthusiastic about collecting  rare sats and Ordinals.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/OFKCreations",
+      "discordLink": "https://discord.gg/ordinalfatkings",
+      "websiteLink": "",
+      "createdAt": "Thu, 25 Jan 2024 17:38:41 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Pizza"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

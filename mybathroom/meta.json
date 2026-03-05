@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:03.119Z",
+  "slug": "mybathroom",
+  "tokenCount": 75,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "mybathroom",
+    "collection": {
+      "symbol": "mybathroom",
+      "name": "BTCWC.My Bathroom",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-mybathroom_pfp_1724678934302.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Create an eternal exhibition using recursive inscriptions.",
+      "supply": 20,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BTC_WC",
+      "discordLink": "https://discord.gg/pjg3rHKmpg",
+      "websiteLink": "https://x.com/BTC_WC",
+      "createdAt": "Mon, 26 Aug 2024 04:16:38 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p8quhrlvxp92ky0cgcg4v3f68yr5w695qs6dppn26k6hn53xnkqyq0jdu7z",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

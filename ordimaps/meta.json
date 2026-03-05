@@ -1,0 +1,49 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:28.103Z",
+  "slug": "ordimaps",
+  "tokenCount": 390,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "ordimaps",
+    "collection": {
+      "symbol": "ordimaps",
+      "name": "OrdiMaps by Serc",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordimaps_pfp_1713504218669.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "OrdiMaps is a generative art collection represents topography, up and downs in two dimensions. OrdiMaps collection was created in C4D, using random effectors.",
+      "supply": 420,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/serc1n",
+      "discordLink": "https://discord.gg/RxjUrGDFjx",
+      "websiteLink": "https://www.serc1n.xyz/",
+      "createdAt": "Fri, 19 Apr 2024 06:27:02 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "33nh6JnikYBFZx6MXg79hVyrxZiYpVmjK1",
+      "enableCollectionOffer": true,
+      "useObjectTag": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

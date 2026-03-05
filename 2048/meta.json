@@ -1,0 +1,47 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:24.718Z",
+  "slug": "2048",
+  "tokenCount": 2048,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "865e310777264181725b1df775f387c0a4ba392224e055628f0a74a2ecebefeei0",
+    "collectionSymbol": "2048",
+    "collection": {
+      "symbol": "2048",
+      "name": "2048 by Harto",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-2048_pfp_1755266950846.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A generative art collection composed of 2048 unique inscriptions, each corresponding to a single word from the BIP-39 mnemonic standard",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://hartostudio.com/",
+      "createdAt": "Fri, 15 Aug 2025 17:38:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1qv7405x06r28axqz8j84cqcu54r9fd0sxpysmjz",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 785832,
+    "satBlockTime": "Mon, 17 Apr 2023 17:31:56 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

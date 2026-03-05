@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:44.700Z",
+  "slug": "thechefs",
+  "tokenCount": 2351,
+  "defaults": {
+    "contentType": "text/html",
+    "contentBody": "PCFET0NUWVBFIGh0bWw+DQo8aHRtbD4NCgk8aGVhZD4NCgkJPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCI+DQoJCTxzY3JpcHQ+DQoJCQl7DQoJCQkJY29uc3QgZmxpbmsgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdsaW5rJyk7DQoJCQkJZmxpbmsuaHJlZiA9ICJkYXRhOjtiYXNlNjQsaVZCT1J3MEtHZ289IjsNCgkJCQlmbGluay5yZWwgPSAiaWNvbiI7DQoJCQkJZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChmbGluayk7DQoJCQkJdmFyIHRva2VuaWRfc2F0aWQgPSAiMjgyMDA0MTc3NTkxOTY3IjsNCgkJCQl2YXIgdG9rZW5zYXR1cmkgPSAiL3Ivc2F0LyIgKyB0b2tlbmlkX3NhdGlkICsgIi9hdC8tMSI7DQoJCQkJZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignRE9NQ29udGVudExvYWRlZCcsIGZ1bmN0aW9uICgpIHsNCgkJCQkJZmV0Y2godG9rZW5zYXR1cmkpLnRoZW4oKHJlc3BvbnNlc2F0KSA9PiByZXNwb25zZXNhdC5qc29uKCkpLnRoZW4oKHNhdGpzb24pID0+IHsNCgkJCQkJCWlmIChzYXRqc29uLmlkKSB7DQoJCQkJCQkJZmV0Y2goIi9jb250ZW50LyIgKyBzYXRqc29uLmlkKS50aGVuKChyZXNwb25zZSkgPT4gcmVzcG9uc2UuYmxvYigpKS50aGVuKChibG9iKSA9PiBVUkwuY3JlYXRlT2JqZWN0VVJMKGJsb2IpKS50aGVuKCh1cmwpID0+IHsNCgkJCQkJCQkJdmFyIHNjcmlwdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpOw0KCQkJCQkJCQlzY3JpcHQuc3JjID0gdXJsOw0KCQkJCQkJCQlzY3JpcHQub25sb2FkID0gZnVuY3Rpb24gKCkgew0KCQkJCQkJCQkJd2luZG93LnNjcmlwdFJlYWR5KCk7DQoJCQkJCQkJCX07DQoJCQkJCQkJCWRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoc2NyaXB0KTsNCgkJCQkJCQl9KTsNCgkJCQkJCX0gZWxzZSB7DQoJCQkJCQkJZG9jdW1lbnQuYm9keS5zdHlsZS5iYWNrZ3JvdW5kQ29sb3IgPSAiIzAwMCI7DQoJCQkJCQkJY29uc29sZS5sb2coJ3VuaW5zY3JpYmVkJyk7DQoJCQkJCQl9DQoJCQkJCX0pOw0KCQkJCX0pOw0KCQkJfQ0KCQk8L3NjcmlwdD4NCgk8L2hlYWQ+DQo8L2h0bWw+",
+    "chain": "btc",
+    "parentInscriptionId": "42069d364b85b8ab028b84676f94487b2a7a16463a9d819d635f4baff539c669i0",
+    "collectionSymbol": "thechefs",
+    "collection": {
+      "symbol": "thechefs",
+      "name": "The Chefs By Ordinal Pizza OG",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-thechefs_pfp_1731451692623.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "This 2nd Collection from Ordinal Pizza OG which will bring time-linked evolving identities designed by @DesenhistaRedn. Each ordinal has a day and night form. The curated set of 1/1s was created in partnership with notable Bitcoin-Native Artists.",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/OrdinalPizzaOG",
+      "discordLink": "https://discord.gg/rbMfYbDxpn",
+      "websiteLink": "",
+      "createdAt": "Fri, 15 Nov 2024 16:21:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qdhry49yrjzamlpufxjshj76gxzsp7j3vaxs78w",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Pizza"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

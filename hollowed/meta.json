@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:28.197Z",
+  "slug": "hollowed",
+  "tokenCount": 200,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "hollowed",
+    "collection": {
+      "symbol": "hollowed",
+      "name": "Hollowed",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-hollowed_pfp_1765300480050.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Hollowed is a dark-art expansion to the Savages community, crafted by Savage x sxulR, bringing a sharper edge and a deeper shadow to the world of Savages.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/sxulrcat",
+      "discordLink": "https://discord.gg/KSxTxGYHe",
+      "websiteLink": "https://x.com/savages__111",
+      "createdAt": "Tue, 09 Dec 2025 17:24:18 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

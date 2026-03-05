@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:36.027Z",
+  "slug": "ordtxt",
+  "tokenCount": 3657,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "ordtxt",
+    "collection": {
+      "symbol": "ordtxt",
+      "name": "Ord",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordtxt_pfp_1701316651030.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The whole ordprotocol made into .txt files",
+      "supply": 3662,
+      "twitterLink": "https://twitter.com/ordinalgenesis",
+      "discordLink": "https://discord.gg/gkujnmupKx",
+      "websiteLink": "",
+      "createdAt": "Thu, 30 Nov 2023 03:30:52 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

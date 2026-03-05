@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:31.460Z",
+  "slug": "btc_x_puppets",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "btc_x_puppets",
+    "collection": {
+      "symbol": "btc_x_puppets",
+      "name": "xPuppets",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-btc_x_puppets_pfp_1712572539198.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "10000 xPuppets on bitcoin",
+      "supply": 10001,
+      "twitterLink": "https://twitter.com/FBitcoinPuppet",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 08 Apr 2024 11:51:59 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "34kqzkPKNwpUckEFgB6FJiHBtui6yZYFSo",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:57.710Z",
+  "slug": "robbers",
+  "tokenCount": 26,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "outputValue": 333,
+    "collectionSymbol": "robbers",
+    "collection": {
+      "symbol": "robbers",
+      "name": "OPEN THE VAULT",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-robbers_pfp_1770743406974.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "OPEN THE VAULT\nSecurity footage of a coordinated bank heist, permanently inscribed on Bitcoin.\n\n26 figures.\n26 roles.\nOne operation.\n\nNo faces.\nNo names.\nOnly function.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/b1tlord",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 10 Feb 2026 17:52:32 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q7ztayaznqzvcxf6fh0q8va3ur8ujlyfqpfutrx",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:47.127Z",
+  "slug": "psychonot_vibez",
+  "tokenCount": 175,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "psychonot_vibez",
+    "collection": {
+      "symbol": "psychonot_vibez",
+      "name": "PSYCHONØT Vibez",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-psychonot_vibez_pfp_1737695756530.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Assorted 1/1 PSYCHONØT artworks from community giveaways, raffles, auctions, and more. Experience the vibez. (We will periodically update collection as we inscribe and distribute more works.)",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/PSYCHONOT_X",
+      "discordLink": "https://discord.gg/spSztFwYQk",
+      "websiteLink": "http://psychonot.xyz",
+      "createdAt": "Fri, 24 Jan 2025 05:23:54 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qklwke8j4w89ljn4rn6lce0eq77np98rkkl4v7r",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

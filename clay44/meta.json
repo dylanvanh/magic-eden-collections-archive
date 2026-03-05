@@ -1,0 +1,46 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:42.907Z",
+  "slug": "clay44",
+  "tokenCount": 444,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "clay44",
+    "collection": {
+      "symbol": "clay44",
+      "name": "Clay:44",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-clay44_pfp_1736983249561.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "44cdc6680680e32099d6bd05e031f69899023cbdbb3630756df4ff26b2853f68i1",
+      "description": "Clay:44 presents a captivating art collection crafted entirely from clay. The pieces in this collection explore texture, form, and organic shapes, reflecting both abstract and natural influences from Bitcoin culture and the Room 44 Brand.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/RoomFourtyFour",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 15 Jan 2025 13:27:09 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "35GQWjwAVRNc1DARQqyC4NRVomyS7ZSRY4",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 78,
+    "satBlockTime": "Sun, 11 Jan 2009 01:00:54 GMT",
+    "satributes": [
+      "Block 78",
+      "Common",
+      "Silk Road",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

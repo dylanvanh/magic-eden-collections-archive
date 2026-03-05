@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:31.953Z",
+  "slug": "ordinalrugs",
+  "tokenCount": 147,
+  "defaults": {
+    "contentType": "image/webp",
+    "genesisTransactionBlockTime": "Mon, 26 Jun 2023 07:53:46 GMT",
+    "genesisTransactionBlockHash": "0000000000000000000125c2f38485a7117407bb3e9ad8cfe5b8c66eafe7c301",
+    "genesisTransactionBlockHeight": 795978,
+    "chain": "btc",
+    "collectionSymbol": "ordinalrugs",
+    "collection": {
+      "symbol": "ordinalrugs",
+      "name": "Ordinal Rugs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordinalrugs_pfp_1711137433943.png",
+      "chain": "btc",
+      "inscriptionIcon": "44731c310e77129d80762c8df3985776a3f153d4fe7fa175905d347914aefb37i0",
+      "description": "A unique collection of hand drawn rugs inscribed onto the bitcoin blockchain.",
+      "supply": 147,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ordinalrugs",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 03 Jul 2023 12:23:36 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

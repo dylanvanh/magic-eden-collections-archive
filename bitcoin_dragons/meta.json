@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:01.460Z",
+  "slug": "bitcoin_dragons",
+  "tokenCount": 408,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin_dragons",
+    "collection": {
+      "symbol": "bitcoin_dragons",
+      "name": "Bitcoin Immortal Dragons",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoin_dragons.webp",
+      "chain": "btc",
+      "inscriptionIcon": "66AE2EB2920E37F1ECC4FFFB0FFD82C9D857F260EFE4D8A490B0F30B9DF48B50I0",
+      "description": "Migrate your dragon from our Solana collection (see weblink) to create an elastic supply squeeze on 2 networks! Get Infinity-Forecast utility for holders. Ethos : At the dawn of eternity, the Infinity Dragons are taking over the Bitcoin network to finally achieve their ultimate purpose : Become Immortal. These are the Bitcoin Immortal Dragons, the first-of-their-kind.",
+      "supply": 369,
+      "twitterLink": "https://twitter.com/InfinitySerps",
+      "discordLink": "https://discord.gg/dmsrrqKB",
+      "websiteLink": "https://magiceden.io/marketplace/infinity_serpents",
+      "createdAt": "Mon, 08 May 2023 18:15:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3CJ7Q7LxkB3bfyG3HRd7i9Zp1Qes8zpK3C",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

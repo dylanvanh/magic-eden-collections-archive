@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:33.879Z",
+  "slug": "ordinookis",
+  "tokenCount": 2907,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ordinookis",
+    "collection": {
+      "symbol": "ordinookis",
+      "name": "Ordinookis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordinookis_pfp_1735758330457.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Originating from Tanuki, a Japanese Raccoon Dog, Ordinookis appeared in the Mempool!",
+      "supply": 2921,
+      "twitterLink": "https://twitter.com/ordinooki",
+      "discordLink": "https://discord.gg/NcjVSUJT4J",
+      "websiteLink": "http://ordinooki.wtf/",
+      "createdAt": "Thu, 09 Nov 2023 08:01:05 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ONCHAIN"
+      ],
+      "creatorTipsAddress": "3CvY72gQVJ8qS2jVmSbSSzTJBnWqCVPcK3",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

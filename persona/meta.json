@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:40.031Z",
+  "slug": "persona",
+  "tokenCount": 724,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "persona",
+    "collection": {
+      "symbol": "persona",
+      "name": "Persona by Rupture",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-persona_pfp_1703139529680.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Persona by Rupture - 750 Unique 1/1s inscribed on Bitcoin - Art for Art's Sake",
+      "supply": 210,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/RuptureNFT",
+      "discordLink": "https://discord.gg/pcCQAVdHKY",
+      "websiteLink": "",
+      "createdAt": "Thu, 21 Dec 2023 09:20:26 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "37UcpFaiLAvcbveyUJLxpwM2FgsZ1HX5Yi",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

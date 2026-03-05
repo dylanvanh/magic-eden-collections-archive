@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:33.267Z",
+  "slug": "insurgence_debauchery",
+  "tokenCount": 3499,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "insurgence_debauchery",
+    "collection": {
+      "symbol": "insurgence_debauchery",
+      "name": "Insurgence by Debauchery ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-insurgence_debauchery_pfp_1729297488215.png",
+      "chain": "btc",
+      "inscriptionIcon": "de7e203ee374845f2419ccc712ac2aa7a1d15941f487bf7d4b2f736cccc3230ai0",
+      "description": "3500 frogs. This is not your grandma's alpha group. IYKYK.",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/DebaucheryKEK",
+      "discordLink": "https://discord.gg/kYrY5qz5Tj",
+      "websiteLink": "https://debaucherykek.com/",
+      "createdAt": "Sat, 19 Oct 2024 02:11:59 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q2n0kfkhnj7na734mw46vspphsumfqd2dr0ec54",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

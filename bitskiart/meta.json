@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:20.479Z",
+  "slug": "bitskiart",
+  "tokenCount": 50,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitskiart",
+    "collection": {
+      "symbol": "bitskiart",
+      "name": "BITSKI ART",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitskiart_pfp_1732757367738.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "8359bbe580b2fdb2b658be40f4d9762bc67d903f1e99d25dde2236944f18d24ci0",
+      "description": "1/1 Art by BITSKI",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Bitski_Art",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 28 Nov 2024 02:13:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "345PyUJvr8pmxD6VeFYTcEbquiCVjw6jq5",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

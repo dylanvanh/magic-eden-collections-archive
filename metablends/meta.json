@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:51.597Z",
+  "slug": "metablends",
+  "tokenCount": 299,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "3518fb0f9112542df40f31d4c7dd6e9366acd8401ce3b4cc9b6f5c00d6d21fb3i0",
+    "collectionSymbol": "metablends",
+    "collection": {
+      "symbol": "metablends",
+      "name": "Metablends",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-metablends_pfp_1700883848986.gif",
+      "chain": "btc",
+      "inscriptionIcon": "c72c6111d90b56db4a9b6dd7f63016e78cab6d54f0d512704c3a510dad95647ei0",
+      "description": "Metablends is an interactive exploration of Bèzier curves on Bitcoin. To personalize your experience, activate a control panel by double clicking on the canvas. Created by @HeavySided and @RabbiGains",
+      "supply": 300,
+      "twitterLink": "https://twitter.com/metablends",
+      "discordLink": "",
+      "websiteLink": "https://twitter.com/metablends",
+      "createdAt": "Fri, 24 Nov 2023 23:03:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

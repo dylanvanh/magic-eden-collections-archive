@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:25.859Z",
+  "slug": "gob_btc",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "metaprotocol": "GOB",
+    "collectionSymbol": "gob_btc",
+    "collection": {
+      "symbol": "gob_btc",
+      "name": "GOB",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-gob_btc_pfp_1711003413847.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "GOB IS GOB IS GOB",
+      "supply": 16297,
+      "twitterLink": "https://twitter.com/gob_btc",
+      "discordLink": "https://discord.gg/gameofblocks",
+      "websiteLink": "https://www.ord.io/65481037",
+      "createdAt": "Sat, 23 Mar 2024 06:51:12 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p2h6myttuyh86js55kdgs97hz9y7uglnhfafqdc2mcc6a07wfwz9swy43gp",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

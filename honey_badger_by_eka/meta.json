@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:28.201Z",
+  "slug": "honey_badger_by_eka",
+  "tokenCount": 8,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "outputValue": 546,
+    "collectionSymbol": "honey_badger_by_eka",
+    "collection": {
+      "symbol": "honey_badger_by_eka",
+      "name": "Honey Badger by Eka",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-honey_badger_by_eka_pfp_1742209525834.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A Tribute to Resilience, Beauty & the Mystery of Bitcoin\n\nMeet Honey Badger, a vibrant symphony of colors, symbols, and layered narratives—an artwork that embodies the fearless, unbreakable spirit of Bitcoin itself. The honey badger, known for its tenacity and resilience, has long been a symbol in Bitcoin culture: it doesn’t care, it thrives against all odds, and it always finds a way.\n\n8 prints on Gamma",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://linktr.ee/ekalest",
+      "createdAt": "Mon, 17 Mar 2025 11:07:27 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "36XcEn7p2dMfnHshac21v3wsmSddYia8Qy",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

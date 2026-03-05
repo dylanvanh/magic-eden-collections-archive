@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:01.720Z",
+  "slug": "bitcoinbonesyndicate",
+  "tokenCount": 2591,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoinbonesyndicate",
+    "collection": {
+      "symbol": "bitcoinbonesyndicate",
+      "name": "Bitcoin Bone Syndicate",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoinbonesyndicate_pfp_1734466701639.png",
+      "chain": "btc",
+      "inscriptionIcon": "80e2a4bb06cec244fdbf2f31a5e8ef9a3485a595ea0cb03ef01c470280ab1488i1",
+      "description": "2600 Recursive hoodlums stored on the BTC chain",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/BitcoinBonesynd",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 17 Dec 2024 20:22:59 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "39xpSJPmW5NEWVxaM8U7nE1KWWyJhmBr56",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

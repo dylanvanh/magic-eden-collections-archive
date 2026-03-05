@@ -1,0 +1,49 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:03.219Z",
+  "slug": "bitcoineternals",
+  "tokenCount": 4444,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "5ec8513588f619a82c12d66ab0b6b83cdd00fb9f38fd32dcd63357d07b3e6c9ei0",
+    "collectionSymbol": "bitcoineternals",
+    "collection": {
+      "symbol": "bitcoineternals",
+      "name": "Bitcoin Eternals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoineternals_pfp_1742924586216.png",
+      "chain": "btc",
+      "inscriptionIcon": "385490f4b2755f3004b150a128bc16ead6e653badde4f5e06867021ac6bbf85bi0",
+      "description": "BITCOIN ETERNALS: A 4,444 bespoke statue silhouette collection symbolizing the pinnacle of elegant art and a PFP. Each Bitcoin Eternal stands as both a high-end museum-worthy masterpiece and a digital identity badge of a global movement. These statues encode the triumphs and traditions of ancient civilizations, bridging past and future.\nInscribed on the genesis satoshis of Block 9, each piece is a testament to Bitcoin's enduring legacy. The parent is the 6th largest Bitcoin inscription of all time. With over 2,220 unique traits meticulously crafted across 153 Bitcoin blocks, we've pushed the boundaries of on-chain art to new heights, offering connoisseurs a rare opportunity to own unparalleled craftsmanship and digital provenance.Each piece is a Muse, symbolizing standing the test of time.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/WQVSG8knqX",
+      "websiteLink": "https://magiceden.io/ordinals/marketplace/bitcoineternals",
+      "createdAt": "Tue, 25 Mar 2025 17:52:27 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qmcx7fuw6xw2lsg9e6a9zgqrpdzafv76vh34c25",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

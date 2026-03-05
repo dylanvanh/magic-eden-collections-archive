@@ -1,0 +1,48 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:30.567Z",
+  "slug": "idiots",
+  "tokenCount": 9989,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "79d26eb7bc3cb8917e7443959202e934162aaa0e0c995ac7880ee714eedfae45i0",
+    "collectionSymbol": "idiots",
+    "collection": {
+      "symbol": "idiots",
+      "name": "IDIOTS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-idiots_pfp_1742591101810.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "last is first | we're all idiots",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/idiotsbtc",
+      "discordLink": "https://discord.gg/6y5Xeegnrz",
+      "websiteLink": "https://www.idiots.land",
+      "createdAt": "Wed, 05 Feb 2025 21:20:38 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q3sgmpmvp7r8wjwclrdwm32y27drn8065yg28eh",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 78,
+    "satBlockTime": "Sun, 11 Jan 2009 01:00:54 GMT",
+    "satributes": [
+      "Block 78",
+      "Common",
+      "Silk Road",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:34.147Z",
+  "slug": "atlas-by-harto",
+  "tokenCount": 311,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "7d9648d656e6e12c86b32c3f83eb04567b17e70fee5f4d064cc855ccbe82d2e7i0",
+    "collectionSymbol": "atlas-by-harto",
+    "collection": {
+      "symbol": "atlas-by-harto",
+      "name": "Atlas by Harto",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-atlas-by-harto_pfp_1732832848050.png",
+      "chain": "btc",
+      "inscriptionIcon": "7d9648d656e6e12c86b32c3f83eb04567b17e70fee5f4d064cc855ccbe82d2e7i0",
+      "description": "\"Atlas\" is a visionary exploration of the interconnectedness of modern societies, expressed through the lens of generative art, cartography, and blockchain technology.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/harto_fr",
+      "discordLink": "",
+      "websiteLink": "https://hartostudio.com/",
+      "createdAt": "Thu, 28 Nov 2024 22:39:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1qrc636mfp94cgefng3nj94v9lvegjpd62w7tm27",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

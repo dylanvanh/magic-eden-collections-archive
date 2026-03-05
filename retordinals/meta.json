@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:55.989Z",
+  "slug": "retordinals",
+  "tokenCount": 4269,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "retordinals",
+    "collection": {
+      "symbol": "retordinals",
+      "name": "Retordinals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-retordinals_pfp_1713981871437.png",
+      "chain": "btc",
+      "inscriptionIcon": "6a212db51130387ac07c7d5cc4530ba01fa30d0a4d9f3372aa3a1bc8440177ebi7",
+      "description": "4269 Retordinals spawned from the Bitcoin Blockchain",
+      "supply": 4269,
+      "twitterLink": "https://twitter.com/Retordinals",
+      "discordLink": "",
+      "websiteLink": "https://retordlabs.com",
+      "createdAt": "Thu, 18 Apr 2024 01:01:55 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qjr242hcxnss4jygjlkmlqt7d3aytaj58we6rcm",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

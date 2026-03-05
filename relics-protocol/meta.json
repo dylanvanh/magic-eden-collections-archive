@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:53.533Z",
+  "slug": "relics-protocol",
+  "tokenCount": 3208,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "parentInscriptionId": "4e00929ef9849c20364d331e9b25d40b2f2f2ef8081d3cc769fd83c78d075f05i0",
+    "collectionSymbol": "relics-protocol",
+    "collection": {
+      "symbol": "relics-protocol",
+      "name": "$MBTC by Relics Protocol",
+      "imageURI": "https://media.cdn.magiceden.dev/launchpad//02db303e-93d5-4aa0-b1f0-12fdc647935c",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Relics is an experimental metaprotocol supporting liquidity bootstrapping and swaps on Bitcoin L1. MBTC Ordinals can be unwrapped into the Relics base token upon launch.",
+      "supply": 3210,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://x.com/relics_btc",
+      "discordLink": "",
+      "websiteLink": "https://docs.relicsprotocol.com/",
+      "createdAt": "Fri, 07 Mar 2025 15:28:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

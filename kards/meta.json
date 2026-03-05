@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:37.095Z",
+  "slug": "kards",
+  "tokenCount": 10100,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "kards",
+    "collection": {
+      "symbol": "kards",
+      "name": "N0 0RDINARY KARDS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-kards_pfp_1722530780828.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Welcome to KARDS, where n0k hold hands to earn NO•ORDINARY•KIND🚪#120 – GET A SEAT AT THE KARD TABLE!",
+      "supply": 54321,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/N00RDINARYKARDS",
+      "discordLink": "https://discord.gg/GES9jCpgbA",
+      "websiteLink": "https://www.seizectrl.io/",
+      "createdAt": "Thu, 01 Aug 2024 21:16:16 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3F9xsDLYAT4BmfA5f13B4u2Xg71tsk9NtP",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

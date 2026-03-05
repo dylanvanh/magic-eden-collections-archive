@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:32.838Z",
+  "slug": "ordinaltweets",
+  "tokenCount": 23,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "outputValue": 546,
+    "listed": false,
+    "listedPrice": 0,
+    "collectionSymbol": "ordinaltweets",
+    "collection": {
+      "symbol": "ordinaltweets",
+      "name": "OrdinalTweets",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordinaltweets_pfp_1722770499592.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "OrdinalTweets - this is the first ever collection of digital tweets in JPEG format that are inscribed on Bitmap: first 12. The following line is unique tweets of unique people on rare sats",
+      "supply": 12,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/OrdinalTweets",
+      "discordLink": "https://discord.gg/CX9uBVAtDT",
+      "websiteLink": "https://bitmapcapital.com",
+      "createdAt": "Sat, 03 Aug 2024 21:26:28 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

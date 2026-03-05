@@ -1,0 +1,46 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:53.085Z",
+  "slug": "recursions",
+  "tokenCount": 300,
+  "defaults": {
+    "contentType": "text/html",
+    "genesisTransaction": "d83a03639c63fe85de9d8724b607ecbb7e7575f159712611c80b6aed92ee33a8",
+    "genesisTransactionBlockTime": "Mon, 05 May 2025 19:30:13 GMT",
+    "genesisTransactionBlockHash": "00000000000000000001b19f27e4fef21a04d0583a6f86d38738c995113ef29c",
+    "genesisTransactionBlockHeight": 895406,
+    "chain": "btc",
+    "parentInscriptionId": "4799479ecdc3f5e23904a4db240310490248aae09c1b449cc8978fb56594d8a5i0",
+    "collectionSymbol": "recursions",
+    "collection": {
+      "symbol": "recursions",
+      "name": "Recursions by Billy Restey",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-recursions_pfp_1747858883692.png",
+      "chain": "btc",
+      "inscriptionIcon": "4799479ecdc3f5e23904a4db240310490248aae09c1b449cc8978fb56594d8a5i0",
+      "description": "Sourcing inscription data on Bitcoin, this algorithmic collection reconstructs early Ordinals into abstract collage.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/dvdnsZDRzk",
+      "websiteLink": "https://linktr.ee/billyrestey",
+      "createdAt": "Wed, 07 May 2025 17:11:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "33wS3vdqmWYGopFWt3QM2XSv28usFGUjKv",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "uncommon"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

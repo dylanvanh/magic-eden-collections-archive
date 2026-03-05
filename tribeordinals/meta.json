@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:48.268Z",
+  "slug": "tribeordinals",
+  "tokenCount": 450,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "tribeordinals",
+    "collection": {
+      "symbol": "tribeordinals",
+      "name": "Tribe Ordinals",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/tribeordinals.avif",
+      "chain": "btc",
+      "inscriptionIcon": "8baf2ba4ab56f3eacfff29cb99c58538930373cdbbed8d14c93a6293f397e0bfi0",
+      "description": "Our unique collection of ape characters now live on the Bitcoin ordinal chain. Tribe is a one-of-a-kind collection that originates from an alternate dimension, featuring a futuristic world ruled by a tech-savvy civilization of apes in a harsh and barren wasteland. Each ape in the collection is distinctive and collectible, and they are securely stored on the Bitcoin ordinal chain, ensuring the authenticity and ownership of each character. With Tribe's move to the Bitcoin ordinal chain, we are excited to offer our collectors an even more reliable and efficient platform to showcase their prized possession of these captivating apes",
+      "supply": 450,
+      "twitterLink": "https://twitter.com/tribeodyssey",
+      "discordLink": "https://discord.gg/0xapes",
+      "websiteLink": "https://www.tribeodyssey.com/",
+      "createdAt": "Wed, 03 May 2023 17:38:17 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

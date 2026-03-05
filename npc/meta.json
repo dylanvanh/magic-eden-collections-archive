@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:16.143Z",
+  "slug": "npc",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "npc",
+    "collection": {
+      "symbol": "npc",
+      "name": "NPC Ordinals",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/npc.avif",
+      "chain": "btc",
+      "inscriptionIcon": "b73493b3cda4146b6eae89f1541f8bb8c21674d923ecbeb09d198883509c434ei0",
+      "description": "10,000 of the most ordinary NPCs on the Bitcoin Blockchain.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/NPCOrdinals",
+      "discordLink": "https://discord.gg/UbmQb339vb",
+      "websiteLink": "https://npcordinal.xyz/index.html#",
+      "createdAt": "Sat, 20 May 2023 18:03:11 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

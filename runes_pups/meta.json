@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:30.940Z",
+  "slug": "runes_pups",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "runes_pups",
+    "collection": {
+      "symbol": "runes_pups",
+      "name": "Rune Pups (Concluded)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-runes_pups_pfp_1712182897522.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Pups the first real memecoin on Bitcoin. Rune Puppets are a pre-rune ordinal which are burned for Pups•World•Peace (Rune 13), now available as a burn / claim on pups.ordkit.xyz",
+      "supply": 10778,
+      "twitterLink": "https://twitter.com/PupsToken",
+      "discordLink": "",
+      "websiteLink": "https://www.pupstoken.com/",
+      "createdAt": "Mon, 18 Mar 2024 01:06:59 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "36RyT5M1cdSbUr49HJKX8hBbVRBYD2EaXT",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:18.935Z",
+  "slug": "frontline",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "84dcdfe35eb3643ccba9b651c983f856612c2b71e5b84c807fe05942df442260i0",
+    "collectionSymbol": "frontline",
+    "collection": {
+      "symbol": "frontline",
+      "name": "Frontline",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-frontline_pfp_1721548315151.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "There is no perfect world. There is no good without bad. What matters is where to draw the frontline. Frontline is Alexis André's first work on Bitcoin. André's generative art pieces have gained global recognition, showcased at prestigious events such as Art Basel, Siggraph, and COP26. His works have been featured in auctions at Sotheby's and Christie's. Frontline was created in collaboration with OnChainMonkey (https://magiceden.io/ordinals/marketplace/ocm-genesis ), and linked on-chain to OCM Genesis' Inscription 20219.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/MacTuitui",
+      "discordLink": "",
+      "websiteLink": "https://osura.com/collections/frontline/profile",
+      "createdAt": "Mon, 22 Jul 2024 19:06:22 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 802190,
+    "satBlockTime": "Tue, 08 Aug 2023 05:14:46 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

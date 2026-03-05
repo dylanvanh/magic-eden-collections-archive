@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:49.872Z",
+  "slug": "cypherglyphs",
+  "tokenCount": 256,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "cypherglyphs",
+    "collection": {
+      "symbol": "cypherglyphs",
+      "name": "Cypherglyphs by Billy Restey",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-cypherglyphs_pfp_1700217741742.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "256 original generative artworks by billyrestey. Each glyph embodies the spirit of the early cypherpunks––writing and encrypting code across the blockchain.",
+      "supply": 256,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/cypherglyphsBTC",
+      "discordLink": "https://discord.gg/rhV5RQevUc",
+      "websiteLink": "https://www.cypherglyphs.com/",
+      "createdAt": "Fri, 28 Apr 2023 01:54:35 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

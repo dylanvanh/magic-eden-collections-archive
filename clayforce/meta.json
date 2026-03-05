@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:44.612Z",
+  "slug": "clayforce",
+  "tokenCount": 9982,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "clayforce",
+    "collection": {
+      "symbol": "clayforce",
+      "name": "Clay Force: Satoshinauts by Brrrbon",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-clayforce_pfp_1714048847838.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Imagine 10,000 vibrant clay alien creatures, crafted by hand, alive on the Bitcoin blockchain! Led by Claymander-in-Chief Brrrbon, this community's whimsical creations are immortalized for all to enjoy. It's a fusion of art, tech, and imagination - a true spectacle of creativity!",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Brrrbon_",
+      "discordLink": "https://discord.gg/baS56CqsHW",
+      "websiteLink": "https://claycollective.io",
+      "createdAt": "Wed, 17 Apr 2024 19:23:48 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pp565rzpa3xx4272tfcte8stdyc9cckra8u3xysy6u8qxmw2rz8hqgdqsh8",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

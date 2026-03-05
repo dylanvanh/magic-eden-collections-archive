@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:41.580Z",
+  "slug": "super-early-ordies",
+  "tokenCount": 420,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "super-early-ordies",
+    "collection": {
+      "symbol": "super-early-ordies",
+      "name": "Super Early Ordies",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/super-early-ordies.avif",
+      "chain": "btc",
+      "inscriptionIcon": "5547725a50ad00dfe41bbb50562e3707362d81546de5b5a185e997085d9954c4i0",
+      "description": "420 Super Early Normies converted into Ordies",
+      "supply": 420,
+      "twitterLink": "https://twitter.com/EarlyOrdies",
+      "discordLink": "https://discord.gg/earlyordies",
+      "websiteLink": "https://earlyordies.com/",
+      "createdAt": "Mon, 20 Mar 2023 21:05:05 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

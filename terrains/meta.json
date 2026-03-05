@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:42.458Z",
+  "slug": "terrains",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "outputValue": 546,
+    "collectionSymbol": "terrains",
+    "collection": {
+      "symbol": "terrains",
+      "name": "TERRAINS by ThankYouX",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-terrains_pfp_1705276517842.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Terrains by ThankYouX is a collection of 100 unique artworks.",
+      "supply": 100,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ThankYouX",
+      "discordLink": "https://discord.gg/PRJ7F7J69n",
+      "websiteLink": "",
+      "createdAt": "Mon, 15 Jan 2024 00:58:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

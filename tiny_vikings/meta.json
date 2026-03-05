@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:46.458Z",
+  "slug": "tiny_vikings",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "f7668088d402a649885065a06a8d9e860eeabc44809d7b5804f6843f727283c7i0",
+    "collectionSymbol": "tiny_vikings",
+    "collection": {
+      "symbol": "tiny_vikings",
+      "name": "Tiny Vikings",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-tiny_vikings_pfp_1710634258276.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Tiny Vikings are the vikings of Bitcoin. The Tiny Vikings have materialized on Bitcoin to unite with humans in the fight against centralized power and help build out the Bitcoin economy.Join the tiny vikings and support the build out of Bitcoin as the next economic system.",
+      "supply": 20000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Tiny__Vikings",
+      "discordLink": "",
+      "websiteLink": "https://tinyvikings.xyz",
+      "createdAt": "Mon, 18 Mar 2024 17:55:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

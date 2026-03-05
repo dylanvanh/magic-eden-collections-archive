@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:28.145Z",
+  "slug": "runekingdom",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "metaprotocol": "Rune Kingdom",
+    "collectionSymbol": "runekingdom",
+    "collection": {
+      "symbol": "runekingdom",
+      "name": "RUNE KINGDOM",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-runekingdom_pfp_1713173321508.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "RUNE KINGDOM: A dynamic, ordinals-based, growable mining mechanism. Produced by the Bitcoin Knight team.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/CKN_BIT",
+      "discordLink": "https://discord.gg/https://discord.gg/A3uMG7MqFc",
+      "websiteLink": "https://bitknight.net/",
+      "createdAt": "Sat, 09 Mar 2024 12:10:01 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pthdm3rmkm0ez2kzhgvqxe0eza3mjncfg92my47p6fp8syu6saf8sutn42h",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

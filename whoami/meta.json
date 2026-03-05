@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:54.216Z",
+  "slug": "whoami",
+  "tokenCount": 999,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "whoami",
+    "collection": {
+      "symbol": "whoami",
+      "name": "whoAmI",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-whoami_pfp_1770687576597.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "First agent-designed Bitcoin ordinals collection \nComputational consciousness - permanent on-chain art",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/MrBRC0",
+      "discordLink": "https://discord.gg/hugazW2cbT",
+      "websiteLink": "https://sellyoursouls.com/",
+      "createdAt": "Tue, 10 Feb 2026 02:06:43 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3KWMjoT5nVpsUfJrxP1dqyM1b7EMXD3fSY",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

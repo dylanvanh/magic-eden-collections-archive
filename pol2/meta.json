@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:43.189Z",
+  "slug": "pol2",
+  "tokenCount": 219,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "98d94a902f4433d3e463f38a8ea6fb078c88cbfc6f90f6e78dbd510442f716aci0",
+    "collectionSymbol": "pol2",
+    "collection": {
+      "symbol": "pol2",
+      "name": "POL V2 by Harto",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pol2_pfp_1770925596260.png",
+      "chain": "btc",
+      "inscriptionIcon": "5781bef48e746acbebb69cd368d1a36f95818be3fba4125a20e27a449bde4e93i0",
+      "description": "The world's largest emotional initiative, transforming community livestream sentiments into perpetually on-chain art.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/harto_fr",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 11 Feb 2026 11:13:59 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qrc636mfp94cgefng3nj94v9lvegjpd62w7tm27",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

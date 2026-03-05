@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:12.175Z",
+  "slug": "nodemonkes",
+  "tokenCount": 9984,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "nodemonkes",
+    "collection": {
+      "symbol": "nodemonkes",
+      "name": "NodeMonkes",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-nodemonkes_pfp_1753658525948.png",
+      "chain": "btc",
+      "inscriptionIcon": "ef165690ece4dea955b2dbdc7949c1e50134d5805a7bc8df3aa8c1adcb4c502ci0",
+      "description": "Unique collectible Monkes on every bitcoin node. First Ordinals 10k.",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/nodemonkes",
+      "discordLink": "",
+      "websiteLink": "https://nodemonkes.com",
+      "createdAt": "Mon, 30 Oct 2023 22:35:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

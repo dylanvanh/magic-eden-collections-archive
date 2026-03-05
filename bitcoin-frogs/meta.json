@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:50.482Z",
+  "slug": "bitcoin-frogs",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-frogs",
+    "collection": {
+      "symbol": "bitcoin-frogs",
+      "name": "Bitcoin Frogs",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoin-frogs.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Launched on March 8 2023, Bitcoin Frogs are 10,000 digital collectibles that will live on Bitcoin forever. No more will ever be created. Rarities of traits in each layer are equal, allowing subjective appreciation of aesthetics and Satoshi-based rarities to emerge.",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BitcoinFrogs",
+      "discordLink": "https://discord.gg/PfGq3z2Xtn",
+      "websiteLink": "https://bitcoinfrogs.com",
+      "createdAt": "Mon, 20 Mar 2023 21:02:10 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

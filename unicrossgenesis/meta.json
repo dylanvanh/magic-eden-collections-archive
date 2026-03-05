@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:50.591Z",
+  "slug": "unicrossgenesis",
+  "tokenCount": 1000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ZW4+Cgk8aGVhZD4KCQk8bWV0YSBjaGFyc2V0PXV0Zi04PgoJCTxzY3JpcHQgdHlwZT1tb2R1bGUgc3JjPS9jb250ZW50L2RhNmE0NTIwMzkwYzZlMDRlNDRlY2YzZmVhNmM3OWNmNTFiYzI5YTUwMDMzNGRkZWIwYTgyNzFhYmVkYjlkMTNpMD48L3NjcmlwdD4KCQk8c3R5bGU+CgkJCW1vZGVsLXZpZXdlciB7IHBvc2l0aW9uOiBmaXhlZDsgd2lkdGg6IDEwMCU7IGhlaWdodDogMTAwJTsgfQoJCTwvc3R5bGU+Cgk8L2hlYWQ+Cgk8Ym9keT4KCQk8bW9kZWwtdmlld2VyIHNyYz0vY29udGVudC9jNWQ4YjE3MzczNTM0NjA0NmZhMTlmYzliMDAwNGEyMjIyZWZkNDVmNmZjYjZlMTgxZjRhYjljN2Y5NWIxZDE0aTAgYXV0by1yb3RhdGU9dHJ1ZSBjYW1lcmEtY29udHJvbHM9dHJ1ZSBzaGFkb3ctaW50ZW5zaXR5PTE+PC9tb2RlbC12aWV3ZXI+Cgk8L2JvZHk+CjwvaHRtbD4=",
+    "chain": "btc",
+    "parentInscriptionId": "c5d8b173735346046fa19fc9b0004a2222efd45f6fcb6e181f4ab9c7f95b1d14i0",
+    "metaprotocol": "UniCross Genesis",
+    "collectionSymbol": "unicrossgenesis",
+    "collection": {
+      "symbol": "unicrossgenesis",
+      "name": "UniCross Genesis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-unicrossgenesis_pfp_1710307911842.gif",
+      "chain": "btc",
+      "inscriptionIcon": "206755da7906ce19a3d3e01872cf5580866e12a8a42bd8a9b7707d0cb3f96c42i0",
+      "description": "UniCross Genesis is a collection of 1000 NFTs issued on Bitcoin which represents your early involvement and the value you bring in the UniCross ecosystem.",
+      "supply": 1000,
+      "twitterLink": "https://twitter.com/UniCrossGlobal",
+      "discordLink": "https://discord.gg/unicross",
+      "websiteLink": "https://testnet.unicross.xyz",
+      "createdAt": "Wed, 13 Mar 2024 06:00:16 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "UniCross Genesis"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

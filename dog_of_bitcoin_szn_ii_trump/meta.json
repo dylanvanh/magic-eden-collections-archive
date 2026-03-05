@@ -1,0 +1,50 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:59.215Z",
+  "slug": "dog_of_bitcoin_szn_ii_trump",
+  "tokenCount": 195,
+  "defaults": {
+    "contentType": "text/html",
+    "contentBody": "HzkCIJwHti1ju1iMZuLbxsVIIb3pbE7lR3T0OFC+jKpZ9ySgmC2FlAbZSfE5dc4flKKXhZG0eeT5C8xsYLJh7CKH8GAzkI8E/FbMSd27HK/rFPA1c0t2y7S2w+5hRHNII36qMTe33a7fbaoLrBYT/8ylfipSSpw1LHgOwMoQO4/8MIfCbXuoE5sinwySYrmc38AoWRb/fLaGHXT2L0CC3jiKI+s4cuxTIedjYnQ+MjZxyKkTjpg4CkOvtU5Es05d5Cn2lKAvcdcASECDM7VdrYX75blns0q066draCfeqJsphWawuZQbwPKwXcKFGXOTp0tcXEopJ5hDhlL8P2SMTwruL4Ig9rpM/kHb0uYRRWY0x5ua80kI",
+    "genesisTransaction": "d09ddc17a78e1f4db0fef4154f5e49283a0ecda90f1fcb8aae87c289bfcbbd09",
+    "genesisTransactionBlockTime": "Sat, 05 Apr 2025 23:52:29 GMT",
+    "genesisTransactionBlockHash": "000000000000000000018846be10c065d4fd0ba1302e3babfe9decee5f8bded7",
+    "genesisTransactionBlockHeight": 891127,
+    "chain": "btc",
+    "parentInscriptionId": "d09e275264ce356f7145e05f75eae24298e7fda684d19f8ca45ff008287b0d09i1",
+    "collectionSymbol": "dog_of_bitcoin_szn_ii_trump",
+    "collection": {
+      "symbol": "dog_of_bitcoin_szn_ii_trump",
+      "name": "$DOG | Ordinals - SZN II Trump",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dog_of_bitcoin_szn_ii_trump_pfp_1751219339258.png",
+      "chain": "btc",
+      "inscriptionIcon": "d09ddc17a78e1f4db0fef4154f5e49283a0ecda90f1fcb8aae87c289bfcbbd09i18",
+      "description": "$DOG | Ordinals is currently in Season II of a planned 10-season series, each featuring distinct artwork by top artists.\n\nThis is the Trump set from Season II, inscribed on rare Trump sats sourced from President Trump’s own Bitcoin transactions.\n\nEvery $DOG Plushie drop, no matter which season, includes a one-to-one $DOG PFP Ordinal for that season. That way, you can proudly rock the latest Dog of Bitcoin PFP while bull-posting your life about $DOG on social media.\n\nAll traits are carefully crafted with $DOG holders and Bitcoiners in mind. These PFPs are also our way of giving back to the community, in the real free and fair way.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/5Yntvs5pJM",
+      "websiteLink": "https://x.com/DogOfBitcoin",
+      "createdAt": "Sun, 29 Jun 2025 18:24:05 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q9nek2arlxs3vvuws3hg0a4t9y6wmmw4g07ua20",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 43008,
+    "satBlockTime": "Sun, 28 Feb 2010 09:16:55 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

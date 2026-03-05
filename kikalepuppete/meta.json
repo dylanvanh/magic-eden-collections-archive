@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:41.761Z",
+  "slug": "kikalepuppete",
+  "tokenCount": 4994,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "kikalepuppete",
+    "collection": {
+      "symbol": "kikalepuppete",
+      "name": "KIKA",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-kikalepuppete_pfp_1730134997749.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "KIKA IS HERE TO MAKE NEW FRIENDS",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/kikalepuppete",
+      "discordLink": "https://discord.gg/rBvTreEZpg",
+      "websiteLink": "",
+      "createdAt": "Mon, 28 Oct 2024 19:23:36 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3CrSp49dGhQJoAkhqeg4YsLiXbics3E86P",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

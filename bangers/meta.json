@@ -1,0 +1,48 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:34.449Z",
+  "slug": "bangers",
+  "tokenCount": 1287,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bangers",
+    "collection": {
+      "symbol": "bangers",
+      "name": "Bangers",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bangers_pfp_1709221148391.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Bangers is a 1/1 hand-drawn collection created by DigitalDamage inspired in punk-rock culture  inscribed in Block9. AFM!",
+      "supply": 666,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BtcBangers",
+      "discordLink": "https://discord.gg/sRCrjw7e5t",
+      "websiteLink": "https://www.btcbangers.xyz/",
+      "createdAt": "Thu, 29 Feb 2024 16:10:16 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q9dqquka9uqar9vq5p6cwg78xqx9kalxte5ezua",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

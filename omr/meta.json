@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:20.321Z",
+  "slug": "omr",
+  "tokenCount": 3333,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "omr",
+    "collection": {
+      "symbol": "omr",
+      "name": "OMR",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-omr_pfp_1759773397024.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "3333 Elite Rat Ordinals",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/OMR_btc",
+      "discordLink": "https://discord.gg/5f7UGRAymX",
+      "websiteLink": "https://omr.wtf/",
+      "createdAt": "Mon, 06 Oct 2025 18:11:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pjugsk2dcsepl8m2getn9uzqcvvf9npwt72ppgh8jke249zxtrtrs2w7qkr",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

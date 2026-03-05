@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:19.157Z",
+  "slug": "omb",
+  "tokenCount": 8998,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "omb",
+    "collection": {
+      "symbol": "omb",
+      "name": "Ordinal Maxi Biz (OMB)",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/omb.avif",
+      "chain": "btc",
+      "inscriptionIcon": "https://ordinals.com/inscription/f9ccead93698e4124b0a04b46857a9ee49a326340f37187729627ab895119340i0",
+      "description": "--- .-. -.. .. -. .- .-.. / -- .- -..- .. / -... .. --.. / -.--. --- -- -... -.--.-",
+      "supply": 2100,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/OrdinalMaxiBiz",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 31 Mar 2023 13:48:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qkgh9nzwqajrwmzcddy2eua2rgay0nqggs436ws",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

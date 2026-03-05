@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:34.999Z",
+  "slug": "seizectrl",
+  "tokenCount": 404,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "seizectrl",
+    "collection": {
+      "symbol": "seizectrl",
+      "name": "Seize CTRL",
+      "imageURI": "https://bafybeihpwlnidlpxpx6dlhhzqzwtyrco65dkq4sjlcm37p42yeahdaokbm.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "82f5fb13a7074f3ad849461d8e6ca76958e7e1b81ed7144fc56e255b8cada7d3i0",
+      "description": "404 artworks inscribed on Uncommon Satoshis by CTRL. Every piece is a direct descendant of the first Rare Satoshi inscription. CTRL is a Bitcoin native brand evolving culture for the post-fiat future.",
+      "supply": 404,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/SeizeCTRL",
+      "discordLink": "",
+      "websiteLink": "https://www.seizectrl.io/",
+      "createdAt": "Tue, 27 Jun 2023 19:27:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1pl6tntqf0a7n40h752kcrcesay2937v5n9ju053g5w8kcd8p0kffs7g7nj5",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "uncommon"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

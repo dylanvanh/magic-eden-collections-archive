@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:46.420Z",
+  "slug": "power-artifact",
+  "tokenCount": 6341,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "power-artifact",
+    "collection": {
+      "symbol": "power-artifact",
+      "name": "PWER Artifact",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-power-artifact_pfp_1690123959898.png",
+      "chain": "btc",
+      "inscriptionIcon": "ae780b444520ae3dccd881c51df35131ba80bcb672b7b66f52c018c84d565d89i0",
+      "description": "Collect them all & use them in Satoria MMORPG",
+      "supply": 6357,
+      "twitterLink": "https://twitter.com/btcordinal",
+      "discordLink": "https://discord.gg/btcmachine",
+      "websiteLink": "https://www.satoria.world/",
+      "createdAt": "Sun, 23 Jul 2023 15:03:24 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcmn0l7w382ygvpehvtz57n2r75l5j7nyzkq54lf8zr3pm48y0aesh4pd96",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

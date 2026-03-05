@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:35.697Z",
+  "slug": "shids",
+  "tokenCount": 7777,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "shids",
+    "collection": {
+      "symbol": "shids",
+      "name": "Shids ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-shids_pfp_1700529408434.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "7777 shidsslef-incriebeded colleccshunnbitscorn blogchain initlmwo",
+      "supply": 7777,
+      "twitterLink": "https://twitter.com/7777shids",
+      "discordLink": "",
+      "websiteLink": "https://shids.ordinalgenesis.xyz",
+      "createdAt": "Tue, 21 Nov 2023 01:20:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3QH16odrc7RysYubC1XUaEPQsdNosgiA1X",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:42.201Z",
+  "slug": "taprootbitches",
+  "tokenCount": 3314,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "taprootbitches",
+    "collection": {
+      "symbol": "taprootbitches",
+      "name": "Taproot Bitches",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-taprootbitches_pfp_1727331066024.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "wicked brew of frenzy troll spells and defend chaos, eternally inscribed on Bitcoin",
+      "supply": 3334,
+      "twitterLink": "https://twitter.com/Taprootbitches",
+      "discordLink": "",
+      "websiteLink": "https://taprootbitches.com/",
+      "createdAt": "Wed, 18 Sep 2024 01:10:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qv9srlkl2zuhprnx4j5dp4yxudu0wa0ecjtfk2k",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

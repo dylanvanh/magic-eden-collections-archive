@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:53.401Z",
+  "slug": "wall-st-bulls-ordinals",
+  "tokenCount": 420,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "wall-st-bulls-ordinals",
+    "collection": {
+      "symbol": "wall-st-bulls-ordinals",
+      "name": "Wall St Bulls Ordinals",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/wall-st-bulls-ordinals.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Lambos Or Food Stamps",
+      "supply": 420,
+      "twitterLink": "https://twitter.com/wallstbullsNFT",
+      "discordLink": "https://discord.gg/Sxk276QS",
+      "websiteLink": "https://www.wallstreetbulls.io/",
+      "createdAt": "Mon, 22 May 2023 03:42:00 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

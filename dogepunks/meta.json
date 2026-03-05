@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:59.890Z",
+  "slug": "dogepunks",
+  "tokenCount": 9998,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "dogepunks",
+    "collection": {
+      "symbol": "dogepunks",
+      "name": "DogePunks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dogepunks_pfp_1705318347182.png",
+      "chain": "btc",
+      "inscriptionIcon": "a4dd23ce0651cca0683983dc6411616e8ef9b38658266b641f53b66e2bfc9e7di0",
+      "description": "One of the first free-mint collectible characters of 10,000 ordinals on-chain",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/DogePunksBTC",
+      "discordLink": "https://discord.gg/4Yjr2c523E",
+      "websiteLink": "https://www.dogepunks.xyz/",
+      "createdAt": "Mon, 20 Mar 2023 21:03:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

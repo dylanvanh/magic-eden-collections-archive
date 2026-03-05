@@ -1,0 +1,52 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:53.574Z",
+  "slug": "deus-ex-machina-by-cybersea",
+  "tokenCount": 400,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "genesisTransaction": "9119da1b4289dae536b15c0efe4b68503194097107412f60489c68e97b484434",
+    "genesisTransactionBlockTime": "Thu, 01 Feb 2024 19:23:44 GMT",
+    "genesisTransactionBlockHash": "000000000000000000002527e317a23c8723b58fe70f153a6f76b1145b3143f5",
+    "genesisTransactionBlockHeight": 828425,
+    "chain": "btc",
+    "parentInscriptionId": "3f4be9cef6c8fb13f88980c909bd76175dbd3b381c449a7493dc901b14933afbi0",
+    "outputValue": 546,
+    "collectionSymbol": "deus-ex-machina-by-cybersea",
+    "collection": {
+      "symbol": "deus-ex-machina-by-cybersea",
+      "name": "Deus Ex Machina by CyberSea X Vivid Gallery",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-deus-ex-machina-by-cybersea_pfp_1728631621032.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "400 Cyber Punk-style generative artworks using real-time bitcoin data to create a fully animated experience. Art by CyberSea curated by Vivid Gallery.",
+      "supply": 400,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/vivid_ordinals",
+      "discordLink": "https://discord.gg/qShxW9HGDe",
+      "websiteLink": "https://www.vivid.gallery/generative/deus-ex-machina?utm_source=magiceden",
+      "createdAt": "Fri, 02 Feb 2024 16:18:33 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1qkymzqszjjl346u36n02umg35e9ch29aewqz9lnctm5tuxv2qulpq37s6at",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 102110,
+    "satBlockTime": "Tue, 11 Jan 2011 13:28:18 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

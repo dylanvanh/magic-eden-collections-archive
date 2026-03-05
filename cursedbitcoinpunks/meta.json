@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:49.799Z",
+  "slug": "cursedbitcoinpunks",
+  "tokenCount": 5741,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "cursedbitcoinpunks",
+    "collection": {
+      "symbol": "cursedbitcoinpunks",
+      "name": "Cursed Bitcoin Punks",
+      "imageURI": "https://i.imgur.com/mCcy8vP.png",
+      "chain": "btc",
+      "inscriptionIcon": "8566a8abb71f282cae4ade019d0bf31e090261e805456ef63f0f084475a1c789i0",
+      "description": "The first 10k Cursed Ordinals Collection on Bitcoin",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/CursedBTCPunks",
+      "discordLink": "",
+      "websiteLink": "https://cursedbitcoinpunks.com/",
+      "createdAt": "Sat, 17 Jun 2023 14:17:16 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

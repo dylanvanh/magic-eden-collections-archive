@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:36.303Z",
+  "slug": "ordz-heroes",
+  "tokenCount": 3324,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ordz-heroes",
+    "collection": {
+      "symbol": "ordz-heroes",
+      "name": "Ordz Heroes",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordz-heroes.webp",
+      "chain": "btc",
+      "inscriptionIcon": "197236bf84830c7b453af7aee7858b57c67ceee9f089e3fd46087d7cf308f378i0",
+      "description": "The first playable PFP on bitcoin, join the new game season of Ordz Games and become legendary heroes!",
+      "supply": 3333,
+      "twitterLink": "https://twitter.com/OrdzGames",
+      "discordLink": "https://discord.gg/ordzgames",
+      "websiteLink": "https://www.ordz.games/",
+      "createdAt": "Wed, 31 May 2023 15:36:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

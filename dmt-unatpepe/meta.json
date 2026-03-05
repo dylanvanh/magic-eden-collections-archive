@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:54.989Z",
+  "slug": "dmt-unatpepe",
+  "tokenCount": 2016,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "dmt-unatpepe",
+    "collection": {
+      "symbol": "dmt-unatpepe",
+      "name": "DMT-UNATPEPE",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dmt-unatpepe_pfp_1709246924274.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Connoisseurs of Pepe culture pioneering new frontiers in the digital matter theory (DMT) world.",
+      "supply": 2016,
+      "twitterLink": "https://twitter.com/unatpepe",
+      "discordLink": "https://discord.gg/G2XG6kXz6m",
+      "websiteLink": "https://unatpepe.com/",
+      "createdAt": "Fri, 01 Mar 2024 12:46:51 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:34.590Z",
+  "slug": "savages",
+  "tokenCount": 69,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "parentInscriptionId": "c7b28236b102a18c4253ea379cf06279ec903c8ea83b75422f30663e14e8c0c7i0",
+    "collectionSymbol": "savages",
+    "collection": {
+      "symbol": "savages",
+      "name": "Savages",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-savages_pfp_1754545249308.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Savage by nature, eternal by code.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/4rr2aBkWsS",
+      "websiteLink": "",
+      "createdAt": "Thu, 07 Aug 2025 17:31:05 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 291777,
+    "satBlockTime": "Sat, 22 Mar 2014 03:22:14 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

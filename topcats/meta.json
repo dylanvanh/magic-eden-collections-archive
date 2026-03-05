@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:47.429Z",
+  "slug": "topcats",
+  "tokenCount": 1111,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "topcats",
+    "collection": {
+      "symbol": "topcats",
+      "name": "tOPCATs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-topcats_pfp_1744935079610.png",
+      "chain": "btc",
+      "inscriptionIcon": "905bde3b0145e81af721e00e1fc9f5ca211e384271bf79bc307463d4a8418999i0",
+      "description": "tOPCATs is a 1111 piece collection of cartoon wizard cats, featuring tiered rarity, recursion, tributes, Easter eggs, 1/1s and animated pieces. all inscribed on exotic sats.\n\nOur characters pay tribute to some of our favourite Bitcoin & Ordinals collections and entities. A playful yet purposeful nod to what makes this space special.\n\nOwning a tOPCATs NFT is more than just art—it’s your membership pass!  Every piece grants access to our community, with future benefits & utility tiered by rarity.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/eX6rcHDJFB",
+      "websiteLink": "",
+      "createdAt": "Sun, 20 Apr 2025 17:19:31 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "38hwgV8c3ZMZErvTEsJWwLkcCBhhpGbB3v",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

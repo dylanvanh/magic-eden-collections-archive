@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:28.358Z",
+  "slug": "btc-relics-ai-edition-1",
+  "tokenCount": 150,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "btc-relics-ai-edition-1",
+    "collection": {
+      "symbol": "btc-relics-ai-edition-1",
+      "name": "BTC RELICS - EDITION #1",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/btc-relics-ai-edition-1.avif",
+      "chain": "btc",
+      "inscriptionIcon": "278ecc603ec05cd479c146a001c41b81283dfc0ffb9e1fc4eaa8f305e99a2739i0",
+      "description": "BTC Relics is an NFT project enabled by the Ordinals protocol on Bitcoin. Join us on a journey through the fascinating history of Bitcoin - from its humble beginnings in 2009 to its current worldwide acceptance.\n\nA Sub-1M Collection.",
+      "supply": 150,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/RelicsOrdinals",
+      "discordLink": "https://discord.gg/TMCUamTGdm",
+      "websiteLink": "https://btc-relics.com/",
+      "createdAt": "Sat, 01 Apr 2023 13:37:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

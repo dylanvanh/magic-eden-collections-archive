@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:22.395Z",
+  "slug": "orbs",
+  "tokenCount": 500,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "orbs",
+    "collection": {
+      "symbol": "orbs",
+      "name": "Orbinals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-orbs_pfp_1688582750353.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Orbinals is a sub 300k freemint collection to token gate the discord server of ExtraOrdinals, a project providing alpha, giveaways, education, news, inscriptions services, fractionalized investment opportunities and more.",
+      "supply": 500,
+      "twitterLink": "https://twitter.com/ExtraordinalBTC",
+      "discordLink": "https://discord.gg/extraordinals",
+      "websiteLink": "https://extraordinal.io/",
+      "createdAt": "Wed, 05 Jul 2023 19:22:24 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qpyzlutxlsj0steudutpc69psvfup0glh6aj69x",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

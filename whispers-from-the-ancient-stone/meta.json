@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:54.118Z",
+  "slug": "whispers-from-the-ancient-stone",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "contentBody": "PHN2ZyB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48aW1hZ2UgaGVpZ2h0PSIxMDAlIiB3aWR0aD0iMTAwJSIgaHJlZj0iL2NvbnRlbnQvMzY1ZThiZmNlNTk0OTM1YTE3OGU2NmM3MDkxMzliMjU4MmRjYzgyZWU0ZTM2YmI3NDU4MDU3Y2Y2OGJjNDQxOWkwIi8+PC9zdmc+",
+    "chain": "btc",
+    "collectionSymbol": "whispers-from-the-ancient-stone",
+    "collection": {
+      "symbol": "whispers-from-the-ancient-stone",
+      "name": "Whispers from the Ancient Stone: Prelude",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-whispers-from-the-ancient-stone_pfp_1711553584352.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Long before blockchain, the Great Runestone wielded mystical powers. Lost for ages, it resurfaces now, whispering untold secrets. Only true prophets can commune with it, and holders of The Prophecy and Runestones can freely awaken it. In three days, it emerges for all to claim, for a small tithe.Hand-drawn dotwork, carolevy, 2024, CC0",
+      "supply": 23118,
+      "twitterLink": "https://twitter.com/_carolevy",
+      "discordLink": "",
+      "websiteLink": "https://carolevy.com",
+      "createdAt": "Wed, 27 Mar 2024 15:36:03 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

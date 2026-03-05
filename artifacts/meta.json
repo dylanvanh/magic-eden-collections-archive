@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:33.508Z",
+  "slug": "artifacts",
+  "tokenCount": 97,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "artifacts",
+    "collection": {
+      "symbol": "artifacts",
+      "name": "Ordinal Artifacts",
+      "imageURI": "https://bafybeih27n35jdrjbnucx7wn4mkxilyezb5vm2rqqlsqmy5k3abvguovju.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "e98080460bdf1e828edf228ebb4de8d957a900849d8760ce65237cc3e1ab60fai0",
+      "description": "Ordinal Artifacts collection is an ordinal set inscribed in the first 10k ever inscribed on the bitcoin Blockchain. A set of Digital Artifacts memorialized forever, on chain, on the first and oldest blockchain. Inscription Id's between 6367 - 9808.",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/OrdinalArtifact",
+      "discordLink": "https://discord.gg/3e4EK4xQFS",
+      "websiteLink": "",
+      "createdAt": "Tue, 28 Mar 2023 17:32:20 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

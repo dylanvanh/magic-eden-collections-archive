@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:53.121Z",
+  "slug": "rejected",
+  "tokenCount": 222,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "rejected",
+    "collection": {
+      "symbol": "rejected",
+      "name": "REJECTED ANEEMOOS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-rejected_pfp_1727105982112.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "These little fellas got binned in the making of the main collection and now they have ESCAPED!",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/AneemoosBTC",
+      "discordLink": "https://discord.gg/unbXC5N5ez",
+      "websiteLink": "https://aneemoos.wtf/",
+      "createdAt": "Sun, 22 Sep 2024 00:59:22 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "35wBut6oLRobsuDN6rNBd8aNKqNfo1myyk",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:26.573Z",
+  "slug": "btc-frugs",
+  "tokenCount": 5548,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "btc-frugs",
+    "collection": {
+      "symbol": "btc-frugs",
+      "name": "Bitcoin Frugs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-btc-frugs_pfp_1736360517447.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Labala labalaba, labala balabala labalaba. Laba labalabala, labalaba labalabala labalaba. Balabalabala, labala laba, labalabala labalabala. Labalaba laba, labalabala labalabala, laba labalaba labala. Labala labalabala, labalaba labalaba!",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/btcfrugs",
+      "discordLink": "https://discord.gg/jcfu7f3AWW",
+      "websiteLink": "",
+      "createdAt": "Wed, 08 Jan 2025 19:44:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pf42es68rf49jfah0cfk0rgnlww68t4lenxcgjlastv6htm2wmvvqn5hhw7",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

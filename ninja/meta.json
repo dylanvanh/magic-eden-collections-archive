@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:08.814Z",
+  "slug": "ninja",
+  "tokenCount": 200,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ninja",
+    "collection": {
+      "symbol": "ninja",
+      "name": "Hacker Ninjas",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ninja.avif",
+      "chain": "btc",
+      "inscriptionIcon": "67821",
+      "description": "This is a collection of 200 items. All collectibles are pixel art and they all have Satoshi's fighting spirit.",
+      "supply": 200,
+      "twitterLink": "https://twitter.com/CypherSatoshis",
+      "discordLink": "https://discord.gg/MUSK7PVqAC",
+      "websiteLink": "https://cyphersatoshi.com/",
+      "createdAt": "Tue, 16 May 2023 22:55:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

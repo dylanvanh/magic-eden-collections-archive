@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:40.631Z",
+  "slug": "pixogette",
+  "tokenCount": 777,
+  "defaults": {
+    "genesisTransactionBlockTime": "Thu, 06 Apr 2023 23:38:43 GMT",
+    "genesisTransactionBlockHash": "00000000000000000002693ed8bcce6591baa22649b162a3b085eb5cb471b4da",
+    "genesisTransactionBlockHeight": 784274,
+    "chain": "btc",
+    "collectionSymbol": "pixogette",
+    "collection": {
+      "symbol": "pixogette",
+      "name": "Pixogette",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/pixogette.avif",
+      "chain": "btc",
+      "inscriptionIcon": "3286c53c3b61b12a787a7bee9fcfcca1dd6575470fe12ce1d97675023c874b51i0",
+      "description": "Pixogette: 777 pixel masterpieces drawn from the karmic grid, eternally etched on the Bitcoin blockchain. Explore this xpub verified collection with embedded metadata (Inscription 936363), inspired by net-art and nonconformity. VPL license (Copyleft (c) All Rights Reversed)",
+      "supply": 777,
+      "twitterLink": "https://twitter.com/pixogette",
+      "discordLink": "https://discord.gg/RDsPze5kr7",
+      "websiteLink": "https://pixogette.neocities.org/",
+      "createdAt": "Sat, 08 Apr 2023 07:20:47 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3QH16odrc7RysYubC1XUaEPQsdNosgiA1X",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

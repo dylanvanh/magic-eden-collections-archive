@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:56.654Z",
+  "slug": "xcpinata",
+  "tokenCount": 111,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "xcpinata",
+    "collection": {
+      "symbol": "xcpinata",
+      "name": "Xcpinata",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/xcpinata.avif",
+      "chain": "btc",
+      "inscriptionIcon": "2bec9ad8cc8e083018ef328439e3360bef79f085529827aaa0de9c0b0e81d267i0",
+      "description": "An Ordinals Inscription Collection created from over a decade of art. The first non-derivative art collection inscribed.",
+      "supply": 111,
+      "twitterLink": "https://twitter.com/xcpinata",
+      "discordLink": "https://discord.gg/Qa7qZJXR2A",
+      "websiteLink": "https://xcpinata.com",
+      "createdAt": "Mon, 20 Mar 2023 21:05:26 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1ppyjx66sfzf4s43sqq4z9x0akdj65ys43yf8z7qwt2sqsv7eea6asm2q8s6",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

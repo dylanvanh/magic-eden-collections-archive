@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:04.842Z",
+  "slug": "naked-frogs",
+  "tokenCount": 3355,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "naked-frogs",
+    "collection": {
+      "symbol": "naked-frogs",
+      "name": "Misprint Frogs",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/naked-frogs.avif",
+      "chain": "btc",
+      "inscriptionIcon": "73aa66cd42886afff68305c21bab144db87cfde5664a1ef22f48ab76096e4022i0",
+      "description": "The misprinted batch of Bitcoin Frogs, for collectors who understand it's historical significance and provenance. This collection is managed by the Misprint community, Frogtoshi and Bitcoin Frogs have no direct involvement with Misprints.",
+      "supply": 3355,
+      "twitterLink": "https://twitter.com/BitcoinFrogsV1",
+      "discordLink": "https://discord.gg/brfTZD6RJH",
+      "websiteLink": "",
+      "createdAt": "Thu, 18 May 2023 13:55:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

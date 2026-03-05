@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:28.408Z",
+  "slug": "btc-scientist",
+  "tokenCount": 777,
+  "defaults": {
+    "contentType": "image/png",
+    "genesisTransactionBlockTime": "Tue, 13 Jun 2023 21:18:30 GMT",
+    "genesisTransactionBlockHash": "000000000000000000020dba04cb63125ca71ee13cba035dfab4e92b3fa46925",
+    "genesisTransactionBlockHeight": 794241,
+    "chain": "btc",
+    "collectionSymbol": "btc-scientist",
+    "collection": {
+      "symbol": "btc-scientist",
+      "name": "BTC Scientist",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/btc-scientist.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Creators of the Mutant Virus & Satoria Corp employees! Every Mutant Virus will need a Scientist for things to not go terribly wrong....",
+      "supply": 777,
+      "twitterLink": "https://twitter.com/btcordinal",
+      "discordLink": "https://discord.gg/btcmachine",
+      "websiteLink": "https://www.satoria.world/",
+      "createdAt": "Tue, 13 Jun 2023 21:32:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcmn0l7w382ygvpehvtz57n2r75l5j7nyzkq54lf8zr3pm48y0aesh4pd96",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

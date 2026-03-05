@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:40.068Z",
+  "slug": "pestctrl",
+  "tokenCount": 420,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "pestctrl",
+    "collection": {
+      "symbol": "pestctrl",
+      "name": "PEST CTRL",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pestctrl_pfp_1732909137660.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "PEST CTRL: 420 piece collection eradicating the infestation of centralized finance.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/SeizeCTRL",
+      "discordLink": "",
+      "websiteLink": "https://www.seizectrl.io/",
+      "createdAt": "Fri, 29 Nov 2024 20:07:55 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "32aZCuRRzqurGs9iSaZbCtmZSBVrS8a9h7",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "displayName": "PEST CTRL"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

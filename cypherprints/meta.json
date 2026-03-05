@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:49.889Z",
+  "slug": "cypherprints",
+  "tokenCount": 210,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "c55bb5351908f04cebd28ad79e958b8cf19ada0dbc35a44e1c24167ebc5835b4i0",
+    "collectionSymbol": "cypherprints",
+    "collection": {
+      "symbol": "cypherprints",
+      "name": "Cypherprints",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-cypherprints_pfp_1702969186941.gif",
+      "chain": "btc",
+      "inscriptionIcon": "c55bb5351908f04cebd28ad79e958b8cf19ada0dbc35a44e1c24167ebc5835b4i0",
+      "description": "A Generative Journey through Bitcoin's history with Cypherpunks. 210 Unique ordinals tracing Bitcoin's first pivotal moments. Each Digital ARTifact uses it's inscription ID as it's seed, ensuing each and every ordinal is unique as it is mesmerizing. Special Sats selected have been discovered by the founding team to be the 2nd transaction ever sent from Nakamoto. Parent Child collection with both Cursed and Blessed Ordinals.Block 9 450s: Sent from Nakamoto to Hal FinneyBlock 78: Mined by Hal FinneyBlock 286: Sent from Nakamoto to Dustin TremmelBlock 666: Mined by Dustin Tremmel (Cursed)Block 877: Mined by Nakamoto",
+      "supply": 210,
+      "twitterLink": "https://twitter.com/Cypherprints",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 20 Dec 2023 00:53:11 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

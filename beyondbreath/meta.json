@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:39.939Z",
+  "slug": "beyondbreath",
+  "tokenCount": 9,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "beyondbreath",
+    "collection": {
+      "symbol": "beyondbreath",
+      "name": "Beyond Breath Print by Zoe Louise",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-beyondbreath_pfp_1742196481700.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "6ce44e1c4fd18996066907bde3cbffd09b16c70bcfcb9fbaa76861c09cba80aai0",
+      "description": "Nine Prints of Beyond Breath Original Inscription #88908955 by Zoe Louise",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://www.melzieq.com/",
+      "createdAt": "Mon, 17 Mar 2025 07:32:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3ATRAD6CFBn5eBNtGJy2wF9VjwxD8DcEKY",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

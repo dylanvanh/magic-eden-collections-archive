@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:20.379Z",
+  "slug": "fukuhedrons",
+  "tokenCount": 9998,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "bd5752880b6d60cc8e44ce4bc16eb3621dedcfa7128a9bc322e9448cdf8b9c5ai0",
+    "collectionSymbol": "fukuhedrons",
+    "collection": {
+      "symbol": "fukuhedrons",
+      "name": "Fukuhedrons",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fukuhedrons_pfp_1732397498508.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Multi-faceted characters on Bitcoin, created by HiFo Labs",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/Nakamigos",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sat, 23 Nov 2024 21:39:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qtrpg6wmhmd3842e2jp3gnpnwd3adcx5l5sx47x",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

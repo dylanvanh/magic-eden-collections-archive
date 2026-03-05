@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:57.243Z",
+  "slug": "xounchained",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHNjcmlwdCBzcmM9Ii9jb250ZW50L2U0OWU0OGU0OGYwODFhMDYyODkwMDc5ODM2YjU2ODgxNzExZGVlZTYzNGRkNGY5M2Q3ZmY0ODFjZDY3NWQzOGRpMCI+PC9zY3JpcHQ+",
+    "chain": "btc",
+    "collectionSymbol": "xounchained",
+    "collection": {
+      "symbol": "xounchained",
+      "name": "XO Unchained (BRC-555)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-xounchained_pfp_1725807445773.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "XO Unchained is the first example of BRC-555, introducing programmable and mutable inscription. As the name suggest, this collection is unchained in terms of what it can transforms into.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/ExtraordinalBTC",
+      "discordLink": "https://discord.gg/extraordinals",
+      "websiteLink": "https://extraordinal.io/",
+      "createdAt": "Sun, 14 Apr 2024 18:11:38 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qpyzlutxlsj0steudutpc69psvfup0glh6aj69x",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

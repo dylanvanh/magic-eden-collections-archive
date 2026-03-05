@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:58.169Z",
+  "slug": "zbit-loot-box",
+  "tokenCount": 6859,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "zbit-loot-box",
+    "collection": {
+      "symbol": "zbit-loot-box",
+      "name": "ZBIT Loot Box",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-zbit-loot-box_pfp_1719907806450.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Introducing ZBIT Loot in SATORIA!Open a Loot and get $DOG, $ZBIT, Machines, Ordinals, in-game Items, physical merch & more",
+      "supply": 6859,
+      "twitterLink": "https://twitter.com/btcordinal",
+      "discordLink": "https://discord.gg/btcmachine",
+      "websiteLink": "https://btcmachine.gg/",
+      "createdAt": "Tue, 02 Jul 2024 08:51:15 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcmn0l7w382ygvpehvtz57n2r75l5j7nyzkq54lf8zr3pm48y0aesh4pd96",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:36.665Z",
+  "slug": "sketchbook",
+  "tokenCount": 31,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "parentInscriptionId": "d91ec47ac8fe2d62fb8b2d1b7b41824a0039d0b486f1ad2c1b3a57aa01d670cci0",
+    "collectionSymbol": "sketchbook",
+    "collection": {
+      "symbol": "sketchbook",
+      "name": "Sketchbook by Lady RedHorns",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-sketchbook_pfp_1760826546235.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "2e4c5d515ab58dc4886e68597c1d4dad223ee377b455801b9ac31b1913e2363ci0",
+      "description": "Sketchbook” is a flow of daily creativity where no boundaries exist between intention and expression. Each brushstroke is born from the moment — from mood and impulse. It is a visual diary where imagination and painting unfold freely, like breathing. \nThe artworks are united by the honesty of the moment — raw, unedited, yet vivid and real.\n “Sketchbook” is a chronicle of inner movement, where every page reflects the presence of the moment itself.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/LRedhorns",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sat, 18 Oct 2025 23:00:15 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q7c9syd8nfayrt85uwv87wsuvgscuvargj2rxsp",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

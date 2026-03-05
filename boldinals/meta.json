@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:23.432Z",
+  "slug": "boldinals",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "boldinals",
+    "collection": {
+      "symbol": "boldinals",
+      "name": "boldinals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-boldinals_pfp_1721367974358.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "pixel art ordinal PFPs by @boldleonidas",
+      "supply": 100,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/boldleonidas",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 19 Jul 2024 06:32:33 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qe9jq7ckjpq3uwm2wmmqww7uhvyqvd6fae4ranc",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

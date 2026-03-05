@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:45.753Z",
+  "slug": "timg",
+  "tokenCount": 5000,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "timg",
+    "collection": {
+      "symbol": "timg",
+      "name": "The Infinite Money Glitch: Game Items",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-timg_pfp_1718649711404.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Work your way from society's trenches to a life of purpose and prosperity, expanding your wealth with The Infinite Money Glitch as you pursue infinite peace and financial freedom. Leverage your T•I•M•G to gather essential items, gain insights from influential mentors, and unlock surprise rewards on your journey to mastering The Infinite Money Glitch.",
+      "supply": 5000,
+      "twitterLink": "https://twitter.com/TheInfiniteXYZ",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 17 Jun 2024 20:22:46 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3E1iFvhqUBGDorK3aMt1VXcHk7FNJcrPYR",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Nakamoto"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:18.603Z",
+  "slug": "bitglyphs",
+  "tokenCount": 1024,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "bitglyphs",
+    "collection": {
+      "symbol": "bitglyphs",
+      "name": "BitGlyphs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitglyphs_pfp_1704698978510.png",
+      "chain": "btc",
+      "inscriptionIcon": "b7dc8f8497fc4e6598b9ff492b2768dcc96bffa493909a14159318cc0309a26ei0",
+      "description": "On-chain generative art on Bitcoin, including gen-art source code, metadata and provenance: https://ordinals.com/content/ea4c738ab079bf40eb318ecf10c51c304b3c8b2a9d5c3a215d5071eb32a82b5ei0?id=1",
+      "supply": 1024,
+      "twitterLink": "https://twitter.com/bitglyphsnft",
+      "discordLink": "https://discord.gg/nrx7whKUmX",
+      "websiteLink": "https://bitglyphs.com/#/",
+      "createdAt": "Fri, 19 May 2023 06:26:52 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

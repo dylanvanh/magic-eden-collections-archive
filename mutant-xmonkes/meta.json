@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:03.014Z",
+  "slug": "mutant-xmonkes",
+  "tokenCount": 9999,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "mutant-xmonkes",
+    "collection": {
+      "symbol": "mutant-xmonkes",
+      "name": "Mutant xMonkes",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-mutant-xmonkes_pfp_1708161863359.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "xMonkes is a decentralized collection of 10,000 NFTs on ordinals. inscribed on the exclusive Yin-Yang inscriptions! Yin-Yang Mutants are here now, it's wild!",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/xMonkesMutant",
+      "discordLink": "https://discord.gg/xmonkes",
+      "websiteLink": "https://xmonkes.io",
+      "createdAt": "Sat, 17 Feb 2024 10:09:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

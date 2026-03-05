@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:31.859Z",
+  "slug": "btcbabbies",
+  "tokenCount": 5020,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "btcbabbies",
+    "collection": {
+      "symbol": "btcbabbies",
+      "name": "BITCOIN BABBIES",
+      "imageURI": "https://bafkreiht46vv7i6sykfn2c5ejobig7xxkqh4demu7r4btzrttyayfdlgt4.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Keep it fun, adopt a BabbyBitcoin babbies made history as the first large Ordinal PFP collection that were inscribed on minting. Bitcoin only art.",
+      "supply": 5200,
+      "twitterLink": "https://twitter.com/BTCbabbies",
+      "discordLink": "https://discord.gg/RWRsKfgVpG",
+      "websiteLink": "https://ordinals.com/content/76859b2571ea799d18dc76ee69f10553ecd68134f5b21fbb5ece6aa9b4fd3892i0",
+      "createdAt": "Fri, 24 Mar 2023 16:49:40 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q5d2azdshrwqkk2e0pr2nrnu524whje63sdr0u7",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

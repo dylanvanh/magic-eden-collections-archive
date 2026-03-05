@@ -1,0 +1,46 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:22.959Z",
+  "slug": "bloodmoon",
+  "tokenCount": 1939,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEuMCI+CjwvaGVhZD4KPGJvZHk+CiAgICA8c2NyaXB0PgogICAgICAgIGNvbnN0IGltYWdlRGF0YSA9ICIvY29udGVudC8yZGI5OWVjZGFlMzgyODJlNmU2Njc2ZGU5MDc2ODE4ZmYyZmQ1YjNjZDI1ZDkyY2M5ZjY1NTFiYmMxNzZmN2ZjaTAiOwogICAgPC9zY3JpcHQ+CiAgICA8c2NyaXB0IHNyYz0iL2NvbnRlbnQvZmMyMDg2NjJiOWFjZWM1ZmVjMTU1MmFhYmUyZDNkNzMxYWIyMGFhNWU3MmQ1OTMxN2M5N2Q3YWNkY2MyZmViN2kwIj48L3NjcmlwdD4KPC9ib2R5Pgo8L2h0bWw+",
+    "genesisTransactionBlockTime": "Wed, 12 Mar 2025 16:23:35 GMT",
+    "genesisTransactionBlockHash": "000000000000000000023411ad53bc07c84f06b4a421b10ea05f4eb336a767f6",
+    "genesisTransactionBlockHeight": 887495,
+    "chain": "btc",
+    "collectionSymbol": "bloodmoon",
+    "collection": {
+      "symbol": "bloodmoon",
+      "name": "Fate of the Blood Moon by Lunatics",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bloodmoon_pfp_1758154386080.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A pre-mint airdrop for people on the Lunatics WL, but wait... there's more....",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 18 Sep 2025 00:44:28 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qnhfn7atacdz0s3jxk5w8qww04aap4f7r8jnuuy",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

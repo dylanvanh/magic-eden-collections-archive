@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:40.042Z",
+  "slug": "katoshi-prime",
+  "tokenCount": 3970,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "katoshi-prime",
+    "collection": {
+      "symbol": "katoshi-prime",
+      "name": "OCM Katoshi Prime by OnChainMonkey®",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-katoshi-prime_pfp_1744084785143.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The most complex evolution of the handcrafted Katoshi artwork that was designed with an emphasis on breaking traditional NFT artwork norms, weaving in richer details and dozens of layers onto a timeless Bitcoin canvas via recursion.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/hrVgBxva8w",
+      "websiteLink": "https://onchainmonkey.com/",
+      "createdAt": "Wed, 09 Apr 2025 19:35:51 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

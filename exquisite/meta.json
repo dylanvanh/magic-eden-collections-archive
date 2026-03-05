@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:12.568Z",
+  "slug": "exquisite",
+  "tokenCount": 7774,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "e28c450e466f609860116b38944b858335b63d04710d5d24cdb135710ce8a3afi0",
+    "collectionSymbol": "exquisite",
+    "collection": {
+      "symbol": "exquisite",
+      "name": "Exquisite by Harto",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-exquisite_pfp_1767957544047.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "EXquisite.exe is the first ACN (Autonomous Curatorial Network) on Bitcoin,  an agent collection where each ordinal becomes its own AI-driven curator.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/harto_fr",
+      "discordLink": "https://discord.gg/eTEXhSXCTz",
+      "websiteLink": "https://hartostrategy.fun/",
+      "createdAt": "Fri, 09 Jan 2026 12:11:49 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcwvzm0xxcsqma0mldd6q7m90w7ukcgrx706epsqh6nquqm8py6rq7uy06u",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

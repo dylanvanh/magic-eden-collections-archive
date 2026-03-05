@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:34.094Z",
+  "slug": "same_nano",
+  "tokenCount": 16,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "outputValue": 10000,
+    "collectionSymbol": "same_nano",
+    "collection": {
+      "symbol": "same_nano",
+      "name": "Same_Nano_Desu Ordinals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-same_nano_pfp_1690956712333.png",
+      "chain": "btc",
+      "inscriptionIcon": "25b13c9c9a31dc809f484a38f2f95ebfceef4d4130244c1949fd1024a78da6e0i0",
+      "description": "~If it's a dream, I want it to stay a dream～Same_Nano is a sign of friendship.This shark-inspired collection was created to challenge you to have fun with all your friends!We invite you to become a friend by being eaten by a shark!Join us for an exciting experience!",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/G_SHACK922",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 02 Aug 2023 08:23:45 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

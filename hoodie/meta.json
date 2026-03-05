@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:28.968Z",
+  "slug": "hoodie",
+  "tokenCount": 222,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "hoodie",
+    "collection": {
+      "symbol": "hoodie",
+      "name": "hoodie gang",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-hoodie_pfp_1710291428968.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "bunch of hoodlums on bitcoin",
+      "supply": 222,
+      "twitterLink": "https://twitter.com/basedartists",
+      "discordLink": "https://discord.gg/mTw7NRKkq6",
+      "websiteLink": "",
+      "createdAt": "Wed, 13 Mar 2024 01:35:03 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p7tcrxwxpnlguntujvu7sc6gcth990ltds5tpzgg979w2v770aplsej22a8",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "black_uncommon"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

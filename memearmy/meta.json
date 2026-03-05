@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:51.287Z",
+  "slug": "memearmy",
+  "tokenCount": 890,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "memearmy",
+    "collection": {
+      "symbol": "memearmy",
+      "name": "Meme Army by SpZ x Viola",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-memearmy_pfp_1714070878594.png",
+      "chain": "btc",
+      "inscriptionIcon": "a9f6dec66dbea82344d4e0266a3858b160cdc8e920221330f419f1209e8ec301i0",
+      "description": "Meme Army through 4th Bitcoin HalvingSpecial Edition by SpZ x Viola",
+      "supply": 920,
+      "twitterLink": "https://twitter.com/ViolaMissCode",
+      "discordLink": "https://discord.gg/5AwseZg3",
+      "websiteLink": "",
+      "createdAt": "Thu, 25 Apr 2024 19:17:49 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

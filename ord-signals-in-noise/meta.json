@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:22.843Z",
+  "slug": "ord-signals-in-noise",
+  "tokenCount": 5000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+Cgk8bWV0YSBjaGFyc2V0PSJ1dGYtOCIgLz4KCTx0aXRsZT5NSU5UIFBBU1M8L3RpdGxlPgoJPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgaW5pdGlhbC1zY2FsZT0xIiAvPgoJPHN0eWxlPgoJCWh0bWwsIGJvZHkgewoJCQltYXJnaW46IDA7CgkJCXBhZGRpbmc6IDA7CgkJCWhlaWdodDogMTAwJTsKCQkJd2lkdGg6IDEwMCU7CgkJCWJhY2tncm91bmQ6ICMwYjBiMGI7CgkJCW92ZXJmbG93OiBoaWRkZW47CgkJCWRpc3BsYXk6IGZsZXg7CgkJCWFsaWduLWl0ZW1zOiBjZW50ZXI7CgkJCWp1c3RpZnktY29udGVudDogY2VudGVyOwoJCX0KCgkJY2FudmFzIHsKCQkJZGlzcGxheTogYmxvY2s7CgkJCXdpZHRoOiBtaW4oMTAwdncsIDEwMHZoKSAhaW1wb3J0YW50OwoJCQloZWlnaHQ6IG1pbigxMDB2dywgMTAwdmgpICFpbXBvcnRhbnQ7CgkJCWltYWdlLXJlbmRlcmluZzogcGl4ZWxhdGVkOwoJCQlpbWFnZS1yZW5kZXJpbmc6IGNyaXNwLWVkZ2VzOwoJCX0KCTwvc3R5bGU+CjwvaGVhZD4KPGJvZHk+Cgk8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgYXN5bmM+CgkJKGFzeW5jICgpID0+IHsKCQkJY29uc3QgbG9hZENvbXBsZXRpb25Qcm9taXNlID0gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewoJCQkJd2luZG93Lm9ubG9hZCA9ICgpID0+IHsKCQkJCQlyZXNvbHZlKCk7CgkJCQl9OwoJCQl9KTsKCgkJCWNvbnN0IGxvYWRQNSA9IGFzeW5jICgpID0+IHsKCQkJCWNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goJy9jb250ZW50LzEzYTVjOGU0MWRmYzExMDUxNGI0NTBiMmYxNTMxNzk4OGMwYWFmMjc2ZDNkYmRjY2E5YWEzYzdkMGIyMTg4YTdpMCcpOwoJCQkJcmV0dXJuIHJlc3BvbnNlLnRleHQoKTsKCQkJfTsKCgkJCWNvbnN0IGxvYWRHZW5TY3JpcHQgPSBhc3luYyAoKSA9PiB7CgkJCQljb25zdCByZXNwb25zZSA9IGF3YWl0IGZldGNoKCcvci9zYXQvNDQ5MzM4MDYyMDkxNDQwL2F0Ly0xJyk7CgkJCQljb25zdCBkYXRhID0gYXdhaXQgcmVzcG9uc2UuanNvbigpOwoJCQkJY29uc3QgaWQgPSBkYXRhLmlkOwoJCQkJY29uc3QgZ2VuZXJhdG9yVXJsID0gYC9jb250ZW50LyR7aWR9YDsKCQkJCWNvbnN0IGdlblNjcmlwdCA9IGF3YWl0IGZldGNoKGdlbmVyYXRvclVybCk7CgkJCQlyZXR1cm4gZ2VuU2NyaXB0LnRleHQoKTsKCQkJfQoKCQkJY29uc3QgW3A1U2NyaXB0LCBnZW5TY3JpcHRdID0gYXdhaXQgUHJvbWlzZS5hbGwoW2xvYWRQNSgpLCBsb2FkR2VuU2NyaXB0KCldKTsKCQkJY29uc3QgZ2VuU2NyaXB0RWxlbWVudCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOwoJCQlnZW5TY3JpcHRFbGVtZW50LnR5cGUgPSAndGV4dC9qYXZhc2NyaXB0JzsKCQkJZ2VuU2NyaXB0RWxlbWVudC50ZXh0ID0gZ2VuU2NyaXB0OwoJCQljb25zdCBwNVNjcmlwdEVsZW1lbnQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsKCQkJcDVTY3JpcHRFbGVtZW50LnR5cGUgPSAndGV4dC9qYXZhc2NyaXB0JzsKCQkJcDVTY3JpcHRFbGVtZW50LnRleHQgPSBwNVNjcmlwdDsKCQkJewoJCQkJYXdhaXQgbG9hZENvbXBsZXRpb25Qcm9taXNlOwoJCQkJZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChnZW5TY3JpcHRFbGVtZW50KTsKCQkJCWRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQocDVTY3JpcHRFbGVtZW50KTsKCQkJfQoJCX0pKCk7Cgk8L3NjcmlwdD4KPC9ib2R5Pgo8L2h0bWw+Cg==",
+    "chain": "btc",
+    "parentInscriptionId": "e1ff282a94f8b43d051e8ba5b4b5dccbd0d0fc045b2809103be6201d14ff66eci0",
+    "outputValue": 700,
+    "collectionSymbol": "ord-signals-in-noise",
+    "collection": {
+      "symbol": "ord-signals-in-noise",
+      "name": "Signals In Noise",
+      "imageURI": "https://bafybeigjwtonzk636sksthnfuxjbrqoy6ueg3ct7whi3hicfdjg4i5plga.ipfs.w3s.link/2026-03-02%2013.24.34.jpg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Ordinals will never die.",
+      "supply": 5000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "x.com/satgobtc",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 03 Mar 2026 00:33:07 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": false,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

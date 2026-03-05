@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:57.509Z",
+  "slug": "yokai_avengers",
+  "tokenCount": 660,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "yokai_avengers",
+    "collection": {
+      "symbol": "yokai_avengers",
+      "name": "Yokai Avengers",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-yokai_avengers_pfp_1766923006160.png",
+      "chain": "btc",
+      "inscriptionIcon": "c6ddccc731519306af2542dbfd73b9779fbbe3ad91a7da6a226c2877b5d4fb10i0",
+      "description": "In a world shrouded in darkness and mystery, humans and yokais roamed free. They found themselves facing great challenges through constant battles for survival, and chaos reigned supreme. The balance between the worlds was being tripped, and the results were catastrophic...",
+      "supply": 672,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/YokaiAvengers",
+      "discordLink": "https://discord.gg/JCynMAMd5h",
+      "websiteLink": "https://yokaiavengers.com",
+      "createdAt": "Thu, 22 Jun 2023 16:29:12 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3AUFQ4sFBo4NFcfUBBvBQRKxRR69X8qypC",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

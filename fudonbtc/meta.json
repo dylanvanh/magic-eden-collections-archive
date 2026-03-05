@@ -1,0 +1,47 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:19.829Z",
+  "slug": "fudonbtc",
+  "tokenCount": 884,
+  "defaults": {
+    "contentType": "image/webp",
+    "genesisTransaction": "88427752b37d2049046e2656b89527443be9daa0cdcb9ad51d0a6ddb33f31884",
+    "genesisTransactionBlockTime": "Fri, 09 Aug 2024 15:13:52 GMT",
+    "genesisTransactionBlockHash": "0000000000000000000060863f548f501b0eabf37f133a0e3f7c028162d3c338",
+    "genesisTransactionBlockHeight": 856045,
+    "chain": "btc",
+    "parentInscriptionId": "ea60efe376e89e6ab3e49c4c5de4cb36bfa27a5cba9fff46a69ff7c5edfad139i0",
+    "collectionSymbol": "fudonbtc",
+    "collection": {
+      "symbol": "fudonbtc",
+      "name": "FUD",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fudonbtc_pfp_1723415628186.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "\"FUD\" is a collection of 884 1/1 pixel art pieces inscribed on 884 Legacy Sats, as children of Inscription #884 on Ordinals!",
+      "supply": 884,
+      "twitterLink": "https://twitter.com/FUDonBitcoin",
+      "discordLink": "",
+      "websiteLink": "https://www.fudonbtc.com/",
+      "createdAt": "Sun, 11 Aug 2024 18:16:16 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3Hbv3dx7tgQQXRbAWyRvyJTjgak8kRHoU3",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 360323,
+    "satBlockTime": "Wed, 10 Jun 2015 16:02:29 GMT",
+    "satributes": [
+      "Common",
+      "Legacy"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

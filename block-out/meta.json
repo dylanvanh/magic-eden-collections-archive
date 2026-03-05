@@ -1,0 +1,47 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:22.223Z",
+  "slug": "block-out",
+  "tokenCount": 999,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHNjcmlwdCBzcmM9Ii9jb250ZW50LzhjZGEyZGUxY2NhYjM0MDc3ZTQ1ZDk3Y2Y4NDAwN2YzYjAxMjNjNGY1NmQ5YTM2M2I2YTNkNTA5ZTM3ZDcxN2JpMCI+PC9zY3JpcHQ+",
+    "chain": "btc",
+    "parentInscriptionId": "439a9e65bf544c53ce6b4eb118c7e28b28f1864ee1bf0027e97b0689ad1f126ai0",
+    "collectionSymbol": "block-out",
+    "collection": {
+      "symbol": "block-out",
+      "name": "BlockOut",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/block-out.webp",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A unique collection of 999 interactive works of generative art. Each Ordinal features artwork created using it's own Inscription ID as the seed, and introduces a new way to experience any image on chain. \n\nWith a new take on a classic title, each Ordinal is a recursive game where any image on Bitcoin can become the level. \n\nWith a hidden menu and lots of surprises to come, what will you find?",
+      "supply": 999,
+      "twitterLink": "https://twitter.com/OrdinalBlockOut",
+      "discordLink": "https://discord.gg/EZHPMwbmn5",
+      "websiteLink": "https://ordinalblockout.com/",
+      "createdAt": "Tue, 13 Feb 2024 11:46:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

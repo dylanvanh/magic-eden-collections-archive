@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:52.875Z",
+  "slug": "degentclub",
+  "tokenCount": 4027,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "degentclub",
+    "collection": {
+      "symbol": "degentclub",
+      "name": "Decentralized Gentlemen Club",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-degentclub_pfp_1746549848632.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "add1a568533d555dc3ac0a6db5b1ffa5d0f87d36b9b9059e4a8ce6bd7a94bfd3i0",
+      "description": "This is gentlemen.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://degent.club",
+      "createdAt": "Tue, 06 May 2025 17:21:32 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qs9ql4gpvlpy6lh23x9087kc82uda86a6frarjr",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

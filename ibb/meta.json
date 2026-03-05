@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:29.884Z",
+  "slug": "ibb",
+  "tokenCount": 4720,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "ibb",
+    "collection": {
+      "symbol": "ibb",
+      "name": "I'm Back, Bitches",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ibb_pfp_1737384141866.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Inspired by Runestone's fairdrop and the Bitcoin ethos itself. This is a $DOG army initiative intended as celebration for all Ordinals & Bitcoin ecosystem communities. \n\nAirdropped on 01/20/2025, President Trump's Inauguration Day as he's sworn in to become the 47th President of the United States. \n\nOrdinals and Bitcoin ecosystem communities have been building the foundation for amazing art and innovative tech. This collection is an ode to the devs, artists, creators, enjoyers and most of all the community members who supported all of the work being done. \n\nThank you for your passion, support, and for showing up every day. \n\n$DOG Army's Volunteer Initiative:\n\nArtwork & Design by @davidscandroli (David Scandroli)\nIdeation & Content by @intuethion (Tom Fraczak)\nVision, Architecture by @tahaabbasi (The Brown Cowboy)\nInscription & Distribution @gm7t2 (Greg)\nCommunity Collaboration: @Poseidon10888 (Poseidon)\n\nWith support of 69+ communities, $DOG army, and amazing Bitcoin devs and creators.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/tahaabbasi",
+      "discordLink": "https://discord.gg/nFkqVsgjH3",
+      "websiteLink": "",
+      "createdAt": "Tue, 21 Jan 2025 17:05:16 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qgf8207rrwy77jvz88xa9sxpy6qpdv789uthuf2",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

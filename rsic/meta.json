@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:59.729Z",
+  "slug": "rsic",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "metaprotocol": "RSIC",
+    "collectionSymbol": "rsic",
+    "collection": {
+      "symbol": "rsic",
+      "name": "RSIC METAPROTOCOL",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-rsic_pfp_1705896366275.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "21000 Rune Specific Inscription Circuits.",
+      "supply": 21000,
+      "twitterLink": "https://twitter.com/rune_coin",
+      "discordLink": "",
+      "websiteLink": "https://runecoin.io",
+      "createdAt": "Mon, 22 Jan 2024 04:59:54 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

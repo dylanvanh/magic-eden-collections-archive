@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:16.027Z",
+  "slug": "fomobybcmdrawsmotion",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/gif",
+    "chain": "btc",
+    "outputValue": 546,
+    "collectionSymbol": "fomobybcmdrawsmotion",
+    "collection": {
+      "symbol": "fomobybcmdrawsmotion",
+      "name": "FOMO by BCMDRAWSMOTION",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fomobybcmdrawsmotion_pfp_1752767235913.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Fomo is an experimental animated collection from digital artist @BCMDRAWSMOTION\nThe collection explores typography, pixel art, looping techniques and layering. This collection was created by traditional animation techniques. Repetition and looping are key to the work of BCMDRAWS and this collection builds on his explorations of pixel art.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://bcmdraws.com/",
+      "createdAt": "Thu, 17 Jul 2025 15:50:31 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qlntsl9p7ucq9v87ulaa4t0lqffp2lx22yldcn4",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

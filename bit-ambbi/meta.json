@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:46.368Z",
+  "slug": "bit-ambbi",
+  "tokenCount": 5000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "bit-ambbi",
+    "collection": {
+      "symbol": "bit-ambbi",
+      "name": "Bit AMBBi",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bit-ambbi_pfp_1712654019545.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Bit-AMBBi collection is the first Art Toy featuring the BTC element on Ordinals. It also serves as the first PFP-GameFi project on the Runes protocol. With a total supply of 5,000, this collection draws from rich Eastern philosophies and embodies the ideals of angels and monsters. Designed by JANO.X, recipient of the Muse Design Platinum Award, it integrates concepts from the metaverse, GameFi, and tangible Art Toy ecosystems. AMBBi is aspiring to become the premier brand in Web3.",
+      "supply": 5000,
+      "twitterLink": "https://twitter.com/CryptoAMBBi",
+      "discordLink": "https://discord.gg/ambbi",
+      "websiteLink": "https://www.ambbi.io/",
+      "createdAt": "Mon, 08 Apr 2024 19:03:22 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pc6ehwl8tghsjf6fdqu7ml4zupldg6k636jvte0fl3y6wcecz0q8s3ufu83",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

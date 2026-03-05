@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:01.469Z",
+  "slug": "bitcoin_spartan_alliance",
+  "tokenCount": 70,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin_spartan_alliance",
+    "collection": {
+      "symbol": "bitcoin_spartan_alliance",
+      "name": "Bitcoin Spartan Alliance",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoin_spartan_alliance_pfp_1705052989502.png",
+      "chain": "btc",
+      "inscriptionIcon": "f9a61df95ce1f44f17a5532481822ebe914f18bc0dc962a7fc1f00138f1a05d5i0",
+      "description": "The Bitcoin Spartans have forged an alliance with some of the mightiest Ordinal Communities, combining our strengths for an exclusive 1-of-1 art collection reserved solely for the most elite Spartans.  Crafted by our artist @tomatozero88, only seven custom pieces exist per collection.  Join us in forming the greatest alliance ever made!",
+      "supply": 70,
+      "twitterLink": "https://twitter.com/BtcSpartans",
+      "discordLink": "https://discord.gg/ee7rW2QK6T",
+      "websiteLink": "https://bitcoinspartans.io/",
+      "createdAt": "Thu, 25 Jan 2024 07:21:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

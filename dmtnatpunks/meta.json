@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:58.652Z",
+  "slug": "dmtnatpunks",
+  "tokenCount": 8064,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "dmtnatpunks",
+    "collection": {
+      "symbol": "dmtnatpunks",
+      "name": "Natpunks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dmtnatpunks_pfp_1712136103629.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Natpunks, the original art punk collection by Bitmaptoshi, materializes from Digital Matter Theory (DMT), harnessing Bitcoin block patterns to craft unique traits, unlocking the essence of digital value.",
+      "supply": 8064,
+      "twitterLink": "https://twitter.com/dmtnatpunks",
+      "discordLink": "https://discord.gg/9EtffYTqmK",
+      "websiteLink": "",
+      "createdAt": "Mon, 04 Mar 2024 08:22:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1ppsq7gq0padg3dvx0g8ddzg7mc57hp0djw9nm3phgv3ypjlm4rymqnwxudw",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

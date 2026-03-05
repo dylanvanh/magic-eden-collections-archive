@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:31.661Z",
+  "slug": "analogs",
+  "tokenCount": 555,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "analogs",
+    "collection": {
+      "symbol": "analogs",
+      "name": "Analogs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-analogs_pfp_1711572556256.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A collection of 555 generative glitch art animations. Made fully in code and immutably inscribed on-chain on Bitcoin. by CHAINVIRUS",
+      "supply": 555,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ChainVirus",
+      "discordLink": "https://discord.gg/bTJyWVAMJX",
+      "websiteLink": "https://linktr.ee/chainvirus",
+      "createdAt": "Wed, 27 Mar 2024 21:01:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

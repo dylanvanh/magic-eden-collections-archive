@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:45.271Z",
+  "slug": "cocks",
+  "tokenCount": 6968,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "141abfc0116c6b079fce3adad85649f31e8174ae3b047a4ea2f9d59077133744i0",
+    "collectionSymbol": "cocks",
+    "collection": {
+      "symbol": "cocks",
+      "name": "C.O.C.K.S",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/cocks.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Welcome to the C.O.C.K.S \n\nTired of the cutthroat competition and constant battles in the world of ordinals? Looking for a space where you can kick back, relax, and enjoy the camaraderie of like-minded individuals? Look no further than COCKS - the Curated Ordinals Collectors Klub Society!",
+      "supply": 6969,
+      "twitterLink": "https://twitter.com/cocksbtc",
+      "discordLink": "https://discord.com/invite/cockstoshi",
+      "websiteLink": "https://cocksbtc.xyz/",
+      "createdAt": "Tue, 12 Mar 2024 01:41:20 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

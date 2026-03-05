@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:35.832Z",
+  "slug": "silkroad-puppets",
+  "tokenCount": 1469,
+  "defaults": {
+    "contentType": "text/html",
+    "contentBody": "PGh0bWw+DQogICAgPGhlYWQ+DQogICAgICAgIDxzdHlsZT4NCiAgICAgICAgICAgIGh0bWwsIGJvZHkgeyBtYXJnaW46IDA7IHBhZGRpbmc6IDA7IH0NCiAgICAgICAgICAgIGltZyB7IHdpZHRoOiAxMDAlOyBoZWlnaHQ6IDEwMCU7IG9iamVjdC1maXQ6IGNvbnRhaW47IGltYWdlLXJlbmRlcmluZzogcGl4ZWxhdGVkO30NCiAgICAgICAgPC9zdHlsZT4NCiAgICA8L2hlYWQ+DQogICAgPGJvZHk+DQogICAgICAgIDxpbWcgc3JjPSIvY29udGVudC9iYTRlYTBhMDYxZWU1ZjE2MTI1NzVjMTU3MjhhZWM1OTVjMTYyMzUxZDNjNGIzMDA5ZTNlNjk4ZjA4ZmIxNmExaTAiIC8+DQogICAgPC9ib2R5Pg0KPC9odG1sPg==",
+    "chain": "btc",
+    "collectionSymbol": "silkroad-puppets",
+    "collection": {
+      "symbol": "silkroad-puppets",
+      "name": "Silkroad Puppets",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-silkroadpups_pfp_1720006882022.png",
+      "chain": "btc",
+      "inscriptionIcon": "31f5a3c38b597ea42db4ea19ee795f748a413f9351811502a3653ab797bee657i0",
+      "description": "Silkroad Puppets inscribed by the community in April 2024th to offer essential support for Ross Ulbricht.",
+      "supply": 1382,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/lepuppeteerfou",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 03 Jul 2024 12:07:50 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

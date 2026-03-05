@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:35.739Z",
+  "slug": "ordrain",
+  "tokenCount": 111,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "ordrain",
+    "collection": {
+      "symbol": "ordrain",
+      "name": "OrdRain",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordrain_pfp_1691034531080.png",
+      "chain": "btc",
+      "inscriptionIcon": "b53f6e90147e519cac6a67eeb9fe132b3b316ca615b5bd4b827704d3b5a28fd1i0",
+      "description": "Ordrain is the first generative art collection to use ordinals recursion techniques. This 111 piece collection employs cascading letters with vibrant colors to symbolize the defining characteristics of the Bitcoin blockchain.",
+      "supply": 111,
+      "twitterLink": "https://twitter.com/lifofifo",
+      "discordLink": "https://discord.gg/TheWizardsOfOrd",
+      "websiteLink": "",
+      "createdAt": "Mon, 12 Jun 2023 23:00:04 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

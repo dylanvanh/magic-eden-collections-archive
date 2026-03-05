@@ -1,0 +1,46 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:06.659Z",
+  "slug": "nbo",
+  "tokenCount": 666,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "nbo",
+    "collection": {
+      "symbol": "nbo",
+      "name": "New Bitcoin Order (NBO)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-nbo_pfp_1719006487460.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "972a8a8d82a1711869c4a9676d21a6c68466f6fc50b97f3494e81ab35d59b057i0",
+      "description": "NBO is a genesis collection of 666 ordinals. All art is hand drawn by TomatoZero. 1 voice. 1 vision. 1 blockchain.",
+      "supply": 666,
+      "twitterLink": "https://twitter.com/NewBitcoinOrder",
+      "discordLink": "https://discord.gg/rScy79u4ey",
+      "websiteLink": "https://www.newbitcoinorder.io/",
+      "createdAt": "Sun, 25 Feb 2024 22:52:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p5s7lkptxpxmec49ekyxhelj0m2vt85gymrqntys6uj8etymsmcrsywvf64",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

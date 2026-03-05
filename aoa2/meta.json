@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:32.079Z",
+  "slug": "aoa2",
+  "tokenCount": 3218,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "b2cccfdf1c6fbcd657e98bb07c1625980640deb2c2e4026c80508919bb185f17i0",
+    "collectionSymbol": "aoa2",
+    "collection": {
+      "symbol": "aoa2",
+      "name": "Alien Ordinal Artifacts: Second Edition",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-aoa2_pfp_1735675259349.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Alien Ordinal Artifacts: Second Edition picks up where the first left off, diving deeper into extraterrestrial conspiracies, hidden truths, and the darkest corners of government cover-ups. Brought to life by legendary psychedelic artist Joey Mars, this edition of 3,333 artifacts inscribed on Rare Sats rips open the backrooms of Delysid labs, twisted timelines, and interdimensional escape routes. From Groom Lake to Area 18, the truth crawls out no matter how deep they bury it. Tinfoil Hat Man, Satoshi, MK Ultra's rogue ops—they never stopped. Welcome to The Great Abduction.",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/AlienOrdinals",
+      "discordLink": "https://discord.gg/qxWypebGM5",
+      "websiteLink": "https://x.com/AlienOrdinals",
+      "createdAt": "Sat, 04 Jan 2025 17:48:33 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

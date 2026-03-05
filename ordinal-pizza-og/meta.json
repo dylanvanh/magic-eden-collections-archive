@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.299Z",
+  "slug": "ordinal-pizza-og",
+  "tokenCount": 341,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ordinal-pizza-og",
+    "collection": {
+      "symbol": "ordinal-pizza-og",
+      "name": "Ordinal Pizza Og",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinal-pizza-og.avif",
+      "chain": "btc",
+      "inscriptionIcon": "8501859db1c39eed8697dec1e7b0099140dfd34da9b452c3245237b5dc2b9b7bi0",
+      "description": "340 Pizzas forever ingrained on the BTC Blockchain commemorating the first ever sale of BTC for a physical item.",
+      "supply": 340,
+      "twitterLink": "https://twitter.com/OrdinalPizzaOG",
+      "discordLink": "https://discord.gg/rbMfYbDxpn",
+      "websiteLink": "",
+      "createdAt": "Mon, 20 Mar 2023 21:04:14 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "34njZxU41P41VDpTGZgLZA2gr9HNakskwY",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

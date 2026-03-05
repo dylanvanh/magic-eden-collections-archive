@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:27.981Z",
+  "slug": "hashstreams",
+  "tokenCount": 500,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "hashstreams",
+    "collection": {
+      "symbol": "hashstreams",
+      "name": "hashstreams",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-hashstreams_pfp_1709452484041.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Click on \"Content - LINK\" in \"Details\" for the on-chain art.We empower together.hashstreams is long-form generative art collection on Ordinals that explores the essence of the hash power, the vital force that gives energy to the blockchain and represents the ultimate expression of individual strength shared for the longevity of the network.Together, we empower Bitcoin.",
+      "supply": 500,
+      "twitterLink": "https://twitter.com/sertx92",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 03 Mar 2024 10:36:40 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3PaPDZP5co1H5r9ZbtUH28pADDqss7EKUU",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:32.397Z",
+  "slug": "btcparfum",
+  "tokenCount": 1001,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "btcparfum",
+    "collection": {
+      "symbol": "btcparfum",
+      "name": "BTCparfum",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-btcparfum_pfp_1708570079466.png",
+      "chain": "btc",
+      "inscriptionIcon": "236787fa0fe4e9c07d5150fb1b23f1daae38a9b867bd4b2fd56731d6dd0cea10i0",
+      "description": "Bitcoin smells of freedom. International level chat: the meeting place for the greatest minds of our time. Feel the Royal Temptation of Knowledge.",
+      "supply": 1001,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BTCparfum",
+      "discordLink": "",
+      "websiteLink": "https://t.me/BTCparfum",
+      "createdAt": "Tue, 30 Jan 2024 21:21:03 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pxmf2g08yu53n5h0n86hhgmnqv370d54xphttx8rqn52st4stveeslhjsaw",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

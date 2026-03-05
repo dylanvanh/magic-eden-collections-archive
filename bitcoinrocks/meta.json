@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:11.495Z",
+  "slug": "bitcoinrocks",
+  "tokenCount": 100,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoinrocks",
+    "collection": {
+      "symbol": "bitcoinrocks",
+      "name": "Bitcoin Rocks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoinrocks_pfp_1693586349750.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The first collection of digital artifacts inscribed on bitcoin. There will never be more than 100 bitcoin rocks.",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/ordrocks",
+      "discordLink": "https://discord.gg/bitcoinrocks",
+      "websiteLink": "",
+      "createdAt": "Sat, 23 Sep 2023 17:26:36 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

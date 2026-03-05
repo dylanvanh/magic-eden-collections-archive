@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:56.216Z",
+  "slug": "wpnz",
+  "tokenCount": 555,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "wpnz",
+    "collection": {
+      "symbol": "wpnz",
+      "name": "WPNZ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-wpnz_pfp_1735773211815.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "555 hand-drawn WPNZ inscribed on Hitman Sats, exploring the raw themes of violence, passion, and emotion.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/WPNZbtc",
+      "discordLink": "https://discord.gg/PMsNKc5q37",
+      "websiteLink": "https://www.wpnz.io/",
+      "createdAt": "Thu, 02 Jan 2025 11:42:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 200554,
+    "satBlockTime": "Wed, 26 Sep 2012 05:08:43 GMT",
+    "satributes": [
+      "Common",
+      "Hitman"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

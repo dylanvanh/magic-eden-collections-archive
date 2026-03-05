@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:28.156Z",
+  "slug": "hikeshi",
+  "tokenCount": 1275,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "hikeshi",
+    "collection": {
+      "symbol": "hikeshi",
+      "name": "Hikeshi BTC",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-hikeshi_pfp_1716398724801.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "日本の粋  和の心  //  Japanese Style. Japanese Spirit.  //  Inscribed as an Ordinal on the Bitcoin Blockchain, Forever",
+      "supply": 1275,
+      "twitterLink": "https://twitter.com/HiKESHi_BTC",
+      "discordLink": "https://discord.gg/RA9qMUAYkc",
+      "websiteLink": "",
+      "createdAt": "Wed, 22 May 2024 17:54:33 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

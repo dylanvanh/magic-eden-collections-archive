@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:48.313Z",
+  "slug": "puppetmaxibiz",
+  "tokenCount": 9999,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "puppetmaxibiz",
+    "collection": {
+      "symbol": "puppetmaxibiz",
+      "name": "Puppet Maxi Biz (PMB)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-puppetmaxibiz_pfp_1709186971692.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "PMB will prove its culture over everything by being apart of a beloved community of those who genuinely enjoy sending memes, joking around and interacting with each other to create something different. PMB collides the communities of OMB x Bitcoin Puppets introducing a new light on the Ordinals Space.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/MKUltraBTC",
+      "discordLink": "https://discord.gg/pmb",
+      "websiteLink": "",
+      "createdAt": "Thu, 29 Feb 2024 22:22:09 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3H1WkANu8BRL42QUfmWB1uKg2ai4sbegV1",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

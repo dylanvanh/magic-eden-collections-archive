@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:48.047Z",
+  "slug": "littlepups",
+  "tokenCount": 9997,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "littlepups",
+    "collection": {
+      "symbol": "littlepups",
+      "name": "Little Pups ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-littlepups_pfp_1736675089348.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A collection by artist Cake Nygard",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/cakedworld",
+      "discordLink": "https://discord.gg/NQhUWSvXTD",
+      "websiteLink": "https://www.cakedworld.com",
+      "createdAt": "Tue, 19 Mar 2024 16:14:26 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3978MjScBBXeQiCa86hFAdLY6mDQoKrQA9",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

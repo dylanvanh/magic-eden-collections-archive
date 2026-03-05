@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:38.462Z",
+  "slug": "chaos",
+  "tokenCount": 8060,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "chaos",
+    "collection": {
+      "symbol": "chaos",
+      "name": "DMT-Chaos",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-chaos_pfp_1710725591347.gif",
+      "chain": "btc",
+      "inscriptionIcon": "1d5d07ed36fa8cd712e09ce9427bff5f749c2f1bc2a66d44d698f131ea124b25i0",
+      "description": "The First UNAT to utilize the Nonce value as it's seed.A random number selected by Bitcoin. Recursively constructed by way of ord.   https://www.ord.io/63440121",
+      "supply": 8064,
+      "twitterLink": "https://twitter.com/DMTCHAOS",
+      "discordLink": "https://discord.gg/5VVSfVhu54",
+      "websiteLink": "https://dmt-chaos.gitbook.io/docs/",
+      "createdAt": "Fri, 01 Mar 2024 02:38:52 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q3u6302f47mzw9t7zez2wdxz9y25qw33n7uak27",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

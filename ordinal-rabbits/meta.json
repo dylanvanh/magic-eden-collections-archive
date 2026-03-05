@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.424Z",
+  "slug": "ordinal-rabbits",
+  "tokenCount": 535,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ordinal-rabbits",
+    "collection": {
+      "symbol": "ordinal-rabbits",
+      "name": "Ordinal Rabbits",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinal-rabbits.avif",
+      "chain": "btc",
+      "inscriptionIcon": "#90778",
+      "description": "OG community since February 2023",
+      "supply": 483,
+      "twitterLink": "https://twitter.com/ordinal_rabbits",
+      "discordLink": "https://discord.gg/T5Vwez6huw",
+      "websiteLink": "https://ordinalrabbits.xyz/",
+      "createdAt": "Wed, 22 Mar 2023 20:32:29 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

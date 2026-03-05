@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:32.731Z",
+  "slug": "artedsbymto",
+  "tokenCount": 338,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "artedsbymto",
+    "collection": {
+      "symbol": "artedsbymto",
+      "name": "Colorful Editions by MTO",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-artedsbymto_pfp_1742036911421.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Edition/print inscriptions by Emil MTO.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Emilmto",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 11 Nov 2025 14:08:28 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "34FoQAxHNCedjktik3ZNXwrCNJ2h87DGR3",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

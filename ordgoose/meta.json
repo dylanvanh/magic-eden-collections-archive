@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:25.066Z",
+  "slug": "ordgoose",
+  "tokenCount": 6969,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ordgoose",
+    "collection": {
+      "symbol": "ordgoose",
+      "name": "OrdGoose",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordgoose_pfp_1700677897816.png",
+      "chain": "btc",
+      "inscriptionIcon": "e068a0ce2f3f7e59783fa5c9b79197209c57560abe317d8960bb3fab69014604i0",
+      "description": "A collection of 6969 unique geese soaring high and higher! For The Community, By The Community.",
+      "supply": 6969,
+      "twitterLink": "https://twitter.com/OrdGoose",
+      "discordLink": "https://discord.gg/Uyqd8naZHB",
+      "websiteLink": "https://ordgoose.com/",
+      "createdAt": "Fri, 24 Nov 2023 09:51:49 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pvn6hlx9qstk0yyghf853z0qezhzhezxcx07s8c3vzmd22z5x6mgq3p5ywz",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

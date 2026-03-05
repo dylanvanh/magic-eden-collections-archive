@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:49.314Z",
+  "slug": "rat_race",
+  "tokenCount": 126,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "rat_race",
+    "collection": {
+      "symbol": "rat_race",
+      "name": "Exit The Rat Race by PSYCHONØT ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-rat_race_pfp_1729435214058.png",
+      "chain": "btc",
+      "inscriptionIcon": "5cbc0f6213fb84989019d67eedbdd0d6ba9bd7e4eee972211f8df6c416ee6dbai0",
+      "description": "The Rat Race. An endless chase. A road to nowhere. A game with no end. What starts with harmless intentions—the need to sustain ourselves, to provide for others, or even to have a little fun—soon transforms from a means into an end itself. We continue the race because it’s all we’ve ever done. Along the way we lose the self we sought to sustain. Those around us age before our eyes, becoming new people over and over before we even get to really know them. What was once fun becomes a chore. Exit The Rat Race is a call for self-reflection. A push to examine the road we’re on and ask ourselves if we continue our journey today simply because it was the journey we were on yesterday. It’s a reminder that many other roads await if we dare to challenge fear or complacency. It’s a directive to bring intentionality back into our lives and to live each day with purpose.The clock is ticking. Exit The Rat RaceThis collection is is inscribed with parent/child provenance of the famous Rat Sat.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/PSYCHONOT_X",
+      "discordLink": "https://discord.gg/spSztFwYQk",
+      "websiteLink": "http://psychonot.xyz",
+      "createdAt": "Sun, 20 Oct 2024 15:09:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "36VYZDjvAUv8iy4B1Yca9MfRrV1YcmtpvN",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

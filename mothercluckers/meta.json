@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:55.054Z",
+  "slug": "mothercluckers",
+  "tokenCount": 10000,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "mothercluckers",
+    "collection": {
+      "symbol": "mothercluckers",
+      "name": "Mother Cluckers",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-mothercluckers_pfp_1707445112757.png",
+      "chain": "btc",
+      "inscriptionIcon": "0e6edbcacf40b36eb31028b3fbaf213a1a058ebc3f5c93d2fc795bcee6c2235di0",
+      "description": "A collection of 10,000 Original recursive interactive Cluckers bought to you by team behind Ordinal Eggs (sub10k collection). Mother Cluckers aims to bring the tech to masses at the same time showing what ordinals are capable of in a short span of time. Mother Cluckers are for everyone, Own art that fits in your pocket (digitally speaking), Each file clocks in under 200 bytes minimalism meets mind-blowing. Play God with your NFT, Tinker, tweak it, Interactive art on a whole new level. Experience art that feels alive, Sun & Moon and the BG keep chaging thoughout the day, mimicking the real life and your time zone",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ordinaleggs",
+      "discordLink": "https://discord.gg/YW9R4K2Vg4",
+      "websiteLink": "https://ordvision.io",
+      "createdAt": "Fri, 09 Feb 2024 02:59:31 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pa5yqg20656d3a44wpaj4zsru8e0hxvp3lup62t9t57qgehfwu4cs9j6ywk",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

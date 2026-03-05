@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:34.569Z",
+  "slug": "satoshi-monkey-business",
+  "tokenCount": 42,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "meta": {},
+    "collectionSymbol": "satoshi-monkey-business",
+    "collection": {
+      "symbol": "satoshi-monkey-business",
+      "name": "Satoshi Monkey Business",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/satoshi-monkey-business.avif",
+      "chain": "btc",
+      "inscriptionIcon": "f49a40378e95866a3d7f6359c8e154071892701c3e637c6cc01f5ae06ee4a3bdi0",
+      "description": "The official Solana Monkey Business (SMB) expands into the Bitcoin Blockchain, reviving 42 frozen monkeys that were previously lost in a hack by inscribing them as Bitcoin Ordinals.",
+      "supply": 42,
+      "twitterLink": "https://twitter.com/SolanaMBS",
+      "discordLink": "https://discord.gg/wgFUh4x6Xp",
+      "websiteLink": "https://solanamonkey.business/",
+      "createdAt": "Fri, 24 Mar 2023 23:22:22 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 252301,
+    "satBlockTime": "Thu, 15 Aug 2013 15:05:32 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

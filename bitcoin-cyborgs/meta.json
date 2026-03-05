@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:48.269Z",
+  "slug": "bitcoin-cyborgs",
+  "tokenCount": 808,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-cyborgs",
+    "collection": {
+      "symbol": "bitcoin-cyborgs",
+      "name": "Bitcoin Cyborgs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoin-cyborgs_pfp_1709698122552.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "808 Bitcoin Cyborgs from the depths of the blockchain. Bitcoin Cyborgs are art on Bitcoin. No roadmap, utility, rare sats, recursion, promises or guarantees. The art is provided under the Viral Public License.",
+      "supply": 808,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/dogtagnft",
+      "discordLink": "https://discord.gg/AMwTBK3kcG",
+      "websiteLink": "http://bitcoincyborgs.com",
+      "createdAt": "Wed, 06 Mar 2024 04:08:25 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pr7rhle87hhe90rq32cwrgeqx2hrjqaxt9rnuu6swfma05m8k9yqsvdpjzy",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

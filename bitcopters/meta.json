@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:14.893Z",
+  "slug": "bitcopters",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "L2NvbnRlbnQvN2RlZWZhMzVhMmRlZTZkNmQ0ODJjNTM4NGNmY2JhZGI2MWU4MDQ4MDBmOTY4YmUwZTYwYWM2ODNhMDhmN2U3Y2kw",
+    "chain": "btc",
+    "collectionSymbol": "bitcopters",
+    "collection": {
+      "symbol": "bitcopters",
+      "name": "BITCOPTERS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcopters_pfp_1751382862164.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "each bitcopter (aka bopcopter) is seeded by its inscription ID - but all 10,000 inscriptions have the same text content (/content/7deefa..) because it's a BRC-420, so to view your actual bitcopter with its true colors on-chain, get your specific inscription ID from the URL then go to the recursive submodule and enter your copters unique inscription ID: https://ord-mirror.magiceden.dev/content/7deefa35a2dee6d6d482c5384cfcbadb61e804800f968be0e60ac683a08f7e7ci0  \n\nyou can also directly link to it by adding the query param ?id=<inscriptionID> to the recursive submodule!",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/boppleton",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 29 Feb 2024 13:05:25 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

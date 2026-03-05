@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:54.049Z",
+  "slug": "dmt-hiros",
+  "tokenCount": 4032,
+  "defaults": {
+    "contentType": "application/json",
+    "chain": "btc",
+    "collectionSymbol": "dmt-hiros",
+    "collection": {
+      "symbol": "dmt-hiros",
+      "name": "HIROS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dmt-hiros_pfp_1724612125299.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "f5d00d4aba572b0fd67e42bc2ca3ffe015b643c7ca58c23c8e8b02a37c9005dei0",
+      "description": "HIROS uses GenAI, DMT, & UNAT to drive the art and the storyline of a turn-based game.",
+      "supply": 4032,
+      "twitterLink": "https://twitter.com/superfandotfan",
+      "discordLink": "https://discord.gg/4zUuxnndED",
+      "websiteLink": "https://hiros.io/",
+      "createdAt": "Sun, 25 Aug 2024 06:14:32 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "displayName": "HIROS"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

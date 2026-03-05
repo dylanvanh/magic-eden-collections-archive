@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:42.605Z",
+  "slug": "the-damned",
+  "tokenCount": 1018,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "the-damned",
+    "collection": {
+      "symbol": "the-damned",
+      "name": "The Damned",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-the-damned_pfp_1761744014090.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Evil has taken over ordinals, nothing is safe, not even polaroid's of your dad!",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/The__Damned__",
+      "discordLink": "https://discord.gg/he9n4hQBYD",
+      "websiteLink": "https://thedamned.xyz",
+      "createdAt": "Wed, 29 Oct 2025 14:06:07 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

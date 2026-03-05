@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:42.383Z",
+  "slug": "planetaryprimes",
+  "tokenCount": 1297,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "planetaryprimes",
+    "collection": {
+      "symbol": "planetaryprimes",
+      "name": "Planetary Primes [🪐]",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-planetaryprimes_pfp_1702299069696.gif",
+      "chain": "btc",
+      "inscriptionIcon": "471c65ce7c25ad89653ac5a8a307bcd905023c7a2a8b381e0b98a6f487641430i0",
+      "description": "First ever collection inscribed entirely on Prime Number Sats. Planetary Primes are an extension of The Seeker project - a mathematical sci-fi game universe which started in the Sub10K club. The art is based on Prime Number Spirals, each with a unique selection of Primes illuminated. It showcases the beautiful and mysterious structure of Primes, and the patterns hidden within. These Spirals are also abstract symbolic maps of the Planet that's central to The Seeker lore, showcasing an empty 'entrance' leading to the Planet's center on one side..",
+      "supply": 1297,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/PlanetaryPrimes",
+      "discordLink": "https://discord.gg/VSewX8uG4r",
+      "websiteLink": "",
+      "createdAt": "Sat, 09 Dec 2023 14:59:04 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 286,
+    "satBlockTime": "Tue, 13 Jan 2009 04:54:58 GMT",
+    "satributes": [
+      "Block 286",
+      "Common",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

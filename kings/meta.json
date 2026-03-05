@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:42.134Z",
+  "slug": "kings",
+  "tokenCount": 578,
+  "defaults": {
+    "contentType": "image/png",
+    "genesisTransactionBlockTime": "Tue, 27 Jun 2023 22:44:47 GMT",
+    "genesisTransactionBlockHash": "00000000000000000003247afd7802f6408935081d10e4c9b1f5d23a55dfb7b6",
+    "genesisTransactionBlockHeight": 796211,
+    "chain": "btc",
+    "collectionSymbol": "kings",
+    "collection": {
+      "symbol": "kings",
+      "name": "BTC Kings",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/kings.avif",
+      "chain": "btc",
+      "inscriptionIcon": "4d6668d545903caa2ce5c3182d289788464909646377dbdf2694c666a0163669i0",
+      "description": "578 BTC Kings inscribed forever on historic sats of Block 78.",
+      "supply": 578,
+      "twitterLink": "https://twitter.com/BTCKings_",
+      "discordLink": "https://discord.gg/kingcoinsol",
+      "websiteLink": "",
+      "createdAt": "Wed, 28 Jun 2023 12:49:24 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 78,
+    "satBlockTime": "Sun, 11 Jan 2009 01:00:54 GMT",
+    "satributes": [
+      "Block 78",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

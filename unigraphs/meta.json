@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:50.672Z",
+  "slug": "unigraphs",
+  "tokenCount": 555,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "unigraphs",
+    "collection": {
+      "symbol": "unigraphs",
+      "name": "Unigraphs",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/unigraphs.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Unigraphs is a collection of 555 generative artworks inscribed on palindrome sats with art generated based on sat numbers using bijection.",
+      "supply": 555,
+      "twitterLink": "https://twitter.com/mulan_art",
+      "discordLink": "https://discord.gg/DFSGhUrWj9",
+      "websiteLink": "https://mulan.art/gallery/unigraphs",
+      "createdAt": "Mon, 23 Oct 2023 15:07:01 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

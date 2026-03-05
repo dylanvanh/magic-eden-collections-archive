@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:57.455Z",
+  "slug": "yelo",
+  "tokenCount": 333,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "yelo",
+    "collection": {
+      "symbol": "yelo",
+      "name": "YELO GENESIS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-yelo_pfp_1692645676511.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A Yelo frequency on the blockchain.",
+      "supply": 333,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Yelonft",
+      "discordLink": "https://discord.gg/MXWyESHyep",
+      "websiteLink": "https://linktr.ee/yelonft",
+      "createdAt": "Sun, 03 Sep 2023 23:29:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pghrulajhwgwgyc9r0kmwqefacp7vrgfcpwgt8zttt0rrdxj0r6tsgy57qs",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

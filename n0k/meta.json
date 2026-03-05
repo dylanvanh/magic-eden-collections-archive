@@ -1,0 +1,50 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:04.257Z",
+  "slug": "n0k",
+  "tokenCount": 7672,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "2f4b5b57dfb6ebb9a0174b1b7a53e33eab29198a6febbd7c34136508dedccaf5i0",
+    "collectionSymbol": "n0k",
+    "collection": {
+      "symbol": "n0k",
+      "name": "n0 0rdinary kind",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-n0k_pfp_1721672017240.gif",
+      "chain": "btc",
+      "inscriptionIcon": "d08a23c059fe255f0b114178ef58ff615f4ce46a1092062a9a6cfcc6d1ee488bi0",
+      "description": "7680 recursive ordinals on Block 9 450x Sats all descended from two rare sats.First collection in Ordinals where you CTRL the reveal.",
+      "supply": 7680,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/SeizeCTRL",
+      "discordLink": "",
+      "websiteLink": "https://www.seizectrl.io/",
+      "createdAt": "Tue, 23 Jul 2024 01:01:31 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pl6tntqf0a7n40h752kcrcesay2937v5n9ju053g5w8kcd8p0kffs7g7nj5",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:32.155Z",
+  "slug": "runesasfuck",
+  "tokenCount": 8400,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "runesasfuck",
+    "collection": {
+      "symbol": "runesasfuck",
+      "name": "Runes As Fuck",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-runesasfuck_pfp_1710601854405.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "RunesAsFuck ◉ for RunesAsFuck ▣",
+      "supply": 16800,
+      "twitterLink": "https://twitter.com/RunesAsFuck",
+      "discordLink": "",
+      "websiteLink": "https://ordiscan.com/inscription/64886897",
+      "createdAt": "Mon, 18 Mar 2024 13:06:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p4k0q465fak6qk2dynzp27v8wmrpke0xs3xl0vh8ykv4j3yhrxp3q0svnzh",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

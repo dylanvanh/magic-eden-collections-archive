@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:43.950Z",
+  "slug": "the_insights_pass",
+  "tokenCount": 333,
+  "defaults": {
+    "contentType": "model/gltf-binary",
+    "genesisTransaction": "24bcb6fe2455f6e86d33e8f0991eacda6a3c26ed99d95ed5f0abea5d1d432f72",
+    "genesisTransactionBlockTime": "Thu, 17 Oct 2024 22:13:14 GMT",
+    "genesisTransactionBlockHash": "000000000000000000027fcec6ea1e0e2ab2bc8c4959503727bb2853035583b9",
+    "genesisTransactionBlockHeight": 866118,
+    "chain": "btc",
+    "collectionSymbol": "the_insights_pass",
+    "collection": {
+      "symbol": "the_insights_pass",
+      "name": "The Insights Pass",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-the_insights_pass_pfp_1730487380734.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The Insights Pass consists of 333 passes that grant access to The Insights Hub.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/NealinNFT",
+      "discordLink": "https://discord.gg/ceHtWJKU3W",
+      "websiteLink": "",
+      "createdAt": "Mon, 04 Nov 2024 08:08:28 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qpxtl7dgf0h9y7wyxl8q4lrkdcvwyv8u4vtj8d3",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

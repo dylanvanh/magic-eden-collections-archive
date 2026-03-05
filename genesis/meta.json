@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:21.582Z",
+  "slug": "genesis",
+  "tokenCount": 400,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "5a631ad693dfe0acbdaae1bfe479a392438a612643a735dc7bb981ec5eb6923fi0",
+    "collectionSymbol": "genesis",
+    "collection": {
+      "symbol": "genesis",
+      "name": "GeniiData Genesis Pass",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-genesis_pfp_1696667920436.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "3007652f2a55adbf982b9fcbb2b843c417869e7313aa92ffdd7cc78502d41c0ei0",
+      "description": "GeniiData is an all-in-one Ordinals platform that provides seeking Ordinals alpha, portfolio tracker, and powerful search engine for inscriptions. GeniiData has released Genesis (GeniiData Genesis Pass), the first parent-child inscription collection, to honor the early users for their support.Benefits of being an OG: Enjoy a perpetual 15% discount on GeniiData's inscribe service, first parent-child inscription collection, VIP access to exclusive events.",
+      "supply": 400,
+      "twitterLink": "https://twitter.com/GeniiData",
+      "discordLink": "https://discord.gg/Y4GHsSj4WV",
+      "websiteLink": "https://geniidata.com/ordinals/home?ref=9UC3SV",
+      "createdAt": "Thu, 19 Oct 2023 13:41:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

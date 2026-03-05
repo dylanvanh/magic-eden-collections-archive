@@ -1,0 +1,47 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:33.733Z",
+  "slug": "jeetsonbtc",
+  "tokenCount": 4097,
+  "defaults": {
+    "contentType": "text/html",
+    "genesisTransaction": "e421894ea026ed439a39079785efcf4be50daa8a8b151e4cb7160136f04495a7",
+    "genesisTransactionBlockTime": "Wed, 05 Mar 2025 09:20:25 GMT",
+    "genesisTransactionBlockHash": "00000000000000000000798fea9dce817dc7e072a06d50509a489dff0a58ab61",
+    "genesisTransactionBlockHeight": 886401,
+    "chain": "btc",
+    "parentInscriptionId": "fd85f101314c737757ebe59b5d76c4e093365e3f6b214a5498db6662b0a7fca1i0",
+    "collectionSymbol": "jeetsonbtc",
+    "collection": {
+      "symbol": "jeetsonbtc",
+      "name": "Jeets On Bitcoin",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-jeetsonbtc_pfp_1741077000221.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Jeets On Bitcoin embraces the unpredictability, conviction, and rebellion that fuel the space, showcasing nearly 600 unique traits designed by the Pudgy Penguins artist and other acclaimed creators. With deep roots in Sub10.1k parent-child ordinal provenance, it stands as both a tribute to past innovators and a bold step toward redefining digital art on Bitcoin, the mother chain.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/JeetsOnBTC",
+      "discordLink": "",
+      "websiteLink": "https://jeetsonbtc.com/Home",
+      "createdAt": "Wed, 05 Mar 2025 10:13:27 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q5pghqqgkus4kw3qa3tmnrj0cgf09ldr9ynwumz",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

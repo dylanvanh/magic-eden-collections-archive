@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:36.621Z",
+  "slug": "singular",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "application/json;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "singular",
+    "collection": {
+      "symbol": "singular",
+      "name": "????????",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-singular_pfp_1733946082406.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A collection with deep connections to the Ordlinks lineage.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Yelonft",
+      "discordLink": "https://discord.gg/MXWyESHyep",
+      "websiteLink": "https://linktr.ee/yelonft",
+      "createdAt": "Wed, 11 Dec 2024 18:31:05 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pghrulajhwgwgyc9r0kmwqefacp7vrgfcpwgt8zttt0rrdxj0r6tsgy57qs",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

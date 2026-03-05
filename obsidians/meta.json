@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:16.421Z",
+  "slug": "obsidians",
+  "tokenCount": 484,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "obsidians",
+    "collection": {
+      "symbol": "obsidians",
+      "name": "OBSIDIAN by memphis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-obsidians_pfp_1735763874795.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "1:1 DemiGods born from ash & Ink, unbreakable yet beautifully flawed. Art By Memphis",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/MemphisBTC",
+      "discordLink": "",
+      "websiteLink": "https://memphisbtc.xyz/obsidian",
+      "createdAt": "Wed, 01 Jan 2025 20:44:24 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1ql5u4pz5fnzevefmqx5vv9r3m33ftx7exlzynyx",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "black_uncommon"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:15.338Z",
+  "slug": "bitcorn",
+  "tokenCount": 55,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "bitcorn",
+    "collection": {
+      "symbol": "bitcorn",
+      "name": "BitCorn",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcorn_pfp_1699727575599.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "0f240b0c816a394c8de9e997f46dfc908c125cb0300c0668096904e421c7341fi0",
+      "description": "Happy ears of corn forever planted on the bitcoin blockchain.",
+      "supply": 55,
+      "twitterLink": "https://twitter.com/XdotScott",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sat, 11 Nov 2023 20:50:02 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

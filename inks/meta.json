@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:32.952Z",
+  "slug": "inks",
+  "tokenCount": 999,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "inks",
+    "collection": {
+      "symbol": "inks",
+      "name": "INKs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-inks_pfp_1760977669785.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Born in the chaotic lab of Doctor-G, INKs are not just digital creatures, they are living experiments of art and energy. They are symbols of creativity, echoes of community, and reflections of what it means to be alive in the digital age. Each INK carries fragments of dark matter, the primordial substance that holds the universe together.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/inksonchain",
+      "discordLink": "",
+      "websiteLink": "https://www.inksonchain.xyz",
+      "createdAt": "Mon, 20 Oct 2025 18:10:15 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p87t8fwdce68hhxwh5eqxw8rvz3302xzak8v7k5vkdhycv3lc2tdq3defhe",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:13.811Z",
+  "slug": "bitcoinwhales",
+  "tokenCount": 8808,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "bitcoinwhales",
+    "collection": {
+      "symbol": "bitcoinwhales",
+      "name": "Bitcoin Whales",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoinwhales_pfp_1700123252800.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Byte-sized Whales on Ordinals, inscribed on 02.14.23 | A free mint collection",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BitcoinWhales_",
+      "discordLink": "https://discord.gg/H6jK4xh2S9",
+      "websiteLink": "https://www.bitcoinwhales.io/",
+      "createdAt": "Fri, 30 Jun 2023 14:08:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

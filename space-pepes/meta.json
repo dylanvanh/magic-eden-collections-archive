@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:38.572Z",
+  "slug": "space-pepes",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "space-pepes",
+    "collection": {
+      "symbol": "space-pepes",
+      "name": "Space Pepes",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/space-pepes.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Pepes in space!",
+      "supply": 17400,
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 07 Apr 2023 01:34:24 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

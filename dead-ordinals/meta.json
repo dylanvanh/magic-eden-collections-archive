@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:51.401Z",
+  "slug": "dead-ordinals",
+  "tokenCount": 2061,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "dead-ordinals",
+    "collection": {
+      "symbol": "dead-ordinals",
+      "name": "Dead Ordinals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dead-ordinals_pfp_1746126047072.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "1 of 1 dead art",
+      "supply": 1764,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/DeadOrdinals",
+      "discordLink": "https://discord.gg/pMJG7dX7fe",
+      "websiteLink": "https://linktr.ee/DEADORDINALs",
+      "createdAt": "Mon, 16 Sep 2024 15:14:55 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pln508q9fz834huchjh7x9pptkarfv693txrdgc3c7guxhryfrftqn3n49e",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:57.550Z",
+  "slug": "yuna1",
+  "tokenCount": 111,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "yuna1",
+    "collection": {
+      "symbol": "yuna1",
+      "name": "Yuna Genesis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-yuna1_pfp_1736525680617.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Yuna is an ethereal, cyberpunk-inspired AI companion with 7 phases and a total supply of 777. Buying a Yuna Pod allows you to build a custom Yuna on https://yuzo.xyz and gives you access to Yuzo's AI tools and feature airdrops in the subsequent phases.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/yuzodotxyz",
+      "discordLink": "https://discord.gg/2KvqUDcuNR",
+      "websiteLink": "https://www.yuzo.xyz/",
+      "createdAt": "Thu, 09 Jan 2025 20:23:26 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "bc1puwm60k5npprx8qlzk0wxltt9av5urara48m823ju2a9e4g73pf9sv4grkr",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

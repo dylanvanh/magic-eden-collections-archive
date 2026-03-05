@@ -1,0 +1,33 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:05.694Z",
+  "slug": "bitcoinpandas",
+  "tokenCount": 888,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoinpandas",
+    "collection": {
+      "symbol": "bitcoinpandas",
+      "name": "Genesis Panz",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoinpandas_pfp_1688875458406.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "PANZNEXTGEN is a community startup building applications of the future. Genesis PANZ serves as your prime membership to Bamboolands, consisting of 888 recursive inscriptions stored entirely on Bitcoin Blockchain.",
+      "supply": 888,
+      "twitterLink": "https://twitter.com/PANZNEXTGEN",
+      "discordLink": "https://discord.gg/maxisgg",
+      "websiteLink": "https://panz.app/",
+      "createdAt": "Mon, 10 Jul 2023 01:57:32 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

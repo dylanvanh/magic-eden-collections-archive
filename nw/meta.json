@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:16.320Z",
+  "slug": "nw",
+  "tokenCount": 787,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "nw",
+    "collection": {
+      "symbol": "nw",
+      "name": "Nakamoto Whales",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-nw_pfp_1739732805049.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The Nakamoto Whales, part of the Catalina Whale Mixer, are a pioneering collection of 787 whale PFPs. As one of the earliest ordinal collections—part of the first million inscriptions—the Naka collection holds the distinction of being the first PFP series to judiciously integrate sat rarity. Notably, 13 of the first 108 inscriptions on uncommon sats and 31 of the first 48 inscriptions on Nakamoto sats belong to Nakamoto Whales.",
+      "supply": 796,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/NakamotoWhales",
+      "discordLink": "https://discord.gg/QBXksmxFm3",
+      "websiteLink": "https://catalinawhales.com",
+      "createdAt": "Thu, 30 Mar 2023 00:19:34 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

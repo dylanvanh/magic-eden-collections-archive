@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:32.778Z",
+  "slug": "ordinaltamarins",
+  "tokenCount": 4444,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "ordinaltamarins",
+    "collection": {
+      "symbol": "ordinaltamarins",
+      "name": "Ordinal Tamarins",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordinaltamarins_pfp_1745532739739.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Oʀᴅɪɴᴀʟ Tᴀᴍᴀʀɪɴꜱ ɪꜱ ᴀ ᴘʀᴇᴍɪᴜᴍ Oʀᴅɪɴᴀʟꜱ ᴄᴏʟʟᴇᴄᴛɪᴏɴ ꜰᴇᴀᴛᴜʀɪɴɢ 4444 ᴜɴɪǫᴜᴇʟʏ ᴅᴇꜱɪɢɴᴇᴅ Tᴀᴍᴀʀɪɴ ᴍᴏɴᴋᴇʏꜱ, ꜰᴏʀᴇᴠᴇʀ ᴇᴛᴄʜᴇᴅ ᴏɴᴛᴏ ᴛʜᴇ Bɪᴛᴄᴏɪɴ ʙʟᴏᴄᴋᴄʜᴀɪɴ. Fᴏʀ ᴛʜᴇ ᴅᴀʀᴇᴅ. ꜰᴏʀ ᴛʜᴇ ᴡɪʟᴅ. ꜰᴏʀ ᴛʜᴇ ᴄᴜʟᴛᴜʀᴇ.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://x.com/ordinaltamarin",
+      "discordLink": "",
+      "websiteLink": "https://www.ordinaltamarins.com",
+      "createdAt": "Fri, 25 Apr 2025 00:13:24 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q0kqsys3s7vn57x70m9dzzt88rclhxlm07n67cf",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

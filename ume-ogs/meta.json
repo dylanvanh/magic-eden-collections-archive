@@ -1,0 +1,47 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:50.496Z",
+  "slug": "ume-ogs",
+  "tokenCount": 33,
+  "defaults": {
+    "contentType": "image/webp",
+    "genesisTransaction": "71b0d29d90624aa6c4830efce6bc0272478f94b7d92c30d36c95c4f72f5ff591",
+    "genesisTransactionBlockTime": "Thu, 02 Jan 2025 00:49:35 GMT",
+    "genesisTransactionBlockHash": "00000000000000000002109a3e5407f7bddd5e78379a6867fd73e84bdccc68d6",
+    "genesisTransactionBlockHeight": 877404,
+    "chain": "btc",
+    "listed": false,
+    "listedPrice": 0,
+    "collectionSymbol": "ume-ogs",
+    "collection": {
+      "symbol": "ume-ogs",
+      "name": " United Minds Of Earth (UME) - OGs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ume-ogs_pfp_1735857291135.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Physical Product  //  Virtual Culture  //  Digital Assets",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/_united_minds",
+      "discordLink": "https://discord.gg/S9SwtA5maE",
+      "websiteLink": "https://unitedmindsofearth.xyz/",
+      "createdAt": "Thu, 02 Jan 2025 23:13:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 553470,
+    "satBlockTime": "Wed, 12 Dec 2018 02:32:41 GMT",
+    "satributes": [
+      "Common"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

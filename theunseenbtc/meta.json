@@ -1,0 +1,47 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:45.356Z",
+  "slug": "theunseenbtc",
+  "tokenCount": 169,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "parentInscriptionId": "1d79c68c7d959f544312e194c149dc0f3bf98e6fbb026051a0d85dd5d9f29999i0",
+    "collectionSymbol": "theunseenbtc",
+    "collection": {
+      "symbol": "theunseenbtc",
+      "name": "The Unseen",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-theunseenbtc_pfp_1747420951299.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Discover \"The Unseen: 169 hand-drawn 1/1 Art pieces on Bitcoin. Channeling shadows and light into a psychedelic celebration of consciousness\"  theunseenbtc.com by @sicko_77",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://x.com/theunseenbtc",
+      "discordLink": "",
+      "websiteLink": "http://theunseenbtc.com",
+      "createdAt": "Sun, 18 May 2025 15:41:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 78,
+    "satBlockTime": "Sun, 11 Jan 2009 01:00:54 GMT",
+    "satributes": [
+      "Block 78",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

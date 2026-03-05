@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:52.509Z",
+  "slug": "bitcoin-monkes",
+  "tokenCount": 3404,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-monkes",
+    "collection": {
+      "symbol": "bitcoin-monkes",
+      "name": "Bitcoin Monkes",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoin-monkes.avif",
+      "chain": "btc",
+      "inscriptionIcon": "b9b7a284924d74df5e8a405f997d7cad37dadb5949ad687234a22d9e5383f80bi0",
+      "description": "Bitcoin Monkes is a collection of Monke Inscriptions — unique digital collectibles living on the Bitcoin blockchain. Get one to join the club.",
+      "supply": 1500,
+      "twitterLink": "https://twitter.com/btcmonkes",
+      "discordLink": "https://discord.gg/QGWMj4ymUW",
+      "websiteLink": "",
+      "createdAt": "Thu, 23 Mar 2023 00:53:36 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

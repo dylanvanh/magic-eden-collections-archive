@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:52.098Z",
+  "slug": "mhi",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "mhi",
+    "collection": {
+      "symbol": "mhi",
+      "name": "Mutant Hounds: Inscriptions",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-mhi_pfp_1711123784126.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "10,000 Mutant Hounds returning to The Source. This is art ascension. The hallmark of Ordinal art and the purest form of Mutant Hounds provenance.",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/MH_Inscriptions",
+      "discordLink": "https://discord.gg/mutantcartel",
+      "websiteLink": "https://inscriptions.novellabs.xyz",
+      "createdAt": "Mon, 22 Apr 2024 20:29:51 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q52qqsjrltufclawzyhlrw2anma9jrmh5633pjk",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

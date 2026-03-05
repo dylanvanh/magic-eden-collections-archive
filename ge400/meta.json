@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:21.266Z",
+  "slug": "ge400",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "ge400",
+    "collection": {
+      "symbol": "ge400",
+      "name": "Geometry400",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ge400_pfp_1771094324966.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Geometry400 is a collection inspired by geometric shapes arranged on a 400x400 pixel field. This collection is the sibling of my previous one, Geometry600, built on the same algorithm with only minimal changes. Originally fully generative, the work was later manually transferred into SVG format — as a result, each file’s size is measured in just bytes!",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/nikvct",
+      "discordLink": "",
+      "websiteLink": "https://linktr.ee/nikvct",
+      "createdAt": "Sat, 14 Feb 2026 18:54:22 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qqz8qw9n68y38e3p37z8vzah0h2svmskzsk3qcy",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

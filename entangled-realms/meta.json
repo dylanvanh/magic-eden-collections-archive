@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:09.007Z",
+  "slug": "entangled-realms",
+  "tokenCount": 121,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "entangled-realms",
+    "collection": {
+      "symbol": "entangled-realms",
+      "name": "Entangled Realms by OTO x BitcoinSneakers",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-entangled-realms_pfp_1724892409099.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "This collection is a collaboration with an OG Ordinals artist Bitcoin Sneaker, and it's a free mint art for holders of the physical product, the Bitcoin Sneaker. The color changes within the palette according to the block height. It will be minted over an extended period. The collection will be regularly updated and is expected to have a maximum supply of 500 pieces.",
+      "supply": 1000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/otograf_jp",
+      "discordLink": "https://discord.gg/Z9MyjqgvHP",
+      "websiteLink": "",
+      "createdAt": "Thu, 29 Aug 2024 01:18:29 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "336i9yrjqBkt9y8DBUAvL8JcR7UeoMph5t",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Nakamoto"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

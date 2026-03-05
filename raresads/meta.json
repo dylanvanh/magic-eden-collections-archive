@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:49.241Z",
+  "slug": "raresads",
+  "tokenCount": 3689,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "raresads",
+    "collection": {
+      "symbol": "raresads",
+      "name": "Rare Sads",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-raresads_pfp_1719871726605.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "3693 broke Rare Sads are coming to Ordinals with nothing in their pockets. 😒",
+      "supply": 3693,
+      "twitterLink": "https://twitter.com/RareSads",
+      "discordLink": "https://discord.gg/raresads",
+      "websiteLink": "",
+      "createdAt": "Wed, 03 Jul 2024 16:45:15 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3GGhhGH8LGp6b419ELexW62ink5ynTaij5",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

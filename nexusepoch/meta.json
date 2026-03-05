@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:08.798Z",
+  "slug": "nexusepoch",
+  "tokenCount": 555,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PGh0bWwgc3R5bGU9IndpZHRoOjEwMCU7aGVpZ2h0OjEwMCUiPjxoZWFkPjxzdHlsZT5ib2R5e2JhY2tncm91bmQtcG9zaXRpb246NTAlIDUwJTtiYWNrZ3JvdW5kLXJlcGVhdDpuby1yZXBlYXQ7YmFja2dyb3VuZC1zaXplOmNvbnRhaW47YmFja2dyb3VuZC1pbWFnZTp1cmwoIi9jb250ZW50L2I4ZmFlYWZkNGE3OWE5YWFmOGQ4YWJmOGI2YjA0ZjZjNjYyYjlkYzAzMDI2YzY5OGNlOWNjZjdjMWM4MGJlNGFpMCIpfTwvc3R5bGU+PC9oZWFkPjxib2R5PjwvYm9keT48L2h0bWw+",
+    "chain": "btc",
+    "collectionSymbol": "nexusepoch",
+    "collection": {
+      "symbol": "nexusepoch",
+      "name": "Nexus Epoch",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-nexusepoch_pfp_1770642611002.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Ordinals Nexus is the premier media outlet in the Ordinals space, covering all developments within the ecosystem. Epoch stands as Nexus's genesis collection, offering exclusive access to cutting-edge data and tools ensuring that you are always ahead of the curve and on top of the game.",
+      "supply": 555,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/OrdinalsNexus",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 26 Jan 2024 16:42:26 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

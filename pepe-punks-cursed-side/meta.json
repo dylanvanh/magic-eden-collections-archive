@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:39.070Z",
+  "slug": "pepe-punks-cursed-side",
+  "tokenCount": 1450,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "pepe-punks-cursed-side",
+    "collection": {
+      "symbol": "pepe-punks-cursed-side",
+      "name": "Pepe Punks Cursed Side",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pepe-punks-cursed-side_pfp_1709534031238.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "This collection represents the cursed side of the Pepe Punks collection. (Reminder: If you sell your Cursed Pepe Punk, then Block 9 will also be transferred with it.)",
+      "supply": 3333,
+      "twitterLink": "https://twitter.com/SatoshiPunksNFT",
+      "discordLink": "https://discord.gg/satoshipunksnft",
+      "websiteLink": "https://www.pepepunks.art",
+      "createdAt": "Mon, 04 Mar 2024 08:19:59 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

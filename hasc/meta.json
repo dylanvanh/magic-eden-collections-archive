@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:27.400Z",
+  "slug": "hasc",
+  "tokenCount": 114,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "hasc",
+    "collection": {
+      "symbol": "hasc",
+      "name": "HASC",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/hasc.avif",
+      "chain": "btc",
+      "inscriptionIcon": "b2984b7b410014ea688adacfe8dd55bdc3127e29e7917ee9e2c547bacf090cf5i0",
+      "description": "𝗛𝗶𝗽 𝗔𝗹𝗶𝗲𝗻𝘀 𝗦𝗲𝗰𝗿𝗲𝘁 𝗖𝗹𝘂𝗯 - HASC has landed! n300 unique inscriptions living on Bitcoin and hand-drawn by SFY Labs. All 3D modeled, not the usual AI art or pixelart. Scan the QR code on the nfts to discover all the items and their rarities. Who are 𝗦𝗙𝗬 𝗟𝗮𝗯𝘀 ??  https://linktr.ee/sfy_labs",
+      "supply": 300,
+      "twitterLink": "https://twitter.com/SFY_Labs",
+      "discordLink": "https://discord.com/invite/BhQSjpwNYw",
+      "websiteLink": "https://hasc.stickyfactory.it/",
+      "createdAt": "Sun, 09 Apr 2023 09:21:22 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

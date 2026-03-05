@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:24.333Z",
+  "slug": "rune_totems",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHNjcmlwdCBzcmM9Ii9jb250ZW50LzQ2NDlkZTRkZjBiNWM1NDgzZTJhMTBlOWEzNmUxZGRiMjFlM2FhMmQ0M2JmZDAyYjI1ZDg4ZWU2YjA2N2RmZTdpMCI+PC9zY3JpcHQ+Cg==",
+    "chain": "btc",
+    "parentInscriptionId": "6fa3e837fd9650f573e827b2317ae4f452a6f46eca818403b1a42a87c8b4b02ei0",
+    "collectionSymbol": "rune_totems",
+    "collection": {
+      "symbol": "rune_totems",
+      "name": "Rune Totems",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-rune_totems_pfp_1710501673370.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "10,000 Rune Totems that let you accumulate the TGOB Rune.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/AI_Rune",
+      "discordLink": "https://discord.gg/UEJYYMkGQk",
+      "websiteLink": "https://ordiscan.com/inscription/64451378",
+      "createdAt": "Fri, 15 Mar 2024 13:22:56 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

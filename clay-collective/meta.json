@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:42.635Z",
+  "slug": "clay-collective",
+  "tokenCount": 650,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "clay-collective",
+    "collection": {
+      "symbol": "clay-collective",
+      "name": "Clay Collective by Brrrbon",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-clay-collective_pfp_1702517256857.png",
+      "chain": "btc",
+      "inscriptionIcon": "9977855",
+      "description": "Clay Collective is a body of work that treats collecting as both play and permanence. Each character is born from clay, captured through photography, and inscribed onto Bitcoin as a lasting artifact. The physical figures no longer remain—destroyed after inscription—but their presence is carried forward as digital relics.\n\nThe project draws on the nostalgia of childhood collections, recalling the joy of holding toys, cards, or figurines, while reframing that instinct within the permanence of Bitcoin. This interplay between memory and technology challenges assumptions of digital ephemerality, positioning blockchain as not just a ledger of finance but as a cultural archive.\n\nThrough its evolving mythology and handcrafted origins, Clay Collective redefines the act of collecting: not as accumulation, but as preservation of stories, touch, and imagination in their most enduring form.",
+      "supply": 650,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ClayCollective_",
+      "discordLink": "https://discord.gg/baS56CqsHW",
+      "websiteLink": "https://www.claycollective.io",
+      "createdAt": "Thu, 08 Jun 2023 10:42:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pfhrw7d6362vvrjkgx89g0jj9wzl47uh6x64zhrrjcrv6cveg567q2d4yrr",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:25.690Z",
+  "slug": "ordibots3d",
+  "tokenCount": 1889,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "49a08d8f22cfb2816b7e3a2cf25d93ea98b0a4dbb5c12e7b0599de958d78e1b4i0",
+    "collectionSymbol": "ordibots3d",
+    "collection": {
+      "symbol": "ordibots3d",
+      "name": "Ordibots",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordibots3d_pfp_1701002441197.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "OrdiBots is a collection of interactive 3D digital art on Bitcoin. Thanks to the integration into AR, it enables users to position their digital companions in real-world.",
+      "supply": 1889,
+      "twitterLink": "https://twitter.com/OrdiBots",
+      "discordLink": "https://discord.gg/ordibotscommunity",
+      "websiteLink": "",
+      "createdAt": "Sun, 26 Nov 2023 15:20:31 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

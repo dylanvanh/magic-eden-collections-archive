@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:43.573Z",
+  "slug": "the-prophecy",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "contentBody": "PHN2ZyB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48aW1hZ2UgaGVpZ2h0PSIxMDAlIiB3aWR0aD0iMTAwJSIgaHJlZj0iL2NvbnRlbnQvY2ExZWZjMGNlNWM2YzAwM2MxODkzOTdkZmYwYmRkNDEzODk4NTc0YzVlYjQ4YjY1YzEwMzMxYTM3NmRjNTk0NGkwIi8+PC9zdmc+",
+    "chain": "btc",
+    "collectionSymbol": "the-prophecy",
+    "collection": {
+      "symbol": "the-prophecy",
+      "name": "THE PROPHECY",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/the-prophecy.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Special Runestone Open Edition Pizza Ninja. WL snapshot taken of all unlisted Runestones, Pizza Ninjas, and Wizards of Ord.",
+      "supply": 1537,
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://ninjalerts.gitbook.io/",
+      "createdAt": "Mon, 18 Mar 2024 22:03:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:03.951Z",
+  "slug": "bitcoingizmos",
+  "tokenCount": 9992,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "bitcoingizmos",
+    "collection": {
+      "symbol": "bitcoingizmos",
+      "name": "Bitcoin Gizmos",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoingizmos_pfp_1729179105306.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "gizmo gizmo gizmo gizmo gizmo suck my dick suck my dick suck my dick touch grass touch grass eat sand eat sand eat sand",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/MKUltraBTC",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 17 Oct 2024 21:04:19 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:52.945Z",
+  "slug": "degods",
+  "tokenCount": 535,
+  "defaults": {
+    "contentType": "image/webp",
+    "genesisTransactionBlockTime": "Mon, 13 Feb 2023 22:36:14 GMT",
+    "genesisTransactionBlockHash": "000000000000000000002067327ceda00d90cb546e3b5efbdf2b5fe484442813",
+    "genesisTransactionBlockHeight": 776408,
+    "chain": "btc",
+    "collectionSymbol": "degods",
+    "collection": {
+      "symbol": "degods",
+      "name": "BTC DeGods",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-degods_pfp_1759544076085.png",
+      "chain": "btc",
+      "inscriptionIcon": "d8c2e6fca21b41817dc162445f2a0c0f5b0995c0cae12799a39571cd974c4ea2i0",
+      "description": "There are 535 BTC DeGods. All inscribed on a single Bitcoin block.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/degodsnft",
+      "discordLink": "",
+      "websiteLink": "https://degods.com",
+      "createdAt": "Mon, 20 Mar 2023 21:03:10 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

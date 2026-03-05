@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:33.003Z",
+  "slug": "inscribed-pepes",
+  "tokenCount": 69,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "inscribed-pepes",
+    "collection": {
+      "symbol": "inscribed-pepes",
+      "name": "Inscribed Pepes",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/inscribed-pepes.avif",
+      "chain": "btc",
+      "inscriptionIcon": "ba698535dc15c8761bf276b8938fc60e118587d25cb92c4104c45ab4ac9a1bcbi0",
+      "description": "69 Pepes inscribed on Bitcoin until the end of time.",
+      "supply": 69,
+      "twitterLink": "https://twitter.com/inscribedpepe",
+      "discordLink": "https://discord.gg/25szBtRmcn",
+      "websiteLink": "HTTPS://peepodepot.com",
+      "createdAt": "Mon, 20 Mar 2023 21:03:32 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

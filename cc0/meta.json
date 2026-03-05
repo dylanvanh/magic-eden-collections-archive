@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:36.533Z",
+  "slug": "cc0",
+  "tokenCount": 10001,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "cc0",
+    "collection": {
+      "symbol": "cc0",
+      "name": "CC0",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-cc0_pfp_1706887845494.png",
+      "chain": "btc",
+      "inscriptionIcon": "2effe994034c8cf8de73a1210259c1862808647fc011e111fa8cc0656774ec1ai0",
+      "description": "C█████ C██████ 0 is a VPL licensed collection of 10001 cat hand puppet images inspired by the Karmic Grid and materialized with the help of the OPIUM Puppet LoRA model. Nothing more, nothing less.",
+      "supply": 10001,
+      "twitterLink": "https://twitter.com/lukaskalm",
+      "discordLink": "https://discord.gg/eXrkvQmes9",
+      "websiteLink": "https://cc0vpl.neocities.org",
+      "createdAt": "Fri, 02 Feb 2024 17:18:03 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3QH16odrc7RysYubC1XUaEPQsdNosgiA1X",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

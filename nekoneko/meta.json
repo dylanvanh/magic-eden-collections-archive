@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:07.822Z",
+  "slug": "nekoneko",
+  "tokenCount": 10001,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "nekoneko",
+    "collection": {
+      "symbol": "nekoneko",
+      "name": "Neko Neko",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-nekoneko_pfp_1760733158025.png",
+      "chain": "btc",
+      "inscriptionIcon": "402a8f48d6aed43cd8ead4bc8cc137ee3dbe93f7eef9a7c680670a8cf76968dfi0",
+      "description": "ねこねこ · 10K Neko Neko\nKawaii Bitcoin inscriptions — one purr at a time",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://www.nekoneko.wtf/",
+      "createdAt": "Wed, 15 Oct 2025 20:01:10 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3Cuz1qn9ZK7GGe7VcWggCzxbfwZhdKVN45",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

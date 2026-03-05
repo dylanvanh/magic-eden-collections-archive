@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:43.173Z",
+  "slug": "pokepixels",
+  "tokenCount": 278,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "pokepixels",
+    "collection": {
+      "symbol": "pokepixels",
+      "name": "Poke Pixels",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pokepixels_pfp_1732424031988.png",
+      "chain": "btc",
+      "inscriptionIcon": "f938b32defb829cb070083e22633cc741f4085f7a1fc47bc41f3e6ffd79be0a4i0",
+      "description": "Poke Pixels, crafted by Oak. Don't miss your chance to own these exclusive collectibles. Join us on this exciting journey!",
+      "supply": 849,
+      "twitterLink": "https://twitter.com/pokepixels69",
+      "discordLink": "https://discord.gg/HH9HdcQAcx",
+      "websiteLink": "https://discord.gg/HH9HdcQAcx",
+      "createdAt": "Wed, 20 Dec 2023 16:15:30 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

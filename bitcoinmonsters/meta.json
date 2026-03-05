@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:05.184Z",
+  "slug": "bitcoinmonsters",
+  "tokenCount": 4997,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "bitcoinmonsters",
+    "collection": {
+      "symbol": "bitcoinmonsters",
+      "name": "Bitcoin Monsters",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoinmonsters_pfp_1719433451941.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Join our unique 5k collection through a Free Mint event. Each monster is a one-of-a-kind digital collectible, offering ownership, gameplay, and earning potential.",
+      "supply": 5000,
+      "twitterLink": "https://twitter.com/btcmonsters",
+      "discordLink": "https://discord.gg/bitcoinmonsters",
+      "websiteLink": "https://bitcoinmonsters.io/",
+      "createdAt": "Wed, 26 Jun 2024 17:37:04 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pt8xatzvqzex7qgjsdec0tx760d2xp22a3593znyap7k5jfwl0m8smmeumv",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

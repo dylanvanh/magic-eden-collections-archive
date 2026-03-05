@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:39.335Z",
+  "slug": "chromaticaord",
+  "tokenCount": 130,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "chromaticaord",
+    "collection": {
+      "symbol": "chromaticaord",
+      "name": "Chromatica Ordinals",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/chromaticaord.avif",
+      "chain": "btc",
+      "inscriptionIcon": "6e608d4460baf184e48cffe9db18f9714528c32aa1967a9eb0a9fa5ecd556a81i0",
+      "description": "Chromatica Ordinals is an art collection by Resaang, a collection that transcends digital and physical boundaries and showcases the intersections of technology, art and human creativity on a canvas and an NFT.\n\nThe project exists at the crossroads of art and blockchain but also challenges the way we perceive and value art. A very physical medium of acrylic paint immortalized in Block 78 SATs.",
+      "supply": 130,
+      "twitterLink": "https://twitter.com/chromaticaord",
+      "discordLink": "https://discord.gg/chromaticaord",
+      "websiteLink": "https://oncyber.io/chromaticaordinals",
+      "createdAt": "Tue, 27 Jun 2023 21:26:14 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 78,
+    "satBlockTime": "Sun, 11 Jan 2009 01:00:54 GMT",
+    "satributes": [
+      "Block 78",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

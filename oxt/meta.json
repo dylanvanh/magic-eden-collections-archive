@@ -1,0 +1,47 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:37.747Z",
+  "slug": "oxt",
+  "tokenCount": 2470,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "b3e7e28cc2230e1005ab94ec2e4cf5f219362404abcdd9a7b4313adbba22e736i0",
+    "collectionSymbol": "oxt",
+    "collection": {
+      "symbol": "oxt",
+      "name": "Ordinal X Tribes",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-oxt_pfp_1712860652800.gif",
+      "chain": "btc",
+      "inscriptionIcon": "2085e121b5ac7ff6cc164a369758230012b01495b16326c9cb9f8a4870eb7ef9i75",
+      "description": "Multiple tribes in the universe land their feet on Earth at the same time with the same purpose. Inevitably, their invasion is timed to coincide with the Bitcoin halving. The question isn’t how you protect your Bitcoin, but to whom you submit your coin.",
+      "supply": 4500,
+      "twitterLink": "https://twitter.com/OrdinalXTribes",
+      "discordLink": "https://discord.gg/oxt",
+      "websiteLink": "https://ordinalxtribes.xyz/",
+      "createdAt": "Thu, 18 Apr 2024 00:35:24 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q7tvyy4drtyxh8e5ntqcm026058sf90eunrfk8v",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

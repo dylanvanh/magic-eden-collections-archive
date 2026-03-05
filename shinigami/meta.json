@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:35.729Z",
+  "slug": "shinigami",
+  "tokenCount": 110,
+  "defaults": {
+    "contentType": "image/gif",
+    "chain": "btc",
+    "collectionSymbol": "shinigami",
+    "collection": {
+      "symbol": "shinigami",
+      "name": "SHINIGAMI by Memphis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-shinigami_pfp_1752457417609.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Immortal by inscription\nDeath cannot kill that which is eternal",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://x.com/MemphisBTC",
+      "discordLink": "",
+      "websiteLink": "https://memphisbtc.xyz",
+      "createdAt": "Mon, 14 Jul 2025 02:38:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1qpu23pwnsrh9chl750klkan9jzeqgslg0q4mkkj",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "uncommon"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

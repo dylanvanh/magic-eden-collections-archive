@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:37.937Z",
+  "slug": "solemnsboutique",
+  "tokenCount": 35,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "solemnsboutique",
+    "collection": {
+      "symbol": "solemnsboutique",
+      "name": "Boutique by Solemn",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-solemnsboutique_pfp_1695645424043.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Original artworks by Solemn",
+      "supply": 69,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/strangersolemn",
+      "discordLink": "https://discord.gg/6f46RbMqBm",
+      "websiteLink": "https://strangersolemn.art",
+      "createdAt": "Mon, 25 Sep 2023 13:28:51 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

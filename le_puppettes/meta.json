@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:45.469Z",
+  "slug": "le_puppettes",
+  "tokenCount": 6969,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "le_puppettes",
+    "collection": {
+      "symbol": "le_puppettes",
+      "name": "le puppettes",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-le_puppettes_pfp_1710956432041.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "this is a btc puppets deriv project, made up of 6,969 puppettes. the collection includes traits that reference different btc projects, with the goal of becoming a well beloved representation of unhinged btc culture. there is only one utilititty - the art! while the btc puppets hang out in the shed (imagine the smell), the puppettes prefer the fresh air and stay outside in the garden. join us!",
+      "supply": 6969,
+      "twitterLink": "https://twitter.com/queenarf51621",
+      "discordLink": "https://discord.gg/tMDjWyS7P6",
+      "websiteLink": "",
+      "createdAt": "Fri, 22 Mar 2024 00:40:01 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qwmfzd9mvzna63f8urrq53argzrjc7j3tmz66jj",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

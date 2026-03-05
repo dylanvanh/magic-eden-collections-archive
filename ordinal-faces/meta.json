@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.132Z",
+  "slug": "ordinal-faces",
+  "tokenCount": 51,
+  "defaults": {
+    "contentType": "image/gif",
+    "chain": "btc",
+    "collectionSymbol": "ordinal-faces",
+    "collection": {
+      "symbol": "ordinal-faces",
+      "name": "Ordinal Faces",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinal-faces.webp",
+      "chain": "btc",
+      "inscriptionIcon": "c5b65f0a7270384a3c059494ce2bc1d7764f45e4b239c98da90fc10c2a855104i0",
+      "description": "Ordinal Faces is an artistic collection of 50 animated pixel art pieces, all inscribed within the first 5,000 files on the Bitcoin blockchain. The project utilizes pixel art as a creative medium, representing the early days of digital art while also reflecting the current state of the Ordinals protocol as an emerging technology.",
+      "supply": 50,
+      "twitterLink": "https://twitter.com/OrdinalFaces",
+      "discordLink": "https://discord.gg/ordinalfaces",
+      "websiteLink": "",
+      "createdAt": "Mon, 20 Mar 2023 21:03:55 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:43.773Z",
+  "slug": "the_dishonorables",
+  "tokenCount": 2222,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "parentInscriptionId": "ebdf4f475dadb8ca2bf23f7a16e8a17cb141e4ff6e0a6a79ac15ff9e8e0c60a7i0",
+    "collectionSymbol": "the_dishonorables",
+    "collection": {
+      "symbol": "the_dishonorables",
+      "name": "The Dishonorables",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-the_dishonorables_pfp_1757513077555.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "From the imaginative minds of the Karmic Grid come 2,222 generative Dishonorables, created to bring chaos, kindness, and fun to your day. \n\nDishonorary is the new Honorary.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://x.com/madetomeme?s=21&t=pcife5Vqwb5bUtY556alyg",
+      "createdAt": "Wed, 10 Sep 2025 05:36:46 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qplxpp6lkl6sznv69u7ymp5thq923eflyw7m2as",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:35.758Z",
+  "slug": "ordskul",
+  "tokenCount": 333,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "ordskul",
+    "collection": {
+      "symbol": "ordskul",
+      "name": "ordskul",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordskul_pfp_1764948964224.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Ordskul is a collection of 666 hand-drawn 1/1 artifacts.\n333 in fine art style + 333 in pixel art.\nBuilt in a different way, it will remain forever on the mother chain.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ArieteDot",
+      "discordLink": "",
+      "websiteLink": "https:\\\\www.ariete.website",
+      "createdAt": "Fri, 05 Dec 2025 15:54:26 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

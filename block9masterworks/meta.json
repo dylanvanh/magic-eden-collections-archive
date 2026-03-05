@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:22.239Z",
+  "slug": "block9masterworks",
+  "tokenCount": 101,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "block9masterworks",
+    "collection": {
+      "symbol": "block9masterworks",
+      "name": "Block 9 Masterworks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-block9masterworks_pfp_1688443009991.png",
+      "chain": "btc",
+      "inscriptionIcon": "2221d15519d051a8484a565d76fac3fe8830c692dd30a2b47859ec5a3993cc2di0",
+      "description": "Block 9 MasterWorks is a collection of 100 of the some of the greatest Art Masterpieces ever painted. Owning a Block 9 MasterWorks also serves as a MasterPass for Exclusive Access on every collection we ever drop. It also carries with it perks, such as substantial discounts on our future Collections, Merchandise, MasterPass holders channel in discord, Airdrops, and more....",
+      "supply": 101,
+      "twitterLink": "https://twitter.com/BTCMasterworks",
+      "discordLink": "https://discord.gg/5YxQevmjrq",
+      "websiteLink": "https://bitcoinmasterworks.carrd.co/",
+      "createdAt": "Tue, 04 Jul 2023 04:43:02 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

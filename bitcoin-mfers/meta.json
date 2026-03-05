@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:52.152Z",
+  "slug": "bitcoin-mfers",
+  "tokenCount": 10000,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-mfers",
+    "collection": {
+      "symbol": "bitcoin-mfers",
+      "name": "Bitcoin mfers",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoin-mfers_pfp_1698424815434.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Bitcoin Mfers are inscriptions created entirely from hand drawings by Sartoshi, and inscribed into the Bitcoin blockchain.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/mfers_btc",
+      "discordLink": "https://discord.gg/jZ6VVSrme5",
+      "websiteLink": "",
+      "createdAt": "Wed, 14 Jun 2023 13:05:34 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:34.370Z",
+  "slug": "buzz-buzz-buzz",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHNjcmlwdAogIHNyYz0iL2NvbnRlbnQvNTAzZTQ0ZTg3YTI1NTA0NGNhY2VlMjdjOWFhYWIyNWQ3MmJmOGIyN2JhM2EzYmZmNjRmMDUyNDQxNmI1ZDBiMGkwIgogIGRhdGEtcGllY2U9Ii9jb250ZW50L2U4YjQxZWI4MjQzM2MyMGFkNzI3Zjc4ZDkyMGZjYmY4NTUxODliZWRkMzA4NWFiMDQ4ZmFkNmYyOWIzZTFiYmZpMCIKPjwvc2NyaXB0Pg==",
+    "chain": "btc",
+    "collectionSymbol": "buzz-buzz-buzz",
+    "collection": {
+      "symbol": "buzz-buzz-buzz",
+      "name": "BUZZ BUZZ BUZZ by FAR",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-buzz-buzz-buzz_pfp_1738281624144.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The BUZZ BUZZ BUZZ (BBB) collection is an evolving art experiment on the Bitcoin blockchain. Created by FAR, it introduces swarming: a mechanism where collectors combine tokens to unlock new collectibles like TOKYO QUEENS. \n\nInspired by Hal Finney’s vision of crypto trading cards, BBB reimagines digital collectibles as dynamic, ever-evolving artifacts. \n\n🐝🐝🐝",
+      "supply": 1,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/0xfar",
+      "discordLink": "",
+      "websiteLink": "https://swarm.btc.art",
+      "createdAt": "Thu, 18 Apr 2024 18:58:54 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qxkpasskfmw04kke0eytmfvp69jf6ptp3mxwy02",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

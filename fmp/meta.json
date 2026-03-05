@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:15.984Z",
+  "slug": "fmp",
+  "tokenCount": 3151,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "fmp",
+    "collection": {
+      "symbol": "fmp",
+      "name": "Mining Passes",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fmp_pfp_1725397315264.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "3155 EZ Mining Passes for the Fractal Bitcoin Network",
+      "supply": 3155,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/EZMining256",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 03 Sep 2024 21:10:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q9qhah0kf8a66rgd8vvdpegv0c0gu2lk2m04pkv",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

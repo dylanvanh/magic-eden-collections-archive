@@ -1,0 +1,49 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:31.619Z",
+  "slug": "alkaneimperium",
+  "tokenCount": 99,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "5e5f4bb0f3d63719edd08e2c2ec84431963107fc0f05f18f89f27ddcf3b47966i0",
+    "collectionSymbol": "alkaneimperium",
+    "collection": {
+      "symbol": "alkaneimperium",
+      "name": "(AI) Alkane Imperium ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-alkaneimperium_pfp_1736960085298.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "ddd8699e67c26328606c3b48a477cd87475a6b6b60cfa4789e954fe5628a57eei0",
+      "description": "Älkäñë Ïmpërïüm",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Alkane_Imperium",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 15 Jan 2025 21:34:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3DEPYL9BPM29dEvqzNycQsaEsYVhM8SMWc",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

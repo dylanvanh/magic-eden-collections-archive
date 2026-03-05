@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:36.688Z",
+  "slug": "skullx-cyber-raiders",
+  "tokenCount": 333,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "skullx-cyber-raiders",
+    "collection": {
+      "symbol": "skullx-cyber-raiders",
+      "name": "Skullx: Cyber Raiders",
+      "imageURI": "https://bafkreibg6k4rfg6mvjuxyo66etaweoo7x7gjo74tqvwyof7r6547s36l3u.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "d1bc066db84bcaa4a63a9c5ef94c5520495f353e319238d4a6268c1a6365944ci0",
+      "description": "Skullx: Cyber Raiders is the genesis Ordinals collection from Skullx. It is sized at 333 and is entirely in the 48k - 55k range.",
+      "supply": 333,
+      "twitterLink": "https://twitter.com/skullxnft",
+      "discordLink": "https://discord.gg/skullx",
+      "websiteLink": "https://linktr.ee/skullxnft",
+      "createdAt": "Thu, 18 Jan 2024 15:37:33 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pxz6f0kcz335n8mm2k06mg05qry7m3vv6lg0g06te9t2lchq0hwpqjz6h6h",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:29.575Z",
+  "slug": "runenodes",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/gif",
+    "genesisTransactionBlockTime": "Thu, 11 Apr 2024 01:42:55 GMT",
+    "genesisTransactionBlockHash": "000000000000000000032826a95babfd55703b9ced9d2f1d677d5e883a8044ff",
+    "genesisTransactionBlockHeight": 838684,
+    "chain": "btc",
+    "collectionSymbol": "runenodes",
+    "collection": {
+      "symbol": "runenodes",
+      "name": "Rune Nodes",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-runenodes_pfp_1713060349588.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "SEND NODES. Not affiliated with, but deeply inspired by, NodeMonkes.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/runenodes",
+      "discordLink": "",
+      "websiteLink": "https://runenodes.com",
+      "createdAt": "Thu, 11 Apr 2024 02:32:13 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p4djlwntl0hhlgj50vt72ucsm2pa0d9dnafzn2d9d27qjgwhcxjsqs65m84",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

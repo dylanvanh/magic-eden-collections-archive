@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:46.983Z",
+  "slug": "prometheans",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "video/mp4",
+    "chain": "btc",
+    "parentInscriptionId": "148b8f9c1f24f5bce794ddbda52ac399fe72e7bfe95987c2c6589fb86a7e8e98i0",
+    "collectionSymbol": "prometheans",
+    "collection": {
+      "symbol": "prometheans",
+      "name": "Prometheans",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-prometheans_pfp_1713294402610.gif",
+      "chain": "btc",
+      "inscriptionIcon": "148b8f9c1f24f5bce794ddbda52ac399fe72e7bfe95987c2c6589fb86a7e8e98i0",
+      "description": "Prometheans is a Pre-Rune collection by CyberKongz that symbolizes ascension through innovation and experimentation.",
+      "supply": 21000,
+      "twitterLink": "https://twitter.com/CyberKongz",
+      "discordLink": "https://discord.gg/cyberkongz",
+      "websiteLink": "https://cyberkongz.com",
+      "createdAt": "Wed, 17 Apr 2024 10:58:16 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qsqgx050l8cal4hlaewjhl6495l3fnxzv592vrl",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:31.288Z",
+  "slug": "airhead_whale_pass",
+  "tokenCount": 325,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "airhead_whale_pass",
+    "collection": {
+      "symbol": "airhead_whale_pass",
+      "name": "Airhead Whale Pass",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-airhead_whale_pass_pfp_1727112742254.png",
+      "chain": "btc",
+      "inscriptionIcon": "fb2ffa98a5d6d8c593dedbbc8ac62fb46d9312972a67b6057e36e1c021cbc8a8i0",
+      "description": "nobody in bitcoin cares about your amex, gucci, or bmw. we flex with the whale pass. forget the whitelist—secure your airhead, claim the perks, let everyone else watch. flex harder. only 555. v balance goes up with every block. pretty cool, huh.",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/AirheadFun",
+      "discordLink": "",
+      "websiteLink": "https://airhead.fun/whale_pass",
+      "createdAt": "Thu, 14 Nov 2024 18:18:36 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qeq2rataxyw80y8xf09022nddkuearll0r09lhu",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

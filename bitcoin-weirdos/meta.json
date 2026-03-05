@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:01.215Z",
+  "slug": "bitcoin-weirdos",
+  "tokenCount": 9999,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-weirdos",
+    "collection": {
+      "symbol": "bitcoin-weirdos",
+      "name": "Bitcoin Weirdos",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoin-weirdos_pfp_1748010545340.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "for the weirdos, for the world",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/F___T___W",
+      "discordLink": "https://discord.gg/4pz9wZx6Xt",
+      "websiteLink": "https://f-t-w.xyz",
+      "createdAt": "Fri, 23 May 2025 18:46:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

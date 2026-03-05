@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:14.821Z",
+  "slug": "fire",
+  "tokenCount": 2600,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "fire",
+    "collection": {
+      "symbol": "fire",
+      "name": "FIRE",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fire_pfp_1770559244050.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "FIRE is the first generative art collection minted on Bitcoin through an AI agent-exclusive process. Every piece is created at mint time using a deterministic generator, making the artwork fully reproducible and verifiable on-chain.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/launchpadhot",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 08 Feb 2026 14:16:47 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pqx7pt5jnqzyzhtumk8kx3e5dwg0gwqeah6ceccrwj9lpdqk776lqpgh0nk",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

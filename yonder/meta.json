@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:57.534Z",
+  "slug": "yonder",
+  "tokenCount": 121,
+  "defaults": {
+    "contentType": "image/avif",
+    "chain": "btc",
+    "collectionSymbol": "yonder",
+    "collection": {
+      "symbol": "yonder",
+      "name": "YONDER",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-yonder_pfp_1749720259833.png",
+      "chain": "btc",
+      "inscriptionIcon": "4742621f8bafe7c8524239c411b5393d5462281647b060fb12d5815b4c1294dbi0",
+      "description": "YONDER is a study of limitations, an exploration of the beyond, the Immaterium, the realm of the machine elves, of dreams and fears, of love, madness and the elaborate machine behind our perceived reality.\nEach YONDER is a sculpture handcrafted from only 32x32 pixels and brought to life through elaborate post processing.\n\nIts sister collection - Call Data Comrades - is inscribed on Ethereum. Both collections share the same Universe and lore. And there are hidden gateways connecting these two worlds.\n\nYONDER was created by McHexley and launched under the umbrella of his chain-agnostic art project - NoMoreLabs.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://nomorelabs.xyz",
+      "createdAt": "Wed, 11 Jun 2025 21:01:01 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qkq5upj7lkjy974zx2d7gu884pxumt30zhqxjxl",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

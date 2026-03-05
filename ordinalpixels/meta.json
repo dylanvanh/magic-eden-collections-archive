@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:31.528Z",
+  "slug": "ordinalpixels",
+  "tokenCount": 999,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "ordinalpixels",
+    "collection": {
+      "symbol": "ordinalpixels",
+      "name": "Ordinal Pixels",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinalpixels.avif",
+      "chain": "btc",
+      "inscriptionIcon": "cd38d6bc10acdb263488f71181a0a1ed27a44a34b31743b70bba6eaf1a7ad7b6i0",
+      "description": "999 Original 1/1 Abstract Pixel Pieces Inscribed on Bitcoin.Ordinal Pixels is a homage to Pixel Art, Ordinals, & Art on Bitcoin, By Artist, “swapski” , 2017 Bitcoin adopter who fell in love with Satoshi’s vision & the ethos. Ordinal Pixels consists of 3 chapters, each contain 333 pixel pieces. Each Pixel piece was created by capturing original photos of water in Nova Scotia, and then AI processing them into Abstract pieces to be used as inspiration for the pixel pieces created by artist “swapski”.",
+      "supply": 999,
+      "twitterLink": "https://twitter.com/OrdinalPixels",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 23 Mar 2023 03:24:14 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

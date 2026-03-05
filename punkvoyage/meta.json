@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:47.468Z",
+  "slug": "punkvoyage",
+  "tokenCount": 1659,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "punkvoyage",
+    "collection": {
+      "symbol": "punkvoyage",
+      "name": "Punk Voyage",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-punkvoyage_pfp_1727945766412.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Punk Voyage aims to build a fun and unique community for giveaways, game nights, alpha calls and more art airdrops! 2222 punks inscribed on bitcoin.",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/nvart_",
+      "discordLink": "https://discord.gg/4CEtXAFf3x",
+      "websiteLink": "https://linktr.ee/nvart_",
+      "createdAt": "Mon, 07 Oct 2024 15:55:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3KGEoF3akq8jCFnGDgfTsPCVKn8pNi3znz",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Pizza"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:50.373Z",
+  "slug": "u-wwwwave",
+  "tokenCount": 9103,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "b8221a2d96a93924ad494435598b080609f1735431aa7ce0348f3e7e6a7624dfi0",
+    "collectionSymbol": "u-wwwwave",
+    "collection": {
+      "symbol": "u-wwwwave",
+      "name": "u-WWWave",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-u-wwwwave_pfp_1757708821598.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Ripples in digital spacetime.\n— Unicode glyphs color waves, blockchain-synchronized. Variable dimensions. Online.\nCustom hand-written software, HTML/CSS/JS. No framework, no WebGL.\nJavascript code in inscription number 104825128\n@hal09999 (2025)",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://danslesnuages.xyz/wwwaves",
+      "createdAt": "Fri, 12 Sep 2025 21:12:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qs52qdaekzegt0cy5j6fnurc7fpqvpmksfre0vy",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

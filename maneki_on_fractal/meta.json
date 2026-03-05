@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:50.369Z",
+  "slug": "maneki_on_fractal",
+  "tokenCount": 1000,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "maneki_on_fractal",
+    "collection": {
+      "symbol": "maneki_on_fractal",
+      "name": "Maneki Neko",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-maneki_on_fractal_pfp_1724061863486.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "First is first. First Pre-Fractal project. First meme coin community on Fractal Bitcoin. Collection of 1,000 adorable Maneki Neko ordinals inscribed on the Bitcoin main net is here to bless your wallet. With an upcoming airdrop on Fractal Bitcoin, we are sparking a Pre-Fractal craze that will change the game. Get in early and secure your place in the next Fractal Bitcoin revolution!",
+      "supply": 1000,
+      "twitterLink": "https://twitter.com/manekionfractal",
+      "discordLink": "https://discord.gg/hY36XjyECG",
+      "websiteLink": "https://manekionfractal.com/",
+      "createdAt": "Tue, 20 Aug 2024 01:39:44 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "32Vu97BXin4QEH2won9zd4y39QaMeBVWQL",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

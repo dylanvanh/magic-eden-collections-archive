@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:32.089Z",
+  "slug": "btcbrobear",
+  "tokenCount": 3333,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "btcbrobear",
+    "collection": {
+      "symbol": "btcbrobear",
+      "name": "Bitcoin Bro Bear",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-btcbrobear_pfp_1745170843438.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "3,333 Bros bringing bearish vibes from Runes to Ordinals. Bro isn’t just a plushie with a six-pack, he’s a cultural psyop who knows exactly what he’s doing.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/TsUgKXzEvX",
+      "websiteLink": "https://btcbrobear.xyz",
+      "createdAt": "Sun, 20 Apr 2025 19:01:04 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q4z4amdkw77klyymg493wpxhypr5r62xhkzhc45",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

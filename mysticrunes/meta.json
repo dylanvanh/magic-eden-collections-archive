@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:03.715Z",
+  "slug": "mysticrunes",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "text/html",
+    "contentBody": "PHNjcmlwdCBoPSIxMDAwIiBzcmM9Ii9jb250ZW50LzdlNzYzOGZhNWI3NWE1ODg3MmJkOTViZWMyOWFkZmEyMzliYWVjNzBkYjE2NTQ2MDFiZGNmZTkxMmU3ZTM1NjNpMCI+PC9zY3JpcHQ+",
+    "chain": "btc",
+    "parentInscriptionId": "e7d5e855469c80292f67dc43d27fa8384fc1c020f343fdb210e41aec1aa9d51di0",
+    "collectionSymbol": "mysticrunes",
+    "collection": {
+      "symbol": "mysticrunes",
+      "name": "Mystic Runes Boost",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-mysticrunes_pfp_1713031725152.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Mystic rune mining BOOST by @LFG. Each inscription is worth 1,000 Mystic runes and will boost your total Mystic rune allocation.",
+      "supply": 40000,
+      "twitterLink": "https://twitter.com/lfg",
+      "discordLink": "https://discord.gg/LFGMystic",
+      "websiteLink": "https://lfg.cash",
+      "createdAt": "Sat, 13 Apr 2024 16:30:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "36cpb9spomx3QRg6nQK8zmtW3gGm72Kshw",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

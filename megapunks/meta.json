@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:51.117Z",
+  "slug": "megapunks",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "megapunks",
+    "collection": {
+      "symbol": "megapunks",
+      "name": "MegaPunks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-megapunks_pfp_1704388788513.png",
+      "chain": "btc",
+      "inscriptionIcon": "f8c5eb497c61fb4b5fd5441babf8c019401f41b1012172e807588982e3b8ef94i0",
+      "description": "MegaPunks is the first Ordinal original 10k collection to be inscribed and distributed.",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/MegapontNFT",
+      "discordLink": "",
+      "websiteLink": "https://megapunks.com/",
+      "createdAt": "Mon, 20 Mar 2023 21:03:37 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

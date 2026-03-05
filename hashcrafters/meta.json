@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:27.547Z",
+  "slug": "hashcrafters",
+  "tokenCount": 2765,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "outputValue": 546,
+    "collectionSymbol": "hashcrafters",
+    "collection": {
+      "symbol": "hashcrafters",
+      "name": "Hashling Gear",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-hashcrafters_pfp_1706850167893.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The World-Wide Leader in Hash Extraction Technology",
+      "supply": 2736,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/HashlingsBTC",
+      "discordLink": "https://discord.gg/hashlings",
+      "websiteLink": "https://www.hashlings.xyz",
+      "createdAt": "Fri, 02 Feb 2024 05:23:37 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

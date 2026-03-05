@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:56.634Z",
+  "slug": "wrapped-labitbus",
+  "tokenCount": 3902,
+  "defaults": {
+    "contentType": "text/html",
+    "contentBody": "G3kTIJwFucm6Sta7io9MmV0WRRGK/Ge69/cu0/nKJWZVKuoRaHlioZqmNEEb5MRFvEVrS/WxPidWSZS6irpJ+32eLJAwpKo0oVIV7ieZzSHAZvftQQFQlm0dOhLGt8Z0GW2pn8mtiBVGZlCD0kV/cwXIE6RHaRno/GA/Z22KN+wMzuEa6YWvKNCbzilA/FHUbOqAxiyZL3Md5z1A/Dx3klDdC3S7xJW/ZM5iOggeo0VuCwaXtvX1wBiMhgE+u0fbSXkQoaj9o033X6TmLhL0Pd84Ten+Q67SBlbTLeWuKnb7kCvMqtibG1kBBVMoI02bV49OxWxQpEllL++PaK/Eg+n716EYl+AyJgEiNdiUDuei7NvB+MPLwF2UUnkKzJvklX6r5yzcs8LRbAzq4WBORXoQ1pP7a9QDpd9XKVuAR3OhqzD/2UucdS1gNxqUSr7dAt9eC9md0Y74zCiNaRkWGsXLLBuq37XclV+mp6huQW2CseCfBucA6KsmQ5MbSUFlL5YYD3cSBqC1cQas7PSwxy9hrgE6V+/Hs9//WCCil6KFNcycinfSPJaKMgwMdK/GRdYS9Z4kWO4jcEm1S8t77GYpG6O/zmwqWuVSpi5lUIJSVonCrjyjITZiVQQVeSQHYoWYzIqNCkAkyhIGo4DZC1lDaBb8gthKXaBBvkXzhqP9ssteWLz4ZEsscHHPdMLZLtpfWd05X734/cGv2kSaa37pVX6eX9f/l6zpvzI+EtjV4q0WOKaJShSQcExDF/piZnbWSqjOnff6iPgzxxsvUE+aPNkDp6IeWyDiim/mUnmnabU9QGydTW98/mcrtYObu3/BEWb83NjENkBMDOWYYSii1jRMcVr4iz7qxBdsXxPbGUTsuddi+PcS9qaDmv/i2F9b8k9KmvL1/LexH5lPXT2g8Vyk3SiQRwmC8hV69ie++fT/Nmj722c+qhXo1/1rvGGXS6rbZjCxLdjfH0R2bQGeSpGCvpuI10brQc6d4wraJS/tHPlqzJjAFE+XgPk8ZSCFdTzIcZAEPDgQSOGl1XOotT8/VDAu6iHE457A1oRiSL/DMwhDstdCFDzmLnpgDcCtnHRwrL/hTSk5eTAkQlj7Jloi6SLRlAWnRRIKFhNBD8eK5aF+4pcQcMPqa/1aZDF6FnLQBkXf7EgwamMmHIpoqtXSGxaPBav/1dId4cEHR4NQtWkOiyYK/YWvYWh5P3RfnO574aBEj7miQqIdVcXLTfVhmkriFL0Wy0ce8Nh7cu5dwh22e91zOShk5hUf6vEu0o+46RIwfA3DRTK/r2TbnwLYfKcfhnLjZ4kJjX4eBoBe2AghLziPvdEJ1yPiuApt1s/uTwtzp25o4iiX8APyS9IbvFsbBHIhzpQkjaLevPydN3z4IU6KO5W2wEz/sA4y+IXxkkjL+k//E39B3EAK3CTAThwdAFX4yAdFgHgVsTJBZbW2m3T7v2pHJ3FQo5TJUd7mstXP9X/zjYYj4uaNsi+q+uVPvVLzMb08k4N8yP/bcIejitJ0HrvkoKiIKIdZwgeFRSs0/tPKA5fqPku8Pro0xy1eDU1MOMMEI8Bfg0Bdvk3k6kv29PKCnHjnvpNO407PKX2JaJOjyfFxSLdy4Lwl9dEyXrqtwma9uT2EO7XmwqBYncUoke0rPi1AnFiE0VGZMNrWa2ha7gljXa2HRcNEl6mXPuv84ZUh8mo9HE55P89L4B2bdfcb2EoDlK3HSG/H1DZE06RHiFAvUtX0AFGgtzlyGBjT6jkN2E1X7KE5bOqFtOo9MbRog8hjPlf+bViShlvPoPLFnanVeVVWmmhDNW36wHFUOLCymJje/ILvNcGJrf/CyypHhE964DICvuMU4BLc6P+skuWwkhUE1laPTr2SMmJf6kVjpqWAphYmMj6xx6FV59c769ADyHxJ1lygZl5hqoO71+9h60cH83ByGyK7lKPsYa/Lj9zLJhG1s4iFAA==",
+    "chain": "btc",
+    "collectionSymbol": "wrapped-labitbus",
+    "collection": {
+      "symbol": "wrapped-labitbus",
+      "name": "Wrapped Labitbus",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/wrapped-labitbus.avif",
+      "chain": "btc",
+      "inscriptionIcon": "7347487ade172184ecda3282aace122ca4278ece9f86c681133d23b3815d768bi0",
+      "description": "Labitbu's that have been wrapped.",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://x.com/lifofifo",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 04 Aug 2025 19:54:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:39.422Z",
+  "slug": "katoshi-classic",
+  "tokenCount": 8521,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "katoshi-classic",
+    "collection": {
+      "symbol": "katoshi-classic",
+      "name": "OCM Katoshi Classic by OnChainMonkey®",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-katoshi-classic_pfp_1744084446240.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A hand-drawn collection that brings the original OnChainMonkey Genesis artwork to life, featuring classic traits rich in Web3 lore and pop-culture, from merch hoodies and laser eyes to Thriller jackets and pirate hats.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/hrVgBxva8w",
+      "websiteLink": "https://onchainmonkey.com/",
+      "createdAt": "Wed, 09 Apr 2025 19:39:20 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

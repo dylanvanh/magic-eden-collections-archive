@@ -1,0 +1,50 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:32.319Z",
+  "slug": "ordinalsigmax",
+  "tokenCount": 5555,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "8e22dc4497c3361f8c573521e52040c46d8dedb6d0be879478d6bc6d69a614c2i0",
+    "collectionSymbol": "ordinalsigmax",
+    "collection": {
+      "symbol": "ordinalsigmax",
+      "name": "Ordinal SigmaX",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordinalsigmax_pfp_1711381716861.gif",
+      "chain": "btc",
+      "inscriptionIcon": "8e22dc4497c3361f8c573521e52040c46d8dedb6d0be879478d6bc6d69a614c2i0",
+      "description": "The largest animated PFP collection on Bitcoin.",
+      "supply": 1,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/OrdinalSigmaX",
+      "discordLink": "https://discord.gg/OrdinalSigmaX",
+      "websiteLink": "",
+      "createdAt": "Mon, 25 Mar 2024 16:19:01 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

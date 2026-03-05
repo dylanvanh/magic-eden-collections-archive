@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:57.116Z",
+  "slug": "bitcoin-punks-i2",
+  "tokenCount": 10000,
+  "defaults": {
+    "chain": "btc",
+    "meta": {},
+    "collectionSymbol": "bitcoin-punks-i2",
+    "collection": {
+      "symbol": "bitcoin-punks-i2",
+      "name": "BITCOIN PUNKS I2",
+      "imageURI": "https://bafkreidu5j2qscxoouydxi3rn6jmqzsql7qkdz4gmb4nt6wqnpv6nddo7q.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Bitcoin Punks i2 are the second byte-perfect uploads of the original Ethereum CryptoPunks onto the Bitcoin Blockchain using Ordinals",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/i2punks",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 26 Mar 2023 11:35:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

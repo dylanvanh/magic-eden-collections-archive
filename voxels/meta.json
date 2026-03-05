@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:53.336Z",
+  "slug": "voxels",
+  "tokenCount": 2784,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHNjcmlwdCBzcmM9Ii9jb250ZW50LzdlMzc3NjY1NDE1MDY4MTBiYTYzOTljNGIyNzM1MTIxZjUwOGJkOTIwOWRmNDNkZDIwMGJmMjMxNmIwMTQ1OTRpMCI+PC9zY3JpcHQ+PHNjcmlwdCBzcmM9Ii9jb250ZW50LzgzYTg2YTcwOWRkOGY3NGNkNzc5MmFkNjc1YWQwMjhkZGE5MzViZjc1Y2Y4MWMyMmY2NjQ1YmRmY2I5ZGRhNWFpMCI+PC9zY3JpcHQ+",
+    "chain": "btc",
+    "collectionSymbol": "voxels",
+    "collection": {
+      "symbol": "voxels",
+      "name": "Voxels by Billy Restey",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-voxels_pfp_1719848456006.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "0e19ca42b7c352faac903e81ad23ca66d1e6e28d69a74c453219fb3740a34d1fi746",
+      "description": "An abstract, generative art collection exploring color palettes, bitcoin tech & good vibes.",
+      "supply": 2784,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/billyrestey",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 01 Jul 2024 16:02:30 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "33wS3vdqmWYGopFWt3QM2XSv28usFGUjKv",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:47.305Z",
+  "slug": "top",
+  "tokenCount": 5555,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "genesisTransactionBlockTime": "Sun, 08 Sep 2024 22:25:38 GMT",
+    "genesisTransactionBlockHash": "000000000000000000019763fa0c557baf4ada4b520801f50f4af10a0cd5112c",
+    "genesisTransactionBlockHeight": 860526,
+    "chain": "btc",
+    "collectionSymbol": "top",
+    "collection": {
+      "symbol": "top",
+      "name": "The Orange Pills (TOP)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-top_pfp_1725876430982.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Orange Pill(ing): The awakening to Bitcoin's transformative potential, embracing decentralization and true ownership. Bitcoin empowers individuals by returning control to the people. The Orange Pills now provide a visual representation of this concept—which is timely, as there's never been a better moment in history to orange pill our global society.",
+      "supply": 5555,
+      "twitterLink": "https://twitter.com/beyond__tech",
+      "discordLink": "https://discord.gg/Eft5XvHSSU",
+      "websiteLink": "https://ordinals.beyond.tech/",
+      "createdAt": "Mon, 09 Sep 2024 18:31:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qaperuys03u5dn34sn3svn2mxs4mzta0n5mp0ls",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:03.166Z",
+  "slug": "mycelioid",
+  "tokenCount": 576,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "mycelioid",
+    "collection": {
+      "symbol": "mycelioid",
+      "name": "Mycelioid Prints by Pawel Dudko",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-mycelioid_pfp_1708439361299.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "“Mycelioid” captures the intricate resemblance of structures mirroring the growth patterns of mycelium. Art by Paweł Dudko.",
+      "supply": 512,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/PawelDudko",
+      "discordLink": "https://discord.gg/ygh6N8X3zM",
+      "websiteLink": "https://pdudko.com/mycelioid/",
+      "createdAt": "Tue, 20 Feb 2024 15:43:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qevp59xxm2sdvhmekd2kuc9y6f6vz94jq4css8z",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

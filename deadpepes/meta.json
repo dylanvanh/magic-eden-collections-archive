@@ -1,0 +1,52 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:51.761Z",
+  "slug": "deadpepes",
+  "tokenCount": 666,
+  "defaults": {
+    "contentType": "text/html",
+    "contentBody": "H20CIIzDOIa8lKu4NsyuvWV6Keigac4v1EMBMnjTNBDdOxW9j+cCnUsQSGQJZpvtE1Jvs9ncPBm0rGhT0+oyQZaNJRr/YGuYzUXmgqOl9AUpWbDc+bwM3FimC5pZW2aBMMcybX3mSZEdNTQL1rWFkVsSqPDZpyb4tGZlA8xSsr+TLbMxyyYRg8Y37G4qSP9Af3UepA0H/6rzgUzYCrO6BI4grWCHz+RbwyPqLlxHsD2uF9TjGroCGZfH4/lMr/VRvyAh4dLu5T5GSgvDNlX5Vbd60mqWmITgO53N2+4Lyj6KqRcdOIsYsKkY+LZyYDn6zjT2MfOxF3yym5nCNxx1wpSTMs/ZqjISWFpBqubznw8C2HLr/urErHIIlSWgnDh/Xcvavc6wGOAQtgA=",
+    "genesisTransaction": "dead6668dc34eb3b476579a0db95883aaef266dac2dcdd150b01760e16199b3a",
+    "genesisTransactionBlockTime": "Sun, 11 May 2025 17:10:07 GMT",
+    "genesisTransactionBlockHash": "0000000000000000000005f153676ed9944ace70738066dbbb834e4b8f91c6d3",
+    "genesisTransactionBlockHeight": 896283,
+    "chain": "btc",
+    "parentInscriptionId": "dead3f9423f306fb18ce922d9fca4627e0fad8618115897694412ecf16ab35c3i0",
+    "collectionSymbol": "deadpepes",
+    "collection": {
+      "symbol": "deadpepes",
+      "name": "Dead Pepes",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-deadpepes_pfp_1748909893087.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "dead6668dc34eb3b476579a0db95883aaef266dac2dcdd150b01760e16199b3ai627",
+      "description": "Ordinals are dead.\n666 Dead Pepes inscribed on 333 Block 666 sats each.\n\nDead inscription ids-a mark of decay and proof of life.\n\nGrandparent-Parent-Child provenance:\nhttps://ordinals.com/inscription/cb2c746dfd195e8092fc3de79f3bc2a816cc96f02d26ace6e086f3a2fcd168b5i0",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/pMJG7dX7fe",
+      "websiteLink": "https://linktr.ee/DeadOrdinals",
+      "createdAt": "Tue, 03 Jun 2025 00:28:26 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "37RZLbGHTUKy9ixvocQv7qyhZpK8aiYzsE",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 666,
+    "satBlockTime": "Fri, 16 Jan 2009 04:10:36 GMT",
+    "satributes": [
+      "Block 666",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

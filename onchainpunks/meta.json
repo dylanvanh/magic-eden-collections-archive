@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:21.097Z",
+  "slug": "onchainpunks",
+  "tokenCount": 3332,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "onchainpunks",
+    "collection": {
+      "symbol": "onchainpunks",
+      "name": "OnChainPunks",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/onchainpunks.avif",
+      "chain": "btc",
+      "inscriptionIcon": "53f3bfd737651f4a64f46e064a433a1d4830476ea98e1b2b8f75737183c98993i0",
+      "description": "3,332 Punks divided between Bitcoin and Ethereum blockchain. Fully onchain & fully inscribed. All IP rights belong to holders.",
+      "supply": 3332,
+      "twitterLink": "https://twitter.com/OnchainPunks",
+      "discordLink": "https://discord.gg/pKHre6KcSV",
+      "websiteLink": "https://www.onchainpunks.io/",
+      "createdAt": "Thu, 23 Mar 2023 20:31:28 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

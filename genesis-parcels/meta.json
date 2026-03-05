@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:21.610Z",
+  "slug": "genesis-parcels",
+  "tokenCount": 500,
+  "defaults": {
+    "contentType": "text/plain;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "genesis-parcels",
+    "collection": {
+      "symbol": "genesis-parcels",
+      "name": "Bitmap Community Genesis Parcels",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-genesis_parcels_pfp_1705464310239.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "All-access pass designed for enthusiasts of the Bitmap metaverse.",
+      "supply": 500,
+      "twitterLink": "https://twitter.com/bitmapcommunity",
+      "discordLink": "https://discord.gg/MerF7CK84s",
+      "websiteLink": "https://bitmap.community/",
+      "createdAt": "Wed, 17 Jan 2024 06:50:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

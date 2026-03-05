@@ -1,0 +1,46 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:52.991Z",
+  "slug": "demonz",
+  "tokenCount": 665,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "demonz",
+    "collection": {
+      "symbol": "demonz",
+      "name": "Demonz",
+      "imageURI": "https://media.cdn.magiceden.dev/launchpad//3010afce-2f9d-4b95-931d-3a9fcc0f4cc1",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Vandalism on-chain 😈",
+      "supply": 666,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://x.com/DemonzBtc",
+      "discordLink": "",
+      "websiteLink": "https://demonz.wtf/",
+      "createdAt": "Sun, 09 Mar 2025 16:56:40 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3Cj139CWiyMEi1rsegXvB3DuVpqX6zkUyT",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 666,
+    "satBlockTime": "Fri, 16 Jan 2009 04:10:36 GMT",
+    "satributes": [
+      "Block 666",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

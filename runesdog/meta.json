@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:32.246Z",
+  "slug": "runesdog",
+  "tokenCount": 420,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "runesdog",
+    "collection": {
+      "symbol": "runesdog",
+      "name": "RunesDog Edition by Viola Misscode",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-runesdog_pfp_1712623726394.png",
+      "chain": "btc",
+      "inscriptionIcon": "53053ff54ba8d6ca1b5a6fe514983e29615554786536fb687f7e3b05659909ddi0",
+      "description": "New Runestone roadmap: Cuteness But...DO NOT TOUCH MY STONE! \"RunesDog\" Edition by Viola MissCode",
+      "supply": 420,
+      "twitterLink": "https://twitter.com/ViolaMissCode",
+      "discordLink": "https://discord.gg/SpZuniverse",
+      "websiteLink": "",
+      "createdAt": "Tue, 09 Apr 2024 01:06:07 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "361pWBMHuTGgyqxuBTCqNEagXBrxQ86P6d",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

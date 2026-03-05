@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:35.874Z",
+  "slug": "sines",
+  "tokenCount": 315,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "sines",
+    "collection": {
+      "symbol": "sines",
+      "name": "Sines",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-sines_pfp_1709596152075.png",
+      "chain": "btc",
+      "inscriptionIcon": "28be96d2eadd586accf525ec1bd29f37ca8093bd4c8fd7e57355680496ed0eb8i0",
+      "description": "Three alternating currents, 120 degrees out of phase, producing smooth, continuous oscillations. Sines are an Ordinal homage to the force we all rely on daily.",
+      "supply": 315,
+      "twitterLink": "https://twitter.com/threephasesines",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 05 Mar 2024 00:30:51 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

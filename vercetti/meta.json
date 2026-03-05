@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:53.066Z",
+  "slug": "vercetti",
+  "tokenCount": 50,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "outputValue": 330,
+    "collectionSymbol": "vercetti",
+    "collection": {
+      "symbol": "vercetti",
+      "name": "FINAL EXIT MIDNIGHT",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-vercetti_pfp_1771001619778.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "a7382421978a29fe50a0217ba0a54e6c210014c489cc524001198a9c36e55e01i0",
+      "description": "FINAL EXIT MIDNIGHT\n\n50 exclusive inscriptions.\nMidnight streets. Neon silence.\nOne last turn into the unknown.\n\nBitcoin only.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/b1tlord",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 13 Feb 2026 17:13:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qv3rwlhvz5dgergphqwlzeam02mmg9gq25nvjmd",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:53.458Z",
+  "slug": "derp",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "parentInscriptionId": "fcc544f365a105254411d11bd6b831ec190fc81585b2e392eb81a1626644012ei0",
+    "collectionSymbol": "derp",
+    "collection": {
+      "symbol": "derp",
+      "name": "DERP METADUMBPROTOCOL",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-derp_pfp_1706502135735.png",
+      "chain": "btc",
+      "inscriptionIcon": "fcc544f365a105254411d11bd6b831ec190fc81585b2e392eb81a1626644012ei0",
+      "description": "DERP is a crappy game, in which participants will be rewarded with the SH*TTIEST_RUNE.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/btcmachine98",
+      "discordLink": "https://discord.gg/https://discord.gg/btcmachine",
+      "websiteLink": "",
+      "createdAt": "Mon, 29 Jan 2024 04:30:41 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:40.774Z",
+  "slug": "pizza-ninjas",
+  "tokenCount": 2022,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "80da3cecac858f2757c5b338be15980bdc9d9570d4e86765b4948be8143c82e1i0",
+    "collectionSymbol": "pizza-ninjas",
+    "collection": {
+      "symbol": "pizza-ninjas",
+      "name": "Pizza Ninjas",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pizza-ninjas_pfp_1711912845018.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "View any Ninja in full size to reveal the secret menu. Featured in Sotheby's.",
+      "supply": 1500,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ninjalerts",
+      "discordLink": "https://discord.gg/pizzaninjas",
+      "websiteLink": "https://ninjalerts.gitbook.io",
+      "createdAt": "Tue, 02 Jan 2024 10:15:11 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:52.436Z",
+  "slug": "minute-papillon-editions-by-lemonhaze",
+  "tokenCount": 21,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "parentInscriptionId": "611fad09e407fe63e70c54ee853e755f92cb4d69049eff21f31d3d414a2db74di0",
+    "collectionSymbol": "minute-papillon-editions-by-lemonhaze",
+    "collection": {
+      "symbol": "minute-papillon-editions-by-lemonhaze",
+      "name": "Minute, papillon! [21 Editions] by Lemonhaze",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-minute-papillon-editions-by-lemonhaze_pfp_1755907219438.png",
+      "chain": "btc",
+      "inscriptionIcon": "cd3daa466ec8c9ee1316c0bd50969669a5d4e1df4dad32d4292a3f8c69184d12i0",
+      "description": "21 Editions of \"Minute, papillon!\" - release via Gamma's Season Pass - All editions were individually numbered, signed and inscribed with parent-child on the original 1/1 (the original is now burnt to OP_RETURN)",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/4A8jaMqdxs",
+      "websiteLink": "https://lemonhaze.com",
+      "createdAt": "Sat, 23 Aug 2025 02:28:14 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Palindrome"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

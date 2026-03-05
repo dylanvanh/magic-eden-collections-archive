@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:54.846Z",
+  "slug": "reorg",
+  "tokenCount": 2827,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PCFET0NUWVBFIGh0bWw+DQo8aHRtbCBsYW5nPSJlbiI+DQo8aGVhZD4NCiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+DQogICAgPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgaW5pdGlhbC1zY2FsZT0xLjAiPg0KICAgIDx0aXRsZT5SRU9SRyBieSBCaWxseSBSZXN0ZXk8L3RpdGxlPg0KICAgIDxzdHlsZT4NCiAgICAgICAgYm9keSwNCiAgICAgICAgaHRtbCB7DQogICAgICAgICAgICBtYXJnaW46IDA7DQogICAgICAgICAgICBwYWRkaW5nOiAwOw0KICAgICAgICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsNCiAgICAgICAgICAgIGhlaWdodDogMTAwJTsNCiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50Ow0KICAgICAgICB9DQogICAgICAgIC5pbWFnZS1jb250YWluZXIgew0KICAgICAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOw0KICAgICAgICAgICAgd2lkdGg6IGF1dG87DQogICAgICAgICAgICBoZWlnaHQ6IDEwMHZoOw0KICAgICAgICAgICAgZGlzcGxheTogZmxleDsNCiAgICAgICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOw0KICAgICAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsNCiAgICAgICAgfQ0KICAgICAgICAuaW1hZ2UtY29udGFpbmVyIGltZyB7DQogICAgICAgICAgICBkaXNwbGF5OiBub25lOw0KICAgICAgICAgICAgbWF4LWhlaWdodDogMTAwdmg7DQogICAgICAgICAgICBtYXgtd2lkdGg6IDEwMHZ3Ow0KICAgICAgICAgICAgb2JqZWN0LWZpdDogY29udGFpbjsNCiAgICAgICAgfQ0KICAgICAgICAuaW1hZ2UtY29udGFpbmVyIGltZzpmaXJzdC1jaGlsZCB7DQogICAgICAgICAgICBkaXNwbGF5OiBibG9jazsNCiAgICAgICAgfQ0KICAgIDwvc3R5bGU+DQo8L2hlYWQ+DQo8Ym9keT4NCiAgICA8ZGl2IGNsYXNzPSJpbWFnZS1jb250YWluZXIiPg0KICAgICAgICA8aW1nIHNyYz0iL2NvbnRlbnQvNjljOGYwMGQwMzMzMDU4YzA5YzYwNDM0NTk3ODJiMzk4M2RhODEyYzJlNGI3NzJiNDU0N2Y3YTQzMThkMWRlOGkwIj4NCiAgICAgICAgPGltZyBzcmM9Ii9jb250ZW50L2FkZTQxMjBkNmVhZmI0M2ZmMDY4ODA0MmZmODA2MzcwNDBkZTExNmUwNzVlNmU3MjRjYjYwZTI1MDM3ZGEwYjlpMCI+DQogICAgICAgIDxpbWcgc3JjPSIvY29udGVudC80MjMxOTU5ZDE4MzAwZmIyN2ZiOGE4OGUxOTZiMzE2MGNmMjY2MGFjZDIwODMwMDc4YzkwYWUxOTJiYTEzNGYyaTAiPg0KICAgICAgICA8aW1nIHNyYz0iL2NvbnRlbnQvYWRlNDEyMGQ2ZWFmYjQzZmYwNjg4MDQyZmY4MDYzNzA0MGRlMTE2ZTA3NWU2ZTcyNGNiNjBlMjUwMzdkYTBiOWkwIj4NCiAgICAgICAgPGltZyBzcmM9Ii9jb250ZW50LzNmM2MzYjIwZDBhOGRhMTg4OWMyMjFmNGZlNGQ4NDBlNGYyNzRkN2VkOTI5NGFjMzg3YWRlYmRhNTNmNmYzZDZpMCI+DQogICAgPC9kaXY+DQogICAgPHNjcmlwdD4NCiAgICAgICAgd2luZG93Lm9ubG9hZCA9IGZ1bmN0aW9uKCkgew0KICAgICAgICAgIGxldCBpbWFnZXMgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcuaW1hZ2UtY29udGFpbmVyIGltZycpOw0KICAgICAgICAgIGxldCBjdXJyZW50SW5kZXggPSAtMTsNCg0KICAgICAgICAgIGZ1bmN0aW9uIG5leHRJbWFnZSgpIHsNCiAgICAgICAgICAgIGlmIChjdXJyZW50SW5kZXggIT09IC0xKSB7DQogICAgICAgICAgICAgIGltYWdlc1tjdXJyZW50SW5kZXhdLnN0eWxlLmRpc3BsYXkgPSAnbm9uZSc7DQogICAgICAgICAgICB9DQogICAgICAgICAgICBjdXJyZW50SW5kZXggPSAoY3VycmVudEluZGV4ICsgMSkgJSBpbWFnZXMubGVuZ3RoOw0KICAgICAgICAgICAgaW1hZ2VzW2N1cnJlbnRJbmRleF0uc3R5bGUuZGlzcGxheSA9ICdibG9jayc7DQoNCiAgICAgICAgICAgIGlmIChjdXJyZW50SW5kZXggPT09IDApIHsNCiAgICAgICAgICAgICAgc2V0VGltZW91dChuZXh0SW1hZ2UsIDIyNSk7DQogICAgICAgICAgICB9IGVsc2UgaWYgKGN1cnJlbnRJbmRleCA9PT0gMSkgew0KICAgICAgICAgICAgICBzZXRUaW1lb3V0KG5leHRJbWFnZSwgMjI1KTsNCiAgICAgICAgICAgIH0gZWxzZSBpZiAoY3VycmVudEluZGV4ID09PSAyKSB7DQogICAgICAgICAgICAgIHNldFRpbWVvdXQobmV4dEltYWdlLCAyMjUpOw0KICAgICAgICAgICAgfSBlbHNlIGlmIChjdXJyZW50SW5kZXggPT09IDMpIHsNCiAgICAgICAgICAgICAgc2V0VGltZW91dChuZXh0SW1hZ2UsIDIyNSk7DQogICAgICAgICAgICB9IGVsc2UgaWYgKGN1cnJlbnRJbmRleCA9PT0gNCkgew0KICAgICAgICAgICAgICBzZXRUaW1lb3V0KG5leHRJbWFnZSwgMjI1KTsNCiAgICAgICAgICAgIH0NCiAgICAgICAgICB9DQogICAgICAgICAgbmV4dEltYWdlKCk7DQogICAgICAgIH07DQogICAgPC9zY3JpcHQ+DQo8L2JvZHk+DQo8L2h0bWw+",
+    "chain": "btc",
+    "collectionSymbol": "reorg",
+    "collection": {
+      "symbol": "reorg",
+      "name": "REORG",
+      "imageURI": "https://bafybeibhbqigrvxmkzs6kuoliudltmldfehyoyn4nic23lfrcjymgsan5q.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "cluvmvwkw0001k30f746996jq",
+      "description": "Block 840,000\n\nThe Halving, Runes, the Epic Sat.\n\nPotentially the most valuable Bitcoin block to ever be mined.\n\nThe anticipation is electric.\n\nThis piece celebrates this upcoming unprecedented event.\n\nWill we see a reorg as miners gun for the fees, the epic sat, and the very first runes? ",
+      "supply": 1,
+      "twitterLink": "https://twitter.com/billyrestey",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 14 Apr 2024 01:04:30 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

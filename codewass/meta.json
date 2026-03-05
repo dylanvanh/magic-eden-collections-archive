@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:45.736Z",
+  "slug": "codewass",
+  "tokenCount": 4989,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "codewass",
+    "collection": {
+      "symbol": "codewass",
+      "name": "CodeWass",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-code-wass_pfp_1749073251818.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "aa9ec5161b9f7b67a1b5e3f939310a09c6774428aba37cd1f23336fe4b3507eei0",
+      "description": "5000 lil shids on mother blockchain fighting back",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://codewass.com",
+      "createdAt": "Wed, 04 Jun 2025 22:20:25 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:07.132Z",
+  "slug": "echoes_of_chaos",
+  "tokenCount": 222,
+  "defaults": {
+    "contentType": "image/gif",
+    "chain": "btc",
+    "collectionSymbol": "echoes_of_chaos",
+    "collection": {
+      "symbol": "echoes_of_chaos",
+      "name": "Echoes of Chaos",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-echoes_of_chaos_pfp_1763880343510.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "222 animated Ordinals exploring the movement and evolution of NFT culture through experimental reinterpretation and alloyed styles",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/_topcats",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 23 Nov 2025 07:09:18 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3GHy5exEBV1x5wRK4MdCdRsv75eKp5ECC1",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

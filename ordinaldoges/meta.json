@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:30.433Z",
+  "slug": "ordinaldoges",
+  "tokenCount": 69,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ordinaldoges",
+    "collection": {
+      "symbol": "ordinaldoges",
+      "name": "Doge Capital Ordinals",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinaldoges.webp",
+      "chain": "btc",
+      "inscriptionIcon": "b04a57414d17541a6423c16237ce670f93f4cfc3a16886d0cda0d23b1acf18e6i0",
+      "description": "69 OG 1:1 Ordinal Doges by Doge Capital. ",
+      "supply": 69,
+      "twitterLink": "https://twitter.com/TheDogeCapital",
+      "discordLink": "https://discord.gg/V3wh3WHUtR",
+      "websiteLink": "https://thedogecapital.com/",
+      "createdAt": "Mon, 19 Jun 2023 12:01:05 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

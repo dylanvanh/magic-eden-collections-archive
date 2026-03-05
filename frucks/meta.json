@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:19.279Z",
+  "slug": "frucks",
+  "tokenCount": 4848,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "frucks",
+    "collection": {
+      "symbol": "frucks",
+      "name": "Frucks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-frucks_pfp_1716933577567.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "it's literally just frogs on bitcoin",
+      "supply": 4848,
+      "twitterLink": "https://twitter.com/frucksBTC",
+      "discordLink": "",
+      "websiteLink": "https://fruck.it/",
+      "createdAt": "Wed, 29 May 2024 18:30:32 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "385tJPTfTCzdHr6SpNJeMSXFdi2VDn34mT",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

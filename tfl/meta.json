@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:42.529Z",
+  "slug": "tfl",
+  "tokenCount": 500,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "meta": {},
+    "collectionSymbol": "tfl",
+    "collection": {
+      "symbol": "tfl",
+      "name": "TradFiLines",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/tfl.avif",
+      "chain": "btc",
+      "inscriptionIcon": "f2c8d00fec1347c7ba6fab0dde140f2a5c84d3fa7131145d478b6e8b163d0904i0",
+      "description": "The ordinal versions of TradFiLines were registered at the start of February and therefore have fairly low inscription numbers. They are made from what the ETH TFL looked like at that point in time. The ETH version has limited trading hours and dynamic svg, while the ordinal version on btc is unbound by these restrictions and is not dynamic. The art is a candlestick chart (common in stocks and crypto) generated from a random seed. The ticker and exchange is also randomly generated. This is why all the different ordinals are very different from each other.\n\nCreated by Colibri",
+      "supply": 500,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/UlversY",
+      "discordLink": "https://discord.gg/PpG55QraBK",
+      "websiteLink": "https://opensea.io/collection/tradfilines",
+      "createdAt": "Thu, 23 Mar 2023 06:31:50 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

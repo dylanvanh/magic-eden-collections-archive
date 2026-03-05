@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:04.375Z",
+  "slug": "na-art",
+  "tokenCount": 576,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "na-art",
+    "collection": {
+      "symbol": "na-art",
+      "name": "Nakamoto Archives: Art",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-na-art_pfp_1698533852234.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "First ever fully re-inscribed Ordinals collection, consisting of every email and forum post written by Satoshi Nakamoto. This collection represents the art layer inscriptions.",
+      "supply": 576,
+      "twitterLink": "https://twitter.com/lifofifo",
+      "discordLink": "https://discord.gg/TheWizardsOfOrd",
+      "websiteLink": "https://satoshinakamoto.art/",
+      "createdAt": "Sat, 28 Oct 2023 23:01:03 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

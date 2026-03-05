@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:21.697Z",
+  "slug": "one-of-editions",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "one-of-editions",
+    "collection": {
+      "symbol": "one-of-editions",
+      "name": "1 of ?",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/one-of-editions.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "",
+      "supply": 1,
+      "twitterLink": "https://twitter.com/jackbutcher",
+      "discordLink": "",
+      "websiteLink": "https://jack.art",
+      "createdAt": "Tue, 21 May 2024 18:28:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

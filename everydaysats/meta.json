@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:11.733Z",
+  "slug": "everydaysats",
+  "tokenCount": 5539,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "everydaysats",
+    "collection": {
+      "symbol": "everydaysats",
+      "name": "EVERYDAY SATOSHIS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-everydaysats_pfp_1713462640457.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "An Ordinals collection of memetic artifacts celebrating the journey of Bitcoin and its cultural impact on the world. Holding at least one unlisted Everyday Sat grants you a $CLTR token airdrop with a Culture Validator status and a daily point yield on the https://snglr.io/ platform.",
+      "supply": 5588,
+      "twitterLink": "https://twitter.com/everydaysats",
+      "discordLink": "https://discord.gg/everydaysats",
+      "websiteLink": "",
+      "createdAt": "Thu, 18 Apr 2024 18:14:33 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qj5agsyltxauzaltn3n407wzqelsavzjxcgfck4",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

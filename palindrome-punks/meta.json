@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:37.791Z",
+  "slug": "palindrome-punks",
+  "tokenCount": 101,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "palindrome-punks",
+    "collection": {
+      "symbol": "palindrome-punks",
+      "name": "Palindrome Punks by Blok",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-palindrome-punks_pfp_1771033312167.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Symmetrical punks representing the state of transactional equilibrium facilitated by ₿itcoin. Each punk individually hand-drawn by Blok.",
+      "supply": 99,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Blok905",
+      "discordLink": "",
+      "websiteLink": "https://blok-space.com/",
+      "createdAt": "Wed, 12 Jul 2023 01:19:19 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pgd255z8pjqeawqzc96dwjzuuprcyp3jdckqzzlq98mf48hy29nmqst8x2y",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Palindrome"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

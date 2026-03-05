@@ -1,0 +1,47 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:59.126Z",
+  "slug": "dog_of_bitcoin",
+  "tokenCount": 897,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "genesisTransaction": "9a5c0b710241497b3444c5daec279956f8b786445e31138ba6143e563a1db3e2",
+    "genesisTransactionBlockTime": "Tue, 17 Sep 2024 23:40:59 GMT",
+    "genesisTransactionBlockHash": "0000000000000000000052f7b389586b5360994294a409b232d7f11f36b68163",
+    "genesisTransactionBlockHeight": 861764,
+    "chain": "btc",
+    "parentInscriptionId": "acbf375adb0579dd64528e79aac95eaf7e6033c64d545b913e02ff8d9322468bi0",
+    "collectionSymbol": "dog_of_bitcoin",
+    "collection": {
+      "symbol": "dog_of_bitcoin",
+      "name": "$DOG | Ordinals - SZN I Genesis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dog_of_bitcoin_pfp_1751220486482.png",
+      "chain": "btc",
+      "inscriptionIcon": "acbf375adb0579dd64528e79aac95eaf7e6033c64d545b913e02ff8d9322468bi0",
+      "description": "The $DOG | Ordinals SZN I Genesis Collection is the first-ever drop from Dog of Bitcoin, minted 1:1 for free with every SZN I plushie as a thank-you to early supporters. It kicks off a 10-season journey, with 9 more SZNs to follow.\n\nGenesis holders unlock up to 50% off future $DOG plushie, Ordinals, and merch drops (SZNs 2–10). Each Genesis also acts as a burnable trump card for a guaranteed free mint in any future season. Every burn reduces supply, making remaining Genesis tokens scarcer and more valuable, the final supply is entirely community-driven. With new art and styles every SZN, Genesis gives holders lasting utility and freedom in how they represent $DOG on-chain. 🐶🔥",
+      "supply": 5500,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/DogOfBitcoin",
+      "discordLink": "https://discord.gg/5Yntvs5pJM",
+      "websiteLink": "https://x.com/DogOfBitcoin",
+      "createdAt": "Wed, 18 Sep 2024 07:58:54 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q9nek2arlxs3vvuws3hg0a4t9y6wmmw4g07ua20",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

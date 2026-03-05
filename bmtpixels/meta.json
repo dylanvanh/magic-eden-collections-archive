@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:23.370Z",
+  "slug": "bmtpixels",
+  "tokenCount": 4319,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "bmtpixels",
+    "collection": {
+      "symbol": "bmtpixels",
+      "name": "BRC420 - BITMAP PIXELS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bmtpixels_pfp_1736250876085.gif",
+      "chain": "btc",
+      "inscriptionIcon": "6b5f00b7ce2f31663a049c165ee9195ccdfbfaa67bcad7019eb626621690617ai0",
+      "description": "A collection of OG Avatars, crafted by the community for the community, ready to use on bitmapland.xyz and bitmap.gg. These avatars represent true ownership on Bitcoin, saved from BRC-420 and permanently inscribed on the motherchain (Bitmap 715093). Shape the value of your virtual presence, build your world, and trade your creations in this groundbreaking collection.",
+      "supply": 3000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/UrbanBor",
+      "discordLink": "",
+      "websiteLink": "https://ordinals.com/content/cd2c10c440198a40a65fdd94d52d20cc81a43eb0dd8f340f03bf381c88f79d54i0",
+      "createdAt": "Tue, 02 Jul 2024 00:03:35 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "34d6DaNaB9LNmu5dr5q4hfhcV2jWWNyUNm",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

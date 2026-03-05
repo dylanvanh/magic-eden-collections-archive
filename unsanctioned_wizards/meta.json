@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:52.375Z",
+  "slug": "unsanctioned_wizards",
+  "tokenCount": 4092,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "unsanctioned_wizards",
+    "collection": {
+      "symbol": "unsanctioned_wizards",
+      "name": "Unsanctioned Wizards",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-unsanctioned_wizards_pfp_1748623548413.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "This is the story of Unsanctioned Wizards, a celebration of mavensbot and his community’s rich lore. It has dilution and redemption, sanctions and dandelions, but above all, magic.\n\nThis project is not affiliated with BITCOIN WIZARDS©",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/UnsanctionedWiz",
+      "discordLink": "https://discord.gg/xncBWh3py2",
+      "websiteLink": "https://www.unsanctionedwizards.com/",
+      "createdAt": "Fri, 27 Dec 2024 15:18:32 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "bc1pau4rjkr6aw4u9kurwv9pm8qllk6f8w407xr7s8t8zspqr6ypwz6ssaagqd",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

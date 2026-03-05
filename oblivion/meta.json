@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:16.381Z",
+  "slug": "oblivion",
+  "tokenCount": 554,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "oblivion",
+    "collection": {
+      "symbol": "oblivion",
+      "name": "On the Edge of Oblivion by Nullish",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/oblivion.avif",
+      "chain": "btc",
+      "inscriptionIcon": "f0d35042249166706470873166f2617c639f0e3a06362600a43bf31b4921025ai0",
+      "description": "Inspired by the first photograph captured by a telescope of a black hole (Messier 87), embark on a voyage to the outer realms of our universe, where the very fabric of space and time is distorted by an overwhelming force of gravity in ways we cannot yet comprehend.",
+      "supply": 554,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/null_ish",
+      "discordLink": "https://discord.gg/rAQDwwXYbS",
+      "websiteLink": "https://oblivion.nullish.org/",
+      "createdAt": "Wed, 22 Mar 2023 21:45:35 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1ptl3atv5wefr8s36vvqlfxvhcr9h7g9ut2uu0rzutn6w9vw79vzqqewlt77",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

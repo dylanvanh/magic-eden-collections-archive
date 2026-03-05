@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:30.137Z",
+  "slug": "btc_slugs",
+  "tokenCount": 3333,
+  "defaults": {
+    "contentType": "image/avif",
+    "chain": "btc",
+    "collectionSymbol": "btc_slugs",
+    "collection": {
+      "symbol": "btc_slugs",
+      "name": "BTC Slugs - BitcoinComics Vol. 1",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-btc_slugs_pfp_1708819525237.gif",
+      "chain": "btc",
+      "inscriptionIcon": "da8aab7e42dbd755883a709e9e04d1d8a5b44ec0328ed567950c0376d8c7ad1bi0",
+      "description": "BitcoinComics Volume 1 - 3333 Bitcoin Sea Slugs saturating art galleries as the 2nd pre - runes airdrop in history!",
+      "supply": 3333,
+      "twitterLink": "https://twitter.com/niftysats",
+      "discordLink": "https://discord.gg/niftysats",
+      "websiteLink": "https://www.bitcoincomics.art",
+      "createdAt": "Thu, 22 Feb 2024 21:50:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pg2ykgqnfu50uflveuvdk0vwpy2rkktf2w3rtjkse56p8c9tp029qzvq79e",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

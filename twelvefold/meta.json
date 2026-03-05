@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:49.674Z",
+  "slug": "twelvefold",
+  "tokenCount": 300,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "twelvefold",
+    "collection": {
+      "symbol": "twelvefold",
+      "name": "Twelvefold",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-twelvefold_pfp_1756664420158.png",
+      "chain": "btc",
+      "inscriptionIcon": "e0b63360759c7e208b5e201156008fa1ef0199b404363bfafe46e8933d079efci0",
+      "description": "TwelveFold is a limited edition, experimental collection of 300 generative art pieces inscribed onto satoshis on the Bitcoin blockchain. \n\nThese pieces represent a complete art project and will not have other utility or interact with or be related to any previous, ongoing, or future Ethereum-based Yuga projects.\n\nCollectors can learn more at Twelvefold.io",
+      "supply": 300,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/yugalabs",
+      "discordLink": "https://discord.gg/QEJf9TgbfG",
+      "websiteLink": "https://twelvefold.io/",
+      "createdAt": "Fri, 24 Mar 2023 18:20:24 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1qzafj8c0dmvz4kz8tvef4j8szcjtrn0n63rhruq",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

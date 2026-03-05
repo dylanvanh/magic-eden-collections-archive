@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:30.003Z",
+  "slug": "icon7",
+  "tokenCount": 1111,
+  "defaults": {
+    "contentType": "model/gltf-binary",
+    "chain": "btc",
+    "collectionSymbol": "icon7",
+    "collection": {
+      "symbol": "icon7",
+      "name": "MICK7 MOUS7 by BLE77",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-icon7_pfp_1706431076877.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "MICK7 MOUS7 is a collection of sculptures by artist BLE77.",
+      "supply": 1111,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BLE77_ED",
+      "discordLink": "https://discord.gg/dEBne8tP8A",
+      "websiteLink": "",
+      "createdAt": "Sun, 28 Jan 2024 13:09:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

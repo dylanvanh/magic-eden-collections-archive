@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:48.660Z",
+  "slug": "quantum_cats",
+  "tokenCount": 3333,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "0e383b8af3e7f8767bc9ec0a48fbf837d82b0d537f4dbc7a8853e6828112ea41i0",
+    "collectionSymbol": "quantum_cats",
+    "collection": {
+      "symbol": "quantum_cats",
+      "name": "Quantum Cats",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-taproot_wizards_presents_pfp_1706542390359.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The Quantum Cats by Taproot Wizards are on a mission to revive Satoshi's beloved pet and scripting function, OP_CAT.",
+      "supply": 3333,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/QuantumCatsXYZ",
+      "discordLink": "https://discord.gg/taprootwizards",
+      "websiteLink": "https://quantumcats.xyz",
+      "createdAt": "Mon, 05 Feb 2024 23:31:44 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

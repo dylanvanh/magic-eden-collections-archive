@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:35.186Z",
+  "slug": "shibuya",
+  "tokenCount": 2000,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "5d18823f186ed64a7ebffa3731e3110dd72f26cc8680648d0e9ae3a4abfe170di0",
+    "collectionSymbol": "shibuya",
+    "collection": {
+      "symbol": "shibuya",
+      "name": "Shibuya Station",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-shibuya_pfp_1736569834420.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Shibuya Station is the pixel art collection, inspired by Japanese and anime culture. Inscribed on Bitcoin FOREVER.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/StationShibuya",
+      "discordLink": "https://discord.gg/8rKmnc9rMw",
+      "websiteLink": "https://shibuya.gg",
+      "createdAt": "Sun, 12 Jan 2025 07:51:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3BfoE437N3Vg1dyht1SqXD25ttSjysCTZT",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

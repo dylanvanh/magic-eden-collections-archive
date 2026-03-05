@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:56.773Z",
+  "slug": "rmm",
+  "tokenCount": 3800,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHNjcmlwdCBzcmM9Ii9jb250ZW50LzkzMjFkMTc2MDEzMjM1YTI1NWFmNDBjMTQxZjQyMmRmY2YzOTY3ZDQwMTIyNGRiMjBjOWI0YzVhODJiZWY1OGFpMCI+PC9zY3JpcHQ+",
+    "chain": "btc",
+    "collectionSymbol": "rmm",
+    "collection": {
+      "symbol": "rmm",
+      "name": "Rune Mania Miner",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-rmm_pfp_1708461604099.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Rune Mania: Utilize your RMM to mine Runes using:⛏️ Mining Boosts🧱 Block Boosts🧪 Mana Boosts🗿 Stone Boosts ✨ Rune Boosts",
+      "supply": 3800,
+      "twitterLink": "https://twitter.com/RuneManiaMiner",
+      "discordLink": "",
+      "websiteLink": "https://www.runemania.com",
+      "createdAt": "Tue, 20 Feb 2024 21:49:11 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

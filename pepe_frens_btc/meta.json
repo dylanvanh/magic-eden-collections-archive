@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:39.187Z",
+  "slug": "pepe_frens_btc",
+  "tokenCount": 1444,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "pepe_frens_btc",
+    "collection": {
+      "symbol": "pepe_frens_btc",
+      "name": "PepeFrens",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pepe_frens_btc_pfp_1767079737766.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A unique collection born from convergence of Pixel Painted fine art and Pepe culture",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/pepefrensbtc",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 30 Dec 2025 07:35:38 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pjugsk2dcsepl8m2getn9uzqcvvf9npwt72ppgh8jke249zxtrtrs2w7qkr",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

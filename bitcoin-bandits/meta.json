@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:47.665Z",
+  "slug": "bitcoin-bandits",
+  "tokenCount": 512,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-bandits",
+    "collection": {
+      "symbol": "bitcoin-bandits",
+      "name": "Bitcoin Bandits",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoin-bandits.avif",
+      "chain": "btc",
+      "inscriptionIcon": "dbce2723b53c1d83f1928ae711bdecc61026a01b44eb2dac7434d46da07e2400i0",
+      "description": "Once the Ordinal dust Settles the Bandits emerge",
+      "supply": 512,
+      "twitterLink": "https://twitter.com/banditsbtc",
+      "discordLink": "https://discord.gg/bitcoinbandits",
+      "websiteLink": "https://bitcoin-bandits.com/",
+      "createdAt": "Mon, 20 Mar 2023 21:01:47 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:20.597Z",
+  "slug": "on1force_the_f4llen",
+  "tokenCount": 3234,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "7d43ec1554e5a6f4e3005a3818ee82ed8a49b879364be7b6349aae97e5aa641ai1",
+    "collectionSymbol": "on1force_the_f4llen",
+    "collection": {
+      "symbol": "on1force_the_f4llen",
+      "name": "0N1 Force: The Fallen",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-on1force_the_f4llen_pfp_1747154515519.png",
+      "chain": "btc",
+      "inscriptionIcon": "625de42f696b0321031f97f4b61235c7b9909878e14f95be279ff743c31d844di106",
+      "description": "Embark on an unprecedented journey with the Ordinals collection from 0N1 FORCE, where participants will not only possess unique digital artifacts, but also wield the power to shape their own adventure within the universe. This expansion of IP invites enthusiasts to become integral parts of the evolving saga, making every decision a pivotal moment in the rich tapestry of the 0N1 FORCE universe. Join us as we redefine storytelling in the digital age and unleash boundless possibilities for creative expression and exploration.",
+      "supply": 3333,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/0n1Force",
+      "discordLink": "https://discord.gg/hT9uX26jGb",
+      "websiteLink": "https://www.0n1force.com",
+      "createdAt": "Thu, 28 Mar 2024 18:40:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3Eb3sS2C11PqfhQNHtTn6Rok9aFBPrFESV",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

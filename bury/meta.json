@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:33.515Z",
+  "slug": "bury",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "bury",
+    "collection": {
+      "symbol": "bury",
+      "name": "Bitcoin Burials",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bury.webp",
+      "chain": "btc",
+      "inscriptionIcon": "1F325F141C70EFE7989E24F23A84825A909AC51FA6E55DCFCF3B9CF0F8A4698AI0",
+      "description": "Bitcoin Burials is a 10k Ordinals collection of lovingly crafted headstones in a pixel art style each engraved with the BTC logo and a date tied to an Obituary predicting Bitcoin's death as selected from an historic archive. Making Bitcoin magical again one Burial at a time.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/BitcoinBurials",
+      "discordLink": "https://discord.gg/W5WWGXjsSF",
+      "websiteLink": "https://bitcoinburials.com",
+      "createdAt": "Sun, 28 May 2023 21:03:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qndvw2p9rzkqn3pkk74ra966xvvgdplvl5a3hcc",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:12.299Z",
+  "slug": "nodemonkes-honoraries",
+  "tokenCount": 424,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "700462136be138295ee976bff8086873ee9c2aa7f8b7a5a9c50b621c25071cedi0",
+    "collectionSymbol": "nodemonkes-honoraries",
+    "collection": {
+      "symbol": "nodemonkes-honoraries",
+      "name": "NodeMonkes Honoraries",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/nodemonkes-honoraries.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "NodeMonkes Honoraries",
+      "supply": 423,
+      "twitterLink": "https://twitter.com/nodemonkes",
+      "discordLink": "https://discord.gg/nodemonkes",
+      "websiteLink": "https://nodemonkes.com",
+      "createdAt": "Tue, 12 Dec 2023 22:58:01 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

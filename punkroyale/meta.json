@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:47.349Z",
+  "slug": "punkroyale",
+  "tokenCount": 1133,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "punkroyale",
+    "collection": {
+      "symbol": "punkroyale",
+      "name": "Punk Royale",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-punkroyale_pfp_1723238637240.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Punk Royale is a collection by MIO, inspired by neo-expressionism, street art and the 1980s punk scene. It blends iconic punk imagery with chaotic art to reflect bitcoin culture, crypto-anarchism, and decentralization, opposing today’s hype-driven trends. Punk Royale consists of the first 101 OG Punks with a white background: The White Chapter 900 Punks have red splatter in the background.",
+      "supply": 101,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/punkroyalebtc",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 09 Aug 2024 21:35:18 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "36LS8n22LUmz2Et6bQ7HQvfZ1yQ2NzmWUR",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:25.222Z",
+  "slug": "brutal-edge",
+  "tokenCount": 4497,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "brutal-edge",
+    "collection": {
+      "symbol": "brutal-edge",
+      "name": "BRUTAL EDGE by Far and Harto",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/brutal-edge.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "BRUTAL EDGE is the inaugural collaboration between OG Ordinals artists FAR and Harto.",
+      "supply": 111,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/0xfar",
+      "discordLink": "",
+      "websiteLink": "https://brutal.btc.art",
+      "createdAt": "Thu, 22 Aug 2024 15:46:43 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "3Mh6WqYwSkMof2QzC6TpesRbFP4uP31fLQ",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:13.106Z",
+  "slug": "nomos",
+  "tokenCount": 399,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "nomos",
+    "collection": {
+      "symbol": "nomos",
+      "name": "NOMOS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-nomos_pfp_1755274404368.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The ancient Greeks, pioneers of democracy and coinage, left a rich legacy of over 1,000 city that issued their own coins. From this heritage, we selected 400 coins dating from 600 BC to 50 BC from drachmas and obols,Tetradrachm,Stater to other rarities",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://www.nomosbitcoin.com/",
+      "createdAt": "Fri, 15 Aug 2025 17:38:16 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

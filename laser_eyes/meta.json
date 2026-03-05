@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:42.204Z",
+  "slug": "laser_eyes",
+  "tokenCount": 200,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "laser_eyes",
+    "collection": {
+      "symbol": "laser_eyes",
+      "name": "Laser Eyes BRC 2.0",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-laser_eyes_pfp_1753351168886.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Laser Eyes is a Bitcoin-native NFT collection symbolizing unwavering belief in BTC's future.\nMinted on Bitcoin, each NFT represents conviction, vision, and the power of decentralization. Holders gain access to exclusive drops, $R token allocations, and deeper roles in the Bitcoin ecosystem.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/ueBpcTST",
+      "websiteLink": "https://x.com/RuneSwap1",
+      "createdAt": "Wed, 23 Jul 2025 06:19:29 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 85642,
+    "satBlockTime": "Sun, 17 Oct 2010 02:51:12 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

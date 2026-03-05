@@ -1,0 +1,50 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:34.969Z",
+  "slug": "seekermint_og_pass",
+  "tokenCount": 777,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+U0VFS0VSTUlOVCBPRyBQQVNTPC90aXRsZT4KICAgIDxzdHlsZT4gaHRtbCwgYm9keSB7IG1hcmdpbjogMDsgfSA8L3N0eWxlPgogICAgPHNjcmlwdCB0eXBlPSJtb2R1bGUiIHNyYz0nL2NvbnRlbnQvNTQ3YTY3MDk0NDFiYzVjOWQyMDYxNTBjZTVmYjc2MDVjMjhhOTBjNDZiZDZlNDMzMGM0NDIwY2I0MTQ3N2FlYWkwJz48L3NjcmlwdD4KICAgIDxzY3JpcHQgdHlwZT0ibW9kdWxlIj4KICAgICAgICBpbXBvcnQgY2FyZCBmcm9tICcvY29udGVudC9jNjNhNzM5NWQzMDI0NmY5M2ZiOWIwNzllN2FhNDczNmZiYzAwZDQyMTJiMGNiZWU4YWJhZTEyNGU0OWYzNzQxaTAnOwoKICAgICAgICBjb25zdCBkYXRhID0gYXdhaXQgZmV0Y2goJy9jb250ZW50L2MwNDk4YzQxMWEzOWI5ZGU0OThiZTA4YWJiOTBlZDhmMWYyM2ZhZjU5MTZhZTM0NjM4ZTMzNmE5MTE2YjliNzhpMCcpLnRoZW4ocmVzID0+IHJlcy5qc29uKCkpOwogICAgICAgIGNhcmQoZGF0YSwgZG9jdW1lbnQuYm9keSwgIiMxQzE5MjkiKTsKICAgIDwvc2NyaXB0Pgo8L2hlYWQ+Cjxib2R5Pgo8L2JvZHk+CjwvaHRtbD4K",
+    "chain": "btc",
+    "collectionSymbol": "seekermint_og_pass",
+    "collection": {
+      "symbol": "seekermint_og_pass",
+      "name": "Seekermint OG PASS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-seekermint_og_pass_pfp_1712280628921.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "- Cool 3D animated and dynamic piece inscribed on Block 9 featuring 50+ collections- Weekly Giveaway on Monday worth ≈ the OG Pass Floor Price (1x OG Pass = 1 entry)- Airdrops of all upcoming collections from Seekermint & some of our partners- x5 daily multiplier on Gems site",
+      "supply": 777,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/seekermint_app",
+      "discordLink": "https://discord.gg/8BsZf4r3DG",
+      "websiteLink": "https://seekermint.com/",
+      "createdAt": "Fri, 05 Apr 2024 00:52:34 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3AQJwT22MnSpL6bEYvgadQbBc5AD1P4k7T",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

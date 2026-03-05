@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:42.058Z",
+  "slug": "pizza_artifacts",
+  "tokenCount": 221,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "pizza_artifacts",
+    "collection": {
+      "symbol": "pizza_artifacts",
+      "name": "Pizza Artifacts",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/pizza_artifacts.avif",
+      "chain": "btc",
+      "inscriptionIcon": "07c15c6113fb4e43c23ba27eb2185cd29fc3d824323cdfb2fa20e406a0787851i0",
+      "description": "Pizza Artifacts is the first historical collection of Ordinals all fully inscribed on exotic 'pizza' Sats from the Pizza Transaction of May 22, 2010. Powered by SatRepublic",
+      "supply": 222,
+      "twitterLink": "https://twitter.com/PizzaArtifacts",
+      "discordLink": "https://discord.gg/tTNV99KwUG",
+      "websiteLink": "",
+      "createdAt": "Thu, 15 Jun 2023 19:32:59 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Pizza"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

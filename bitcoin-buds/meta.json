@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:47.800Z",
+  "slug": "bitcoin-buds",
+  "tokenCount": 462,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-buds",
+    "collection": {
+      "symbol": "bitcoin-buds",
+      "name": "Bitcoin Buds ",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoin-buds.avif",
+      "chain": "btc",
+      "inscriptionIcon": "01bc80acd24959314a7310ea77b816fa96b6c295ad981e9738df9f2361ee634ai0",
+      "description": "Introducing Bitcoin Buds – The first cannabis on the bitcoin blockchain since Silk Road.",
+      "supply": 462,
+      "twitterLink": "https://twitter.com/bestbudsbtc",
+      "discordLink": "https://discord.com/invite/bitcoinbuds",
+      "websiteLink": "https://www.bestbudsnft.io",
+      "createdAt": "Thu, 20 Apr 2023 02:32:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

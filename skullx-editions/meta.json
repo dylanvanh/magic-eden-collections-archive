@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:36.737Z",
+  "slug": "skullx-editions",
+  "tokenCount": 689,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "skullx-editions",
+    "collection": {
+      "symbol": "skullx-editions",
+      "name": "Skullx: Ordinals Editions",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-skullx-editions_pfp_1693255003206.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "0f8a33f2d9af8de352f6729d236e22f2796f9301aa5eea6ac4bd78e8af4e625di0",
+      "description": "A collection of Skullx Editions pieces brought to you on Bitcoin. https://linktr.ee/skullxnft",
+      "supply": 692,
+      "twitterLink": "https://twitter.com/SkullxNFT",
+      "discordLink": "https://discord.gg/skullx",
+      "websiteLink": "https://www.skullx.com/",
+      "createdAt": "Tue, 29 Aug 2023 19:08:37 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pxz6f0kcz335n8mm2k06mg05qry7m3vv6lg0g06te9t2lchq0hwpqjz6h6h",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

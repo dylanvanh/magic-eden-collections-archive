@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:01.424Z",
+  "slug": "bitcoin-wizards",
+  "tokenCount": 1338,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-wizards",
+    "collection": {
+      "symbol": "bitcoin-wizards",
+      "name": "Bitcoin Wizards",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoin-wizards.avif",
+      "chain": "btc",
+      "inscriptionIcon": "a9b49edacd848906a6b49d673a04d6e12f4f26073f4bd6f09250347e9b311630i0",
+      "description": "A collection of Bitcoin Wizard’s created by mavensbot, the original artist behind the most popular Reddit ad ever,  ‘Magic Internet Money’.  Mavensbot’s iconic wizard designed in MS-Paint is a dose of nostalgia, and a pinch of magic that played a crucial role in the rise of Bitcoin. Own a piece history, for eternity…",
+      "supply": 1338,
+      "twitterLink": "https://twitter.com/mavensbot",
+      "discordLink": "https://discord.gg/bitcoinwizard",
+      "websiteLink": "https://www.bitcoinwizard.com/",
+      "createdAt": "Fri, 24 Mar 2023 23:03:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p856584qxqww2a7g4e5lz8755dqev64p996lwsnmcva3xzeppvvksfn9wdl",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

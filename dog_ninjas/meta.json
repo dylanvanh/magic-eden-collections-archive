@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:59.053Z",
+  "slug": "dog_ninjas",
+  "tokenCount": 300,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHN0eWxlPgogIGJvZHkgewogICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmNTQwMDsKICAgIGRpc3BsYXk6IGZsZXg7CiAgfQogICNwbCB7CiAgICBtYXJnaW46IGF1dG87CiAgICB3aWR0aDogODBweDsKICAgIGhlaWdodDogODBweDsKICAgIGJvcmRlcjogNXB4IHNvbGlkICNmZmY7CiAgICBib3JkZXItYm90dG9tLWNvbG9yOiB0cmFuc3BhcmVudDsKICAgIGJvcmRlci1yYWRpdXM6IDUwJTsKICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7CiAgICBhbmltYXRpb246IDFzIGxpbmVhciBpbmZpbml0ZSByb3RhdGlvbjsKICAgIG9wYWNpdHk6IDAuNDsKICB9CiAgQGtleWZyYW1lcyByb3RhdGlvbiB7CiAgICAwJSB7CiAgICAgIHRyYW5zZm9ybTogcm90YXRlKDApOwogICAgfQogICAgMTAwJSB7CiAgICAgIHRyYW5zZm9ybTogcm90YXRlKDM2MGRlZyk7CiAgICB9CiAgfQo8L3N0eWxlPgo8cCBpZD0icGwiPjwvcD4KPHNjcmlwdCB0eXBlPSJtb2R1bGUiPgogIGltcG9ydCB7IE5pbmphIH0gZnJvbSAnL2NvbnRlbnQvYzgwNzIzMDhlZGJhMjNiODdhYjBhOTkzYTQ3NmIyOGVlMTYwZjVlN2NmYWNkNjVmODAyNmE3NDRhNDczYTZiMWkwJzsKICAvLyBQaXp6YSBOaW5qYSBHZW5lcmF0aW9uIDIgLSBDdXJhdGVkIGJ5IEBCb296eWJ0YwogIGNvbnN0IG1ldGFkYXRhID0gWwogICAgewogICAgICB0eXBlOiAnYm9keScsCiAgICAgIHRyYWl0OiAnZG9nLWhvb2RpZV9fX19kb2ctaG9vZGllLWJpdGNvaW4uc3ZnJywKICAgICAgaWQ6ICc2YmI0ZTNmZjMyMmU1NzNkNzU3Y2E2MjE3MjllOGYzZDhiMGRlMTAzZjVkNDFmODBhMjgzMjAyM2RiYTU4OTQ3aTI1JywKICAgIH0sCiAgICB7CiAgICAgIHR5cGU6ICdib2R5JywKICAgICAgdHJhaXQ6ICdkb2ctZmFjZV9fX19zaGliYS1pbnUuc3ZnJywKICAgICAgaWQ6ICc2YmI0ZTNmZjMyMmU1NzNkNzU3Y2E2MjE3MjllOGYzZDhiMGRlMTAzZjVkNDFmODBhMjgzMjAyM2RiYTU4OTQ3aTI0JywKICAgIH0sCiAgICB7CiAgICAgIHR5cGU6ICdub24tdmlzdWFsJywKICAgICAgdHJhaXQ6ICdGb3VyIE1lZ2dlcjpmYWxzZScsCiAgICAgIGlkOiAnbm9uLXZpc3VhbCcsCiAgICB9LAogIF07CiAgY29uc3QgdmlzdWFsVHJhaXRzID0gbWV0YWRhdGEuZmlsdGVyKCh0KSA9PiB0ICYmIHQudHlwZSAhPT0gJ25vbi12aXN1YWwnKTsKICBOaW5qYS5sb2FkKHZpc3VhbFRyYWl0cyk7Cjwvc2NyaXB0Pgo=",
+    "chain": "btc",
+    "parentInscriptionId": "d7be7dd35dd78b0a55c7e0396edddf95f6ec47de0a2db076a7e14070f2cc81b7i113",
+    "collectionSymbol": "dog_ninjas",
+    "collection": {
+      "symbol": "dog_ninjas",
+      "name": "$DOG Ninjas",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dog_ninjas_pfp_1771198586735.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "d7be7dd35dd78b0a55c7e0396edddf95f6ec47de0a2db076a7e14070f2cc81b7i113",
+      "description": "A collection of 300 $DOG Ninjas.  \n\nGenuine and provenance proven children of The $DOG Pizza Ninja (Pizza Ninja #2577).\n\nWhen $DOG (Bitcoin) reaches a $10B Market Cap, one lucky holder will be bestowed with Pizza Ninja #2577 itself.\n\nBelieve In Better.  Believe In $DOG.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/TheDogSoldier",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 16 Feb 2026 04:55:11 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

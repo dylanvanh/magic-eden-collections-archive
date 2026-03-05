@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:38.544Z",
+  "slug": "patoshipunks",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "patoshipunks",
+    "collection": {
+      "symbol": "patoshipunks",
+      "name": "PatoshiPunks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-patoshipunks_pfp_1719183385523.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A 10K Ordinals collection celebrating the Bitcoin aesthetic, curated for OGs and Bitcoin lovers alike. Perfect for Punk enthusiasts and crypto pioneers, merging Bitcoin heritage with personal style. 👣",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/PatoshiPunks",
+      "discordLink": "https://discord.gg/XsE7GQZA4Z",
+      "websiteLink": "https://patoshipunks.com/",
+      "createdAt": "Tue, 16 Apr 2024 15:26:15 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pdc3733chhjhxxzmau0zkatlufgtr94f0drsvha8vrhz6k78upvdsct8m23",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

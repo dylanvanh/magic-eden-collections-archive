@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:34.098Z",
+  "slug": "astral-babes",
+  "tokenCount": 2912,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "astral-babes",
+    "collection": {
+      "symbol": "astral-babes",
+      "name": "Astral Babes",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-astral-babes_pfp_1692718443819.png",
+      "chain": "btc",
+      "inscriptionIcon": "29b65f763b01fc7304e9f2325c6c02b47e128009e58102ee97ce50ac6d8ff81ci0",
+      "description": "Divine Goddesses by Deezy, on a mission to raise the spiritual awareness of humanity. Largest total file size original ordinals collection. First ever lightning mint.",
+      "supply": 2969,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Astral_Babes",
+      "discordLink": "https://discord.gg/MSNjVA7fF6",
+      "websiteLink": "https://astralbabes.ai/",
+      "createdAt": "Mon, 20 Mar 2023 21:01:20 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:28.786Z",
+  "slug": "runelings",
+  "tokenCount": 7484,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "404ee77ac17fe587fcbfa098c050808bc50025772a5b770d912e35dad3c784bfi0",
+    "collectionSymbol": "runelings",
+    "collection": {
+      "symbol": "runelings",
+      "name": "Runelings",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-runelings_pfp_1756514982781.gif",
+      "chain": "btc",
+      "inscriptionIcon": "dcf6aed2118a94a55ee5c062b2fb59223f2cb7f1c1b33b320a263410de1b67e7i271",
+      "description": "The ultimate Ordinals collection inscribed on Bitcoin — with a prize pool worth over $1,000,000.\n\n✅ Mint a Runeling PFP\n✅ Enter the $1M+ Prize Pool\n✅ A shot at 1 full Bitcoin\n✅ A shot at the legendary 4-Megger Runestone (8 $BTC)\n✅ Receive the Runelings token airdrop\n\nAdditional notes:\n🔸 1 Runeling = 1 entry\n🔸 1 in 10 Runelings will win a prize\n🔸 Every Runeling holder receives the token airdrop",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "https://t.me/Runelings",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://www.runelings.com/",
+      "createdAt": "Sat, 30 Aug 2025 22:42:59 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3DFapQ63MDSCiY4uwxH58zUoUvmDW5L78A",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 250988,
+    "satBlockTime": "Thu, 08 Aug 2013 22:19:47 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

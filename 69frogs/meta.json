@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:25.711Z",
+  "slug": "69frogs",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "69frogs",
+    "collection": {
+      "symbol": "69frogs",
+      "name": "69 Frogs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-69frogs_pfp_1703958129975.gif",
+      "chain": "btc",
+      "inscriptionIcon": "d0c8ea911ad89fb56a9a66ef0fa3066c7949f2e03030b673947b44d3546521d6i0",
+      "description": "The last 10,400 Frogs based on BRC69",
+      "supply": 10400,
+      "twitterLink": "https://twitter.com/_BitPunks_",
+      "discordLink": "https://discord.gg/bitpunks",
+      "websiteLink": "https://bitpunks.io",
+      "createdAt": "Sat, 30 Dec 2023 06:21:34 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

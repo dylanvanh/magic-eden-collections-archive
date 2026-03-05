@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:32.843Z",
+  "slug": "ordinauts",
+  "tokenCount": 69,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "ordinauts",
+    "collection": {
+      "symbol": "ordinauts",
+      "name": "Ordinauts",
+      "imageURI": "https://bafkreifj3dgnokwl4kbgtvgxd5illqnikgnl2hmlptatdmvdrrzevyjo5e.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "c3e6d0d5beb03dea7fb76b79fbb3ab2696b274650a4c4ed3575049b8e79f4857i0",
+      "description": "ORDINAUTS is a sub 8k ordinals collection and the first anime project inscribed on bitcoin. Owning one of our 69 Ordinauts gains you entry into the Ordinaut Universe, where your character can become part of the interplanetary epic of the Great Ordinaut War as it unfolds.",
+      "supply": 69,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Ordinauts",
+      "discordLink": "",
+      "websiteLink": "https://www.ordinauts.ai",
+      "createdAt": "Sun, 26 Mar 2023 13:39:36 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

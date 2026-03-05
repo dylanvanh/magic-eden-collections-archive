@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:28.955Z",
+  "slug": "abstractbeings",
+  "tokenCount": 777,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "abstractbeings",
+    "collection": {
+      "symbol": "abstractbeings",
+      "name": "Abstract Being by memphis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-abstractbeings_pfp_1735763616767.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "777 abstract beings — each a piece of my soul, inked with raw emotion & untamed Imagination",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/MemphisBTC",
+      "discordLink": "",
+      "websiteLink": "https://memphisbtc.xyz/",
+      "createdAt": "Sun, 20 Oct 2024 00:10:11 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "3FU5xMPyrJMz5vy1N37Krf2y9kGv8o9yvN",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:53.742Z",
+  "slug": "distortion",
+  "tokenCount": 1111,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "distortion",
+    "collection": {
+      "symbol": "distortion",
+      "name": "Distortion by Nullish",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/distortion.webp",
+      "chain": "btc",
+      "inscriptionIcon": "a59b331716301f6e2e8a8f09b717ed68b1bc17ae4cb9c8b5b0e7985e60eb5199i0",
+      "description": "Distortion is a fully hand-typed 100% on-chain art collection.",
+      "supply": 1111,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/null_ish",
+      "discordLink": "https://discord.gg/rAQDwwXYbS",
+      "websiteLink": "https://distortion.nullish.org",
+      "createdAt": "Wed, 22 Mar 2023 21:46:50 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1ptl3atv5wefr8s36vvqlfxvhcr9h7g9ut2uu0rzutn6w9vw79vzqqewlt77",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

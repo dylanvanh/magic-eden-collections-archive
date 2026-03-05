@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:28.185Z",
+  "slug": "historical",
+  "tokenCount": 175,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "historical",
+    "collection": {
+      "symbol": "historical",
+      "name": "Historical Collection",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/historical.avif",
+      "chain": "btc",
+      "inscriptionIcon": "b6543b1a2bd3d92535865c5008872d4b86aacd938b627349e8887aadbea82e21i0",
+      "description": "The first collection dedicated to legendary historical people. 1000 NFT with a memorable artistic concept will not leave anyone indifferent. Each NFT is legendary and the only one painting in the collection depicting a historical figure of the past.",
+      "supply": 3333,
+      "twitterLink": "https://twitter.com/ordinalslegends",
+      "discordLink": "https://discord.gg/historicalcollection",
+      "websiteLink": "https://historicalcollection.art/",
+      "createdAt": "Thu, 23 Mar 2023 16:27:49 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

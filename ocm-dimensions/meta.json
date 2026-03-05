@@ -1,0 +1,49 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:16.482Z",
+  "slug": "ocm-dimensions",
+  "tokenCount": 300,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0",
+    "collectionSymbol": "ocm-dimensions",
+    "collection": {
+      "symbol": "ocm-dimensions",
+      "name": "OCM Dimensions 300 by OnChainMonkey® ",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ocm-dimensions.avif",
+      "chain": "btc",
+      "inscriptionIcon": "ff408a524861537d215de19fd96819bcb29d114b41cb6da7ffbb9c777392ef5ei0",
+      "description": "OCM Dimensions is the first of its kind high-resolution 3D generative art collection on Bitcoin, providing open-source code libraries that lay the foundation for art on Bitcoin.",
+      "supply": 300,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/OnChainMonkey",
+      "discordLink": "https://discord.gg/ocm",
+      "websiteLink": "https://onchainmonkey.com/ocm-dimensions",
+      "createdAt": "Sat, 17 Jun 2023 02:14:15 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 78,
+    "satBlockTime": "Sun, 11 Jan 2009 01:00:54 GMT",
+    "satributes": [
+      "Block 78",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

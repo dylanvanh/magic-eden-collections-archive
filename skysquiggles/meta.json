@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:37.464Z",
+  "slug": "skysquiggles",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "skysquiggles",
+    "collection": {
+      "symbol": "skysquiggles",
+      "name": "Sky Squiggles",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/skysquiggles.avif",
+      "chain": "btc",
+      "inscriptionIcon": "f29968013f1d37f0ed489fd436f583c497e8ef4deb8bd4c9ff78a3175593bc77i0",
+      "description": "One hundred finger-drawn squiggles using Apple Notes' draw tool. Created across tens of flights over four years.",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/quantize_d",
+      "discordLink": "https://discord.gg/quantize_d",
+      "websiteLink": "",
+      "createdAt": "Thu, 01 Jun 2023 20:01:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

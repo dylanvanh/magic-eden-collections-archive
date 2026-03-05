@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:53.102Z",
+  "slug": "vnus",
+  "tokenCount": 500,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "parentInscriptionId": "2f0774c865b075e3f0bc026b64c4bb077c7b1dc8345b0b52479575672733d33di0",
+    "collectionSymbol": "vnus",
+    "collection": {
+      "symbol": "vnus",
+      "name": "VNUS Takeru Amano™",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-vnus_pfp_1698072896709.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The Rebirth of an Icon / あのアイコンの復活 / 500 unique VNUS by Takeru Amano, forever on bitcoin.",
+      "supply": 500,
+      "twitterLink": "https://twitter.com/VnusTakeru",
+      "discordLink": "https://discord.gg/vnustakeru",
+      "websiteLink": "https://www.vnus.io/",
+      "createdAt": "Tue, 24 Oct 2023 14:28:33 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

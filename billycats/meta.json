@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:44.878Z",
+  "slug": "billycats",
+  "tokenCount": 9995,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "billycats",
+    "collection": {
+      "symbol": "billycats",
+      "name": "Billy Cats",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-billycats_pfp_1720246108289.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "10k Billy Cats to vibe with as $billy goes to a billy.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/nishseq",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sat, 06 Jul 2024 07:12:06 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pkhllk8n5thcmcgc3ywsdpqsvev3fltzmkyv4z9kafvwmt2cd6eqssxndvm",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

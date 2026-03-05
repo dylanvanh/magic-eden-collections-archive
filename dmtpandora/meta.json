@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:59.009Z",
+  "slug": "dmtpandora",
+  "tokenCount": 2230,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "dmtpandora",
+    "collection": {
+      "symbol": "dmtpandora",
+      "name": "DMT-Pandora",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dmtpandora_pfp_1709847380507.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A very special non-arbitrary art collection on Bitcoin. Ready to open the Pandora Box?",
+      "supply": 2016,
+      "twitterLink": "https://twitter.com/dmtpandora",
+      "discordLink": "https://discord.gg/gUmr9m476A",
+      "websiteLink": "https://dmtpandora.com",
+      "createdAt": "Thu, 07 Mar 2024 22:09:47 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

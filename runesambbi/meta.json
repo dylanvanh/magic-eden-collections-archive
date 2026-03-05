@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:31.572Z",
+  "slug": "runesambbi",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHNjcmlwdCBzcmM9Ii9jb250ZW50L2ZmNTMzMjFlYTJmMTgzYTY0MGMxY2U4NjQxZGViY2U0MWU0ZTdkZmMwOWZhODcxZDExZmZhZTg5OTlkYzRhZDBpMCI+PC9zY3JpcHQ+Cg==",
+    "chain": "btc",
+    "collectionSymbol": "runesambbi",
+    "collection": {
+      "symbol": "runesambbi",
+      "name": "Runes AMBBi",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-runesambbi_pfp_1713320981393.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Runes-AMBBi is the first Art Toy NFT collection featuring the BTC element on Ordinals and features the first large-scale airdrop mystery box in the BTC ecosystem, utilizing the innovative BRC69+ protocol. With a total supply of 69,690, this collection draws from rich Eastern philosophies and embodies the ideals of angels and monsters. Designed by JANO.X, recipient of the Muse Design Platinum Award, it integrates concepts from the Metaverse, GameFi, and tangible Art Toy ecosystems. AMBBi is aspiring to become the premier brand in Web3.",
+      "supply": 69690,
+      "twitterLink": "https://twitter.com/CryptoAMBBi",
+      "discordLink": "https://discord.gg/ambbi",
+      "websiteLink": "https://www.ambbi.io/",
+      "createdAt": "Wed, 17 Apr 2024 11:01:18 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pc6ehwl8tghsjf6fdqu7ml4zupldg6k636jvte0fl3y6wcecz0q8s3ufu83",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:04.038Z",
+  "slug": "doxxed_custom_1-1",
+  "tokenCount": 8,
+  "defaults": {
+    "chain": "btc",
+    "outputValue": 546,
+    "listed": false,
+    "listedPrice": 0,
+    "collectionSymbol": "doxxed_custom_1-1",
+    "collection": {
+      "symbol": "doxxed_custom_1-1",
+      "name": "Doxxed custom 1/1",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-doxxed_custom_1-1_pfp_1697361964566.png",
+      "chain": "btc",
+      "inscriptionIcon": "6522e4db7fe0d57cf7c54163a39c5d45c0066e517a65fc789fd17dd9ce438510i0",
+      "description": "Doxxed 1/1 holders have uniquely designed and worked with our artist to design each of there. own personalised 1/1s",
+      "supply": 8,
+      "twitterLink": "https://twitter.com/DoxxedBTC",
+      "discordLink": "https://discord.gg/8UJU3qdg4E",
+      "websiteLink": "",
+      "createdAt": "Wed, 18 Oct 2023 10:16:04 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

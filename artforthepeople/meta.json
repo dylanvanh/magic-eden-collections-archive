@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:33.419Z",
+  "slug": "artforthepeople",
+  "tokenCount": 4977,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "artforthepeople",
+    "collection": {
+      "symbol": "artforthepeople",
+      "name": "Art for the people!",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-artforthepeople_pfp_1706501154791.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The first large scale collection of cross inscription 1/1 mashups featuring historic early Ordinals and significant collections. All art is recursive, the traits are the art. Art for the people!",
+      "supply": 4379,
+      "twitterLink": "https://twitter.com/kingpunkape",
+      "discordLink": "",
+      "websiteLink": "https://ordinals.com/content/0faec3f33dc50239caa450ae80d3f3f53491993f827820560e9086249d31da52i0",
+      "createdAt": "Mon, 29 Jan 2024 04:09:44 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q5d2azdshrwqkk2e0pr2nrnu524whje63sdr0u7",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

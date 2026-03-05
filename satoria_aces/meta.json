@@ -1,0 +1,33 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:34.566Z",
+  "slug": "satoria_aces",
+  "tokenCount": 60,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "satoria_aces",
+    "collection": {
+      "symbol": "satoria_aces",
+      "name": "Pocket Aces by Ordinals Poker",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-satoria_aces_pfp_1699144231509.gif",
+      "chain": "btc",
+      "inscriptionIcon": "d76c2e1a712adad0bed0486dfb38b3fd61491ed835a7d80887aca04d0afed482i0",
+      "description": "Ordinals Poker - BTC 777 Poker ClubHolding an Ace gets you in special games and giveaways with premium prizes and will also get airdrops of upcoming Ordinals Poker Collections",
+      "supply": 77,
+      "twitterLink": "https://twitter.com/OrdinalsPoker",
+      "discordLink": "https://discord.gg/RWdHKyhkvg",
+      "websiteLink": "https://zbitpoker.com/",
+      "createdAt": "Tue, 07 Nov 2023 03:10:03 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

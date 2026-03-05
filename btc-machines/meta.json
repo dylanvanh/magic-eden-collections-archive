@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:27.433Z",
+  "slug": "btc-machines",
+  "tokenCount": 777,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "btc-machines",
+    "collection": {
+      "symbol": "btc-machines",
+      "name": "BTC Machines",
+      "imageURI": "https://bafkreicvs6kwwlzkkbrpl4ircduhiun7push6zgx3dzz5p7pjfrf3nwppm.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "83b7b96e113fcbd88a6dd237debf1e327b3c2f5059b1c157f19edf4e55b8e4c5i0",
+      "description": "BTC MACHINE is a BTC brand. A collection of 777 ABSOLUTE on-chain digital artifacts. Be part of the revolution of ABSOLUTE on-chain NFTs, as they should be!",
+      "supply": 777,
+      "twitterLink": "https://twitter.com/btcordinal",
+      "discordLink": "https://discord.gg/btcmachine",
+      "websiteLink": "https://www.satoria.world/",
+      "createdAt": "Mon, 20 Mar 2023 21:02:37 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcmn0l7w382ygvpehvtz57n2r75l5j7nyzkq54lf8zr3pm48y0aesh4pd96",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

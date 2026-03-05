@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:34.342Z",
+  "slug": "ayeliens",
+  "tokenCount": 1994,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ayeliens",
+    "collection": {
+      "symbol": "ayeliens",
+      "name": "AYELIENS: World Domination",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ayeliens_pfp_1709450931021.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A Galactic Trilleration of 2K Ayeliens on the quest for WORLD DOMINATION 👽🛸",
+      "supply": 2000,
+      "twitterLink": "https://twitter.com/meezy2greezy",
+      "discordLink": "https://discord.gg/7jxkVVtVxg",
+      "websiteLink": "https://ayeliens.space",
+      "createdAt": "Sun, 03 Mar 2024 07:25:10 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "38mckw1tDgUvUw4ryKguDWtF5gmFsWM77i",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

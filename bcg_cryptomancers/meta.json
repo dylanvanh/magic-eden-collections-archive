@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:39.148Z",
+  "slug": "bcg_cryptomancers",
+  "tokenCount": 500,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bcg_cryptomancers",
+    "collection": {
+      "symbol": "bcg_cryptomancers",
+      "name": "Cryptomancers",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bcg_cryptomancers_pfp_1733641113847.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Cryptomancer's Ordinals Collection: A Fusion of Art, History, and Bitcoin The Cryptomancer's Ordinals Collection blends ancient art with cutting-edge Bitcoin technology. Presented by Bitcoin Culture Gods, this collection features unique, 1-of-1 pieces inscribed on Block 9 satoshis, symbolizing a union of culture and digital innovation. As the first multicultural art collection on Bitcoin, it highlights diverse global traditions and marks a milestone in digital art and Ordinals history as one of the largest file size collections.",
+      "supply": 500,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/crypto_mancers",
+      "discordLink": "https://discord.gg/tarN8xkpxu",
+      "websiteLink": "https://magisat.io/?_ref=Crypto_mancers",
+      "createdAt": "Sat, 27 Jul 2024 12:17:19 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qey9qx6whgdlhcpasqnl8w3e4yz54pxyawwyu5v",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

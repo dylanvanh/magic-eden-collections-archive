@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:16.765Z",
+  "slug": "frank",
+  "tokenCount": 221,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "059df727f95201dbb97cdb28592378e9ec0cae65eb5338dbf1f65e59214c2b8di0",
+    "collectionSymbol": "frank",
+    "collection": {
+      "symbol": "frank",
+      "name": "frank",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/frank.avif",
+      "chain": "btc",
+      "inscriptionIcon": "45dbcdd071c59c530da530b2cc91c4687113ec33c1aceb116a7c00b5d5ebda1ai0",
+      "description": "the story you control. mint high end art on btc.",
+      "supply": 222,
+      "twitterLink": "https://twitter.com/somewherefrank",
+      "discordLink": "https://discord.gg/D7mHtY49Qe",
+      "websiteLink": "",
+      "createdAt": "Wed, 03 Apr 2024 02:35:47 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qdqz3lm9r62dndhcptv97ftfrw2q8w0a597yr8m",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

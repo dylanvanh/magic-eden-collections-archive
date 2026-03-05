@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:31.587Z",
+  "slug": "ordinalplague",
+  "tokenCount": 666,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "ordinalplague",
+    "collection": {
+      "symbol": "ordinalplague",
+      "name": "Ordinal Plague",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordinalplague_pfp_1713277080567.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The plague has arrived, the fight has been hard, but we have found a cure, now we have to deal with the consequences of the plague.Protect your doctors, go in search of new ones, the more the better, every good deed will be noticed and in the end everyone will reap their deserved reward!",
+      "supply": 666,
+      "twitterLink": "https://twitter.com/ordinalplague",
+      "discordLink": "https://discord.gg/plague",
+      "websiteLink": "https://www.plagueproject.com/",
+      "createdAt": "Sat, 06 Apr 2024 18:57:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q977wnhahnfgzmjgrtt0f7ag2tgzq6e6jc0rfq6",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

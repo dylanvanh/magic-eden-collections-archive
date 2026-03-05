@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:49.639Z",
+  "slug": "bitcoin-flowers",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-flowers",
+    "collection": {
+      "symbol": "bitcoin-flowers",
+      "name": "Bitcoin Flowers",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoin-flowers.avif",
+      "chain": "btc",
+      "inscriptionIcon": "7166938ce3ad6afc0b6ce3051f423a9f35cad05993fe86ad6dd79780d3a0c4a8i0",
+      "description": "Bitcoin Flowers are an integrated part of the Bitcoin Bees ecosystem.Collect the flowers and make your own taproot garden, the Bees will love it..",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/OrdinalBees",
+      "discordLink": "https://discord.gg/9aX49Kbc5A",
+      "websiteLink": "",
+      "createdAt": "Sun, 11 Jun 2023 17:55:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

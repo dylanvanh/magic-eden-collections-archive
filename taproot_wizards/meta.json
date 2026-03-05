@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:41.942Z",
+  "slug": "taproot_wizards",
+  "tokenCount": 2102,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "taproot_wizards",
+    "collection": {
+      "symbol": "taproot_wizards",
+      "name": "Taproot Wizards",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-taproot_wizards_pfp_1740791107942.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "2121 Taproot Wizards were inscribed in early 2023 and took the ordinals world by storm. It's time to Make Bitcoin Magical Again.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/TaprootWizards",
+      "discordLink": "",
+      "websiteLink": "https://taprootwizards.com",
+      "createdAt": "Mon, 10 Mar 2025 02:34:03 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

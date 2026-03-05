@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:49.619Z",
+  "slug": "trumpuppets",
+  "tokenCount": 9694,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "trumpuppets",
+    "collection": {
+      "symbol": "trumpuppets",
+      "name": "Trumpuppets",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-trumpuppets_pfp_1711141685120.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "BITCOIN TRUMPS + BITCOIN PUPPETS = TRUMPUPPETS",
+      "supply": 10001,
+      "twitterLink": "https://twitter.com/trumpuppets47",
+      "discordLink": "",
+      "websiteLink": "https://inscribenow.io/collections/a9c717121d6eaf02",
+      "createdAt": "Fri, 22 Mar 2024 21:40:52 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:29.332Z",
+  "slug": "btc-virus",
+  "tokenCount": 9991,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "btc-virus",
+    "collection": {
+      "symbol": "btc-virus",
+      "name": "BTC Virus",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/btc-virus.avif",
+      "chain": "btc",
+      "inscriptionIcon": "da5516431da9a331d165f151f44d62fd4ad3264634ff1c746a4059fad261cbd6i0",
+      "description": "'A weird infection has developed inside the BTC MACHINES, giving life to a new creature, a VIRUS. This VIRUS is taking over the MACHINES and kicking their operators out, it is crucial to help us heal our MACHINES' - This collection was the biggest airdrop in the history of Ordinals, 10 000 free airdrops to the entire Ordiverse, literally. They infected the wallets of the top 60 projects.",
+      "supply": 9992,
+      "twitterLink": "https://twitter.com/btcordinal",
+      "discordLink": "https://discord.gg/btcmachine",
+      "websiteLink": "https://www.satoria.world/",
+      "createdAt": "Mon, 20 Mar 2023 21:02:59 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcmn0l7w382ygvpehvtz57n2r75l5j7nyzkq54lf8zr3pm48y0aesh4pd96",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

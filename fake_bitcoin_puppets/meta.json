@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:12.814Z",
+  "slug": "fake_bitcoin_puppets",
+  "tokenCount": 777,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "fake_bitcoin_puppets",
+    "collection": {
+      "symbol": "fake_bitcoin_puppets",
+      "name": "acoustic puppets ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fake_bitcoin_puppets_pfp_1733009125962.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "777 acoustic puppets lelelelelelelelel hand farted buh DuKeHoEK",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/DuKeHoEK",
+      "discordLink": "https://discord.gg/Sc4nhyj8",
+      "websiteLink": "",
+      "createdAt": "Sun, 01 Dec 2024 00:16:41 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q6yj62wuwycr4n9udj2hq58y0ypf305kvpms4fd",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

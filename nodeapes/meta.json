@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:10.449Z",
+  "slug": "nodeapes",
+  "tokenCount": 9745,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "metaprotocol": "cbrc-20:transfer:CYBD=1000",
+    "collectionSymbol": "nodeapes",
+    "collection": {
+      "symbol": "nodeapes",
+      "name": "NodeApes",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-nodeapes_pfp_1709897976568.png",
+      "chain": "btc",
+      "inscriptionIcon": "73d6c36d9a2cd757839fa66ab402be31551edb99846d0304b56e3f324e5ae8f5i0",
+      "description": "an ordinals collection of apes living in nodes, rewards you RUNES on Bitcoin and is powered by CBRC-20 meta-protocol",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/thenodeapes",
+      "discordLink": "https://discord.gg/nodeapes",
+      "websiteLink": "https://www.sendnodeapes.com",
+      "createdAt": "Fri, 08 Mar 2024 10:24:13 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

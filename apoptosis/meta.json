@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:32.627Z",
+  "slug": "apoptosis",
+  "tokenCount": 333,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "apoptosis",
+    "collection": {
+      "symbol": "apoptosis",
+      "name": "Apoptosis by OTO",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-apoptosis_pfp_1689662264884.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Irreversible and infinitely living on-chain generative art with recursion and interactivity born from Ordinal MIMI",
+      "supply": 333,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/otograf_jp",
+      "discordLink": "https://discord.gg/Z9MyjqgvHP",
+      "websiteLink": "https://linktr.ee/ordinalmimi",
+      "createdAt": "Tue, 18 Jul 2023 03:42:22 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "336i9yrjqBkt9y8DBUAvL8JcR7UeoMph5t",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

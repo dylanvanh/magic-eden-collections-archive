@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:57.757Z",
+  "slug": "yunabrc",
+  "tokenCount": 3333,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "parentInscriptionId": "0441bc243f771ab056747ead295e8a4af5230f8ceaea5afd4e066ddb0bbff238i589",
+    "collectionSymbol": "yunabrc",
+    "collection": {
+      "symbol": "yunabrc",
+      "name": "Yuna Revelation",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-yunabrc_pfp_1754789229313.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Yuna Revelation is a programmable BRC2.0 pixel collection powered by EVM-compatible smart contracts & inscribed under the 100M inscription for provenance like none other. Holders of Yuna Revelation will get a BRC2.0 token airdrop once BRC2.0 mainnet launch goes live on Block 912,690 (~September 2). The ticker is $[REDACTED]",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/yuzodotxyz",
+      "discordLink": "https://discord.gg/GuAYZEGcEd",
+      "websiteLink": "https://yuzo.xyz",
+      "createdAt": "Sun, 10 Aug 2025 03:20:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1puwm60k5npprx8qlzk0wxltt9av5urara48m823ju2a9e4g73pf9sv4grkr",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

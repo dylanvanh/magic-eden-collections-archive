@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:48.779Z",
+  "slug": "loboverse",
+  "tokenCount": 9991,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "448b6434edd338123dadc21e9068c92c9816b6740b72a59b9cea4df88999b962i0",
+    "collectionSymbol": "loboverse",
+    "collection": {
+      "symbol": "loboverse",
+      "name": "Loboverse",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-loboverse_pfp_1733344052588.gif",
+      "chain": "btc",
+      "inscriptionIcon": "9748d36d8e30cfea8955610906158baecd8954be5c2f0c43cd381412374f90d4i311",
+      "description": "LOBOVERSE is a 10k Ordinals Collection that dynamically reacts to the Full Moon. Once a month, when the Moon is at its brightest, Lobos transform into Werewolves for three full days.",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/lobothewolfpup",
+      "discordLink": "https://discord.gg/ksBVvGUA94",
+      "websiteLink": "https://www.lobothewolfpup.io/",
+      "createdAt": "Wed, 04 Dec 2024 20:52:08 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3GAsRAvG5ufi571i1ReCCpQYdE3bA51dr4",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

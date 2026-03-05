@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:27.504Z",
+  "slug": "btc-mutant-operator",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/png",
+    "genesisTransactionBlockTime": "Thu, 16 Mar 2023 21:09:13 GMT",
+    "genesisTransactionBlockHash": "00000000000000000000b034509cd0ad1e5522ad250af37552daee5f065d81a1",
+    "genesisTransactionBlockHeight": 781104,
+    "chain": "btc",
+    "collectionSymbol": "btc-mutant-operator",
+    "collection": {
+      "symbol": "btc-mutant-operator",
+      "name": "BTC Mutant Operator",
+      "imageURI": "https://bafkreicwdc2egph6ruo7lswy72afplmxq4y2lain3tdoczy3odsg2iggyy.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "83d12b8af947c193b47f674dca5e9e265e85d71971bd842578680d4d12fad03ei0",
+      "description": "BAMBO GULAMATAKA! x!#$$%!*%! (A wild CHAD Operator who proteks!)",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/btcordinal",
+      "discordLink": "https://discord.gg/btcmachine",
+      "websiteLink": "https://www.satoria.world/",
+      "createdAt": "Thu, 23 Mar 2023 07:15:49 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcmn0l7w382ygvpehvtz57n2r75l5j7nyzkq54lf8zr3pm48y0aesh4pd96",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

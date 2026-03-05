@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:52.701Z",
+  "slug": "real-rares",
+  "tokenCount": 169,
+  "defaults": {
+    "chain": "btc",
+    "meta": {},
+    "collectionSymbol": "real-rares",
+    "collection": {
+      "symbol": "real-rares",
+      "name": "Real Rares",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/real-rares.avif",
+      "chain": "btc",
+      "inscriptionIcon": "99a55584b9c4dd77fd006d97c8ea682861023a6e9e74a1531fc8af0bb9301abei0",
+      "description": "169 supply Real Rares; pixel Pepe’s that pay homage to culturally important BTC moments, memes, established NFT collections and pop culture references.",
+      "supply": 169,
+      "twitterLink": "https://twitter.com/bjow5",
+      "discordLink": "https://discord.gg/WQFFeEfedn",
+      "websiteLink": "https://twitter.com/SCR_btc",
+      "createdAt": "Sun, 26 Mar 2023 11:28:05 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

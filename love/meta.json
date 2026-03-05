@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:49.225Z",
+  "slug": "love",
+  "tokenCount": 340,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "love",
+    "collection": {
+      "symbol": "love",
+      "name": "love_message",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-love_pfp_1763109703724.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "C'est ectraterestre Licorne desan sur Terre, Elle demande de l'edde au zumin : \"votre planette et an danger . voici ce qui vous atan soves vous.ocinon votre terre cera ranpli de lave il fodrè que vous concetuisé une fusé VITE VITE la lave va arivvé.\"",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/redisdead",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 14 Nov 2025 08:46:48 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "3CZnVkACnD5gq3faygsftBpzL4HRchJjWz",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

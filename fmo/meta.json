@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:15.816Z",
+  "slug": "fmo",
+  "tokenCount": 2006,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "334eb7d6326f74fa2a86db36f5d2ee365b9b304723a121b97a9a7ff265141c2ei0",
+    "collectionSymbol": "fmo",
+    "collection": {
+      "symbol": "fmo",
+      "name": "Full Moon Ordinals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fmo_pfp_1714839146407.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Full Moon Ordinals integrates Ordinals with IoT, DePIN, Ai, and encoded privacy, creating unique assets that connect blockchain, security, and decentralized technology.",
+      "supply": 2009,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/FullMoonOrdinal",
+      "discordLink": "",
+      "websiteLink": "https://wenrune.xyz/search?address=",
+      "createdAt": "Sat, 04 May 2024 17:00:44 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1paw0wj5dyrl5u9sz0wec98mjnpl3z3gpjvyhca48rv8fq5dcactgs2gdjku",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

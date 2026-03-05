@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:32.580Z",
+  "slug": "ape-runners",
+  "tokenCount": 3000,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "ape-runners",
+    "collection": {
+      "symbol": "ape-runners",
+      "name": "ApeRunners BTC",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ape-runners.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "ApeRunners BTC is the Genesis collection of the Degen Titans.",
+      "supply": 3000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ApeRunnersBTC",
+      "discordLink": "https://discord.gg/AQVwhEAv3X",
+      "websiteLink": "https://degentitans.io",
+      "createdAt": "Sat, 20 May 2023 01:19:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

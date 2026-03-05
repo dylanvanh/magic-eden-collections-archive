@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:47.772Z",
+  "slug": "bitcoin-boos",
+  "tokenCount": 101,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-boos",
+    "collection": {
+      "symbol": "bitcoin-boos",
+      "name": "Bitcoin Boos",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoin-boos_pfp_1705201799459.png",
+      "chain": "btc",
+      "inscriptionIcon": "f574268b3b3e112d5d3be0da515516097eddb43457655d75c85dd7a00a48def3i0",
+      "description": "Discover the enchanting Boo Kingdom 👑 Immortalized on ₿itcoin ⚡ Alive w/ AI 🤖",
+      "supply": 101,
+      "twitterLink": "https://twitter.com/BitcoinBoos",
+      "discordLink": "https://discord.gg/bitcoinboos",
+      "websiteLink": "https://bitcoinboos.com/",
+      "createdAt": "Mon, 20 Mar 2023 21:01:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcu94txs59rw2lqtl80uxr9exfzqe97ha9awya840677kew4swwwsvfd0gs",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

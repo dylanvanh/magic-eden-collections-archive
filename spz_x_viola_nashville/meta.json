@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:39.909Z",
+  "slug": "spz_x_viola_nashville",
+  "tokenCount": 980,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "spz_x_viola_nashville",
+    "collection": {
+      "symbol": "spz_x_viola_nashville",
+      "name": "SpZ X Viola Bitcoin Nashville 2024",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-spz_x_viola_nashville_pfp_1722120223789.png",
+      "chain": "btc",
+      "inscriptionIcon": "9348a921ff6bb1b6ae6e651c781c7dab277850c4b03be55687345ce82f700513i0",
+      "description": "SpZ X Viola Bitcoin Nashville 2024 Special Edition. A postcard from the Bitcoin conference in Nashville! With LOVE, SpZ X Viola",
+      "supply": 1000,
+      "twitterLink": "https://twitter.com/ViolaMissCode",
+      "discordLink": "https://discord.gg/7fQmKKAN",
+      "websiteLink": "https://linktr.ee/spzjulien",
+      "createdAt": "Sun, 28 Jul 2024 00:06:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "32jB9PNphgwGanLWSX7nW9e9gmqsYmfzqk",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

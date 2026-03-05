@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:52.623Z",
+  "slug": "deezy-vibe",
+  "tokenCount": 394,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "deezy-vibe",
+    "collection": {
+      "symbol": "deezy-vibe",
+      "name": "Deezy Vibe",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-deezy-vibe_pfp_1732634166916.png",
+      "chain": "btc",
+      "inscriptionIcon": "5c0124462a53c884ce08f96afeab6ce8fd87d7dd3e11fa0a15789fbbb9d7c07ei0",
+      "description": "Artwork created with Midjourney. Inscribed February 2023. DM @dannydiekroeger on X for inquiries on unlisted pieces. Most are available OTC.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/dannydiekroeger",
+      "discordLink": "https://discord.gg/ASfVZ8Cc6f",
+      "websiteLink": "",
+      "createdAt": "Tue, 26 Nov 2024 15:42:15 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p252ny63pr6nunrevkzpmrf99j9vyllfgj4gf5wrk6h26jnlp3scs8qess3",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

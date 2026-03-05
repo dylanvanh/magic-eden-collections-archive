@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:05.006Z",
+  "slug": "natalias",
+  "tokenCount": 2016,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "natalias",
+    "collection": {
+      "symbol": "natalias",
+      "name": "Natalias",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-natalias_pfp_1709719273971.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A collection of 2,016+ abstract generative art pieces, inscribed on Bitcoin as non-arbitrary tokens (NATs).",
+      "supply": 2016,
+      "twitterLink": "https://twitter.com/dmtnatalias",
+      "discordLink": "https://discord.gg/pB4rcej9SB",
+      "websiteLink": "https://natalias.io",
+      "createdAt": "Wed, 06 Mar 2024 20:03:24 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

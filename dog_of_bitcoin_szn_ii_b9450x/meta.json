@@ -1,0 +1,48 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:59.183Z",
+  "slug": "dog_of_bitcoin_szn_ii_b9450x",
+  "tokenCount": 514,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "dog_of_bitcoin_szn_ii_b9450x",
+    "collection": {
+      "symbol": "dog_of_bitcoin_szn_ii_b9450x",
+      "name": "$DOG | Ordinals - SZN II B9-450x",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dog_of_bitcoin_szn_ii_b9450x_pfp_1746317373135.png",
+      "chain": "btc",
+      "inscriptionIcon": "d09e275264ce356f7145e05f75eae24298e7fda684d19f8ca45ff008287b0d09i0",
+      "description": "$DOG | Ordinals is in SZN II of 10 total seasons, each with distinct art by top artists. This is the B9-450x set from SZN II, inscribed on ultra rare sats.\n\nIf you also hold the $DOG coin of ₿itcoin, these are your badge of honor. Proceeds from every drop fund epic community initiatives. SZN I helped secure the $DOG booth at the Las Vegas ₿itcoin conference — SZN II is just getting started.\n\n293 of these are also eligible for a massive on-chain Ordinals raffle. One will win 6.9420M $DOG when all 293 are in full circulation. Join our Discord to learn more.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/5Yntvs5pJM",
+      "websiteLink": "https://x.com/DogOfBitcoin",
+      "createdAt": "Sun, 04 May 2025 00:48:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3E4ffEYenGJ32RjvVNzAnVnpBV6NysBrfL",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

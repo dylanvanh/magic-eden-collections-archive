@@ -1,0 +1,49 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:20.469Z",
+  "slug": "bitshades_dogs",
+  "tokenCount": 409,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "048341533f602bd8f0582ecd1d87f424615db1a4c301defaf3a1925f3f199609i0",
+    "collectionSymbol": "bitshades_dogs",
+    "collection": {
+      "symbol": "bitshades_dogs",
+      "name": "Bitshades Dogs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitshades_dogs_pfp_1715979911624.png",
+      "chain": "btc",
+      "inscriptionIcon": "048341533f602bd8f0582ecd1d87f424615db1a4c301defaf3a1925f3f199609i0",
+      "description": "BitShades Dogs is an innovative art collection featuring 450 unique pixelated dogs representing over 75 breeds. This collection intertwines technology with the enduring bond between humans and their loyal canine companions. Each piece not only celebrates individuality but also commemorates the spirit of our beloved dogs, immortalizing their memory on the blockchain. As a holder, you join a community that values creativity and affection, honoring the past while shaping the future. Embrace this journey, where each digital dog echoes love and loyalty, solidifying their place in a timeless, vibrant digital realm.",
+      "supply": 4500,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BitShades_com",
+      "discordLink": "",
+      "websiteLink": "https://bitshades.com",
+      "createdAt": "Fri, 17 May 2024 18:44:01 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qm6jx2329jjw4arqc9vkp7k5vmw8uyjw709nmfq",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

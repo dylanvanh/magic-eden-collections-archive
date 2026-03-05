@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:47.216Z",
+  "slug": "counterfeit-cards",
+  "tokenCount": 5698,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "counterfeit-cards",
+    "collection": {
+      "symbol": "counterfeit-cards",
+      "name": "counterfeit cards",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-counterfeit-cards_pfp_1722880718018.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "a curated archive of art and culture, preserved on bitcoin.",
+      "supply": 4809,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/counterfeitsats",
+      "discordLink": "https://discord.gg/3r79y7EQh5",
+      "websiteLink": "https://linktr.ee/counterfeitsats",
+      "createdAt": "Thu, 30 Nov 2023 01:51:46 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "3QnuWP8VjYLvzFd4Xo2XhJj1yhBAd37joV",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

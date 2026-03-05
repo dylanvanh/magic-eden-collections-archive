@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:53.434Z",
+  "slug": "moonkees",
+  "tokenCount": 1144,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "moonkees",
+    "collection": {
+      "symbol": "moonkees",
+      "name": "Moonkees - BRC 2.0",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-moonkees_pfp_1753897335682.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Moonkees is a collection of 1.222 PFPs, made in a specific cardboard style. Each PFP will be included certain number of BRC 2.0 tokens. Moonkees to the moon! Buy your moonkees",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/evtHkRvV5Q",
+      "websiteLink": "https://moonkeesbtc.xyz",
+      "createdAt": "Wed, 30 Jul 2025 18:08:22 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

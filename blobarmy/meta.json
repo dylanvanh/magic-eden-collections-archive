@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:22.077Z",
+  "slug": "blobarmy",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "GxoIAByJ6TY4WZIzTwaBUvKzFJ5qv3VKeujuYYs0/hyWxZOYJIYQO/69K1YYn7d2qc3Id/E0GtO6ak+zIvfJiCwAOb4roqqbHis5oeRUhqsTf1FKkbClM2Gj6BKDfxwBDIdRagjepGE+4jwJzGdABhr/1N4+53eJJ4+VauFhejwMzi2+d5438WgOvG98nudRRDHjNoa9BjDJpZXGjXXIFk7Rm8Mar+11drd5qxxaJFE+Lg/t+P7vAZj98895om6IIOspJe3AAkjs4VnQxLPtvFd7FcuzUxNSXLFCOB7o0+HLPNetxrFzQUilYMca15iOXSt4WIGWlTKgnP9pfCVslZn+ExOKAdaRWolMp1KFKQc35va01+I2EPsCvPqzf76fyc9doAkcIi1Si/UUopxQSSBkJcFFkUYBJpP+LiZuVJiEBht23l8nsofWTJD3CXsvKbRrjSdUxI+obBl8o5OSWQXg1YNeBfAEf/qTjWDzWnmXSDpnsjKzuVPZW07u1xvtOsPWnE9j9eCvp/FeDtZO7rW5j94qd/E0RZ/5e06KPoY9cWwS6ZyfkIDwUugxJ22uLxInXN+eKtkZnmrhTonXEksd6T2Nyoq12CxTGLHHFFbvP9TO5z/PALB+L9cf1yGA5UEprJU3/m3U7ErAND053SLD8H8ZB6Ai51Kyw7Fmv9ddaUn5KVYsluxTJ2Q2wXyGscoIlGvOMN5xR7oYF2VDU6knvZhRA5C7PiPKEVtJr6gAvS9ns437/pySU4RIqKhhgh3bWmDseDuBTxuMVCFJEiP/lAPtS9Wj/oHc0lVGYHncs0jXqE4K4yTjItBuBYnu4hCcKViDUtalquX6kNNuVuDR8nxb/vvKyiGY1kRLrGQ=",
+    "chain": "btc",
+    "parentInscriptionId": "648f02fbb36d7841dbf629966ea9c82a60255044fbdd09b31533c0b9fafa573di0",
+    "collectionSymbol": "blobarmy",
+    "collection": {
+      "symbol": "blobarmy",
+      "name": "Blob",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-blobarmy_pfp_1712318532505.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/bookofblob",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 05 Apr 2024 12:49:19 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p4mq69440reh0wntu75ma09h5a34tmhtzlh4plepqpheuxq5780wq2cwgd7",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

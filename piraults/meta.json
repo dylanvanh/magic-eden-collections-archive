@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:40.440Z",
+  "slug": "piraults",
+  "tokenCount": 878,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "piraults",
+    "collection": {
+      "symbol": "piraults",
+      "name": "Piraults - Anne",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-piraults_pfp_1737904735549.png",
+      "chain": "btc",
+      "inscriptionIcon": "b4e5b5260764054e0fa133a26a7519ec78cbb0b4ee356dd983c167ea558cc4e0i0",
+      "description": "58 unique pieces of original physical mixed media artworks created by Anne Pirault. Each piece has varying rarities",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Pirault_Family",
+      "discordLink": "",
+      "websiteLink": "https://annepirault.com/",
+      "createdAt": "Sun, 26 Jan 2025 16:51:07 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "38hajWXXmK9b1FtmWUEqhxtAnHPh8TGfYt",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

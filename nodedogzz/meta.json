@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:11.344Z",
+  "slug": "nodedogzz",
+  "tokenCount": 9843,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "nodedogzz",
+    "collection": {
+      "symbol": "nodedogzz",
+      "name": "NodeDogzz 🟠",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-nodedogzz_pfp_1709500448134.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The first original 10k collection of NodeDogzz inscribed on bitcoin.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/nodedogzz",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 04 Mar 2024 17:35:37 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:19.280Z",
+  "slug": "omegarune",
+  "tokenCount": 282,
+  "defaults": {
+    "contentType": "text/html",
+    "contentBody": "PGhlYWQ+CiAgICAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSI+CiAgICAgPHRpdGxlPm9tZWdhIHJ1bmU8L3RpdGxlPgogICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iZGVhNjIyMzQwMWEwZTM4MmJjOWRhYjE3Yjk3YTQ2YTk5NzE1YTlkNWIzMWI5YTAzNjUxOWEzNWU4OWU4NTg5NWkwIj4KIDwvaGVhZD4KIDxib2R5PgogICAgIDxjYW52YXMgaWQ9ImNhbnZhcyI+PC9jYW52YXM+CiAgICAgPGgxIGNsYXNzPSJ0aXRsZSI+CiAgICAgICAgIDxkaXYgY2xhc3M9InRpdGxlc3ViIj4KICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRpdGxlYm94Ij4KICAgICAgICAgICAgICAgICA8aDYgY2xhc3M9InRleHQiID7hm5/hm5fhm5bhmrfhmqg8L2g2PgogICAgICAgICAgICAgICAgIDxpbWcgc3JjPSI5NDc4M2ViMGM2M2IzYTU5NDg2YWE2NmFkMGRkOTM2NDNhMGZjMDNhN2FlMzYzOTYwOTU0MzhmNzE1NDYyZmNhaTAiIGFsdD0iIj4KICAgICAgICAgICAgICAgICA8aDYgY2xhc3M9InRleHQiID7hmrHhmqLhmr7hm5bhm4o8L2g2PgogICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgIDwvZGl2PgogICAgIDwvaDE+CgogICAgPHNjcmlwdCBzcmM9ImEyMjk5MzY4ODJmYTI0Nzg2NTU3MmJjMGY0ZTA2MDFhYTcxNWZhNDcxYjZlN2IwYjVhNzM0NDFiY2U0OGEyYWZpMCI+PC9zY3JpcHQ+CiA8L2JvZHk+CiAKIA==",
+    "chain": "btc",
+    "collectionSymbol": "omegarune",
+    "collection": {
+      "symbol": "omegarune",
+      "name": "OmegaRune's Muninn Card ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-omegarune_pfp_1709829442418.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "omega runes card is a digital card representing a specfic amount of runes token which will be unlocked on the halving block.",
+      "supply": 300,
+      "twitterLink": "https://twitter.com/Omegarune100",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 07 Mar 2024 17:03:16 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:29.633Z",
+  "slug": "adderrels",
+  "tokenCount": 3408,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "adderrels",
+    "collection": {
+      "symbol": "adderrels",
+      "name": "Adderrels ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-adderrels_pfp_1751387637271.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Adderrels are the First ordinals-aware BRC 2.0 experiment",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://x.com/adderrels",
+      "discordLink": "https://discord.gg/QUktBXyPjg",
+      "websiteLink": "",
+      "createdAt": "Tue, 01 Jul 2025 18:29:34 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

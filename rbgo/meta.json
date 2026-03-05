@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:52.396Z",
+  "slug": "rbgo",
+  "tokenCount": 5231,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "rbgo",
+    "collection": {
+      "symbol": "rbgo",
+      "name": "RBGO RUNES",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-rbgo_pfp_1712941506801.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "RBGO Pre-Runes",
+      "supply": 5232,
+      "twitterLink": "https://twitter.com/RBGO_BTC",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 12 Apr 2024 17:46:26 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

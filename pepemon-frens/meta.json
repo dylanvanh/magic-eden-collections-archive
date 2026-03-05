@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:39.207Z",
+  "slug": "pepemon-frens",
+  "tokenCount": 11,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "pepemon-frens",
+    "collection": {
+      "symbol": "pepemon-frens",
+      "name": "Pepemon Frens",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pepemon-frens_pfp_1688380064869.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Frog the culture.",
+      "supply": 10,
+      "twitterLink": "https://twitter.com/counterfeitcvlt",
+      "discordLink": "https://discord.gg/counterfeit",
+      "websiteLink": "https://linktr.ee/counterfeitcvlt",
+      "createdAt": "Tue, 01 Aug 2023 00:38:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

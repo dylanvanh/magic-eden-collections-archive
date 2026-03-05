@@ -1,0 +1,46 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:06.604Z",
+  "slug": "naturalflows",
+  "tokenCount": 468,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "bcba44a3fbc2b3978ed71fa0869eddc024606d61a1c04640cb97b58804270beei0",
+    "collectionSymbol": "naturalflows",
+    "collection": {
+      "symbol": "naturalflows",
+      "name": "NaturalFlows by Joona",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-naturalflows_pfp_1709727149771.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "NaturalFlows is the debut generative art collection by Joona, melding nature's elegance with digital creativity. Inscribed on Block 9 450x Sats using Parent-Child Provenance.",
+      "supply": 468,
+      "twitterLink": "https://twitter.com/NFTJoona",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 07 Mar 2024 15:11:04 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

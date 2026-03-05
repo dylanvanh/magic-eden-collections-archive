@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:14.498Z",
+  "slug": "fine_pepes",
+  "tokenCount": 10048,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "fine_pepes",
+    "collection": {
+      "symbol": "fine_pepes",
+      "name": "Fine Pepes",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fine_pepes_pfp_1755637905900.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Decentralized movement of 500+ Fine Pepe's artists on Bitcoin 🐸",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://x.com/FinePepes",
+      "createdAt": "Tue, 19 Aug 2025 22:28:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

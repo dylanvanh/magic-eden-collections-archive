@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:39.263Z",
+  "slug": "chaos_unchained",
+  "tokenCount": 773,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "chaos_unchained",
+    "collection": {
+      "symbol": "chaos_unchained",
+      "name": "Chaos Unchained",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-chaos_unchained_pfp_1754213315679.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Chaos Unchained is an Ordinal aware experiment on BRC 2.0 consisting of 777 cute agents of Chaos! Every Chaos Unchained ordinal held grants token reward! Get ready for a chaotic ride filled with staking, tokens and more… Unleash the Chaos!",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/mTyVsWsfmd",
+      "websiteLink": "https://x.com/PixelDaddy_",
+      "createdAt": "Sun, 03 Aug 2025 10:52:13 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1ps03l6rzwvgjw9ygxnq04hsvppyvgagv39gs2qwhu46qad9pqsx3q6snvpy",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

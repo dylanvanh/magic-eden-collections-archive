@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:36.671Z",
+  "slug": "central-wankers-lagarde",
+  "tokenCount": 101,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "contentBody": "PHN2ZyB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48aW1hZ2UgaGVpZ2h0PSIxMDAlIiB3aWR0aD0iMTAwJSIgaHJlZj0iL2NvbnRlbnQvYmE1YzVjZTQ5YjBmNmI3ZDk2YzY5ZTIwYTNmZGNhYWEwNjYxZTY2NmM1NDE3MDVkN2VkNjZkMmY5YTBiY2Y5N2kwIi8+PC9zdmc+",
+    "chain": "btc",
+    "collectionSymbol": "central-wankers-lagarde",
+    "collection": {
+      "symbol": "central-wankers-lagarde",
+      "name": "Central Wankers: Lagarde",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-central-wankers-lagarde_pfp_1697570111235.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "ba5c5ce49b0f6b7d96c69e20a3fdcaaa0661e666c541705d7ed66d2f9a0bcf97i0",
+      "description": "Fear not, the president of the European Central Bank, Christine Lagarde is armed with a tactical bazooka to combat the financial crises, You are now safe from crushingly high inflation in the Eurozone. That is, if you simply forget about the time she was found guilty of criminal charges of negligence for misuse of public funds during her time as France’s finance minister. No big deal. It’s always reassuring to have an untrained economist serving as a world economic leader.",
+      "supply": 101,
+      "twitterLink": "https://twitter.com/SeizeCTRL",
+      "discordLink": "https://discord.gg/seizectrl",
+      "websiteLink": "https://www.seizectrl.io/",
+      "createdAt": "Tue, 17 Oct 2023 19:58:36 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

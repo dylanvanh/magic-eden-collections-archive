@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:12.507Z",
+  "slug": "bitcointrumps",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "bitcointrumps",
+    "collection": {
+      "symbol": "bitcointrumps",
+      "name": "Bitcoin Trumps",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcointrumps_pfp_1705956348696.png",
+      "chain": "btc",
+      "inscriptionIcon": "2a125c6b0b2ba6a8f72898d707c77c5d269ba485350bfc1bfc861add8347fc86i0",
+      "description": "First 10K Trump collection on #Bitcoin made with Ordinals 🇺🇸 🦅 No utility. No roadmap. Just Trumps. Make Bitcoin Great Again.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/BTCTrumps",
+      "discordLink": "https://discord.gg/8V4SA7ubUY",
+      "websiteLink": "https://bitcointrumps.com/",
+      "createdAt": "Mon, 22 Jan 2024 14:29:34 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

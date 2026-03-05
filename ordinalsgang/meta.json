@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:31.957Z",
+  "slug": "ordinalsgang",
+  "tokenCount": 21,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "genesisTransactionBlockTime": "Wed, 01 Feb 2023 12:27:27 GMT",
+    "genesisTransactionBlockHash": "0000000000000000000346bfb9268302c6fb78d4915f898bcec25cfd72c0361b",
+    "genesisTransactionBlockHeight": 774581,
+    "chain": "btc",
+    "collectionSymbol": "ordinalsgang",
+    "collection": {
+      "symbol": "ordinalsgang",
+      "name": "Ordinals Gang",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinalsgang.avif",
+      "chain": "btc",
+      "inscriptionIcon": "e622f4b54fe5dfd6a2d0394df38aa46d6bf2a024a50bb6d034562cc02832d829i0",
+      "description": "A funky cast of 21 original, deeply conflicted characters Inscribed on Bitcoin on Feb 1st, 2023 (inscriptions #558 - #578)",
+      "supply": 21,
+      "twitterLink": "https://twitter.com/ordinalsgang",
+      "discordLink": "https://discord.gg/r4bNMfNbJE",
+      "websiteLink": "",
+      "createdAt": "Tue, 16 May 2023 14:50:43 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

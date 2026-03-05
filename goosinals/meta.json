@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:27.011Z",
+  "slug": "goosinals",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "goosinals",
+    "collection": {
+      "symbol": "goosinals",
+      "name": "Goosinals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-goosinals_pfp_1696363718444.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A vibrant, low effort 10k PFP project using geese.",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/goosinals",
+      "discordLink": "",
+      "websiteLink": "https://goosegenerator.com/",
+      "createdAt": "Tue, 03 Oct 2023 19:10:56 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

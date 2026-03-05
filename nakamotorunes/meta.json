@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:04.606Z",
+  "slug": "nakamotorunes",
+  "tokenCount": 4401,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "nakamotorunes",
+    "collection": {
+      "symbol": "nakamotorunes",
+      "name": "Nakamoto Mystery Runes",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-nakamotorunes_pfp_1713397305993.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Nakamoto Mystery Runes is a culture coin on Bitcoin by the Nakamoto Whales community, unlocking 1/1 collectibles, on-chain music, and more mysteries.",
+      "supply": 5000,
+      "twitterLink": "https://twitter.com/nakamotorunes",
+      "discordLink": "https://discord.gg/thewhales",
+      "websiteLink": "",
+      "createdAt": "Wed, 17 Apr 2024 05:58:49 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3KcNFhsg7myX8ME4YKf4dvkvWYLnkNAeHk",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 14450,
+    "satBlockTime": "Thu, 14 May 2009 20:23:07 GMT",
+    "satributes": [
+      "Common",
+      "Nakamoto"
+    ],
+    "displayName": "NAKAMOTO RUNES"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

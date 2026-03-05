@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:27.485Z",
+  "slug": "btc-murica",
+  "tokenCount": 777,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "btc-murica",
+    "collection": {
+      "symbol": "btc-murica",
+      "name": "BTC Murica",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-btc-murica_pfp_1737570754838.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Make Murica Great Again!",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/btcordinal",
+      "discordLink": "https://discord.gg/ApQ9V9Udg5",
+      "websiteLink": "https://btcmachine.gg/",
+      "createdAt": "Wed, 22 Jan 2025 18:35:36 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcmn0l7w382ygvpehvtz57n2r75l5j7nyzkq54lf8zr3pm48y0aesh4pd96",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 43008,
+    "satBlockTime": "Sun, 28 Feb 2010 09:16:55 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

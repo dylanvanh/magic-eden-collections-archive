@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:39.916Z",
+  "slug": "spzbybits",
+  "tokenCount": 50,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "spzbybits",
+    "collection": {
+      "symbol": "spzbybits",
+      "name": "SpZjulien Bybits (Block 9)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-spzbybits_pfp_1689866848832.png",
+      "chain": "btc",
+      "inscriptionIcon": "a13f3805dc04d36fd582e125b1fc34dd457750de860732b114f18389cecca203i0",
+      "description": "Meet SpZjulien Bybits, here is 50 of Max 100 Bybits  !- SpZjulien creator of banksy superstar set 1 and set 2 creator of Ordirobots-all my collection here : http://linktr.ee/spzjulien -big thanks to OTO my best japanese artist friend all his work inspirate me (twitter @otograf_jp)",
+      "supply": 50,
+      "twitterLink": "https://twitter.com/SpZjulienNFT",
+      "discordLink": "https://discord.gg/qwbt42qcTg",
+      "websiteLink": "https://linktr.ee/spzjulien",
+      "createdAt": "Sat, 08 Jul 2023 05:17:41 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

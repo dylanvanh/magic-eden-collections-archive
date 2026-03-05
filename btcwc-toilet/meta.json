@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:32.784Z",
+  "slug": "btcwc-toilet",
+  "tokenCount": 6000,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "btcwc-toilet",
+    "collection": {
+      "symbol": "btcwc-toilet",
+      "name": "BTCWC.Toilet.OG",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-btcwc-toilet_pfp_1709420832628.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "everyday objects raised to the dignity of a work of art by the artist's act of choice.",
+      "supply": 6000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BTC_WC",
+      "discordLink": "https://discord.gg/pjg3rHKmpg",
+      "websiteLink": "https://www.ord.io/70291637",
+      "createdAt": "Tue, 27 Feb 2024 22:56:49 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p8quhrlvxp92ky0cgcg4v3f68yr5w695qs6dppn26k6hn53xnkqyq0jdu7z",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

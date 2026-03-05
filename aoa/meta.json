@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:31.816Z",
+  "slug": "aoa",
+  "tokenCount": 300,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "aoa",
+    "collection": {
+      "symbol": "aoa",
+      "name": "Alien Ordinal Artifacts: First Edition",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-aoa_pfp_1719959919534.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Alien Ordinal Artifacts - First Edition. Etched for eternity on Nakamoto’s chain. Forging the most formidable alien conspiracy collective Bitcoin has ever known.",
+      "supply": 300,
+      "twitterLink": "https://twitter.com/AlienOrdinals",
+      "discordLink": "https://discord.gg/qxWypebGM5",
+      "websiteLink": "",
+      "createdAt": "Tue, 02 Jul 2024 23:02:31 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

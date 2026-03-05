@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:44.031Z",
+  "slug": "the_odyssey",
+  "tokenCount": 999,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "the_odyssey",
+    "collection": {
+      "symbol": "the_odyssey",
+      "name": "The Odyssey",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-the_odyssey_pfp_1709817371265.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Introducing The Odyssey by the Yokai Avengers, the first fully on-chain graphic novel (Manga) in history. This innovative and exclusive collection is limited to a total supply of 999, with each book featuring a front and back cover and 38 pages of carefully crafted, high-quality art based on Odin’s Odyssey. The manga comes with five different covers and rarities inscribed on rare sats! This is not just a collection; it’s mixing high-quality art with tech innovation, adding to the Ordinals.",
+      "supply": 999,
+      "twitterLink": "https://twitter.com/YokaiAvengers",
+      "discordLink": "https://discord.gg/JCynMAMd5h",
+      "websiteLink": "https://yokaiavengers.com",
+      "createdAt": "Thu, 07 Mar 2024 14:07:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

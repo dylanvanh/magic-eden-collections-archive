@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:45.433Z",
+  "slug": "thordinals",
+  "tokenCount": 1151,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "thordinals",
+    "collection": {
+      "symbol": "thordinals",
+      "name": "THORdinals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-thordinals_pfp_1693681984922.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A community of seasoned crypto traders who collaborate seamlessly with a team of adept trading experts. Anchored by a exceptional development team, Cyber Frogs is a community dedicated to pushing the boundaries of trading knowledge and technological innovation. Join us to experience a convergence of expertise, camaraderie, and cutting-edge web3 technology.",
+      "supply": 1369,
+      "twitterLink": "https://twitter.com/CyberFrogsNFT",
+      "discordLink": "https://discord.gg/cyberfrogs",
+      "websiteLink": "https://cyberfrogs.io/",
+      "createdAt": "Mon, 04 Sep 2023 22:48:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

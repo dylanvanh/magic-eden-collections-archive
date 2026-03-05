@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:38.622Z",
+  "slug": "speed",
+  "tokenCount": 333,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "speed",
+    "collection": {
+      "symbol": "speed",
+      "name": "S.P.E.E.D. by Joe Ordinals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-speed_pfp_1737580725493.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Someone Please Erase Everything Drawn",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/JoeOrdinals",
+      "discordLink": "https://discord.gg/T5Vwez6huw",
+      "websiteLink": "",
+      "createdAt": "Wed, 22 Jan 2025 22:17:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

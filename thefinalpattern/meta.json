@@ -1,0 +1,48 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:45.142Z",
+  "slug": "thefinalpattern",
+  "tokenCount": 2023,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "thefinalpattern",
+    "collection": {
+      "symbol": "thefinalpattern",
+      "name": "The Final Pattern by Nullish",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/thefinalpattern.avif",
+      "chain": "btc",
+      "inscriptionIcon": "917348dd99b697cc45a2e3a0105e7c9a8d0a22e5d30110c344f3fcb8cee2a38ai0",
+      "description": "The last piece of the Uncommon Patterns collection will be sent to Satoshi's wallet as a burn action, and fractionalized into 2,025 individual pieces, each inscribed on sats from the historic block 78, which was the first block mined by Hal Finney on January 11th, 2009 and also the first ever block mined by someone other than Satoshi Nakamoto just 3 days after the first block.To maintain the integrity and exclusivity of the fractionalized edition, fractionalized-eligible sats are defined within the on-chain provenance of Uncommon Patterns to be within the sat range of 392052300000 to 392052302024.",
+      "supply": 2025,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/null_ish",
+      "discordLink": "https://discord.gg/rAQDwwXYbS",
+      "websiteLink": "https://uncommon.nullish.org/airdrop",
+      "createdAt": "Wed, 24 May 2023 15:28:27 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1ptl3atv5wefr8s36vvqlfxvhcr9h7g9ut2uu0rzutn6w9vw79vzqqewlt77",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 78,
+    "satBlockTime": "Sun, 11 Jan 2009 01:00:54 GMT",
+    "satributes": [
+      "Block 78",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

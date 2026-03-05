@@ -1,0 +1,49 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:24.557Z",
+  "slug": "1stbitcoinsent",
+  "tokenCount": 3018,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "1stbitcoinsent",
+    "collection": {
+      "symbol": "1stbitcoinsent",
+      "name": "1st Bitcoin Sent (Ordinal Inscriptions on Rare Historic First Sats)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-1stbitcoinsent_pfp_1726000340028.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The smallest units of Bitcoin are sats, short for satoshis. 1stBitcoinSent are all inscribed on the 1st Bitcoin Sent, sats from the 1st Bitcoin of the first peer-to-peer Bitcoin transaction on 12 January 2009 from Satoshi Nakamoto to Hal Finney. (Bitcoin Ordinal Inscriptions on Rare Historic First Sats)",
+      "supply": 10000000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/1stBitcoinSent",
+      "discordLink": "",
+      "websiteLink": "https://www.youtube.com/@1stBitcoinSent",
+      "createdAt": "Tue, 10 Sep 2024 21:29:20 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "3KfYyYCCSDHqf1SXooskReFkuyY29CdZFM",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

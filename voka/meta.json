@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:53.170Z",
+  "slug": "voka",
+  "tokenCount": 995,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "voka",
+    "collection": {
+      "symbol": "voka",
+      "name": "Canvas to Code by VOKA ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-voka_pfp_1690041501304.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Canvas to Code is VOKA´s first ever digital art collection which explores the potential of merging traditional art and technology. VOKA is an established fine artist based in central Europe and has been creating art for more than three decades. His pieces have been featured in Galleries and Exhibitions all around the world including Paris, New York and Miami.By buying and or selling one of VOKAs NFTs you agree to the following Terms and Conditions: https://www.canvastocode.art/legal/terms",
+      "supply": 995,
+      "twitterLink": "https://twitter.com/artbyvoka",
+      "discordLink": "https://discord.gg/yVJEQEpAMv",
+      "websiteLink": "http://www.voka.at/",
+      "createdAt": "Sat, 22 Jul 2023 16:11:04 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

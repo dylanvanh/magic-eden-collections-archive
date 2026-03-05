@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:28.967Z",
+  "slug": "abstraordinals",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "abstraordinals",
+    "collection": {
+      "symbol": "abstraordinals",
+      "name": "Abstraordinals",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/abstraordinals.avif",
+      "chain": "btc",
+      "inscriptionIcon": "17aa97b3bb7135eeaec9afb8e97e41c59accab0e3d523ba03b0100dec920670bi0",
+      "description": "A collection of 100 abstract pixel artworks inscribed on BTC blockchain exclusively on special sats.",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/mulan_art",
+      "discordLink": "https://discord.gg/DFSGhUrWj9",
+      "websiteLink": "https://mulan.art/gallery/abstraordinals",
+      "createdAt": "Tue, 30 May 2023 17:52:40 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

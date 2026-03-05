@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:37.874Z",
+  "slug": "snappy_cocos",
+  "tokenCount": 1111,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "snappy_cocos",
+    "collection": {
+      "symbol": "snappy_cocos",
+      "name": "Snappy Coco´s",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-snappy_cocos_pfp_1707827352980.png",
+      "chain": "btc",
+      "inscriptionIcon": "555114a3266b18569090ee9facfe90a0fa9f672bbc3361b52a37724d1cd0fabfi0",
+      "description": "Snap Snap !",
+      "supply": 1111,
+      "twitterLink": "https://twitter.com/SnappyCocos",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 13 Feb 2024 21:53:36 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

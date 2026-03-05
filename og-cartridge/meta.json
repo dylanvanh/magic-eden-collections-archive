@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:18.350Z",
+  "slug": "og-cartridge",
+  "tokenCount": 105,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "meta": {
+      "name": "OG Cartridge",
+      "attributes": [],
+      "high_res_img_url": ""
+    },
+    "collectionSymbol": "og-cartridge",
+    "collection": {
+      "symbol": "og-cartridge",
+      "name": "OG Cartridge",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/og-cartridge.avif",
+      "chain": "btc",
+      "inscriptionIcon": "69278c7b404e1ab25bcab35d2fc095cc146db62c9492417b0b33b74f371c4b15i0",
+      "description": "Bringing fun to ordinals one game at a time.",
+      "supply": 105,
+      "twitterLink": "https://twitter.com/OrdzGames",
+      "discordLink": "https://discord.gg/ordzgames",
+      "websiteLink": "https://www.ordz.games/",
+      "createdAt": "Thu, 23 Mar 2023 07:09:40 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "OG Cartridge"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:51.905Z",
+  "slug": "unnamed",
+  "tokenCount": 51,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "unnamed",
+    "collection": {
+      "symbol": "unnamed",
+      "name": "RuneX: UNNAMED GRAILS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-unnamed_pfp_1709675759066.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "UNNAMED: We move in silence.------------------------------------------------- RuneX is a working Runes exchange and the world's first project to create a pre-runes token mint on 11/7/23 -------- Each UNNAMED held grants you...  +30,882 RuneX tokens (Launch April - 21M total supply)",
+      "supply": 51,
+      "twitterLink": "https://twitter.com/RuneX_Tech",
+      "discordLink": "https://discord.gg/OfficialRuneX",
+      "websiteLink": "https://RuneX.Tech",
+      "createdAt": "Wed, 06 Mar 2024 21:08:50 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

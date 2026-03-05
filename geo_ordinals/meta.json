@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:22.398Z",
+  "slug": "geo_ordinals",
+  "tokenCount": 77,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "geo_ordinals",
+    "collection": {
+      "symbol": "geo_ordinals",
+      "name": "Geo Ordinals",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-geo_ordinals_pfp_1689497149693.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Geo Ordinals are a collection of 77 pieces, all of which are 1/1, pure craft that you want to hold on bitcoin. Geo Ordinals are going to inscribe on 🦋 Palindromes with care.",
+      "supply": 77,
+      "twitterLink": "https://twitter.com/Geoordinals",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 16 Jul 2023 09:33:56 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

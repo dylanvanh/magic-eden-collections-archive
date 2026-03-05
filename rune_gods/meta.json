@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:20.858Z",
+  "slug": "rune_gods",
+  "tokenCount": 9980,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "rune_gods",
+    "collection": {
+      "symbol": "rune_gods",
+      "name": "GODS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-rune_gods_pfp_1759662741836.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "GODS is the ordinals collection of the BRC2.0 $GODSfi token - the biggest GameFi & SocialFi token.",
+      "supply": 9980,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/brc_gods21",
+      "discordLink": "https://discord.gg/GreXbbMnZf",
+      "websiteLink": "https://godsfi.org/",
+      "createdAt": "Sat, 30 Mar 2024 14:40:37 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pc29lq6gfdmh8c0rr48kfwkflenexp9hhtypqa7nallhyj4z62gqq7jrl8v",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

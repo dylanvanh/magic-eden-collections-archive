@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:49.323Z",
+  "slug": "rats_and_mice_uprising",
+  "tokenCount": 119,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "rats_and_mice_uprising",
+    "collection": {
+      "symbol": "rats_and_mice_uprising",
+      "name": "Sick Bastards",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-rats_and_mice_uprising_pfp_1700901185367.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Get ready for  'SickBastards' - a collection 120 unique 1/1 pixel art pieces encapsulating a unique vibe in a 512x512 resolution. At just 5 KB, these mini digital canvases pack a punch, bursting with 8-bit nostalgia. Secure your slice of this pixel revolution.",
+      "supply": 119,
+      "twitterLink": "https://twitter.com/catalyxist",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 26 Nov 2023 03:47:41 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

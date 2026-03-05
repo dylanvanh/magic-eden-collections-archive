@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.248Z",
+  "slug": "ordinal-penguins",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ordinal-penguins",
+    "collection": {
+      "symbol": "ordinal-penguins",
+      "name": "Ordinal Penguins",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinal-penguins.avif",
+      "chain": "btc",
+      "inscriptionIcon": "cbda6f777157203f1eea8911fad24d25800c699bb0993cd6a0c2314969dbceb6i0",
+      "description": "100 Ordinal Penguins inscribed within #2725 to #3650 ordinal inscriptions. 📜 Inscribed on sats created in 2009.",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/OrdinalPenguins",
+      "discordLink": "https://discord.gg/ordinalpenguins",
+      "websiteLink": "",
+      "createdAt": "Mon, 20 Mar 2023 21:04:08 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

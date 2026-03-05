@@ -1,0 +1,46 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:32.643Z",
+  "slug": "ink",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "parentInscriptionId": "326c0005680c34cf0f5ff600289c04ad55acb488a61adf9a3aab05a8a72c5659i0",
+    "collectionSymbol": "ink",
+    "collection": {
+      "symbol": "ink",
+      "name": "INK",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ink.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "INK is immortalizing art and storytelling on the mother blockchain: Bitcoin. 10,000 characters are each engraved onto Casey Rodarmor's rare Legacy Sats - precursors to ordinals.",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://x.com/INKedBTC",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 26 Mar 2024 12:31:51 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qv2wslf3sskcmldpm68tkd3fn765wn79ju3c2hu43kdd724d4w4qst6fkjw",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 360323,
+    "satBlockTime": "Wed, 10 Jun 2015 16:02:29 GMT",
+    "satributes": [
+      "Common",
+      "Legacy"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

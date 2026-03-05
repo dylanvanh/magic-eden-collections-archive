@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:51.618Z",
+  "slug": "deadmonks",
+  "tokenCount": 1000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "8f47a6a526ae212251fd1fdd153a0ba073453913f03d08da13adcffd664a6836i0",
+    "collectionSymbol": "deadmonks",
+    "collection": {
+      "symbol": "deadmonks",
+      "name": "DEADMONKS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-deadmonks_pfp_1761916355679.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "You cannot kill what is already dead.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/RabbiGains",
+      "discordLink": "",
+      "websiteLink": "https://x.com/metablends",
+      "createdAt": "Fri, 31 Oct 2025 15:14:48 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

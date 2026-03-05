@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:19.406Z",
+  "slug": "bitmap",
+  "tokenCount": 10100,
+  "defaults": {
+    "chain": "btc",
+    "listed": true,
+    "listedMakerFeeBp": 50,
+    "listedForMint": false,
+    "collectionSymbol": "bitmap",
+    "collection": {
+      "symbol": "bitmap",
+      "name": "bitmap",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitmap.avif",
+      "chain": "btc",
+      "inscriptionIcon": "86539aff946c437af8088955827b7e6ff48fc6192836d4071b697b5359b7a732i0",
+      "description": "A New Standard for a Bitcoin Metaverse. It takes advantage of the nature of data's unique ability to be parsed from multiple angels. WARNING: this is EXPERIMENTAL indexing, please DYOR",
+      "supply": 793699,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://gitbook.bitmap.land/1-project/home",
+      "createdAt": "Sat, 10 Jun 2023 10:21:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:22.347Z",
+  "slug": "orbladies",
+  "tokenCount": 1529,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "orbladies",
+    "collection": {
+      "symbol": "orbladies",
+      "name": "Orb Ladies",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-orbladies_pfp_1753807548203.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "First Ladies coming on BRC 2.0 bringing chill vibes in space\nOrb Ladies will be powered by $LADIES token empowering the ecosystem.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://orbladies.xyz/",
+      "createdAt": "Tue, 29 Jul 2025 17:49:33 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pfshhw93zr5uhq0smsnk73tpcc7887k7ne4tw66knzwqml56qw8hs73mxmz",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

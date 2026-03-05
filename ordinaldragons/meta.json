@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:30.476Z",
+  "slug": "ordinaldragons",
+  "tokenCount": 396,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "ordinaldragons",
+    "collection": {
+      "symbol": "ordinaldragons",
+      "name": "Ordinal Dragons",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinaldragons.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "500 Pixelated Dragon Collection on Bitcoin. Your Access Key to the Dragon Sanctuary.",
+      "supply": 500,
+      "twitterLink": "https://twitter.com/DragonOrdinals",
+      "discordLink": "https://discord.gg/dragonsanctuary",
+      "websiteLink": "https://dragonsanctuary.xyz/",
+      "createdAt": "Sun, 21 May 2023 01:16:01 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

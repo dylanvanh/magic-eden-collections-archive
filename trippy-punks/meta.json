@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:48.276Z",
+  "slug": "trippy-punks",
+  "tokenCount": 114,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "trippy-punks",
+    "collection": {
+      "symbol": "trippy-punks",
+      "name": "Trippy Punks",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/trippy-punks.avif",
+      "chain": "btc",
+      "inscriptionIcon": "https://ordinals.com/inscription/0bc3a1bf35ceaeccec82ec8e5e889b2e1e782c0d6a5bfcc9f0f1d479efe62733i0",
+      "description": "Trippy Punks, dazed off on the Bitcoin blockchain. Created by BAYC holders, for everyone.",
+      "supply": 114,
+      "twitterLink": "https://twitter.com/OrdTrippyPunks",
+      "discordLink": "https://discord.gg/y7U2PugqJn",
+      "websiteLink": "",
+      "createdAt": "Mon, 24 Apr 2023 22:52:29 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

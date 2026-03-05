@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:07.057Z",
+  "slug": "early-birds",
+  "tokenCount": 5000,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "early-birds",
+    "collection": {
+      "symbol": "early-birds",
+      "name": "Early Birds BRC 2.0",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-early-birds_pfp_1752764860716.gif",
+      "chain": "btc",
+      "inscriptionIcon": "e094c0b7ce16b3df9fafbe68afa33055cbed88efedcccfaf63d886a52c3aa33ai0",
+      "description": "First BRC 2.0 Ordinals collection",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "http://chirpchirp.xyz/",
+      "createdAt": "Thu, 17 Jul 2025 19:38:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pqqc9p4202a3c7fsseya4vqh9xqp065a0u0xfspqkluas8j40faust0qqck",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

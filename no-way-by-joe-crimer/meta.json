@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:08.837Z",
+  "slug": "no-way-by-joe-crimer",
+  "tokenCount": 363,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "no-way-by-joe-crimer",
+    "collection": {
+      "symbol": "no-way-by-joe-crimer",
+      "name": "NO WAY! by Joe Crimer",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-no-way-by-joe-crimer_pfp_1769640222306.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "11 editions x 33 supply\n\nFine Art on Bitcoin? NO WAY!",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/circlej3rk",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 28 Jan 2026 22:57:50 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

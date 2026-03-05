@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:37.953Z",
+  "slug": "solitarynode",
+  "tokenCount": 13,
+  "defaults": {
+    "contentType": "text/html",
+    "contentBody": "CiAgICA8c2NyaXB0PgogICAgICAgIGltcG9ydCgiL2NvbnRlbnQvZDc5NWJhNmNmMmVhN2Q0ZWQ5YzE1OWU0OThiYTJjOWFkNDI5NWQ4ZWEyNTdmYjFlZTg4ZTkyNDRjMDE2YWRjMmkwIikKICAgICAgICAudGhlbihvYjEgPT4gb2IxLm9iMVNjcmliZSgiSDRzSUFIS21IMmNBQTVWV2JXL2pOZ3orSzEwL0ZGS2l1STdURkljNGFvSHJicmNCUWUrd0RpdXdvamdvTnRNWXRTVkRrdnV5SnY5OWxQeVc5REpzaHlLd1RGSWtIL0loM1VSSlk0K3UrUVFtYk1ISFljaHlQcDdHT2RpanBhcGtLdlFySzRXMldaS0Q0WGYzY1gyaEZWMmhqZVdUTVBRM0VsSDh4WkpxQ1RmWjM4RFAwWmwvS1FGU0hvUlJ2S3BrWWpNbGp3ellxaVQwTGRFZ0xGd0orU1FNZWM1a3FwNXZzOVN1V1gzK0ZiS0h0V1czbno1K1hsRFc1c01MOFlMR3ptenREU2h6Z2ZrNG1BNjZuS1ZhS0lVaDRwWFN4T1VHUEl4aDdqS0Y0WkMrMVNJdE1FeEIvcmo5OHUzcmI1VEpWdUJjdFRoWTFCMHBVNjFGRUU1WU1LWnhWNXVnck15YXZBbjVrTU1NV0pvWksyUUNNOG1Nd3o5VFc3cmRkZ1ZJdFhoMitIMHhnWSt4VnFkRkp0L0I2dktKMk5sT2JNbk9LZE45SnVHWUJlR1lNc3N6YVVrTGdVMG9qWmNpZVh6UXJpZ2tPZ3NwRThVeUEya1h6ai81Z0lJMDArQlRFbmt0eEZSWSt3dFpNR1VqOUl6MUJTM0lxQzN2QU5qdTJmZmRtYnUvTVF1cFo0TkFJb1VEZzZoV0d1OTdxdFNsZEFYQjBGNmZLSE5ZSC91Q0lpb0VaSEtrQ1JFc1JkOXNsZVU1d2FkVU4xYXJSMENicFhvaGZaUEtBNDN2KzVTRGZMRHJuZ1dTZDdvN3VJOWw0RnM0NURMd2pmTlFGQmREbDJpanBBTVp0QTNHUnFSREIvS1F6bktuY1d3Nm9CMEUwKzh4S3FhWjYzeVByWVc3aElkTTNxeEZpY0ozNE00OW1pZlFGbDdhL28vT0hHZis5WVhHSU5QYTI5WGl5ODJucG1yYmZjZlhCNGJGb2VtYXozYUhEdW4xZjR6UzFxZzNpSGJVdUdVa1BCK1YwK0JQWkNhbUF3d2JUKzg3ekJKVGsvTkZMRjFxOVFSSkxsVm1nTUJBTTRHL2RLRHBvSjdxZ2NYQkliVzZVUTNkbWtQVFlSU0dkQlJNNmNDWnhkbUtZTnR6ejBoSi9VTWhKQ2Z5L2UxRWFTdkNNNjZVSHVobUF4ZVREc3BtSS9hVllrK1p6czkzbGVuRmVWK0VKZTdGeDdqWktZZXFRYmN0a1MraWt4T0V0MCtYcHNEVGtEbUlPTCtWZm9MSno4UzBISkFNYy8vZzNOVDNjRGYweTZsZXZyK0R3V2xLY1V0cGYvcVBMZjJEKzFsRHZRTDdxSS93K2hVakdSL3kyQnoveEZGeWNuSjhVNTgyR3lPZUVHQi9vUVVGektGcG1LRDVjU00veHVtRHBrakRDS25aMVBFenFBS3Nmc1ZScy8wZ2FTU1Zubk1iNjU1VktTZklFWHBxL1E0d1hNK2p5M0NtTCt3b3VtdzlqNktaSGtYTlZ6SGhYWjhDVXkwSjNKbmgrSjdoNDU2eWJFZVphR1VNU1dwTklKVXVSSTRseHZaVkI2eXlQWk11NVJ4VHp1ZGN4WG1mY3NuelU4VUszbkMvWkV2dVlnU0pLbC9SKzNySHUwaFQwcjhWVlc1SnhoekRDeVRNTzBYRkhOMVJnVitVUXhmWFRPSWxFYmdWbENYdHh6RGtYRzgybW5ONzZaS1lMV2xUcDFkZnluYytFdmVsMlFYYVZEclprNjNqT2dxOFhIdHBFOHJ0bnFCNmF0NUtuSkR0VmlEcW9xd3MvQ0l3SmJkbDE1a0p2bWxjZktEQmxkZjk4L0d4V3ExQUc0S0w0enNMUjlGT1Q3Zi9BRk94VStrc0NRQUEiKSk7CiAgICA8L3NjcmlwdD4K",
+    "chain": "btc",
+    "collectionSymbol": "solitarynode",
+    "collection": {
+      "symbol": "solitarynode",
+      "name": "Solitary Node By 423Hugo",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-solitarynode_pfp_1730659532703.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Since then, my fate has been bound to a solitary node. Each time I contemplate it, it shifts into new forms, as if calling out—perhaps to another solitary node, waiting somewhere distant for a silent response.",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/423_hugo",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 03 Nov 2024 19:04:45 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pgauqz29s8yxdyx4v87kvkwgxvx6jzutxzpjcjfw7x26mtg7clccsv968ya",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

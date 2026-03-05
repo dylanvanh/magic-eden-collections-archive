@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:34.637Z",
+  "slug": "save-the-jpegs",
+  "tokenCount": 1000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "genesisTransaction": "9dc404fc3c74ee4ceeac58acbec00e7468dff05371a9d9e0befb1f274a592983",
+    "genesisTransactionBlockTime": "Mon, 01 Apr 2024 21:43:37 GMT",
+    "genesisTransactionBlockHash": "000000000000000000008dd94ec1bbcae0eb74a575864a4077be9983e2177262",
+    "genesisTransactionBlockHeight": 837298,
+    "chain": "btc",
+    "collectionSymbol": "save-the-jpegs",
+    "collection": {
+      "symbol": "save-the-jpegs",
+      "name": "SAVE THE JPEGS by Lyndoco",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-save-the-jpegs_pfp_1712085756702.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "SAVE THE JPEGS.RUN BITCOIN.",
+      "supply": 1000,
+      "twitterLink": "https://twitter.com/lyndoco",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 01 Apr 2024 22:10:14 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

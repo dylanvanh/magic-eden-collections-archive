@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:42.582Z",
+  "slug": "classifiedcartelcc",
+  "tokenCount": 201,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "classifiedcartelcc",
+    "collection": {
+      "symbol": "classifiedcartelcc",
+      "name": "CLASSIFIED (CC)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-classifiedcartelcc_pfp_1748149533708.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "CLASSIFIED (CC) is the first art collection inscribed on Black Sats by Black, the creator of Black Sats. CLASSIFIED (CC) artwork directly descends from the first Black Sats inscribed using a parent-child relationship, tying its lineage directly to the beginning of the creation of Black Sats. CLASSIFIED (CC) notably acquired the oldest Black Rare Sat in history and inscribed the first 2009 Black Sats using Ghostmarking—a novel method developed by CLASSIFIED (CC) that establishes on-chain provenance with a Rare Sat without directly inscribing on it. The artwork was prominently featured twice at Sotheby's for its contributions to the Bitcoin Ordinals ecosystem.",
+      "supply": 201,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/CLASSIFIEDBTC",
+      "discordLink": "https://discord.gg/mDkPDhvNwW",
+      "websiteLink": "https://classifiedbtc.com/",
+      "createdAt": "Wed, 08 Nov 2023 02:29:41 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3HWbwEjG5oYf82TDegkzZA6AaHhTykowab",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

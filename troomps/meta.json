@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:48.320Z",
+  "slug": "troomps",
+  "tokenCount": 713,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "troomps",
+    "collection": {
+      "symbol": "troomps",
+      "name": "troomps",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-troomps_pfp_1721860040550.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "make ordinals great again",
+      "supply": 713,
+      "twitterLink": "https://twitter.com/yugetoshi",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 24 Jul 2024 22:42:14 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "36F5xmH2YJ788WNJguuQq3mc6AGDYwCatE",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

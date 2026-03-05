@@ -1,0 +1,53 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:53.355Z",
+  "slug": "monoliths",
+  "tokenCount": 333,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIvY29udGVudC9lNzQ0ZjA1ZGY2NDViZWFkMWQzOWQxMDY0YmYwMGQ1Mzk5NjUyMmNmOGE4ZjVlNTI4NzhlZjI2NzUyYmZmNjM0aTAiPgo8c2NyaXB0IHNyYz0iL2NvbnRlbnQvNzU5NDMxZjMwYzJhMWY5NWVhNDBkMzcxYjUzOTc1ZmRiZWM3MjhkOTE2MjcwNjk1Y2FiMjQ2MWRlMTE3N2UxY2kwIj48L3NjcmlwdD4=",
+    "chain": "btc",
+    "parentInscriptionId": "fc5807e82fae45211680cb3061d505f5db4864de7e66b3f525c844f8ab5fd1c1i0",
+    "collectionSymbol": "monoliths",
+    "collection": {
+      "symbol": "monoliths",
+      "name": "Monoliths by OTO",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-monoliths_pfp_1707816454861.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Evolving, changing, and eventually fading over approximately 120 years, this work symbolizes the permanence and transition within the digital world. / Block 9 450x / Parent:Child / Matching Sat numbers / Recursive Endpoints / Inscription ID as the seed / Interactive generative art / Evolves with block generation",
+      "supply": 333,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/otograf_jp",
+      "discordLink": "https://discord.gg/Z9MyjqgvHP",
+      "websiteLink": "https://linktr.ee/ordinalmimi",
+      "createdAt": "Tue, 13 Feb 2024 09:50:41 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "336i9yrjqBkt9y8DBUAvL8JcR7UeoMph5t",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

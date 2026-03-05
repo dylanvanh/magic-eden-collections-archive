@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:52.446Z",
+  "slug": "missingpieces",
+  "tokenCount": 160,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "parentInscriptionId": "b73670cea91da58d8e9af246ac28c0bf5f78fb269ddc8a70bbe00936721d0879i0",
+    "outputValue": 330,
+    "collectionSymbol": "missingpieces",
+    "collection": {
+      "symbol": "missingpieces",
+      "name": "The Missing Pieces - J.O.E",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-missingpieces_pfp_1769910280908.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "From the series of original J.O.E. The elite of all market crusher and survivors. Proudly present, The Missing Pieces by the artist sxulR.\n\nJ.O.E (JOYS OF ELITE) born as a vibes, a culture of crypto dooms survivor. The OG, diamond handed,\nred green market viewer, willing to loss but not giving up. The proud spirits of grandpa teach them well. \n\nand the journey continue . . .",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/sxulrcat",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 01 Feb 2026 02:03:03 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:11.615Z",
+  "slug": "bitcoinrugs",
+  "tokenCount": 1726,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoinrugs",
+    "collection": {
+      "symbol": "bitcoinrugs",
+      "name": "Bitcoin Rugs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoinrugs_pfp_1689336155536.png",
+      "chain": "btc",
+      "inscriptionIcon": "5449e7dc45f54876c31c8b5a8866ea699c1acd63585aac771ffba1b0ee45d0b1i0",
+      "description": "BitcoinRugs gives you access to the first ever staking, with BRC-20 as rewards. Rewards will give you access to limited collections every single month.",
+      "supply": 1726,
+      "twitterLink": "https://twitter.com/BitcoinRug",
+      "discordLink": "https://discord.gg/TEnZD5nUGG",
+      "websiteLink": "https://www.bitcoinrugs.xyz",
+      "createdAt": "Fri, 14 Jul 2023 15:01:07 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

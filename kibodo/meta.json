@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:40.301Z",
+  "slug": "kibodo",
+  "tokenCount": 686,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "351f3ab683cb148034422f5888f9611adff42c100d381d56a183687cfeb3574fi0",
+    "collectionSymbol": "kibodo",
+    "collection": {
+      "symbol": "kibodo",
+      "name": "Kibodo Kitty Club キーボード",
+      "imageURI": "https://nftstorage.link/ipfs/bafkreiemwl2wzwqbh3f4xasg6gssgjtvg3bu3cmjnks5eyxlkhkgey7fma",
+      "chain": "btc",
+      "inscriptionIcon": "12345",
+      "description": "Fully onchain animated Ordinals chonkers, jammin' out to the Bitcoin halvening and OP_CAT! キーボードキティクラブ",
+      "supply": 686,
+      "twitterLink": "https://twitter.com/dailofrog",
+      "discordLink": "https://discord.gg/KBAbk2a4PM",
+      "websiteLink": "https://kibodokitty.club/",
+      "createdAt": "Fri, 12 Apr 2024 07:34:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3K7KYsm6BGUeZY7hyiP7wHSY7oLcMHMzdf",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

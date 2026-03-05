@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:27.383Z",
+  "slug": "grifters",
+  "tokenCount": 666,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "59a0705230f8a6ad184a139d928dd49919a1610b6aa1e20b3a834e56e91d12cbi0",
+    "collectionSymbol": "grifters",
+    "collection": {
+      "symbol": "grifters",
+      "name": "Grifters",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-grifters_pfp_1738620781623.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "59a0705230f8a6ad184a139d928dd49919a1610b6aa1e20b3a834e56e91d12cbi0",
+      "description": "Grifters are gonna grift",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/GriftersBTC",
+      "discordLink": "https://discord.gg/EqrVrpVH",
+      "websiteLink": "",
+      "createdAt": "Fri, 21 Mar 2025 08:01:28 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

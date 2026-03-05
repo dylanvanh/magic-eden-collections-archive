@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:50.347Z",
+  "slug": "dabl",
+  "tokenCount": 5070,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "dabl",
+    "collection": {
+      "symbol": "dabl",
+      "name": "Don't Avoid Bright Lights",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dabl_pfp_1754810153181.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "103 Artists submitted their take on a single piece of art by TheArtistBTC to create something greater than the sum of its parts\n\nthe biggest collaboration in ordinals DABL",
+      "supply": 5069,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/TheArtistBTC",
+      "discordLink": "",
+      "websiteLink": "https://www.lunatics.space/bright-lights/",
+      "createdAt": "Wed, 11 Jun 2025 04:57:34 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pnk0e09ej6p37aftvvnlauvjq6u8u3ey7qlvpjcmrqkvqy5cnjqqskf8ey6",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

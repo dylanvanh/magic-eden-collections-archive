@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:47.622Z",
+  "slug": "bitboy_one_genesis",
+  "tokenCount": 1000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "8122cbbe09e5142049105881a40bcf1643e4a74e04158a5643aad54ab5d1aec1i0",
+    "collectionSymbol": "bitboy_one_genesis",
+    "collection": {
+      "symbol": "bitboy_one_genesis",
+      "name": "BitBoy One Genesis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitboy_one_genesis_pfp_1713755589859.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "BitBoy One Genesis is a fully playable 3D inscription etched onto the BTC blockchain, each corresponding to a physical BitBoy One console, serving as your VIP pass to the New Era of Bitcoin Gaming.",
+      "supply": 1000,
+      "twitterLink": "https://twitter.com/BitboyOne",
+      "discordLink": "https://discord.gg/F6nQV7tF3t",
+      "websiteLink": "https://www.bitboy.games/",
+      "createdAt": "Mon, 22 Apr 2024 03:12:07 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

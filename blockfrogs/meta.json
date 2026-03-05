@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:22.504Z",
+  "slug": "blockfrogs",
+  "tokenCount": 3605,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "blockfrogs",
+    "collection": {
+      "symbol": "blockfrogs",
+      "name": "blockFrogs",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/blockfrogs.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A 3D voxel frog, born from pure code and inscribed forever on Bitcoin Ordinals.\n\nNo static PFPs. No off-chain dependencies.\n\nJust a frog, scripted to exist, evolving in real time.",
+      "supply": 555,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/block_frogs",
+      "discordLink": "",
+      "websiteLink": "https://blockfrogs.xyz",
+      "createdAt": "Wed, 05 Mar 2025 22:57:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pqq58a2jcshayv9zgp5ggk4c67w9r7y240a2xuq4lu8j6gucqt5kqryl24l",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:27.244Z",
+  "slug": "goosinals_",
+  "tokenCount": 1217,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "goosinals_",
+    "collection": {
+      "symbol": "goosinals_",
+      "name": "-Goosinals (Cursed Goosinals)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord--goosinals_pfp_1704489661582.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A vibrant, low effort  PFP project using parent-child provenance to create cursed geese. DISCLAIMER: CURSED INSCRIPTIONS REMAIN DELICATE AND NECESSITATE CAREFUL MANAGEMENT. STORE YOUR CURSED INSCRIPTIONS IN WALLETS COMPATIBLE WITH THEM, SUCH AS XVERSE, OR IN NEW WALLETS DESIGNATED SOLELY FOR THESE INSCRIPTIONS, WHICH YOU SHOULD AVOID USING FOR OTHER TRANSACTIONS. BE AWARE THAT CURSED INSCRIPTIONS MAY BE INADVERTENTLY SPENT IN WALLETS THAT DO NOT SUPPORT THEM.",
+      "supply": 1214,
+      "twitterLink": "https://twitter.com/goosinals",
+      "discordLink": "https://discord.gg/N8CQqvUJsj",
+      "websiteLink": "",
+      "createdAt": "Mon, 08 Jan 2024 05:46:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

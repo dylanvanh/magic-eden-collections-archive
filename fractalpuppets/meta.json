@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:16.715Z",
+  "slug": "fractalpuppets",
+  "tokenCount": 3333,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "fractalpuppets",
+    "collection": {
+      "symbol": "fractalpuppets",
+      "name": "Fractal Puppets",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fractalpuppets_pfp_1726072463015.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Fractal Puppets are arriving on Ordinals to conquer the Fractal Bitcoin ecosystem. These unique puppets embody the essence of the Fractal universe, bringing their distinct personalities and powers to the blockchain.",
+      "supply": 3333,
+      "twitterLink": "https://twitter.com/fractalpuppets",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 11 Sep 2024 17:26:47 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:54.548Z",
+  "slug": "wizardio",
+  "tokenCount": 3333,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "wizardio",
+    "collection": {
+      "symbol": "wizardio",
+      "name": "Wizardio",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-wizardio_pfp_1750471198419.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "3333 cultists of the Wizardio Bitcoin Alliance, microwaved into enlightenment.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/wizardio_btc",
+      "discordLink": "https://discord.gg/P8YWjjM3Q5",
+      "websiteLink": "https://wizardio.wtf/",
+      "createdAt": "Sat, 21 Jun 2025 02:02:24 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q3aaevr6c0w039sp5v0detw0dv5sv9adkgpdt4q",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

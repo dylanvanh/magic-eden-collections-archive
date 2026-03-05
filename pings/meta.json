@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:40.373Z",
+  "slug": "pings",
+  "tokenCount": 391,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "pings",
+    "collection": {
+      "symbol": "pings",
+      "name": "Pings by Skies",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pings_pfp_1745489782821.png",
+      "chain": "btc",
+      "inscriptionIcon": "4fa91910f9d582070fec00db9d0562bf9d950efc28f2a0952adf0868eabb05dei0",
+      "description": "-= Living Generative Art from BlockMachine =- /// One of the very first Sub 100k generative art collections on Ordinals /// All outputs inscribed on a single sat at inscription #75,705 ///  State I : Pure Form /// State II : Generative Framed Form /// Holders have the ability to switch between forms /// (NB: Thumbnails displaying blank frames are off-chain screenshots created by Magic Eden)",
+      "supply": 400,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BlockGenerative",
+      "discordLink": "https://discord.gg/bzxWudvkQK",
+      "websiteLink": "https://medium.com/@blockgenerative/eternal-pings-the-resilient-spirits-202d57ae6ad9",
+      "createdAt": "Sun, 24 Mar 2024 23:22:40 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3GuhAH2jHs7ZGtA4puaSmRdpqaZNy48pvv",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

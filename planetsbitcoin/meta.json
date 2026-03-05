@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:42.516Z",
+  "slug": "planetsbitcoin",
+  "tokenCount": 2100,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "f93f72131d9f90d11428f23dabb23e489b6a5d4989f6eff19bef879cdc3154b8i0",
+    "collectionSymbol": "planetsbitcoin",
+    "collection": {
+      "symbol": "planetsbitcoin",
+      "name": "Planets",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-planetsbitcoin_pfp_1757602839214.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Your own unique Planet in the Ordinals galaxy. Planets can see each other and experience what is happening in the galaxy together.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/pcMRttadJQ",
+      "websiteLink": "https://planetsbitcoin.com",
+      "createdAt": "Fri, 02 May 2025 13:24:28 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 628882,
+    "satBlockTime": "Mon, 04 May 2020 10:58:16 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

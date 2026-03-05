@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:37.820Z",
+  "slug": "pastel-noir",
+  "tokenCount": 187,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "pastel-noir",
+    "collection": {
+      "symbol": "pastel-noir",
+      "name": "Pastel Noir",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pastel-noir_pfp_1697226265453.png",
+      "chain": "btc",
+      "inscriptionIcon": "9307ad4f0c8869737686875f2db71cfc63d37e9fea923b9ef1b17c82a1280303i0",
+      "description": "Pastel Noir invites viewers to explore the Silk Road marketplace's pivotal role in Bitcoin's history. Through Boozy's vibrant and colorful cartoons, the collection navigates the intersection of innocence and illicit dealings, offering profound commentary on societal dynamics. Honoring Silk Road's founder, Ross Ulbricht, the series encourages reflection on the blurred lines between crime and activism, influenced by his contentious incarceration. It highlights the marketplace's significance in Bitcoin's early adoption, prompting reflections on their collective impact on modern society. Each piece is inscribed onto Silk Road-themed sats, reinforcing Boozy's artistic take on the Silk Road narrative.",
+      "supply": 118,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/counterfeitcvlt",
+      "discordLink": "",
+      "websiteLink": "https://linktr.ee/counterfeitsats",
+      "createdAt": "Fri, 13 Oct 2023 19:54:59 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

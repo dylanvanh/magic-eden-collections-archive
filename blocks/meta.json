@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:22.692Z",
+  "slug": "blocks",
+  "tokenCount": 208,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "blocks",
+    "collection": {
+      "symbol": "blocks",
+      "name": "BLOCKS OF BITCOIN",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-blocks_pfp_1719790064137.gif",
+      "chain": "btc",
+      "inscriptionIcon": "0e039f7a2cb2a348fd1506f79f690276d8ab18eb22a7b513a4b8457be5574d34i11",
+      "description": "A timeless fusion of Art & Technology, Blocks of Bitcoin transforms raw live blockchain transaction data into 3D on-chain generative art.  This is the ART OF BITCOIN, not just inscribed on Bitcoin, but Art created and dynamically rendered from Bitcoin. Each block reflects a unique moment in Bitcoin’s timeline as a global ledger & technological marvel. The Blocks of Bitcoin are immutably inscribed to combine permanence, decentralized technology, and generative artistic innovation, with digital ownership.",
+      "supply": 1000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BlocksOfBitcoin",
+      "discordLink": "https://discord.gg/Y7AwD7tpS9",
+      "websiteLink": "https://www.blocksofbitcoin.xyz/",
+      "createdAt": "Mon, 01 Jul 2024 00:22:19 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1ph77zhhpypz9gvdgwzz8vrfnuvyfl64zttftg26n8mpdk86mtuczsuzlxvl",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

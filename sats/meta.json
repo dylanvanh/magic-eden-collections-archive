@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:34.585Z",
+  "slug": "sats",
+  "tokenCount": 99,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "sats",
+    "collection": {
+      "symbol": "sats",
+      "name": "SATS by Harto x Vivid Gallery",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-sats_pfp_1714978244632.png",
+      "chain": "btc",
+      "inscriptionIcon": "6e83c7dd560483df724b92a2f4b302d265e1ebd1aa054c83a159f462a8128c8fi0",
+      "description": "SATS represent the exploration of color and geometry in its minimal expression inspired by architectural brutalism and street art photography. Art by Harto curated by Vivid Gallery.Join our Discord server and verify your SATS to get privileges on future collections and not miss any information in addition to enjoying direct contact with the artist.",
+      "supply": 99,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/vivid_ordinals",
+      "discordLink": "https://discord.gg/dGzMHhmavc",
+      "websiteLink": "https://www.vivid.gallery/generative/sats?utm_source=magiceden",
+      "createdAt": "Thu, 25 May 2023 19:02:45 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1qusegqldjmut39x529qcntstl4kdg4q92kr4usck90dq020hudctqqg685u",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

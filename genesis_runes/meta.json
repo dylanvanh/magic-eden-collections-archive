@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:22.278Z",
+  "slug": "genesis_runes",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHNjcmlwdCBzcmM9Ii9jb250ZW50Lzg5MzI5NGQzOGRlODE4NzhhYjIzNTUxMGFhYTQxZDhiMmJhNTM2M2EyOTIxZmQ5MzJiYzc1Mzg4NjlhMGZiNGJpMCI+PC9zY3JpcHQ+Cg==",
+    "chain": "btc",
+    "collectionSymbol": "genesis_runes",
+    "collection": {
+      "symbol": "genesis_runes",
+      "name": "Genesis Runes Miner",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-genesis_runes_pfp_1707772485412.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "ᛃᛟᛁᚾ ᚦᛖ ᛃᛟᚢᚱᚾᛖᛁ",
+      "supply": 22919,
+      "twitterLink": "https://twitter.com/genesis_runes",
+      "discordLink": "https://discord.gg/dhZT8tD8BZ",
+      "websiteLink": "https://x.com/genesis_runes",
+      "createdAt": "Tue, 13 Feb 2024 09:25:01 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

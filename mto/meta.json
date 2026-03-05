@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:56.178Z",
+  "slug": "mto",
+  "tokenCount": 44,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "mto",
+    "collection": {
+      "symbol": "mto",
+      "name": "Colorful 1/1s by MTO",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-mto_pfp_1762767937014.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Colorful 1/1 art by MTO.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Emilmto",
+      "discordLink": "",
+      "websiteLink": "https://x.com/Emilmto",
+      "createdAt": "Sun, 06 Oct 2024 14:47:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "34FoQAxHNCedjktik3ZNXwrCNJ2h87DGR3",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

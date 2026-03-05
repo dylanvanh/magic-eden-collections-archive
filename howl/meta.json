@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:29.512Z",
+  "slug": "howl",
+  "tokenCount": 3303,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "howl",
+    "collection": {
+      "symbol": "howl",
+      "name": "Howlin Wolf",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-howl_pfp_1764889144318.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Howlin Wolf, a collection by Lunatics drawn by Josh Rowan distributed as a free claim to Lunatic Holders",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/TheArtistBTC",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 07 Nov 2025 00:18:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qjhn3wvzwpygmpxkqwkuzpkh6m7exnmwu093wkr",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

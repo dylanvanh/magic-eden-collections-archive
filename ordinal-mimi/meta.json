@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.213Z",
+  "slug": "ordinal-mimi",
+  "tokenCount": 333,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "ordinal-mimi",
+    "collection": {
+      "symbol": "ordinal-mimi",
+      "name": "Ordinal MIMI by OTO",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinal-mimi.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Ordinal MIMI is OTO’s genesis collection of 333 original 1/1 minimal artworks, each permanently inscribed on the Bitcoin blockchain.",
+      "supply": 333,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/otograf_jp",
+      "discordLink": "https://discord.gg/Z9MyjqgvHP",
+      "websiteLink": "https://linktr.ee/ordinalmimi",
+      "createdAt": "Wed, 29 Mar 2023 05:37:05 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "336i9yrjqBkt9y8DBUAvL8JcR7UeoMph5t",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

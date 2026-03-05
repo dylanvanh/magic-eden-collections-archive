@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:27.497Z",
+  "slug": "btc-mutant-machine",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "btc-mutant-machine",
+    "collection": {
+      "symbol": "btc-mutant-machine",
+      "name": "BTC Mutant Machine",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/btc-mutant-machine.avif",
+      "chain": "btc",
+      "inscriptionIcon": "68f1a88916b7395f6250ad80e99f5b8cfc89047d8767e4732ba662e300b8a635i0",
+      "description": "MUTANT MACHINES is an ULTRA exclusive collection. The only way to acquire a MM is if we give it to you or through exclusive BTC MACHINE auctions and MINTS.\"Once the MACHINE is infected by a VIRUS and OPERATOR gets kicked out, MACHINES become bizzare creatures, mutants\"",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/btcordinal",
+      "discordLink": "https://discord.gg/btcmachine",
+      "websiteLink": "https://www.satoria.world/",
+      "createdAt": "Thu, 23 Mar 2023 07:17:51 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcmn0l7w382ygvpehvtz57n2r75l5j7nyzkq54lf8zr3pm48y0aesh4pd96",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

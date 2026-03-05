@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:16.450Z",
+  "slug": "ocd",
+  "tokenCount": 333,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "ocd",
+    "collection": {
+      "symbol": "ocd",
+      "name": "OnChain DROIDZ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ocd_pfp_1726093216196.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The little DROIDZ are up to mischief on the Bitcoin blockchain. Catch them all!",
+      "supply": 333,
+      "twitterLink": "https://twitter.com/Sledgeh8mmer11",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 05 Sep 2024 20:51:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

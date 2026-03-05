@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:01.524Z",
+  "slug": "bitcoin_xiuxian_og",
+  "tokenCount": 777,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin_xiuxian_og",
+    "collection": {
+      "symbol": "bitcoin_xiuxian_og",
+      "name": "Bitcoin XiuXian OG",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoin_xiuxian_og_pfp_1728067084109.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The world's first native Eastern culture art PFP Ordinals NFT collection on the mother chain.Make XiuXian Great Again On MotherChain!Created by XianDAO.",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/MarkMeng15",
+      "discordLink": "https://discord.gg/fwWwra6AZ8",
+      "websiteLink": "http://graphmultiverse.io/",
+      "createdAt": "Fri, 04 Oct 2024 19:11:35 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pt9dq2m2a3d9ja28xv2crufeknz3zr407zukpkprn5et6aczgnqzqee9ae8",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

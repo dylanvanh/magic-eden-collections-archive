@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:28.866Z",
+  "slug": "honey_badgers",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "honey_badgers",
+    "collection": {
+      "symbol": "honey_badgers",
+      "name": "Honey Badgers",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/honey_badgers.avif",
+      "chain": "btc",
+      "inscriptionIcon": "217a3ad7777616e97f805f24d1063aa4cf8b9b37b5e7f82c75834ae3329080f0i0",
+      "description": "An OG 10k ordinals collection. All metadata lives on chain. Ethos, Vibes, Art",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/HoneyBadgersBtc",
+      "discordLink": "https://discord.gg/honeybadgers",
+      "websiteLink": "https://honeybadgers.btcmint.app/",
+      "createdAt": "Sun, 26 Mar 2023 08:51:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

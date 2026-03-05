@@ -1,0 +1,54 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:48.714Z",
+  "slug": "quantum_threads",
+  "tokenCount": 92,
+  "defaults": {
+    "contentType": "text/html",
+    "genesisTransaction": "9c6b30b6e4bbba23e7cde39f70b3cd96b888ebf55d4206c08d863fd77723cd11",
+    "genesisTransactionBlockTime": "Mon, 23 Jun 2025 17:44:49 GMT",
+    "genesisTransactionBlockHash": "00000000000000000000cf6f7033fe5be18c94291d39a50a784e657c551fecb1",
+    "genesisTransactionBlockHeight": 902444,
+    "chain": "btc",
+    "parentInscriptionId": "1ad741f33fff1966b4ce3e2c9d0050d164b5b5212d6986aaa30017b35c97e79di0",
+    "collectionSymbol": "quantum_threads",
+    "collection": {
+      "symbol": "quantum_threads",
+      "name": "Quantum Threads by Theezy",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-quantum_threads_pfp_1750642337971.png",
+      "chain": "btc",
+      "inscriptionIcon": "f55f30119426d57b56ffa3f5bbcbec8945e879f70cfe5b8fa1a45ed7658ea302i0",
+      "description": "Arising from a fascination with the paradoxes of quantum mechanics, “Quantum Threads” is a playful exploration of strange quantum concepts such as superposition, entanglement, and wave-particle duality. Each box flows and glitches as blocktime increases, with a quantum chip inside that creates unique interference patterns for every block. The boxes distort based on time since the prior block, mempool congestion, and more creating a visual dance of quantum noise creeping in.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/wEvppZRq",
+      "websiteLink": "https://theezy.org/",
+      "createdAt": "Mon, 23 Jun 2025 01:22:33 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1plkz0m9czrvwwzj34ag8xzwl0yr35kc5w4ewuhwquyvl6s523tsvs8ju3vz",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

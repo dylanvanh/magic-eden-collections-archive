@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:22.633Z",
+  "slug": "blockheadz",
+  "tokenCount": 1047,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "blockheadz",
+    "collection": {
+      "symbol": "blockheadz",
+      "name": "BlockHeadz",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-blockheadz_pfp_1710470388141.png",
+      "chain": "btc",
+      "inscriptionIcon": "47a69220088ee73cd51a79237fa56227ddcfdb6a86956a5692cc268bbadaf483i0",
+      "description": "BlockHeadz, the genesis NFT collection of B² Network, symbolizes the dawn of our journey to scale Bitcoin. These diverse figurines will accompany and empower us throughout this epic journey.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/BSquaredNetwork",
+      "discordLink": "https://discord.gg/bsquarednetwork",
+      "websiteLink": "https://www.bsquared.network/",
+      "createdAt": "Fri, 15 Mar 2024 03:41:49 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

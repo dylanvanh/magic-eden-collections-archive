@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:42.848Z",
+  "slug": "clay-pepes",
+  "tokenCount": 2998,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "clay-pepes",
+    "collection": {
+      "symbol": "clay-pepes",
+      "name": "Clay Pepes by Brrrbon",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/clay-pepes.avif",
+      "chain": "btc",
+      "inscriptionIcon": "8cc6aa14229f1e68c572ec3ba3cb983346f8cd84190769c92851943869c39897i0",
+      "description": "Clay Pepes, a 3K collab collection by Clay Collective x OrdinalsWallet, features 1563 identical twins replicated from the highly popular Pixel Pepes airdrop by OrdinalsWallet. Each trait is handcrafted using clay, photographed, and then algorithmically assembled.",
+      "supply": 3000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ClayCollective_",
+      "discordLink": "https://discord.gg/baS56CqsHW",
+      "websiteLink": "",
+      "createdAt": "Tue, 25 Apr 2023 22:31:48 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pfhrw7d6362vvrjkgx89g0jj9wzl47uh6x64zhrrjcrv6cveg567q2d4yrr",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

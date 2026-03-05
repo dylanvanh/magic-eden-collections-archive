@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:15.561Z",
+  "slug": "floraforms-by-harto",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "eabc1e29ec414429f0a75cce899fd912a16487fc12192410abe95a739e1a228fi0",
+    "collectionSymbol": "floraforms-by-harto",
+    "collection": {
+      "symbol": "floraforms-by-harto",
+      "name": "FloraForms by Harto X Belvedere",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-floraforms-by-harto_pfp_1707842263824.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Floraforms is a collection of 10,000 generative artworks inspired by Gustav Klimt’s masterpiece The Kiss. Art by Harto in collaboration with the Belvedere Museum of Vienna and accelerated by Arties and Vivid.",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/vivid_ordinals",
+      "discordLink": "",
+      "websiteLink": "https://linktr.ee/floraforms",
+      "createdAt": "Tue, 13 Feb 2024 18:11:31 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1qyyrgcr2dnq82hf9r7w7xv3aa9t0zrzj9lnyuls3vrtuyqa8cvscqmfzcaw",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

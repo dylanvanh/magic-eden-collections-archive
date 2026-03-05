@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:01.784Z",
+  "slug": "bitcoincards",
+  "tokenCount": 6,
+  "defaults": {
+    "chain": "btc",
+    "outputValue": 1000,
+    "collectionSymbol": "bitcoincards",
+    "collection": {
+      "symbol": "bitcoincards",
+      "name": "Bitcoin Cards",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoincards_pfp_1769102306084.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "50 1/1 cards, Acid humor, forever on Bitcoin",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BitcoinCards_",
+      "discordLink": "",
+      "websiteLink": "https://www.bitcoincards.me/",
+      "createdAt": "Thu, 22 Jan 2026 19:39:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

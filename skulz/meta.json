@@ -1,0 +1,51 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:37.455Z",
+  "slug": "skulz",
+  "tokenCount": 666,
+  "defaults": {
+    "contentType": "text/html",
+    "genesisTransaction": "dead45f9223ebccafab5a6aec3bb352c67ac3ce0638b4e0e16e516ba26f4b666",
+    "genesisTransactionBlockTime": "Wed, 03 Jul 2024 16:17:54 GMT",
+    "genesisTransactionBlockHash": "00000000000000000002d4adb6de0f4b543c9bfa6aabb171865234299009ad5f",
+    "genesisTransactionBlockHeight": 850554,
+    "chain": "btc",
+    "parentInscriptionId": "dead91aa984e00236983a40dc63c8f356a23a95ff5fd17b58beeb157c4e47666i0",
+    "collectionSymbol": "skulz",
+    "collection": {
+      "symbol": "skulz",
+      "name": "skulz",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-skulz_pfp_1733801293336.png",
+      "chain": "btc",
+      "inscriptionIcon": "dead45f9223ebccafab5a6aec3bb352c67ac3ce0638b4e0e16e516ba26f4b666i97",
+      "description": "666 otherworldly Ordinals on thematic block 666 sats fused to Bitcoin for all eternity.",
+      "supply": 666,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/karmelo",
+      "discordLink": "https://discord.gg/7NRxyjKjRk",
+      "websiteLink": "https://karmelo.art",
+      "createdAt": "Thu, 04 Jul 2024 15:19:33 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3N2ydXAAUv1ZieNVrwLn2rcmBQfqoVVZjQ",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 666,
+    "satBlockTime": "Fri, 16 Jan 2009 04:10:36 GMT",
+    "satributes": [
+      "Block 666",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

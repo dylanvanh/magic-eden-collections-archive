@@ -1,0 +1,47 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:18.166Z",
+  "slug": "octoglyphs",
+  "tokenCount": 8526,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "parentInscriptionId": "24dfcdb1b757e7aeeddfd6e2caec5a9a2491f1613b593a1f7d0c7f012152b225i0",
+    "collectionSymbol": "octoglyphs",
+    "collection": {
+      "symbol": "octoglyphs",
+      "name": "The OctoGlyphs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-octoglyphs_pfp_1722575200936.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "24dfcdb1b757e7aeeddfd6e2caec5a9a2491f1613b593a1f7d0c7f012152b225i0",
+      "description": "1st Parent-Child Runescribed 10K collection on Bitcoin, all on Block 9 - 450x sats - each etched with their own Unique Rune supply available for holders to claim as the mystery of the 8s unfolds.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/OctoGlyphs",
+      "discordLink": "",
+      "websiteLink": "https://octoglyphs.com",
+      "createdAt": "Mon, 05 Aug 2024 09:41:37 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qcarf9jdf9qraejpd57mfgthda0xlqchfwex4e8",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

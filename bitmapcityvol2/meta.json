@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:19.857Z",
+  "slug": "bitmapcityvol2",
+  "tokenCount": 566,
+  "defaults": {
+    "contentType": "application/json",
+    "chain": "btc",
+    "collectionSymbol": "bitmapcityvol2",
+    "collection": {
+      "symbol": "bitmapcityvol2",
+      "name": "BITMAP CITY VOL. 2 by CRFTD",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitmapcityvol2_pfp_1734375545758.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Bitmap City Vol. 2 is the first collection of its kind, merging fine art with generative art through the framework of Digital Matter Theory (DMT). Each piece blends high-resolution photography, bitmap blocks, Pantone colors, and web3 slang.  By leveraging the Merkle root embedded in Bitcoin’s blockchain data, the differing layers of fine art are algorithmically randomized, assembled, and fused, creating the final generated artwork. 1st Generative Fine Art DMT collection.  1st DMT to utilize Photography.  1st with Base Art, Viewer, & Deployer on Block 9 450x sats",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BitmapCityVol2",
+      "discordLink": "",
+      "websiteLink": "https://bitmap-city-vol-2.gitbook.io/bitmap-city-vol.-2",
+      "createdAt": "Mon, 16 Dec 2024 19:13:52 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "391XNw44FULgySU1MtNzbih7kFYteJzWaE",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:55.685Z",
+  "slug": "wooof",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "wooof",
+    "collection": {
+      "symbol": "wooof",
+      "name": "WOoOF",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-wooof_pfp_1709853254527.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "WOoOF is a VPL licensed collection of 12345 supremely magical doggos exploring the kaleidoscopic sights of the canine grid. No promises, no roadmap, no utility. Just WOoOF.",
+      "supply": 12345,
+      "twitterLink": "https://twitter.com/lukaskalm",
+      "discordLink": "https://discord.gg/eXrkvQmes9",
+      "websiteLink": "",
+      "createdAt": "Fri, 08 Mar 2024 01:11:54 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3QH16odrc7RysYubC1XUaEPQsdNosgiA1X",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

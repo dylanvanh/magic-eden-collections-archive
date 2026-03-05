@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.822Z",
+  "slug": "ordinal_miners",
+  "tokenCount": 97,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ordinal_miners",
+    "collection": {
+      "symbol": "ordinal_miners",
+      "name": "Ordinal Miners",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinal_miners.avif",
+      "chain": "btc",
+      "inscriptionIcon": "9185b110545ac5c39ae123e81308d38adbcc599c193208597e2bfeb742085f4bi0",
+      "description": "We are bitcoin miners, and this collection is dedicated to all different types of miners and types of energy. It's meant to demystify our industry and help people better understand the world of Bitcoin mining through art and community. ",
+      "supply": 100,
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/ZkW92HCdmD",
+      "websiteLink": "https://ordinalminers.com/",
+      "createdAt": "Fri, 09 Jun 2023 21:51:04 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

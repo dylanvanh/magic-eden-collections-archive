@@ -1,0 +1,49 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:48.330Z",
+  "slug": "truenorth",
+  "tokenCount": 88,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "truenorth",
+    "collection": {
+      "symbol": "truenorth",
+      "name": "MasterWorks Block9 True North",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-truenorth_pfp_1705177288051.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "True North💫 is a Generative and Dynamic Fine Art Ordinal Collection. MasterPass is required to own a True North. 88 1/1s, all with their own unique color palette. True North💫 represents a Compass, a symbol of the beginning of A Journey that The Fellowship of MasterWorks💫 is about to embark upon. 88 of us now come together in a Quest to find our True North.",
+      "supply": 88,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/MasterWorksBTC",
+      "discordLink": "https://discord.gg/CaDx9pR9",
+      "websiteLink": "",
+      "createdAt": "Sat, 13 Jan 2024 20:37:32 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "35wkcra9ae7Ebt1Phwehvz7q1SUe23PrRv",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

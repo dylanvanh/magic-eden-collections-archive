@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:33.403Z",
+  "slug": "island_mist",
+  "tokenCount": 600,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "island_mist",
+    "collection": {
+      "symbol": "island_mist",
+      "name": "Island Mist",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-island_mist_pfp_1734530398308.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Flying over the sea, a group of islands appears on the horizon, shrouded in the mist ...\"Island Mist\" presents a tranquil aerial perspective of islands adrift in a calm sea. Soft clouds imbue the scene with tranquility, while the touch of light illuminates the seascape below.This fully generative image is rendered using a painting simulation algorithm, drawing inspiration from the styles of pointillism and impressionism. Through the blending of thousands of brush strokes, vibrant colors reminiscent of fauvist works emerge, introducing an element of surrealism with their unnatural yet captivating hues.Combining a calm, dream-like atmosphere with a dynamic, painterly technique, \"Island Mist\" asks viewers to imagine a world where reality and imagination intertwine.",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/nudoru",
+      "discordLink": "",
+      "websiteLink": "https://mattperkins.me",
+      "createdAt": "Wed, 18 Dec 2024 14:08:11 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pp9zjnhtq6fln2v3z672lhm876juyeadk0yztfaqf9w48fjp9t6ys54npa4",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

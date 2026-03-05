@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:58.023Z",
+  "slug": "room44",
+  "tokenCount": 4444,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "room44",
+    "collection": {
+      "symbol": "room44",
+      "name": "Room 44",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-room44_pfp_1732864884896.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "'Room 44' is original artwork and designs inscribed on bitcoin. The project’s genesis came with a drop of 111 unique 1/1 Ordinals on uncommon sats. The collection is expanding to 4,444 with a new release and beginning to drop these for free to OG holders.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/RoomFourtyFour",
+      "discordLink": "",
+      "websiteLink": "https://www.RoomFourtyFour.com",
+      "createdAt": "Fri, 29 Nov 2024 09:36:18 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3Myf7yTFLs43sE13HiLfnh9CWrkUDbxNoA",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

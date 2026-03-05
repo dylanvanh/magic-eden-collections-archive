@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:46.531Z",
+  "slug": "lil-bits",
+  "tokenCount": 2500,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "lil-bits",
+    "collection": {
+      "symbol": "lil-bits",
+      "name": "Lil' Bits",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-lil-bits_pfp_1688095631904.png",
+      "chain": "btc",
+      "inscriptionIcon": "ff0b3ef9660c6d597e3f49bcf96f4b6f7e65766377f2909e9b5895407bbaaeeai0",
+      "description": "Lil' Bits are a collection of tiny pixel art meals optimized to live in the Bitcoin chain. Only 2500 available, rarity metadata embedded in the ordinal and under 10kb in size each.",
+      "supply": 2500,
+      "twitterLink": "https://twitter.com/lilbitsordinals",
+      "discordLink": "https://discord.gg/HftFuuDGYY",
+      "websiteLink": "https://lilbitsnft.com",
+      "createdAt": "Fri, 02 Jun 2023 14:47:35 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

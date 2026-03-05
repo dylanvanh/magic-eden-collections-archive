@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:32.252Z",
+  "slug": "btcbulls",
+  "tokenCount": 2100,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "btcbulls",
+    "collection": {
+      "symbol": "btcbulls",
+      "name": "BTC Bulls",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bulls_pfp_1709102688215.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The Bull is an icon, who doesn't love Bulls? And you will certainly love BTC Bulls. Handcrafted pixel art with a 48 color palette.",
+      "supply": 2100,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/CreatorBitcoin",
+      "discordLink": "https://discord.gg/pcMRttadJQ",
+      "websiteLink": "https://btcbulls.com",
+      "createdAt": "Fri, 22 Aug 2025 07:03:09 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qn55taxvw6mjcm7pzks907d84zg068gdzs5s0sv",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

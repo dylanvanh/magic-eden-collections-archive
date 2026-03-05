@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:24.164Z",
+  "slug": "boneys",
+  "tokenCount": 9998,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "boneys",
+    "collection": {
+      "symbol": "boneys",
+      "name": "Boneys by Bitcoin Burials",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-boneys_pfp_1708589687856.gif",
+      "chain": "btc",
+      "inscriptionIcon": "001f613c518f3d529db7faf8a0501744e6602d0d36c905728b8cfaa31e558b0ai0",
+      "description": "Bitcoin Burials presents Boneys, a fun and irreverent 10k collection of cute and mischievous skellys.After a long slumber they have finally emerged from the Burials with a bone to pick and are ready to cause some bone fide mayhem.Why did they awaken? Was it the ETFs finally being approved? Laser eyes attempting to pass off Ordinals as a CVE? The 2024 halving fast approaching?Who knows, but one thing is certain, they're here and ready to rattle some bones.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/BitcoinBurials",
+      "discordLink": "https://discord.gg/W5WWGXjsSF",
+      "websiteLink": "https://bitcoinburials.com/",
+      "createdAt": "Thu, 22 Feb 2024 15:01:10 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qndvw2p9rzkqn3pkk74ra966xvvgdplvl5a3hcc",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

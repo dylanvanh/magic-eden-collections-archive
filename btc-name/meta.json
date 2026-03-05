@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:28.294Z",
+  "slug": "btc-name",
+  "tokenCount": 10100,
+  "defaults": {
+    "chain": "btc",
+    "listed": true,
+    "listedMakerFeeBp": 50,
+    "listedForMint": false,
+    "collectionSymbol": "btc-name",
+    "collection": {
+      "symbol": "btc-name",
+      "name": "BtcName",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/btc-name.avif",
+      "chain": "btc",
+      "inscriptionIcon": "2803c86361deb938b0b714ff790a74ec282ce28627384a020f37c8963c6f4634i0",
+      "description": "A domain name service built on the Bitcoin ecosystem ---Notice: This collection claims to be a domain system. Individual domain systems are not vetted as original or functional by Magic Eden. Please be sure to take time to DYOR before purchasing.",
+      "supply": 11199,
+      "twitterLink": "https://twitter.com/btcname_DID",
+      "discordLink": "https://discord.gg/eNERqJU85x",
+      "websiteLink": "https://docs.btcname.id",
+      "createdAt": "Fri, 26 May 2023 07:45:47 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

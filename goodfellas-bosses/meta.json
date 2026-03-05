@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:26.003Z",
+  "slug": "goodfellas-bosses",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "goodfellas-bosses",
+    "collection": {
+      "symbol": "goodfellas-bosses",
+      "name": "The GoodFellas Boss Collection",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-goodfellas-bosses_pfp_1757039771258.png",
+      "chain": "btc",
+      "inscriptionIcon": "4973b3c4fd63e232357543181ea3984e01d8ab9a6a5b07f87e35ad6e4e696bfei0",
+      "description": "Beginning with 100 Boss Ordinals, The GoodFellas are bringing the most desirable artwork and goodwill to the blockchain by rescuing abandoned art, giving it a forever home, and creating a win-win marketplace for creators and collectors.",
+      "supply": 100,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/GoodFellasNFT",
+      "discordLink": "https://discord.gg/BHTxwX9qBE",
+      "websiteLink": "https://goodfellasnft.com",
+      "createdAt": "Fri, 29 Sep 2023 23:05:37 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pj53mjqcy737pr70v6d5z6vs9zkmqpe5wewey9rzml9mv035f3paslyv96h",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

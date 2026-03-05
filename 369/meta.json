@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:24.784Z",
+  "slug": "369",
+  "tokenCount": 370,
+  "defaults": {
+    "contentType": "text/html",
+    "contentBody": "H1gFAIzTDXWoqzr2/3S2d5nyOKGpgccq4nvkU7MTTZAdup8/ZuMumshMR5YV9N8iSihFB3RCR3wop6DeoKscmKaThnAHpjLgwACoTgKHdEaBIXBK0SVSixbK249G0Wa4Tg/1NFe28xcR6lFpYi0YA+Ch1MC9EJSJFHhMuqEnjZNwpZgOtcsiCLXnGK5AxMpJYk/SHUVW+CghE+jRJjy5vZ58XozhaEOS4j+NVY8YE+4/eR/9EJM7eYRvhEumhfaUp4VmkpPwjeQZHgYC1uEOfgobeIu3uP17LJLLxrzNb9J90zK3W9cn80866GwupUKGiOFbqLwV6RtW9QHuozFYv6UAnWfxEA5vwhRUlDfp8OFAJsDMQVhSmvXdiBR7fIbXMPa4x/4Wr/8yrQz2H6usx5NHNocWs97PO1zq85jP+lZZqtTkKW23cyUCTDCzR/F8SFOCzet1Pq83HA0dMpo1XEMgqMS7VO7peCd4nGpJSKs1+IxzhsdwQsAZxyphu9VuSxJdk+flTOn8tcakzl+kUUyJv5XTCe/h6XJOch5w35lAii+E0dPKynLy88kjJzFXbR81/VJK/50P9IiJ5E5e4d4foxyUyr/oDIKJUqkEbwUBuREN++srnI9OI1dgQ/aLEIlBqQwvpWTKLtvyC4VdUmmTCjE2lK0EmhWLjpcosZoPC9SlYDppuZ00tFvGyUu9MRbiRejfvLkA5H6DDIAllcSoqF/+tvbu2P85wgR8W3yz/23/rjV7j5dNGr2fd+dWiESQoBzY/9d28O9/w5t7MBAWBQ==",
+    "genesisTransaction": "369369ad364b1b8e720aa84cdc081e7abf4420cc924528695ea5704d3773b369",
+    "genesisTransactionBlockTime": "Sun, 02 Mar 2025 12:55:28 GMT",
+    "genesisTransactionBlockHash": "00000000000000000001c241e9099b0684154d870bcd465fe7a5898393ce7d69",
+    "genesisTransactionBlockHeight": 886005,
+    "chain": "btc",
+    "outputValue": 369,
+    "collectionSymbol": "369",
+    "collection": {
+      "symbol": "369",
+      "name": "HarmonySage",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-369_pfp_1767668356337.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "369 Seashells by HarmonySage is a poetic fusion of traditional and generative art, inspired by Tesla’s 3-6-9 principle and the timeless themes of eternity, love, and universal connection.\n\n Each interactive artwork combines the Artist’s seashell sketches with original poetry, woven together through code to create a meditative, visual rhythm. \n\nInscribed on Palindrome Sats to honor symmetry and infinite flow. Rooted in timeless and personal reflections, the poems are meant to be felt as much as read!",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/PoetrybyHarmony",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 06 Jan 2026 04:42:21 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qzfdthwrzy3w67kcyfp4yy77dad4d9dxm82kxnt",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

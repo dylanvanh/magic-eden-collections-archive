@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:19.959Z",
+  "slug": "omen",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "genesisTransactionBlockTime": "Sat, 28 Sep 2024 22:05:54 GMT",
+    "genesisTransactionBlockHash": "000000000000000000008d832d71c5b2c78edc2a1f4840160b998b2022162262",
+    "genesisTransactionBlockHeight": 863265,
+    "chain": "btc",
+    "collectionSymbol": "omen",
+    "collection": {
+      "symbol": "omen",
+      "name": "OMEN",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-omen_pfp_1752940559426.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "OMEN is Bitcoin’s most advanced recursive inscription project.\n10,000 hand-drawn PFPs. 754 HD recursive layers. Built to dominate.\n\nBut this is not just art.\n\nOMEN fuels real Bitcoin mining.\nHolders stake their assets to earn cold, hard BTC , plus rewards across omni·omen·rune.\n\nRecursive. Rewarding. Relentless.\nThis is the new standard for Bitcoin-based digital assets.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Omen4Omen",
+      "discordLink": "",
+      "websiteLink": "https://nemonium.com/",
+      "createdAt": "Sun, 29 Sep 2024 00:15:20 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3GMKamV1QaiVKxm5vZP4cDkPQc7xWX826j",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

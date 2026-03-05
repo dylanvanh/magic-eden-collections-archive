@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:50.870Z",
+  "slug": "darkordinauts",
+  "tokenCount": 204,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "darkordinauts",
+    "collection": {
+      "symbol": "darkordinauts",
+      "name": "Dark Ordinauts",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/darkordinauts.avif",
+      "chain": "btc",
+      "inscriptionIcon": "Inscription #119437",
+      "description": "DARK ORDINAUTS is a sub 100K ordinal project consisting of 200 inscriptions. It is the follow-up collection to Ordinauts, the first anime project inscribed on bitcoin. Holding an Ordinaut or Dark Ordinaut gains you entry into the Ordinaut Universe, where your character can become part of the interplanetary epic of the Great Ordinaut War as it unfolds. Choose a side and join us.",
+      "supply": 200,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Ordinauts",
+      "discordLink": "",
+      "websiteLink": "https://www.ordinauts.ai/",
+      "createdAt": "Sat, 03 Jun 2023 00:20:41 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

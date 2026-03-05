@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:53.034Z",
+  "slug": "recursion500",
+  "tokenCount": 500,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "recursion500",
+    "collection": {
+      "symbol": "recursion500",
+      "name": "Recursion500",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/recursion500.avif",
+      "chain": "btc",
+      "inscriptionIcon": "c1faaf155fab603fa5c74aa528c7ce83069eb64f9a443aa525100b37308b6e87i0",
+      "description": "Recursion makes every inscription a building block for the future of Bitcoin. We're pushing boundaries on the state-of-the-art for recursive inscriptions. This collection includes pointers to the first 500 inscriptions ever with a \"recursion\" label.",
+      "supply": 500,
+      "twitterLink": "https://twitter.com/Recursion500",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 12 Jun 2023 09:41:07 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

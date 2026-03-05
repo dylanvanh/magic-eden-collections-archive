@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:50.452Z",
+  "slug": "maxis",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "maxis",
+    "collection": {
+      "symbol": "maxis",
+      "name": "Anti NFT BTC Maxis",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/maxis.avif",
+      "chain": "btc",
+      "inscriptionIcon": "https://ordinals.com/content/fd27c503aeb1bb0cbeb168b6af82156a744655b062d0fea0f6430a78ba188f33i0",
+      "description": "100/100 OG collection Ordinals NFTs on Bitcoin. \nInscription range: #1337 → #2262. \n\nLove to make fun of frustrated Bitcoin Maxis? Join us! 😤",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/AntiNFTBTCMaxis",
+      "discordLink": "https://btcmaxis.com/discord/",
+      "websiteLink": "https://btcmaxis.com/",
+      "createdAt": "Thu, 23 Mar 2023 00:28:31 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

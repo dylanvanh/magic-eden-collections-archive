@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:27.871Z",
+  "slug": "hashlings",
+  "tokenCount": 5089,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "hashlings",
+    "collection": {
+      "symbol": "hashlings",
+      "name": "Hashlings",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-hashlings_pfp_1701887719819.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The ordinal project for Bitcoiners, by Bitcoiners.",
+      "supply": 5305,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/HashlingsBTC",
+      "discordLink": "https://discord.gg/hashlings",
+      "websiteLink": "",
+      "createdAt": "Tue, 09 Jan 2024 22:56:56 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qew3pap3pkqhk08v78hfhh27tpztke3pdu5d2sj",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

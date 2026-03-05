@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:48.748Z",
+  "slug": "queens",
+  "tokenCount": 486,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "queens",
+    "collection": {
+      "symbol": "queens",
+      "name": "QUEENS by FAR",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-queens_pfp_1746464966606.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "QUEENS are the pinnacle of the BUZZ BUZZ BUZZ ecosystem: rare, status-defining collectibles created through Swarming, a high-stakes ritual where BUZZ tokens are sacrificed to unlock something greater.\n\nEach QUEEN marks a moment: time-limited, irreversible, and deeply tied to the culture of Bitcoin-native art. Designed as a canvas for collaboration between FAR and visionary artists, QUEENS embody the spirit of experimentation at the bleeding edge of blockchain and art.\n\nOwning one says you were there, and you got it.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://swarm.btc.art",
+      "createdAt": "Mon, 05 May 2025 19:04:15 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qxkpasskfmw04kke0eytmfvp69jf6ptp3mxwy02",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:25.444Z",
+  "slug": "runedoors",
+  "tokenCount": 9975,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "parentInscriptionId": "151fa70753d0416a1b5f275a543c73b33ba5d6251f913343718c730523f265d2i0",
+    "collectionSymbol": "runedoors",
+    "collection": {
+      "symbol": "runedoors",
+      "name": "Rune Doors",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-runedoors_pfp_1713031089404.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "151fa70753d0416a1b5f275a543c73b33ba5d6251f913343718c730523f265d2i0",
+      "description": "The Rune Door is a mysterious artifact inscribed into the bitcoin blockchain.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/_BuoyantCapital",
+      "discordLink": "https://discord.gg/ksBVvGUA94",
+      "websiteLink": "https://twitter.com/_BuoyantCapital",
+      "createdAt": "Sat, 13 Apr 2024 19:03:31 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3D2dSiQknEcanc5obvDrqpDkCVr414vUuc",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

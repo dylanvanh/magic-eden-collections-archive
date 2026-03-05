@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:49.895Z",
+  "slug": "lumiforms",
+  "tokenCount": 121,
+  "defaults": {
+    "contentType": "image/avif",
+    "chain": "btc",
+    "parentInscriptionId": "7875fab645b7ffd9a38e8e8b6a4d61f0ab8078ce664e3db81957456bf10a47dci0",
+    "outputValue": 331,
+    "collectionSymbol": "lumiforms",
+    "collection": {
+      "symbol": "lumiforms",
+      "name": "Lumiforms by CRFTD",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-lumiforms_pfp_1770096346220.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "7875fab645b7ffd9a38e8e8b6a4d61f0ab8078ce664e3db81957456bf10a47dci0",
+      "description": "Lumiforms bridges fine art photography and generative code. Each work begins with original photography, overlaid with custom p5.js structures that function as a lens and shutter, revealing a single frozen moment in time. Inspired by bokeh and optical artifacts, geometric forms carve portals through light and space, shaping how the image is perceived.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/_CRFTD_",
+      "discordLink": "",
+      "websiteLink": "https://www.crftdla.com/",
+      "createdAt": "Tue, 03 Feb 2026 05:37:49 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pnkdh7gjgv4grwm0zdpzgd3asevwjf8kk7xp7zm5wffy4uym9yxtqdpxnhu",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "JPEG"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

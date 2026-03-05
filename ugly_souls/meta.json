@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:50.486Z",
+  "slug": "ugly_souls",
+  "tokenCount": 1221,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "905a2ad38bbdefd9bc4e333d6eeec044c6943bb8cd0ccd8373136bc8e3294376i0",
+    "collectionSymbol": "ugly_souls",
+    "collection": {
+      "symbol": "ugly_souls",
+      "name": "US - Ugly Souls by Viola MissCode",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ugly_souls_pfp_1749064979638.png",
+      "chain": "btc",
+      "inscriptionIcon": "905a2ad38bbdefd9bc4e333d6eeec044c6943bb8cd0ccd8373136bc8e3294376i0",
+      "description": "An Ugly Soul is exactly what it is - No explanations needed - I just wonder how we got that way tho? - And then the question is: are you one of US, anon? - 1221 Ugly Souls inscribed on Pizza Sats by Viola Misscode",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 04 Jun 2025 20:07:27 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q6f0rl59t9xhwntsxgmcd9a4e3g4kn8a6tskpgs",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Pizza"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

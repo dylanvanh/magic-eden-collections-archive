@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:50.696Z",
+  "slug": "unisat-og-pass",
+  "tokenCount": 189,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "unisat-og-pass",
+    "collection": {
+      "symbol": "unisat-og-pass",
+      "name": "Unisat OG Pass Collection",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/unisat-og-pass.avif",
+      "chain": "btc",
+      "inscriptionIcon": "f3e033071c2b0ef13361c9f08de069cf96f61a8b5b700e2e2d864fc48f28f9adi0",
+      "description": "OG Passes were distributed to our supporters who had previously contributed. This pass provides a discount for inscribing on Unisat.",
+      "supply": 138,
+      "twitterLink": "https://twitter.com/unisat_wallet",
+      "discordLink": "https://discord.gg/unisat",
+      "websiteLink": "https://docs.unisat.io/general/unisat-og-pass-collection",
+      "createdAt": "Wed, 10 May 2023 12:16:03 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qdue3e95jp9hnv5vyxgg25eef707vlhcxy8rx8a",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

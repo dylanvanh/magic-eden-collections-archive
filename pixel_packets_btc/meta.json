@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:40.473Z",
+  "slug": "pixel_packets_btc",
+  "tokenCount": 333,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "pixel_packets_btc",
+    "collection": {
+      "symbol": "pixel_packets_btc",
+      "name": "PIXEL PACKETS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pixel_packets_btc_pfp_1727097009186.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Each Packet contains a symbolic sprinkling of magical pixels of Bitcoin Shroom #139 from the First Ordinal Collection.",
+      "supply": 333,
+      "twitterLink": "https://twitter.com/PIXELPACKETS",
+      "discordLink": "https://discord.gg/w94s8zuetd",
+      "websiteLink": "https://www.pixelpackets.io",
+      "createdAt": "Fri, 30 Aug 2024 18:27:06 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3BEWexZnGqfwtGz36SE2CJwWEqcoAWekmg",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

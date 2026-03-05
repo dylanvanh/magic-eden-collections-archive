@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:42.151Z",
+  "slug": "krampus_knows",
+  "tokenCount": 42,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "outputValue": 546,
+    "collectionSymbol": "krampus_knows",
+    "collection": {
+      "symbol": "krampus_knows",
+      "name": "Krampus Knows",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-krampus_knows_pfp_1766352930088.png",
+      "chain": "btc",
+      "inscriptionIcon": "b0b68c88d93256d12289c1d80880bdfb9f49098030c56037865993181b6f0e1di0",
+      "description": "Even long before Christianity reached the snowy peaks of the Alps, ancient folklore spoke of terrifying demons roaming the harsh winter landscape around the winter solstice. \nOver time, these fearsome figures merged into a single iconic entity: Krampus, the horned beast who became the dark counterpart to Saint Nicholas. \nWhere the kindly saint brought gifts to reward well-behaved children, Krampus hunted down the misbehaved to punish them. He was, in essence, the original Bad Santa. \n\nThis McHexley's 100x100 pixels interpretation of this folklore of his homeland - peeking at you through the window on Christmas Eve. \nKrampus knows what you did last Summer :)\n\nThe Original for this edition of 42 pieces is also the parent of the nine 1/1 Krampi that are part of McHexley's 1/1 collection Beyond the Ether.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/McHexleyOG",
+      "discordLink": "https://discord.gg/DFxearSYVJ",
+      "websiteLink": "https://nomorelabs.xyz",
+      "createdAt": "Sun, 21 Dec 2025 21:58:29 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "33NP3Xb48xZXFVNLRa76oNJAotE8txVbhS",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

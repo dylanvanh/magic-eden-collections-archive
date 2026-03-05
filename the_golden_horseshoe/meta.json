@@ -1,0 +1,47 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:43.929Z",
+  "slug": "the_golden_horseshoe",
+  "tokenCount": 503,
+  "defaults": {
+    "contentType": "video/mp4",
+    "genesisTransaction": "a53ed5ddfd843d1716edc355c6369d25a40bb8272304bd7e933bcb3cd7bb6e16",
+    "genesisTransactionBlockTime": "Thu, 13 Feb 2025 14:06:13 GMT",
+    "genesisTransactionBlockHash": "00000000000000000000b1c1dc40e2299515217ff11745e07a1f9078f06cb783",
+    "genesisTransactionBlockHeight": 883588,
+    "chain": "btc",
+    "parentInscriptionId": "b7f1bf66c16a0f26e3c4f57055c7989a255956403a24386f0e97b0a24e4433adi0",
+    "collectionSymbol": "the_golden_horseshoe",
+    "collection": {
+      "symbol": "the_golden_horseshoe",
+      "name": "The Golden Horseshoe By Bitcoin Derby",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-the_golden_horseshoe_pfp_1739482754122.png",
+      "chain": "btc",
+      "inscriptionIcon": "a53ed5ddfd843d1716edc355c6369d25a40bb8272304bd7e933bcb3cd7bb6e16i0",
+      "description": "The Golden Horseshoe is a 504-supply pre-game accessory collection for Bitcoin Derby - a horse racing game where players own and race Ordinals horses on Bitcoin.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BitcoinDerby",
+      "discordLink": "https://discord.gg/gD66rA9tW5",
+      "websiteLink": "https://www.bitcoinderby.live/",
+      "createdAt": "Thu, 13 Feb 2025 21:51:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pxgheaqfm56yzfz7rn84vc76fump7as2583dmspc8874vklg60z5qgz8gdt",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Nakamoto"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

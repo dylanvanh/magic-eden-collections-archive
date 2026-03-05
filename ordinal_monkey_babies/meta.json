@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.832Z",
+  "slug": "ordinal_monkey_babies",
+  "tokenCount": 84,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "ordinal_monkey_babies",
+    "collection": {
+      "symbol": "ordinal_monkey_babies",
+      "name": "Monkey Babies",
+      "imageURI": "https://bafybeibw2hifu6z5k4m45s5r5gtieydrwba4tkestmlh2jcuhfjgbstoci.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Monkey Babies: Limited collection of 84 charming offspring, inscribed with love using a unique signatures technique showing provenance from Ordinally's original 21 Ordinal Monkeys.",
+      "supply": 84,
+      "twitterLink": "https://twitter.com/ordinallyfriend",
+      "discordLink": "https://discord.gg/ordinally",
+      "websiteLink": "",
+      "createdAt": "Sun, 04 Jun 2023 15:04:25 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

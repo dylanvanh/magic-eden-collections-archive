@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:22.706Z",
+  "slug": "blocks_by_matrica",
+  "tokenCount": 256,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "blocks_by_matrica",
+    "collection": {
+      "symbol": "blocks_by_matrica",
+      "name": "Blocks by Matrica",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/blocks_by_matrica.webp",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Blocks by Matrica is set to be a high-quality art project inscribed on Bitcoin. The collection is a highly exclusive 256-pieces of art. Each artwork is inscribed on Block9 450 sats.",
+      "supply": 256,
+      "twitterLink": "https://twitter.com/MatricaLabs",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 25 Jan 2024 15:28:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

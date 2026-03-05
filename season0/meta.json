@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:34.840Z",
+  "slug": "season0",
+  "tokenCount": 2998,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "season0",
+    "collection": {
+      "symbol": "season0",
+      "name": "Season 0 : Casey’s Collection",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-season0_pfp_1728946063306.png",
+      "chain": "btc",
+      "inscriptionIcon": "0d47a9f8b362b391ea5469f003d15b7f45d41e5abd195e027a6e225c1aa14074i4",
+      "description": "the first collection by Inscripedia using Casey Rodarmor's art",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/Inscripedia",
+      "discordLink": "",
+      "websiteLink": "https://inscripedia.com",
+      "createdAt": "Thu, 17 Oct 2024 19:15:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

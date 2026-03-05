@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:45.637Z",
+  "slug": "life_zero",
+  "tokenCount": 206,
+  "defaults": {
+    "contentType": "image/avif",
+    "chain": "btc",
+    "collectionSymbol": "life_zero",
+    "collection": {
+      "symbol": "life_zero",
+      "name": "Life Zero",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-life_zero_pfp_1755439764521.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Join Zero on an elemental journey.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sun, 17 Aug 2025 15:22:11 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qnn5j963gmwk6zurl7q56qgv7vw4cmr5tuaqg2f",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

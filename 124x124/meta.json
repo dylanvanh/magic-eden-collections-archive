@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:24.083Z",
+  "slug": "124x124",
+  "tokenCount": 64,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "124x124",
+    "collection": {
+      "symbol": "124x124",
+      "name": "124x124 (by Ord Station)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-124x124_pfp_1715155427692.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "1/1 collection of 64 unique characters inscribed on Block78+Vintage sats.",
+      "supply": 64,
+      "twitterLink": "https://twitter.com/OrdStation",
+      "discordLink": "https://discord.gg/Ennv5EamSf",
+      "websiteLink": "",
+      "createdAt": "Tue, 06 Feb 2024 01:03:51 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3KLkxA2VoXGZTYDmbMPyg74sCJ6aNUy3FA",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 78,
+    "satBlockTime": "Sun, 11 Jan 2009 01:00:54 GMT",
+    "satributes": [
+      "Block 78",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

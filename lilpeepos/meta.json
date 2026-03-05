@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:47.320Z",
+  "slug": "lilpeepos",
+  "tokenCount": 420,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "lilpeepos",
+    "collection": {
+      "symbol": "lilpeepos",
+      "name": "Peepos",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-lilpeepos_pfp_1710306204004.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "fd5ec23394b5b58544ea072beabd2f39d08a689bdeb1225a561a97a1c9ddbc63i0",
+      "description": "420 Peepos all on Uncommon Sats.",
+      "supply": 420,
+      "twitterLink": "https://twitter.com/inscribedpepe",
+      "discordLink": "https://discord.gg/inscribedpepes",
+      "websiteLink": "https://peepodepot.com",
+      "createdAt": "Tue, 20 Jun 2023 00:57:06 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "uncommon"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

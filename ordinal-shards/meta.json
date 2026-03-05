@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.455Z",
+  "slug": "ordinal-shards",
+  "tokenCount": 100,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "ordinal-shards",
+    "collection": {
+      "symbol": "ordinal-shards",
+      "name": "Ordinal Shards by Billy Restey",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordinal-shards_pfp_1698268409766.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "93c3bc43274241958f61565a58ed043128d6f54db564508cbe9956e9096275aei0",
+      "description": "100 generative ai gems on Bitcoin",
+      "supply": 100,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ordinalshards",
+      "discordLink": "https://discord.gg/2A3X88QB9P",
+      "websiteLink": "https://www.ordinalshards.xyz/",
+      "createdAt": "Mon, 20 Mar 2023 21:04:20 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

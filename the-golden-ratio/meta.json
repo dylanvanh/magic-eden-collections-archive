@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:42.636Z",
+  "slug": "the-golden-ratio",
+  "tokenCount": 420,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "bb3bdd55c1591f1be3b33e56c5c9e7ab3cf1735a1ac423380528972c48c3b9cdi0",
+    "collectionSymbol": "the-golden-ratio",
+    "collection": {
+      "symbol": "the-golden-ratio",
+      "name": "The Golden Ratio by Harto x Vivid Gallery",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-the-golden-ratio_pfp_1714731283781.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "420 generative artworks on Block 9 450x sats exploring the fibonacci pattern. Recursive & Parent/Child provenance. Art by Harto curated by VIVID Gallery.",
+      "supply": 420,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/vivid_ordinals",
+      "discordLink": "https://discord.gg/dGzMHhmavc",
+      "websiteLink": "https://www.vivid.gallery/generative/the-golden-ratio?utm_source=magiceden",
+      "createdAt": "Mon, 04 Dec 2023 09:37:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "bc1qusegqldjmut39x529qcntstl4kdg4q92kr4usck90dq020hudctqqg685u",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

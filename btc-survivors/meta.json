@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:28.606Z",
+  "slug": "btc-survivors",
+  "tokenCount": 3003,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "btc-survivors",
+    "collection": {
+      "symbol": "btc-survivors",
+      "name": "BTC Survivors",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/btc-survivors.avif",
+      "chain": "btc",
+      "inscriptionIcon": "e88ccc8410e75f8d5475b16b2764392e5b816d1829fb0cae8167f09fc83b2ba6i0",
+      "description": "The First Custom Created Ordinal Collection. BTC Survivors are Human criminals, psychos, crazies that the governments were experimenting on before the fall of humanity. They survived the apocalypse and now roam the planet trying to survive!",
+      "supply": 3000,
+      "twitterLink": "https://twitter.com/btcordinal",
+      "discordLink": "https://discord.gg/btcmachine",
+      "websiteLink": "https://www.satoria.world/",
+      "createdAt": "Fri, 19 May 2023 15:39:50 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcmn0l7w382ygvpehvtz57n2r75l5j7nyzkq54lf8zr3pm48y0aesh4pd96",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

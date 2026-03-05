@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:33.134Z",
+  "slug": "runestone",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "model/gltf+json",
+    "chain": "btc",
+    "meta": {
+      "collection_page_img_url": "https://bafybeic7wucegolrhfagncb4b4xcijcnq4affdfu6sflejs7wwxbw3xbbq.ipfs.nftstorage.link/"
+    },
+    "parentInscriptionId": "fdb2df5d2b16db1ebcbf09e2d23b3f4e417db44b58e712c99b61f26b52c7cbb5i0",
+    "collectionSymbol": "runestone",
+    "collection": {
+      "symbol": "runestone",
+      "name": "Runestone",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/runestone.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Runestone is an open source, transparent, volunteer, and decentralized initiative to reward people who participated in the first year of the Ordinals Protocol.",
+      "supply": 10000,
+      "twitterLink": "",
+      "discordLink": "https://discord.com/invite/runestone",
+      "websiteLink": "",
+      "createdAt": "Thu, 14 Mar 2024 17:23:00 GMT",
+      "overrideContentType": "model/gltf+json",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

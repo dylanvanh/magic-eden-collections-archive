@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:35.727Z",
+  "slug": "ordmaker",
+  "tokenCount": 167,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "ordmaker",
+    "collection": {
+      "symbol": "ordmaker",
+      "name": "Ord Maker",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordmaker_pfp_1766943119583.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Creator Pass for OrdMaker.Fun",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/ordmakerfun",
+      "discordLink": "https://discord.gg/XWrj2fEU",
+      "websiteLink": "https://ordmaker.fun",
+      "createdAt": "Tue, 30 Dec 2025 02:45:30 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

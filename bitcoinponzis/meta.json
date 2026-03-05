@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:09.279Z",
+  "slug": "bitcoinponzis",
+  "tokenCount": 7774,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "1a76286cdda04f6c218839f2f4404e824f5277df35b3a339f419005efb0390cai0",
+    "collectionSymbol": "bitcoinponzis",
+    "collection": {
+      "symbol": "bitcoinponzis",
+      "name": "Ponzis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoinponzis_pfp_1740599816294.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "7,777 inscribed on Silk Road sats. Ponzi’s purpose is to offer a humorous take on the conspiracies involved in our government, money, and media.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BitcoinPonzis",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 27 Feb 2025 05:27:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "389w3sLYCjmoZrm2U9AsKvYRBon6Zw7xZb",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 195697,
+    "satBlockTime": "Sun, 26 Aug 2012 02:09:33 GMT",
+    "satributes": [
+      "Common",
+      "Silk Road"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

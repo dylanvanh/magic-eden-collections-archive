@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:24.909Z",
+  "slug": "runecaseydance",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/gif",
+    "chain": "btc",
+    "parentInscriptionId": "61b94f1c65450afae24d2654185f1790145baa80a99d408db0f6f946aff86aaei0",
+    "collectionSymbol": "runecaseydance",
+    "collection": {
+      "symbol": "runecaseydance",
+      "name": "RUNE CASEY DANCE",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-runecaseydance_pfp_1713143419435.gif",
+      "chain": "btc",
+      "inscriptionIcon": "61b94f1c65450afae24d2654185f1790145baa80a99d408db0f6f946aff86aaei0",
+      "description": "A pre-runic homage to Casey Rodarmor, visionary dev, viral dancer and first ordinals OG, decked out in his Punks On Bitcoin gear. 1:1 airdrop for holders of sub10k, ordinals first-movers.Thank you.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/PunksOnBitcoin",
+      "discordLink": "https://discord.gg/3TzC28RK8N",
+      "websiteLink": "",
+      "createdAt": "Mon, 15 Apr 2024 03:24:54 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

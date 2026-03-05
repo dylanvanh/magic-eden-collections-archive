@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:20.801Z",
+  "slug": "blesstiger",
+  "tokenCount": 3333,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "metaprotocol": "bgp-1.1",
+    "collectionSymbol": "blesstiger",
+    "collection": {
+      "symbol": "blesstiger",
+      "name": "Blesstiger(♆) [Reinscriptions]",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-blesstiger_pfp_1704432661331.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "ATTENTION: The inscriptions on this collection are reinscriptions. Selling one inscription will cause other Blesstigers on the same Sat to move as well.\n--\n--The Blesstiger collection, recognized as the first unique and non-replicable Trident🔱 inscriptions, has attained exclusivity due to its two curses and three consecutive IDs, rendering it no longer producible.Trident🔱 inscriptions, bound together in life and death, transfer simultaneously.  This marks the dawn of a new epoch in Trident🔱 inscriptions art. Looking ahead, we foresee the introduction of more blessed, trinumbered Trident🔱 inscriptions, drawing a diverse array of artists to this novel art form. Blesstiger stands as the first application of the BGP protocol and notably, the first to highlight limitations in the Ordinals protocol. This initiative transcends a mere NFT innovation; it leads in utilizing Bitcoin as a medium for goods production, advocating for Bitcoin's amalgamation with centralized commerce, all while maintaining decentralization and absolute privacy. Our endeavor embodies the spirit of Satoshi Nakamoto.",
+      "supply": 3333,
+      "twitterLink": "https://twitter.com/blesstiger",
+      "discordLink": "https://discord.gg/k7aDpjtP7S",
+      "websiteLink": "https://blesstiger.com",
+      "createdAt": "Fri, 05 Jan 2024 19:47:04 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

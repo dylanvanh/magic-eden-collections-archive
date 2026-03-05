@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:01.476Z",
+  "slug": "bitcoin_wassies",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin_wassies",
+    "collection": {
+      "symbol": "bitcoin_wassies",
+      "name": "Bitcoin Wassies",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoin_wassies_pfp_1704345629411.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "100 CC0 Wassies inscribed onto the Bitcoin Blockchain and given away for free. Original artwork was created by the ByWassies team on Ethereum and made CC0 so that anyone could use them. Inscription and gifting was done by MetaverseHodl",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/metaversehodl",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Fri, 05 Jan 2024 05:32:52 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

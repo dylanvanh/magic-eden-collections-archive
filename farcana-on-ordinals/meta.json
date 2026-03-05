@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:12.843Z",
+  "slug": "farcana-on-ordinals",
+  "tokenCount": 333,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "contentBody": "PHN2ZyB2aWV3Qm94PSIwIDAgNzY1IDQxMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0Ij4NCiAgPGltYWdlIGhyZWY9Ii9jb250ZW50LzM5ZmUxMmE2NmM5ZjA2NmIwNDlmMjNkZjNhYzQwY2YyNGMwM2RmY2E0ODNiZmI3OTVhYjBhZGE4ODZjZmM1NTVpMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIvPg0KPC9zdmc+",
+    "chain": "btc",
+    "collectionSymbol": "farcana-on-ordinals",
+    "collection": {
+      "symbol": "farcana-on-ordinals",
+      "name": "Farcana on Ordinals",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/farcana-on-ordinals.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Farcana is a third-person team ability shooter set in a mesmerizing Sci-Fi landscape. It emphasizes fast-paced gameplay, where weapons and the strategic use of characters' tactical and defensive abilities determine the outcome of matches.  ",
+      "supply": 333,
+      "twitterLink": "https://twitter.com/FarcanaOfficial",
+      "discordLink": "https://discord.gg/farcana",
+      "websiteLink": "https://farcana.com/",
+      "createdAt": "Thu, 25 Jan 2024 08:16:25 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:46.014Z",
+  "slug": "coinheads",
+  "tokenCount": 2777,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "coinheads",
+    "collection": {
+      "symbol": "coinheads",
+      "name": "Coinheads",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-coinheads_pfp_1716258501799.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "We are Coinheads – dedicated to those who keep Bitcoin and crypto at the forefront of their minds. Always on the hunt for the next big thing. After us, of course.Coinheads is a PFP Ordinals Collection, supported by Brazil's largest crypto community, Yield Hackers by Caio Vicentino. Crafted by the artist Rodrigo Pafs.",
+      "supply": 2789,
+      "twitterLink": "https://twitter.com/coin_heads",
+      "discordLink": "https://discord.gg/GPb3NRsptZ",
+      "websiteLink": "https://www.cheads.xyz/",
+      "createdAt": "Mon, 27 May 2024 20:06:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3NJbT7b1qPkwpJ5K7JqqrebrD9TEWQqeaL",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

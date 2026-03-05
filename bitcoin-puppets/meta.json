@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:59.749Z",
+  "slug": "bitcoin-puppets",
+  "tokenCount": 10001,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-puppets",
+    "collection": {
+      "symbol": "bitcoin-puppets",
+      "name": "Bitcoin Puppets",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoin-puppets.avif",
+      "chain": "btc",
+      "inscriptionIcon": "0e87907df38d4a7f6797944821721ad40dd561eef3c861646611ad83959f5342i0",
+      "description": "When you engage with the Puppets, leave behind the shackles of conventional thinking and surrender to the enchantment of the unconventional. Embrace the whimsy, relish in the absurd, and allow your imagination to roam freely. In this realm of handcrafted wonders, there are no guarantees, no prescribed paths to follow. It is a sanctuary for the offbeat and a testament to the limitless possibilities of artistic expression.",
+      "supply": 10001,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 03 Jan 2024 22:40:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

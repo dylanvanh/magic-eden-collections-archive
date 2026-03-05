@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:18.501Z",
+  "slug": "og-satoshis",
+  "tokenCount": 2196,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "og-satoshis",
+    "collection": {
+      "symbol": "og-satoshis",
+      "name": "OG Satoshis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-og-satoshis_pfp_1689210947948.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Art inspired by Bitcoin! No roadmap, utility, or expectation of profit",
+      "supply": 2118,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/OGsatoshis",
+      "discordLink": "https://discord.gg/bvfQ5nyQTw",
+      "websiteLink": "",
+      "createdAt": "Fri, 07 Jul 2023 04:16:16 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

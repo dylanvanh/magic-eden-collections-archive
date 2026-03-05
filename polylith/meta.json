@@ -1,0 +1,50 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:43.462Z",
+  "slug": "polylith",
+  "tokenCount": 3333,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHNjcmlwdD4KICAgIGZldGNoKCIvci9zYXQvNDUwOTU3NTI4NDEvYXQvLTEiKQogICAgICAudGhlbihyID0+IHIuanNvbigpKQogICAgICAudGhlbihkYXRhID0+IHsKICAgICAgICBjb25zdCBjdXJyZW50SWQgPSB3aW5kb3cubG9jYXRpb24ucGF0aG5hbWUuc3BsaXQoIi8iKS5wb3AoKTsKICAgICAgICBkb2N1bWVudC5ib2R5LmlubmVySFRNTCA9IGAKICAgICAgICAgIDxpZnJhbWUgc3JjPSIvY29udGVudC8ke2RhdGEuaWR9P2lpZD0ke2N1cnJlbnRJZH0iIHN0eWxlPSJwb3NpdGlvbjpmaXhlZDsgdG9wOjA7IGxlZnQ6MDsgd2lkdGg6MTAwJTsgaGVpZ2h0OjEwMCU7IGJvcmRlcjpub25lOyBtYXJnaW46MDsgcGFkZGluZzowOyBvdmVyZmxvdzpoaWRkZW47IHotaW5kZXg6OTk5OTsiPjwvaWZyYW1lPgogICAgICAgIGA7CiAgICAgIH0pOwo8L3NjcmlwdD4=",
+    "chain": "btc",
+    "parentInscriptionId": "c2f91895377a5333ed5d6bfd186603dfbcac51f96c41606d69aa437c7c8b7389i0",
+    "collectionSymbol": "polylith",
+    "collection": {
+      "symbol": "polylith",
+      "name": "Polylith by OTO",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-polylith_pfp_1745623411850.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Polylith is a long-form generative artwork that explores the flow of time and perception through the lens of Bitcoin.\nUnlike conventional time that moves forward, Polylith’s timeline unfolds in reverse—from Block #8,400,000 back to the Genesis Block—transforming each Bitcoin block into a still, yet evolving page.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://linktr.ee/ordinalmimi",
+      "createdAt": "Fri, 25 Apr 2025 23:34:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "336i9yrjqBkt9y8DBUAvL8JcR7UeoMph5t",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

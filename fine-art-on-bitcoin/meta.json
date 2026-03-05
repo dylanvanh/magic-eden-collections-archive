@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:13.729Z",
+  "slug": "fine-art-on-bitcoin",
+  "tokenCount": 493,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "69420206a098295a6d18a26ce72451782c45a3515dda637de9a18dba6b31bfe1i0",
+    "collectionSymbol": "fine-art-on-bitcoin",
+    "collection": {
+      "symbol": "fine-art-on-bitcoin",
+      "name": "Fine Art on Bitcoin",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fine-art-on-bitcoin_pfp_1770305560563.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Fine Art on Bitcoin by Joe Ordinals",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/JoeOrdinals",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 15 Jan 2026 13:31:58 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

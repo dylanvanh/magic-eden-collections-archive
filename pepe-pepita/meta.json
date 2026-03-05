@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:38.929Z",
+  "slug": "pepe-pepita",
+  "tokenCount": 4346,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "pepe-pepita",
+    "collection": {
+      "symbol": "pepe-pepita",
+      "name": "Pepe & Pepita",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/pepe-pepita.avif",
+      "chain": "btc",
+      "inscriptionIcon": "9957edb314a291725c3b798af2a6295765cf48bdd0aee866f141d2706b428385i0",
+      "description": "",
+      "supply": 4140,
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 17 May 2023 09:29:44 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

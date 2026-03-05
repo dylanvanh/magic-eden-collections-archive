@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:24.751Z",
+  "slug": "21_btc_milestones",
+  "tokenCount": 21,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "parentInscriptionId": "6d0ac1dc0a2e84fd437d23ef4f196720d044b358987be5e0dcd48b283e6e2493i0",
+    "outputValue": 546,
+    "collectionSymbol": "21_btc_milestones",
+    "collection": {
+      "symbol": "21_btc_milestones",
+      "name": "21 BTC MILESTONES",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-21_btc_milestones_pfp_1761032377573.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "“21BTC MILESTONES” is a digital art series by Lele Gastini that narrates the history of Bitcoin through 21 iconic moments — from the 2008 White Paper to Pizza Day, from the early bull runs to El Salvador and the 2024 halving with spot ETFs. Each artwork is crafted in stark black and white, mirroring the contrast at the heart of Bitcoin: code and chaos, scarcity and abundance, fragility and eternity. A collection that aims to carve on Bitcoin thoughts, lines, and emotions that bind art and technology together.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/LeleGastini",
+      "discordLink": "",
+      "websiteLink": "https://www.lelegastini.it/",
+      "createdAt": "Wed, 22 Oct 2025 14:39:55 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qk7m52vpszq3a3la88t0eufr603zdfnham5u7zc",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:38.681Z",
+  "slug": "penni",
+  "tokenCount": 169,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "penni",
+    "collection": {
+      "symbol": "penni",
+      "name": "Penni",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-penni_pfp_1751412030177.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "1 of 1 collection with private alpha group access",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/cye3eVJGAp",
+      "websiteLink": "",
+      "createdAt": "Wed, 02 Jul 2025 15:39:28 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qlaw5dvyu8e0rtxpz0np4vagjd9ghkdlw8lke0z",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

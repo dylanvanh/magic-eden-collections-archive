@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:47.368Z",
+  "slug": "punksonbitcoin",
+  "tokenCount": 103,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "punksonbitcoin",
+    "collection": {
+      "symbol": "punksonbitcoin",
+      "name": "Punks On Bitcoin",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-punksonbitcoin_pfp_1708043423883.png",
+      "chain": "btc",
+      "inscriptionIcon": "f3247c255e78a659b52ac08572d1c02ccd1390b69a06c65848aafaeaf0799f40i0",
+      "description": "The first 1/1 original art sub 10k Punk collection on Bitcoin.",
+      "supply": 103,
+      "twitterLink": "https://twitter.com/PunksOnBitcoin",
+      "discordLink": "https://discord.gg/AWT4EnWjt4",
+      "websiteLink": "https://www.punksonbitcoin.com/",
+      "createdAt": "Thu, 23 Mar 2023 03:18:24 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

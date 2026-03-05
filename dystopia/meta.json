@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:06.130Z",
+  "slug": "dystopia",
+  "tokenCount": 1092,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "dystopia",
+    "collection": {
+      "symbol": "dystopia",
+      "name": "DYSTOPIA by TheArtist",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dystopia_pfp_1760788259153.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "And then so my story goes Girl meets boy Let’s go Of the things they love and the things they do Forever",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/TheArtistBTC",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sat, 18 Oct 2025 12:12:14 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qjhn3wvzwpygmpxkqwkuzpkh6m7exnmwu093wkr",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:41.793Z",
+  "slug": "bfc",
+  "tokenCount": 6740,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "bfc",
+    "collection": {
+      "symbol": "bfc",
+      "name": "Bitcoin Foxes",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bfc.avif",
+      "chain": "btc",
+      "inscriptionIcon": "d3b8ecaca430e010c8126a9d219fcee584069123636319dcf0f2b368dcd84c6ci0",
+      "description": "Bitcoin Foxes Club brings a new chapter in the decentralized art space.",
+      "supply": 7000,
+      "twitterLink": "https://twitter.com/bitcoinfoxclub",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 06 Jun 2023 15:02:40 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:29.294Z",
+  "slug": "hoomees",
+  "tokenCount": 4987,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "hoomees",
+    "collection": {
+      "symbol": "hoomees",
+      "name": "Hoomee's",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-hoomees_pfp_1750642536101.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Bitcoins cutest 1:1 pfp art collection by the infamous Aneemoo's team",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/unbXC5N5ez",
+      "websiteLink": "https://aneemoos.wtf/hoomees",
+      "createdAt": "Mon, 23 Jun 2025 01:58:43 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "35wBut6oLRobsuDN6rNBd8aNKqNfo1myyk",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

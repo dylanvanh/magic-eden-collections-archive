@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:56.469Z",
+  "slug": "rigelians",
+  "tokenCount": 3995,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "rigelians",
+    "collection": {
+      "symbol": "rigelians",
+      "name": "Rigelians",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-rigelians_pfp_1758207481570.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "4000 curated Rigelians representing the birth of the Spark movement.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/RigeliansSpark",
+      "discordLink": "https://discord.gg/nNRgcJHwM7",
+      "websiteLink": "https://rigelians.com/",
+      "createdAt": "Mon, 22 Sep 2025 17:44:20 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p36xa6cnlunmnnmsy4uqe52m9ufp6mcmehjwnspqwxeug039k9ecq4quxeu",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

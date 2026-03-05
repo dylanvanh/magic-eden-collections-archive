@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:53.005Z",
+  "slug": "deragebtc",
+  "tokenCount": 131,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "deragebtc",
+    "collection": {
+      "symbol": "deragebtc",
+      "name": "Derage",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-deragebtc_pfp_1708966327558.png",
+      "chain": "btc",
+      "inscriptionIcon": "977995788d8d3f6ae0af6669758325eb53165ee87e64018ab525e9f3b614d14ci0",
+      "description": "A Derivate Degen Rage collection by Darkfarms1. CC0",
+      "supply": 131,
+      "twitterLink": "https://twitter.com/Darkfarms1",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 26 Feb 2024 17:32:56 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

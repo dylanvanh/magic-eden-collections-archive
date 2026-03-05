@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:37.794Z",
+  "slug": "champions",
+  "tokenCount": 1111,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "champions",
+    "collection": {
+      "symbol": "champions",
+      "name": "IMSO: Champions",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-champions_pfp_1710307742658.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Every PFP includes a playable 3d avatar that matches it in Bitmap Valley as well as other games to come!--------------------------------------------------This is the most composable, utility rich Ordinal built for cross game playability utilizing Bitmaps, Runes, daily token rewards, airdrops, whitelists, partnership integrations, & other new utilities on Bitcoin layer 1!--------------------------------------------------This is the most premium asset in the \"Bitmap Valley\" ecosystem, our releases will set the tone for what can be done with web3 games using Bitcoin as the verification layer!--------------------------------------------------Join discord & check to see how truly new and exciting this journey is!",
+      "supply": 1111,
+      "twitterLink": "https://twitter.com/IMSOnft_Chris",
+      "discordLink": "https://discord.gg/WtFnym4FBK",
+      "websiteLink": "https://IMSOnft.io",
+      "createdAt": "Wed, 13 Mar 2024 05:34:39 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3By3ufmLdZQ62e8KJvj5EPVPuobKwA54Xd",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

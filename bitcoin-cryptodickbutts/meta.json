@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:48.171Z",
+  "slug": "bitcoin-cryptodickbutts",
+  "tokenCount": 5196,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-cryptodickbutts",
+    "collection": {
+      "symbol": "bitcoin-cryptodickbutts",
+      "name": "Bitcoin Crypto DickButts",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoin-cryptodickbutts.avif",
+      "chain": "btc",
+      "inscriptionIcon": "8e68a1d17b61463b78703cb9aa950ed665be85d099ab2008dffe71335f1c3167i0",
+      "description": "Bitcoin CryptoDickButts Inscribed Permanently On the BTC Chain",
+      "supply": 5200,
+      "twitterLink": "https://twitter.com/BTC_Dickbutts",
+      "discordLink": "https://discord.gg/pYhA3VdQY8",
+      "websiteLink": "https://bitcoincdb.com",
+      "createdAt": "Wed, 19 Apr 2023 00:44:04 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

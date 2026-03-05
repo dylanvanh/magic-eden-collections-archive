@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:16.772Z",
+  "slug": "bitdisc_black_1",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "bitdisc_black_1",
+    "collection": {
+      "symbol": "bitdisc_black_1",
+      "name": "bitDisc-Black(bitSmiley OG)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitdisc_black_1_pfp_1707117187115.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Your ticket to Bitcoin's revolutionary future in DeFi",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/bitsmiley_labs",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 05 Feb 2024 07:15:28 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

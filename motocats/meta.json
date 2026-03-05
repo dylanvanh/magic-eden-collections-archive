@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:55.866Z",
+  "slug": "motocats",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "motocats",
+    "collection": {
+      "symbol": "motocats",
+      "name": "Motocat Racing Club",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-motocats_pfp_1754578871657.png",
+      "chain": "btc",
+      "inscriptionIcon": "078b1b5018af005038a13420eb57e8801f0267a56fa53be91ef968faa056af76i0",
+      "description": "Motocat Racing Club - mascots of Bitcoin-native DeFi. A collection of 10,000 on-chain cats racing into the Motoswap era of yield farming, staking, and more - all on Bitcoin Layer 1!",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/4aJMpYXbKy",
+      "websiteLink": "https://motocats.xyz",
+      "createdAt": "Sun, 03 Aug 2025 10:52:01 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p2vgfaeet5jnkeeu0dtx9eh8antkgpnjy38t9tml6k8k046qadh4qjdl7md",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:33.820Z",
+  "slug": "asf",
+  "tokenCount": 6069,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "asf",
+    "collection": {
+      "symbol": "asf",
+      "name": "Anti Social Frogs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-asf_pfp_1714378875460.png",
+      "chain": "btc",
+      "inscriptionIcon": "7939d8180d97cec4fb5f2ba25466b3b5a3bd9be941ac5704429ede690ddde612i356",
+      "description": "WHEN RIBBIT MEETS CHAOS. FUCK THE CABAL.",
+      "supply": 6069,
+      "twitterLink": "https://twitter.com/AntiSocialFrogs",
+      "discordLink": "http://discord.gg/fuckthecabal",
+      "websiteLink": "",
+      "createdAt": "Mon, 29 Apr 2024 09:32:35 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "31rEsnQob6uCcqE4mSuMmuFKesXUrXmD9D",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "JPEG"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

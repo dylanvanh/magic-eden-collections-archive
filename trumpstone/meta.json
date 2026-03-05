@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:48.949Z",
+  "slug": "trumpstone",
+  "tokenCount": 9999,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "trumpstone",
+    "collection": {
+      "symbol": "trumpstone",
+      "name": "Trumpstone",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-trumpstone_pfp_1737476645923.png",
+      "chain": "btc",
+      "inscriptionIcon": "fb033aeb63b0d7353a080bc5935cfb16867b0360b93bc19920c336b9f07546ebi0",
+      "description": "A relic of the Degen Republic inscribed on Bitcoin. 10k Ordinals. Free mint. No bailouts.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/thetrumpstone",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 21 Jan 2025 16:29:49 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "bc1qsy0nydksvjyrw43u03zstdjmm3samkr799z7a5",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

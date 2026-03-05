@@ -1,0 +1,50 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:56.175Z",
+  "slug": "worldwisewizards",
+  "tokenCount": 2500,
+  "defaults": {
+    "contentType": "text/html",
+    "contentBody": "PCFET0NUWVBFIGh0bWw+PGh0bWw+PGhlYWQ+PGxpbmsgaHJlZj0iL2NvbnRlbnQvY2NlM2MzOGQ1Yzc3ZGY4YjZjMzdhMjg4OWYxMDUyMmM2NjExOGIzOTM1M2U5NzMxNTExMTcxMDE5NDAxMDQwMmkwIiByZWw9Imljb24iPgo8c2NyaXB0Pihhc3luYygpPT57Y29uc3Qgcz1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJzY3JpcHQiKTtzLnNyYz1gL2NvbnRlbnQvJHsoYXdhaXQoYXdhaXQgZmV0Y2goJy9yL3NhdC8xOTA2MjgzOTg1NDY0MDI3L2F0Ly0xJykpLmpzb24oKSkuaWR9YDtkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKHMpO30pKCk7PC9zY3JpcHQ+PC9oZWFkPjwvaHRtbD4=",
+    "genesisTransaction": "16180339732bd96ef1b57395140f99080dc3aeacc518e2decf9fcf2af18df598",
+    "genesisTransactionBlockTime": "Fri, 17 Oct 2025 00:13:10 GMT",
+    "genesisTransactionBlockHash": "000000000000000000007a54f4043b392e29ffdf778dbd793a44041b6469ed5c",
+    "genesisTransactionBlockHeight": 919410,
+    "chain": "btc",
+    "parentInscriptionId": "1618033960614c07ca0c3a04dd63f602279bb368e3ce5dbb2a06d1d8588fa71ei0",
+    "collectionSymbol": "worldwisewizards",
+    "collection": {
+      "symbol": "worldwisewizards",
+      "name": "World Wise Wizards",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-worldwisewizards_pfp_1760706945598.png",
+      "chain": "btc",
+      "inscriptionIcon": "16180339732bd96ef1b57395140f99080dc3aeacc518e2decf9fcf2af18df598i1",
+      "description": "World Wise Wizards is an OG collection of 2500 wizards PFP-nfts on Bitcoin. They summon ancient wisdom and forbidden magic, each piece steeped in deep, unfolding lore. They stand as a repudiation of modernity’s hollow trends—embracing timeless arcana and the pursuit of true knowledge.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/wifizards",
+      "discordLink": "",
+      "websiteLink": "https://worldwisewizards.com/",
+      "createdAt": "Fri, 17 Oct 2025 14:16:30 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p4n6ne8ya8yp06pntfju2quwhedrs0acn30xq40wttlhvnmqknakqr9pn9r",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 740054,
+    "satBlockTime": "Thu, 09 Jun 2022 13:34:14 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

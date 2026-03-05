@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:30.397Z",
+  "slug": "ailu",
+  "tokenCount": 2100,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "a3fb1b9aa4fd072cdc3616224c46276b064ac84d554dd750c92e53bd920a6969i0",
+    "collectionSymbol": "ailu",
+    "collection": {
+      "symbol": "ailu",
+      "name": "AILU",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ailu_pfp_1708462362490.png",
+      "chain": "btc",
+      "inscriptionIcon": "fb09c6a302543294188f44e4e91b0b986ad20c92b556d651d59f4f9d85bfa4dbi0",
+      "description": "AILU: A collection of 2,100 cybernetic panda avatars immutably inscribed on Bitcoin. Each character is a 3D and Fully Rigged asset created by METAPANDA to empower the pseudonymous economy. These digital identities are forged to conquer darkness and express the symbiosis between nature & machine.",
+      "supply": 2100,
+      "twitterLink": "https://twitter.com/Ailu2100",
+      "discordLink": "https://discord.gg/AILU",
+      "websiteLink": "https://endangeredlabs.io/",
+      "createdAt": "Tue, 16 Apr 2024 14:13:54 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "33bddxQRy8ktFNCqRrKA7po9tr73hJH5K4",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

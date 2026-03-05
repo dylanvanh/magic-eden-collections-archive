@@ -1,0 +1,48 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:41.795Z",
+  "slug": "taproot_punks",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "meta": {
+      "name": "TRP",
+      "attributes": [
+        {
+          "value": "Taproot Punks (100)",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    "collectionSymbol": "taproot_punks",
+    "collection": {
+      "symbol": "taproot_punks",
+      "name": "Taproot Punks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-taproot_punks_pfp_1690116354057.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "100 unique digital collectibles on #Bitcoin. Paying homage to Larva Labs Cryptopunks & Mavensbot. Inscriptions 19,670 - 54,245.",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/ordeclipse",
+      "discordLink": "https://discord.gg/ordeclipse",
+      "websiteLink": "https://www.taprootpunks.art/",
+      "createdAt": "Wed, 27 Mar 2024 22:07:55 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "TRP"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

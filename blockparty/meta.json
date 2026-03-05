@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:22.674Z",
+  "slug": "blockparty",
+  "tokenCount": 200,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "blockparty",
+    "collection": {
+      "symbol": "blockparty",
+      "name": "Block Party",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-blockparty_pfp_1745584776991.png",
+      "chain": "btc",
+      "inscriptionIcon": "f583f227f6ee0d9087038b5c417eecb1837455805f4f2fbebbdbc022b362fa0ai0",
+      "description": "Dance Dance I said Dance",
+      "supply": 45,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://strangersolemn.art",
+      "createdAt": "Fri, 25 Apr 2025 13:02:38 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "35u9NFA9PjNcYTeBWH8sDyNKYAGvyxrAMV",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

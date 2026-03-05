@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:42.474Z",
+  "slug": "cirque-le-noir-clowns",
+  "tokenCount": 5002,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "cirque-le-noir-clowns",
+    "collection": {
+      "symbol": "cirque-le-noir-clowns",
+      "name": "Cirque Le Noir | Clowns",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/cirque-le-noir-clowns.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "everyone is welcome, but not everyone can stay. 9999 recursively inscribed high-res jesters clowning around on-chain #btc as ordinals.",
+      "supply": 5000,
+      "twitterLink": "https://twitter.com/CirqueLeNoir",
+      "discordLink": "https://discord.gg/cirquelenoir",
+      "websiteLink": "https://cirquelenoir.io/",
+      "createdAt": "Sat, 24 Jun 2023 10:24:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

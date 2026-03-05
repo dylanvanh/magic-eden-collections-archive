@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:31.793Z",
+  "slug": "antiderp",
+  "tokenCount": 777,
+  "defaults": {
+    "contentType": "image/webp",
+    "genesisTransaction": "0ca94d8ab50235a206998d429b4738667c5f0268c726cd1fe3d9ec8bc059973d",
+    "genesisTransactionBlockTime": "Thu, 01 Feb 2024 23:44:46 GMT",
+    "genesisTransactionBlockHash": "000000000000000000038c114cb2e8f6096c76c800f921992f7f0342ae8a17f1",
+    "genesisTransactionBlockHeight": 828460,
+    "chain": "btc",
+    "parentInscriptionId": "98183aa9141c8fe561fc8dfb75c066f686b163486107e613b1beef06562f15d3i0",
+    "collectionSymbol": "antiderp",
+    "collection": {
+      "symbol": "antiderp",
+      "name": "ANTIDERP METADUMBPROTOCOL",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-antiderp_pfp_1706831009319.png",
+      "chain": "btc",
+      "inscriptionIcon": "98183aa9141c8fe561fc8dfb75c066f686b163486107e613b1beef06562f15d3i0",
+      "description": "ANTIDERP is a stupidly powerful expansion to the DERP game.",
+      "supply": 777,
+      "twitterLink": "https://twitter.com/btcmachine98",
+      "discordLink": "https://discord.gg/btcmachine",
+      "websiteLink": "",
+      "createdAt": "Thu, 01 Feb 2024 23:50:37 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 358618,
+    "satBlockTime": "Sat, 30 May 2015 05:49:12 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

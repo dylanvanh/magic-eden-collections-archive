@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:47.531Z",
+  "slug": "bitbonnies",
+  "tokenCount": 999,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "bitbonnies",
+    "collection": {
+      "symbol": "bitbonnies",
+      "name": "BitBonnies",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitbonnies.avif",
+      "chain": "btc",
+      "inscriptionIcon": "1ff53329b2b99eab6a403f1af6a70fadcd2c5c178f170f989dc10474f49f4481i0",
+      "description": "999 BitBonnies living on the Bitcoin blockchain for eternity",
+      "supply": 999,
+      "twitterLink": "https://twitter.com/BitBonnies",
+      "discordLink": "https://discord.gg/Eca6UGXmUV",
+      "websiteLink": "https://bitbonnies.com/",
+      "createdAt": "Thu, 23 Mar 2023 04:49:22 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qtdat2gec40ntthdcerunj02qe2qmd8c3xf7tph",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

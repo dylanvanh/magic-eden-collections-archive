@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:55.962Z",
+  "slug": "world_peace_cards",
+  "tokenCount": 2308,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "world_peace_cards",
+    "collection": {
+      "symbol": "world_peace_cards",
+      "name": "World Peace Cards",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-world_peace_cards_pfp_1733165199449.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "8827f021daa0c64ef02d87194b763a0b89114dad2c03e87dd9abc44613629a5fi1",
+      "description": "Spreading world peace one meme at a time",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/WPCBTC",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 02 Dec 2024 18:51:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

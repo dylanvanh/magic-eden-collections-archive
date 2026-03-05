@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:50.533Z",
+  "slug": "uncommonpatterns",
+  "tokenCount": 50,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "uncommonpatterns",
+    "collection": {
+      "symbol": "uncommonpatterns",
+      "name": "Uncommon Patterns by Nullish",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/uncommonpatterns.avif",
+      "chain": "btc",
+      "inscriptionIcon": "359020e026929a01cec01f0f8a1123fe6f802b396f9b7cce2c3453dbeedf0c9ai0",
+      "description": "A full-feature cohesive generative Ordinal project exploring sat rarity.Discover the chaotic beauty of 50 algorithmically generated art pieces, all inscribed on uncommon sats.",
+      "supply": 50,
+      "twitterLink": "https://twitter.com/null_ish",
+      "discordLink": "https://discord.gg/rAQDwwXYbS",
+      "websiteLink": "https://nullish.org",
+      "createdAt": "Tue, 16 May 2023 15:57:00 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1ptl3atv5wefr8s36vvqlfxvhcr9h7g9ut2uu0rzutn6w9vw79vzqqewlt77",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "uncommon"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

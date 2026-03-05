@@ -1,0 +1,46 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:43.624Z",
+  "slug": "the_dan_files",
+  "tokenCount": 11,
+  "defaults": {
+    "contentType": "text/plain;charset=utf-8",
+    "chain": "btc",
+    "locationBlockHeight": 875540,
+    "locationBlockTime": "Fri, 20 Dec 2024 05:16:56 GMT",
+    "locationBlockHash": "00000000000000000001ceb00730252bf045cdd0283396c17f1d38a3349b76cb",
+    "outputValue": 330,
+    "owner": "bc1pz0zcxl9a3473rh5xd554nnm59u4ekl42d36l2x552umm9ykaqm8sspwdh9",
+    "listed": false,
+    "listedPrice": 0,
+    "collectionSymbol": "the_dan_files",
+    "collection": {
+      "symbol": "the_dan_files",
+      "name": "The Dan Files",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/the_dan_files.jpg",
+      "chain": "btc",
+      "inscriptionIcon": "62948f050712dec98f103dbd487e176dcf48f7a8be1b78271b3e27f922fa9e2fi0",
+      "description": "An index of early Ordinal collections I created for fortune and glory. There are 10 series of digital artifacts inscribed on the digital megalith that together make up the complete Dan Files collection of 65 inscriptions total. Their on-chain provenance is shared below. Search \"The Dan Files\" on Magic Eden to explore the actual media.",
+      "supply": 11,
+      "twitterLink": "https://twitter.com/dan_files",
+      "discordLink": "https://discord.gg/kfxNqyhJ5E",
+      "websiteLink": "https://www.thedanfiles.com/",
+      "createdAt": "Wed, 22 Mar 2023 23:28:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:41.434Z",
+  "slug": "chubbypuppets",
+  "tokenCount": 9940,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "chubbypuppets",
+    "collection": {
+      "symbol": "chubbypuppets",
+      "name": "Chubby Puppets",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-chubbypuppets_pfp_1712783480800.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Chubby Puppets for World Peace☮️",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/ChubbyPuppets",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Wed, 10 Apr 2024 21:25:15 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q8yjy54zzleevsn87t9fp3ee5y6jw5jtwmtv45g",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

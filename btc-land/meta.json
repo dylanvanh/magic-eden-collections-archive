@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:27.350Z",
+  "slug": "btc-land",
+  "tokenCount": 10100,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "btc-land",
+    "collection": {
+      "symbol": "btc-land",
+      "name": "BTC Land",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/btc-land.avif",
+      "chain": "btc",
+      "inscriptionIcon": "a39e09773da4c117454fbfe089e1140473f0fe8b0c22b6e675d9a576978e45cdi0",
+      "description": "BTC Land is the most important Real Estate in the world. Own a piece of BTC Land and enjoy all the benefits of being part of this peaceful gated community. Differents districts to be part of: 1 - Toxic. 2 - Mutated Land. 3 - Satoria. 4 - Infected Land. 5 - Wastelands. 6 - ZLands. 7 - Gold & Uniques.",
+      "supply": 29426,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/btcordinal",
+      "discordLink": "https://discord.gg/btcmachine",
+      "websiteLink": "https://www.satoria.world/",
+      "createdAt": "Mon, 27 Mar 2023 17:55:36 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "bc1pcmn0l7w382ygvpehvtz57n2r75l5j7nyzkq54lf8zr3pm48y0aesh4pd96",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

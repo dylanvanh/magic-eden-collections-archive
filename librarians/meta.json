@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:45.625Z",
+  "slug": "librarians",
+  "tokenCount": 50,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "librarians",
+    "collection": {
+      "symbol": "librarians",
+      "name": "The Librarians",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-librarians_pfp_1718761643719.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "\"The Librarians\" is a premium art collection made from the Fidelion IP. The Librarians consist of 100 unique pieces, initially distributed as gifts to the top 50 dedicated Fidelion holders in the Fidelion channel. Every Librarian in this collection holds a unique 1/1 cultural trait.- This will be the first BTC assets utilized for the Solana on-chain game via Zeus Network collaboration.",
+      "supply": 50,
+      "twitterLink": "https://twitter.com/FidelionNFT",
+      "discordLink": "https://discord.gg/officialfidelion",
+      "websiteLink": "https://blackmarket.fidelion.io/#/collection",
+      "createdAt": "Wed, 19 Jun 2024 03:37:22 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3Qi1t2o1v9coqzJwzbXRbiyazkawVgmYkF",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 994,
+    "satBlockTime": "Mon, 19 Jan 2009 05:54:49 GMT",
+    "satributes": [
+      "Common",
+      "Vintage"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

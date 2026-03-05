@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:23.128Z",
+  "slug": "ordglyph",
+  "tokenCount": 512,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ordglyph",
+    "collection": {
+      "symbol": "ordglyph",
+      "name": "Ordglyphs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordglyph_pfp_1711192831114.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "OrdGlyphs are generative pixel art collection 64x64 pixel, each one unique and generated off-chain with a code.",
+      "supply": 512,
+      "twitterLink": "https://twitter.com/ordglyphs",
+      "discordLink": "https://discord.gg/monas",
+      "websiteLink": "https://gamma.io/ordinals/collections/ordglyphs",
+      "createdAt": "Sun, 24 Mar 2024 16:18:07 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

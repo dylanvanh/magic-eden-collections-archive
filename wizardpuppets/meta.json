@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:54.663Z",
+  "slug": "wizardpuppets",
+  "tokenCount": 1307,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "wizardpuppets",
+    "collection": {
+      "symbol": "wizardpuppets",
+      "name": "Wizard Puppets",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-wizardpuppets_pfp_1754190227915.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "746 FREE MINT. Hand drawn Wizard Puppets bringing order and chaos to Ordinals.\n\nWorld Peace ☮️\nBRC 2.0 $MAGIC",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://x.com/WizardPuppets",
+      "createdAt": "Sun, 03 Aug 2025 04:29:14 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3PNkTopDJJhs4sZxzbXuVfHAg1qRpHkfvH",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:31.612Z",
+  "slug": "aliens-of-fairness",
+  "tokenCount": 110,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "parentInscriptionId": "87c0f2e0ed83c257e56eaab9c8047add819f23813ca5492ba1d9fefd48f2ddb9i0",
+    "outputValue": 546,
+    "collectionSymbol": "aliens-of-fairness",
+    "collection": {
+      "symbol": "aliens-of-fairness",
+      "name": "Aliens of Fairness",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-aliens-of-fairness_pfp_1760496774728.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "First-ever free collection on Uncommon rare sats, with Parent-Child Provenance. Guided by the Alien Bible on a Rare Sat.\n\n110 hand-drawn Aliens exist to set fairness as the standard in the Bitcoin ecosystem.\n\nWe’re here to fight greed and put fairness first. ⚔️",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/pipealiens",
+      "discordLink": "https://discord.gg/V7EHJxjGXJ",
+      "websiteLink": "",
+      "createdAt": "Wed, 15 Oct 2025 03:10:49 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q27xw043pgx9uzt3akkd5gn60e869zjavm4d2h3",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "uncommon",
+    "satributes": [
+      "Alpha",
+      "Uncommon"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

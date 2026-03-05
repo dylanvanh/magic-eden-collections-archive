@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:20.220Z",
+  "slug": "bitminer",
+  "tokenCount": 4031,
+  "defaults": {
+    "contentType": "application/json",
+    "chain": "btc",
+    "collectionSymbol": "bitminer",
+    "collection": {
+      "symbol": "bitminer",
+      "name": "BITMINER ",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitminer_pfp_1742197208126.gif",
+      "chain": "btc",
+      "inscriptionIcon": "2342763af1e1bfb774f0196040cb5e2ab56f688828395618abaa87c3028b34ebi0",
+      "description": "BITMINER is the World's First Metaverse Deployable DMT UNAT Application, designed to extract various Digital Resources from blockchain & Metaverse. Each BitMiner is uniquely created when a Bitcoin block height ends in \"99\", making it a rare and valuable digital asset with practical metaverse applications.\n\nApp Link: https://miner.mybitverse.com",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/3hES55jtsj",
+      "websiteLink": "HTTPS://MINER.MYBITVERSE.COM",
+      "createdAt": "Mon, 17 Mar 2025 09:37:30 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

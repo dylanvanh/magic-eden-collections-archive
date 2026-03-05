@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:32.812Z",
+  "slug": "btcwhal3s",
+  "tokenCount": 111,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "btcwhal3s",
+    "collection": {
+      "symbol": "btcwhal3s",
+      "name": "Whal3s",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-btcwhal3s_pfp_1727715266350.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "41fd1d9bfb17cbdf7e9e36afdebf1b2f153e778e6d5c2604e3e69d710cd96c6ei0",
+      "description": "111 Whal3s diving into the deep oceans of the bitcoin blockchain",
+      "supply": 111,
+      "twitterLink": "https://twitter.com/SaveTheWhal3s",
+      "discordLink": "https://discord.gg/PtEjVsPgzP",
+      "websiteLink": "https://linktr.ee/savethewhal3s",
+      "createdAt": "Wed, 08 May 2024 14:54:29 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qz80tjd6w7jqp36tl00t54mhmdg342a9w3csqmp",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

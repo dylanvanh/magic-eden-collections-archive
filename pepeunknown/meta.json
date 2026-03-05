@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:39.971Z",
+  "slug": "pepeunknown",
+  "tokenCount": 812,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "pepeunknown",
+    "collection": {
+      "symbol": "pepeunknown",
+      "name": "PEPE UNKNOWN",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pepeunknown_pfp_1702573544595.png",
+      "chain": "btc",
+      "inscriptionIcon": "7fe8971ecdf48ac730343f9c9866a794757c492ffd92b9c899738f095e4a8b07i0",
+      "description": "the first 1000 Unknown Pepes spawned from the FIRST permissionless ordinals launcher!",
+      "supply": 1000,
+      "twitterLink": "https://twitter.com/ORDPUK",
+      "discordLink": "https://discord.gg/fvHdmxNG",
+      "websiteLink": "",
+      "createdAt": "Thu, 14 Dec 2023 16:11:31 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

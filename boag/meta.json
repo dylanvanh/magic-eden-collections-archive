@@ -1,0 +1,48 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:23.424Z",
+  "slug": "boag",
+  "tokenCount": 500,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PCFET0NUWVBFIGh0bWw+PGh0bWwgbGFuZz0iZW4iPjxoZWFkPjx0aXRsZT5CaXJkcyBvZiBhIEdlbmVyYXRpdmUgMS4wPC90aXRsZT4KPHNjcmlwdCBzcmM9Ii9jb250ZW50LzRlODM2NTY4ZWRjOWIzNDljNTdkMzFlMWE2ZWJjNmNmOWNkODM5YzQwMzAyODZlZTczNzhkMTdlNjZiNTMzNGZpMCI+PC9zY3JpcHQ+PC9oZWFkPjxib2R5PjxzY3JpcHQ+CmxldCBpbmQ9Ui5JKDAsNCksY2w9Ui5JKDAsNCksbnM9Ui5JKDAsMSksc2w9Ui5JKDAsMSk7Cjwvc2NyaXB0PjxzY3JpcHQgc3JjPSIvY29udGVudC80ZTgzNjU2OGVkYzliMzQ5YzU3ZDMxZTFhNmViYzZjZjljZDgzOWM0MDMwMjg2ZWU3Mzc4ZDE3ZTY2YjUzMzRmaTEiPjwvc2NyaXB0PjwvYm9keT48L2h0bWw+Cg==",
+    "genesisTransaction": "b1d64a7b6d48efc0bb40e17ee4cbe0e5a66731b0309c4b50d56d394bcd53a3f0",
+    "genesisTransactionBlockTime": "Tue, 07 Jan 2025 02:36:09 GMT",
+    "genesisTransactionBlockHash": "00000000000000000000736433a5845559273f13ee7fb427ec91c1fa46e43873",
+    "genesisTransactionBlockHeight": 878160,
+    "chain": "btc",
+    "parentInscriptionId": "86c8774a017cb7411c49a668a4c1860c339313b72507f01e1e27850d00f7bdd2i0",
+    "collectionSymbol": "boag",
+    "collection": {
+      "symbol": "boag",
+      "name": "Birds of a Generative",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-boag_pfp_1736228362594.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Birds of a Generative 1.0 Generative code by Andrea Belloni Inscription seeds by TheArtist",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://x.com/thepandemonium",
+      "discordLink": "",
+      "websiteLink": "https://thepandemonium.io/",
+      "createdAt": "Tue, 07 Jan 2025 05:40:52 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

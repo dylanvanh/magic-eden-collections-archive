@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:54.168Z",
+  "slug": "moonstone",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "34ceb3c946197964e6329d19e568ad28cea82c2f36c93f33a69904c7805ac9bfi0",
+    "collectionSymbol": "moonstone",
+    "collection": {
+      "symbol": "moonstone",
+      "name": "Moonstone",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-moonstone_pfp_1744635742750.gif",
+      "chain": "btc",
+      "inscriptionIcon": "13130e4b299ed361f2a734f6433844ef0f0211cd504e0ca8f4d4ab20f51b8127i0",
+      "description": "The Moonstone is the first high-resolution, topographically accurate 3D model of the Moon on Bitcoin - a collaboration between Leo Caillard x Taproot Witches. \n\nThis astronomical 4MB monument is the foundation for the Moonstone collection: 13000 evolving time-bound artefacts that sync the celestial rhythm of the Moon with Bitcoin’s block time.\n\nAlign the Phases so they evolve into dynamic Blood and Blue Moons. All remaining Phases become dynamic Common Moons on the next lunar eclipse (September 7th). Moonstones are key to unlocking the next phase in the Taproot Witches' cosmic quest.\n\nGET ALIGNED OR GET LEFT BEHIND.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/TaprootWitches",
+      "discordLink": "https://discord.gg/TBXrvtXc2F",
+      "websiteLink": "https://astronomical.art/",
+      "createdAt": "Thu, 17 Oct 2024 19:14:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1ps4zulqge5vlz4zpt356v2mta6nxnzukc55kp8434ncy67whg55usx5cjdl",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 889800,
+    "satBlockTime": "Fri, 28 Mar 2025 07:35:15 GMT",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

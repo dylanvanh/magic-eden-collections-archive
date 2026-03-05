@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:39.741Z",
+  "slug": "spreadsheet_monkes",
+  "tokenCount": 9988,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "spreadsheet_monkes",
+    "collection": {
+      "symbol": "spreadsheet_monkes",
+      "name": "Spreadsheet Monkes",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-spreadsheet_monkes_pfp_1754547241557.png",
+      "chain": "btc",
+      "inscriptionIcon": "4ddcbefafbf7e83188e74c1bb45e1579844eeb4eb1f12a72b78c895cc90fee1bi0",
+      "description": "Spreadsheet Monkes on Bitcoin | Exceling on the Bitcoin Blockchain since 2024 | The first SFW, built for meetings NFT | Power users love us",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://x.com/xlmonkes",
+      "createdAt": "Thu, 07 Aug 2025 07:16:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

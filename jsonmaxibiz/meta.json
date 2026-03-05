@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:34.921Z",
+  "slug": "jsonmaxibiz",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "jsonmaxibiz",
+    "collection": {
+      "symbol": "jsonmaxibiz",
+      "name": "JSON Maxi Biz (JMB)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-jsonmaxibiz_pfp_1702125449919.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": ".--- ... --- -. / -- .- -..- .. / -... .. --.. / -.--. .--- -- -... -.--.-",
+      "supply": 10101,
+      "twitterLink": "https://twitter.com/JSONtoshi",
+      "discordLink": "",
+      "websiteLink": "https://jsonmaxi.biz",
+      "createdAt": "Sat, 09 Dec 2023 13:43:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

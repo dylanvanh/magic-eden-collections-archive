@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:51.863Z",
+  "slug": "uniworlds-key-of-destiny",
+  "tokenCount": 10100,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "uniworlds-key-of-destiny",
+    "collection": {
+      "symbol": "uniworlds-key-of-destiny",
+      "name": "UniWorlds: Key of Destiny",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-uniworlds-key-of-destiny_pfp_1716739723941.png",
+      "chain": "btc",
+      "inscriptionIcon": "acd5d3c56f4f2e0210682ffcf5383b10d18bd1fed58c6b3ac5d4e3df5e3d6e12i0",
+      "description": "Key of Destiny is an exclusive series of NFTs that serve as your passport to the UniWorlds ecosystem, embleming of access, governance, identity, and value recognition within our vibrant community.",
+      "supply": 18107,
+      "twitterLink": "https://twitter.com/UniWorlds_io",
+      "discordLink": "https://discord.gg/tatBr6v46T",
+      "websiteLink": "https://uniworlds.io/",
+      "createdAt": "Mon, 27 May 2024 07:27:54 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pleyp2knrjcgg7e0eaf0wqvnw4s0psswhvnx6s0p85h3s4wu2g66sfy5hjq",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:51.195Z",
+  "slug": "bitcoin-maxis",
+  "tokenCount": 4890,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-maxis",
+    "collection": {
+      "symbol": "bitcoin-maxis",
+      "name": "Bitcoin Maxis",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoin-maxis.avif",
+      "chain": "btc",
+      "inscriptionIcon": "47969200588c62c6bf0d6fb4c1d29e7369f52ced08737dc6814459e70bd49de1i0",
+      "description": "A collection of 5555 unique Bitcoin Maxi's inscribed as Ordinals",
+      "supply": 5555,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/bitcoinmaxis_",
+      "discordLink": "https://discord.gg/ECtX5NfBUt",
+      "websiteLink": "",
+      "createdAt": "Wed, 31 May 2023 13:08:13 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

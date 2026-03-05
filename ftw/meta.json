@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:19.762Z",
+  "slug": "ftw",
+  "tokenCount": 2100,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "ftw",
+    "collection": {
+      "symbol": "ftw",
+      "name": "FTW",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ftw_pfp_1723706428353.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "for the weirdos, for the world",
+      "supply": 2100,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/F___T___W",
+      "discordLink": "https://discord.gg/4pz9wZx6Xt",
+      "websiteLink": "https://f-t-w.xyz",
+      "createdAt": "Thu, 15 Aug 2024 08:43:10 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

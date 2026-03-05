@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:18.266Z",
+  "slug": "bitdream",
+  "tokenCount": 821,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "parentInscriptionId": "d2034a90f5a89b2547349a93e54f6489233dc62a34734bde228be3963eb000b4i0",
+    "collectionSymbol": "bitdream",
+    "collection": {
+      "symbol": "bitdream",
+      "name": "Bitdream by Howie Lab",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitdream_pfp_1746191581171.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "481d85d1e5cff435648ef407f1d90633ac78f97864181b786e07623df8cd5b92i0",
+      "description": "Step into the extraordinary world of a 7yo artist and his father, whose work uniquely blends vibrant colors, childlike wonder, and the organic beauty of pure code.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/MecbJ89wwm",
+      "websiteLink": "http://howie8art.substack.com",
+      "createdAt": "Fri, 02 May 2025 15:11:20 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "35Q5zbBpfBeniyDU4dD6QCZsnL52xk2mGQ",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

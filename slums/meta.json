@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:37.811Z",
+  "slug": "slums",
+  "tokenCount": 171,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "slums",
+    "collection": {
+      "symbol": "slums",
+      "name": "SLUMS",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-slums_pfp_1771105556716.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "SLUMS are fun, simple, and slightly chaotic recursive ordinal.\nfirst 100 free mint on richart.app",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/richbi11",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sat, 14 Feb 2026 22:12:40 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

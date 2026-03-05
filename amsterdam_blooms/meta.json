@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:31.624Z",
+  "slug": "amsterdam_blooms",
+  "tokenCount": 14,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "amsterdam_blooms",
+    "collection": {
+      "symbol": "amsterdam_blooms",
+      "name": "Amsterdam Blooms",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-amsterdam_blooms_pfp_1711047506858.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "d9b661c78f305344e713ae8636dab5fb09b0bec6c7ccc8d1873e6b2d05792fe9i0",
+      "description": "Amsterdam Blooms is an artistic compilation that seamlessly blends tradition and technology in the heart of the historic metropolis of Amsterdam.The first Inscribing Atlantis collection was presented there during Inscribing Amsterdam 2023, invoking this city with centuries of history, rich symbolism and a mosaic of cultural diversity. We invite you on a journey that honours the past of art and incorporates the innovations of the future as we explore the nexus of tradition and technology.At the heart of this art initiative is the timeless theme of the 'flower'. Symbolising everything from the beauty of friendship to the vitality of new beginnings, the flower has a meaning deeply rooted in art history. Amidst echoes of the Dutch Golden Age and indelible traces of Tulip Mania, artists come together here to explore and reinterpret this timeless motif.",
+      "supply": 14,
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/inscribingatlantis",
+      "websiteLink": "https://inscribingatlantis.com/",
+      "createdAt": "Thu, 21 Mar 2024 19:28:06 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "uncommon",
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

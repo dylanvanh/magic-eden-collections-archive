@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:49.352Z",
+  "slug": "cursed_rocks",
+  "tokenCount": 9993,
+  "defaults": {
+    "contentType": "application/json;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "cursed_rocks",
+    "collection": {
+      "symbol": "cursed_rocks",
+      "name": "CursedRocks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-cursed_rocks_pfp_1728223550203.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Digital artifacts on Bitcoin 🟧 | Yin Yang inscriptions blending Finance & Meme culture  | First and last 10k Yin Yang collection ☯️ 100% community based.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/NodeRocks_BTC",
+      "discordLink": "",
+      "websiteLink": "https://www.noderocks.biz/",
+      "createdAt": "Sat, 24 Aug 2024 13:32:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qv9srlkl2zuhprnx4j5dp4yxudu0wa0ecjtfk2k",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

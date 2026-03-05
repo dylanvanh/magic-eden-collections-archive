@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:56.013Z",
+  "slug": "ride_that_bull",
+  "tokenCount": 20,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "contentBody": "PHN2ZyB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48aW1hZ2UgaGVpZ2h0PSIxMDAlIiB3aWR0aD0iMTAwJSIgaHJlZj0iL2NvbnRlbnQvNGJiZDJiNmM2Mzk2ZGU2N2M3N2M2MWQ1MzVmNTEyMWJmOTQ1NDdlYjkwM2RjNmJkMzgzMjBiYmM4MmVjOWQyZWkwIi8+PC9zdmc+",
+    "chain": "btc",
+    "outputValue": 546,
+    "collectionSymbol": "ride_that_bull",
+    "collection": {
+      "symbol": "ride_that_bull",
+      "name": "Ride That Bull! by Eka",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ride_that_bull_pfp_1707211906858.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Let us be bold and never give up on our dreams.Embrace the ups and downs and stay focused on your goals.Hold on tight and ride that bull to new heights!20 editions on Bitcoin Ordinals",
+      "supply": 20,
+      "twitterLink": "https://twitter.com/ekavibes",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 06 Feb 2024 17:54:56 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

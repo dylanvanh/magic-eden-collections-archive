@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:32.636Z",
+  "slug": "arcanefragment",
+  "tokenCount": 100,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "arcanefragment",
+    "collection": {
+      "symbol": "arcanefragment",
+      "name": "Arcane Fragment by The O",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-arcanefragment_pfp_1701903768660.png",
+      "chain": "btc",
+      "inscriptionIcon": "550962f4158528d53464c5aeca5144fee8a2acc67a22735274a4af3bc18534e3i0",
+      "description": "In the shadow of an ascended realm, a fallen world approaches desolation; the Arcane Fragment silently beckons to be discovered.",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/o_nfts",
+      "discordLink": "https://discord.gg/qqqxac9ufK",
+      "websiteLink": "",
+      "createdAt": "Thu, 07 Dec 2023 00:36:05 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qsut73npfdnajg6j4rk0tz6nq9d60ak7wkz89sf",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

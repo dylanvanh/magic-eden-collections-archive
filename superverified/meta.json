@@ -1,0 +1,34 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:41.773Z",
+  "slug": "superverified",
+  "tokenCount": 2524,
+  "defaults": {
+    "chain": "btc",
+    "parentInscriptionId": "5381836216f93e0dba4e0100fe1720ca098c62ac3ff2f229605ff2e0f16bf220i0",
+    "collectionSymbol": "superverified",
+    "collection": {
+      "symbol": "superverified",
+      "name": "SUPER VERIFIED JULIO",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-superverified_pfp_1704135486843.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The Super Verified Collection is a parent-child collection referencing the parent Inscription #169603.  Each with distinct illustrations paying tribute to Twitter and X, the platform where it all began. Through the clever use of parody elements, this collection aims to engage with the web3 audience on a deeper level, provoking thought and evoking emotions as viewers explore the intersection of blockchain technology and beloved cultural references",
+      "supply": 2524,
+      "twitterLink": "https://twitter.com/superjulioworld",
+      "discordLink": "https://discord.gg/3xZTQ2RNTh",
+      "websiteLink": "https://www.super-julio.com/",
+      "createdAt": "Mon, 01 Jan 2024 19:19:09 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

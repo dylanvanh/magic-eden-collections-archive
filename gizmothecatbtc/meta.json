@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:24.202Z",
+  "slug": "gizmothecatbtc",
+  "tokenCount": 5552,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "gizmothecatbtc",
+    "collection": {
+      "symbol": "gizmothecatbtc",
+      "name": "Gizmo The Cat",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-gizmothecatbtc_pfp_1729161478462.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "5555 Gizmo The Cat TAKING OVER ORDINAL NOTHING MORE",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/GizmothecatBTC",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 17 Oct 2024 16:21:06 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p2w0259a9sek8zynaspmvewn6z6yt9s6d2qe95rg6lyz5qadqgleqpv29gx",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

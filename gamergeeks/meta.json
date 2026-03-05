@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:21.093Z",
+  "slug": "gamergeeks",
+  "tokenCount": 420,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "gamergeeks",
+    "collection": {
+      "symbol": "gamergeeks",
+      "name": "Gamer Geeks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-gamergeeks_pfp_1744062002858.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Art inspired by video gaming and Bitcoin! No roadmap, utility, or expectation of profit",
+      "supply": 420,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/gamergeeksbtc",
+      "discordLink": "https://discord.gg/3xZyQtRgMT",
+      "websiteLink": "",
+      "createdAt": "Fri, 23 Aug 2024 20:00:23 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

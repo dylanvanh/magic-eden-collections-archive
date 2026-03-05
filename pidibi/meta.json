@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:40.314Z",
+  "slug": "pidibi",
+  "tokenCount": 1221,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "chain": "btc",
+    "collectionSymbol": "pidibi",
+    "collection": {
+      "symbol": "pidibi",
+      "name": "PIDIBI PODIBY",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pidibi_pfp_1728089627025.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "PIDIBI DIBI POBIDI DIBI",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/PIDIBIPODIBY",
+      "discordLink": "https://discord.gg/TRxGbfYa",
+      "websiteLink": "https://www.ord.io/75958462",
+      "createdAt": "Sat, 05 Oct 2024 01:03:26 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qccpel23rk8y6apvvdrkvhn7cxl03w4uxpw96ne",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

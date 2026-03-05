@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:21.527Z",
+  "slug": "geminions-by-jrne-3",
+  "tokenCount": 3323,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "geminions-by-jrne-3",
+    "collection": {
+      "symbol": "geminions-by-jrne-3",
+      "name": "Geminions by JRNE",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/geminions-by-jrne-3.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Geminions are the inaugural characters of the JRNE ecosystem, created by the esteemed art collective eBoy, also known as the Godfathers of pixel. This unique collection draws inspiration from pixelated retro video games and includes attributes inspired by JRNE’s traceable gemstone partner, Greenland Ruby.\n\nThe Geminions community represents early supporters of JRNE, a pioneering luxury Web3 jewelry brand. Holders will receive priority access to exclusive brand rewards, experiences, and future collaborations.",
+      "supply": 1,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/GeminionsBTC",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 06 Jan 2025 23:03:24 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

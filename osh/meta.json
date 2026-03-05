@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:37.446Z",
+  "slug": "osh",
+  "tokenCount": 10100,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "osh",
+    "collection": {
+      "symbol": "osh",
+      "name": "OSH (ORC-CASH)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-osh_pfp_1690591641502.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "$OSH is the first token deployed on the ORC-CASH Protocol. This protocol allows valid Mint inscriptions to be traded as the tokens themselves, just like cash bills with a serial number. All Mint inscriptions included in this collection will always be valid until they are sent to a Burn Wallet address which will take them out of circulation.",
+      "supply": 21000,
+      "twitterLink": "https://twitter.com/infosatio",
+      "discordLink": "",
+      "websiteLink": "https://infosat.io/",
+      "createdAt": "Fri, 28 Jul 2023 04:57:53 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

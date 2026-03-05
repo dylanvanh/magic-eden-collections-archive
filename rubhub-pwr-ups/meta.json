@@ -1,0 +1,47 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:17.431Z",
+  "slug": "rubhub-pwr-ups",
+  "tokenCount": 7146,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "contentBody": "PHNjcmlwdD4KICAgIChhc3luYyAoKSA9PiB7CiAgICAgICAgY29uc3QgbG9hZENvbXBsZXRpb25Qcm9taXNlID0gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICAgICAgICB3aW5kb3cub25sb2FkID0gKCkgPT4gewogICAgICAgICAgICAgICAgcmVzb2x2ZSgpOwogICAgICAgICAgICB9OwogICAgICAgIH0pOwoKICAgICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGZldGNoKCcvci9zYXQvMTk1NzI2Njk5ODI1NzY1L2F0Ly0xJyk7CiAgICAgICAgY29uc3QgZGF0YSA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTsKICAgICAgICBjb25zdCBpZCA9IGRhdGEuaWQ7CiAgICAgICAgY29uc3QgZ2VuZXJhdG9yID0gYC9jb250ZW50LyR7aWR9YDsKCiAgICAgICAgY29uc3QgZ2VuU2NyaXB0ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7CiAgICAgICAgZ2VuU2NyaXB0LnNyYyA9IGdlbmVyYXRvcjsKCiAgICAgICAgYXdhaXQgbG9hZENvbXBsZXRpb25Qcm9taXNlOwoKICAgICAgICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGdlblNjcmlwdCk7CiAgICB9KSgpOwo8L3NjcmlwdD4=",
+    "chain": "btc",
+    "meta": {
+      "name": "🔥⚡️💦",
+      "collection_page_img_url": "https://djinnscriptions.com/pwr-up.png"
+    },
+    "collectionSymbol": "rubhub-pwr-ups",
+    "collection": {
+      "symbol": "rubhub-pwr-ups",
+      "name": "rubhub pwr ups",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-rubhub-pwr-ups_pfp_1757920030918.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Pwr up: 🔥⚡️💦",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://x.com/djinnscriptions",
+      "createdAt": "Mon, 15 Sep 2025 06:44:51 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "🔥⚡️💦"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

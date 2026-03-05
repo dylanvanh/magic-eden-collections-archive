@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:37.974Z",
+  "slug": "sosevo",
+  "tokenCount": 337,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "sosevo",
+    "collection": {
+      "symbol": "sosevo",
+      "name": "Sons of Satoshi Evolution",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-sosevo_pfp_1743926244986.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Sons walk the chain, eyes burning with purpose. \nNo past, no future - only the code remains..",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://x.com/sonsofsatoshi0",
+      "createdAt": "Sun, 06 Apr 2025 08:35:18 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "3Jcdno3VkE5cAnP8fASsU4qud7BBPNZ3rj",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

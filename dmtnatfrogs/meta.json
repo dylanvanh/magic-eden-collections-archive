@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:58.049Z",
+  "slug": "dmtnatfrogs",
+  "tokenCount": 8055,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "dmtnatfrogs",
+    "collection": {
+      "symbol": "dmtnatfrogs",
+      "name": "Nat Frogs",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dmtnatfrogs_pfp_1717362041605.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "The first community-curated art collection leveraging Digital Matter Theory, featuring 8,064 distinctive frogs, each uniquely generated and fully hosted on-chain. Natfrogs are born from Bitcoin blocks that contain the \"3b\" pattern within their merkle root string. The current supply is 8,064 and will increase as the \"3b\" pattern occurs in future blocks.",
+      "supply": 8064,
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Sat, 01 Jun 2024 15:17:34 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p3za0swpav45360s7krj3yu8w2zjs2t3nk8dr2hqxdvcjm6xskjsq0va00v",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

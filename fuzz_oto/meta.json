@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:20.915Z",
+  "slug": "fuzz_oto",
+  "tokenCount": 4522,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "fuzz_oto",
+    "collection": {
+      "symbol": "fuzz_oto",
+      "name": "FACTORY / FUZZ by OTO (Editions)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fuzz_oto_pfp_1736412922655.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "FACTORY: Static posters based on \"Synthesis.\"   FUZZ: Generative art that recursively calls \"FACTORY\" and regenerates it as particle animations.",
+      "supply": 2213,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/otograf_jp",
+      "discordLink": "https://discord.gg/Z9MyjqgvHP",
+      "websiteLink": "https://linktr.ee/ordinalmimi",
+      "createdAt": "Sun, 14 Jan 2024 09:24:02 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "336i9yrjqBkt9y8DBUAvL8JcR7UeoMph5t",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

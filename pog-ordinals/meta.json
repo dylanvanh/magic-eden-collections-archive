@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:43.155Z",
+  "slug": "pog-ordinals",
+  "tokenCount": 130,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "pog-ordinals",
+    "collection": {
+      "symbol": "pog-ordinals",
+      "name": "Pog Ordinals",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/pog-ordinals.avif",
+      "chain": "btc",
+      "inscriptionIcon": "076b56cbc4c9d645efc450bd4d18bd7e9027468cb3c702637cdb28c05ef6133fi0",
+      "description": "100% Authentic Official Pog Ordinals on the Bitcoin Blockchain",
+      "supply": 130,
+      "twitterLink": "https://twitter.com/PogDigital",
+      "discordLink": "https://discord.gg/pogdigital",
+      "websiteLink": "https://www.pogdigital.com/",
+      "createdAt": "Wed, 05 Apr 2023 00:46:55 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

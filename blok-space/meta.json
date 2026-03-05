@@ -1,0 +1,50 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:22.844Z",
+  "slug": "blok-space",
+  "tokenCount": 1000,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "73d068ca64b5e23e4d723298a590cb7f5741a973a99fd4956b624e905e16c917i0",
+    "collectionSymbol": "blok-space",
+    "collection": {
+      "symbol": "blok-space",
+      "name": "Blok Space by Blok",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-blok-space_pfp_1771031705110.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Premium digital real estate located on Blok 9 with rates starting as low as 1 sat/vB. Each trait hand-drawn by Blok.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Blok905",
+      "discordLink": "",
+      "websiteLink": "https://blok-space.com/",
+      "createdAt": "Wed, 19 Feb 2025 00:11:27 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pgd255z8pjqeawqzc96dwjzuuprcyp3jdckqzzlq98mf48hy29nmqst8x2y",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

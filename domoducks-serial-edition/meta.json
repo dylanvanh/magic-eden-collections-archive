@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:03.985Z",
+  "slug": "domoducks-serial-edition",
+  "tokenCount": 2570,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "domoducks-serial-edition",
+    "collection": {
+      "symbol": "domoducks-serial-edition",
+      "name": "DomoDucks (Serial Edition)",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-domoducks-flipper-edition_pfp_1708020286951.png",
+      "chain": "btc",
+      "inscriptionIcon": "19f504c44f0388c738ca92796b940617e60eb6239f27433b2e4c136191090954i0",
+      "description": "DomoDucks (Serial Edition) is a multi-parent complementation of the DomoDucks collection wherein 9 parents, inscribed on Block 9 sats, progenerate a fixed supply of 2,560 children with on-chain provenance to inscription #256 so as to offer a more attainable entry for those unable to acquire any of the 256 DomoDucks. The grid pattern and color palette of the logo were derived from 9 works in Andy Warhol’s Marilyn Monroe screenprint portfolio as they were displayed within the MoMa at NVG exhibition in 2018, and Warhol’s serial-repetition technique was utilized to extend the palette throughout all 2,560 children.",
+      "supply": 2570,
+      "twitterLink": "https://twitter.com/DomoDucks",
+      "discordLink": "https://discord.gg/H9nG9ybKUt",
+      "websiteLink": "https://domoducks.gitbook.io/domoducks/",
+      "createdAt": "Thu, 29 Feb 2024 22:19:40 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qq8nhm2huatj77pdnt3drnd75vnaw6wnz0g7qfh",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:20.424Z",
+  "slug": "bitshaders",
+  "tokenCount": 997,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "bitshaders",
+    "collection": {
+      "symbol": "bitshaders",
+      "name": "Bitshaders",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitshaders_pfp_1747737742264.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Bitshaders is a Bitcoin-native Ordinals collection that reveals the hidden personas behind crypto culture.\n\nEach Bitshader is a 3D digital archetype, a character inspired by the real people who shape the Bitcoin ecosystem. From coders and maximalists to manipulators and whisperers, Bitshaders captures the raw, unfiltered spirit of Bitcoin.\n\nThis is more than a PFP project. It's a tribute to the minds behind the wallets.\nMinted on Bitcoin. Forged in narrative. Built for those who see beyond the chart.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/bitshaders",
+      "discordLink": "",
+      "websiteLink": "https://bitshaders.io/",
+      "createdAt": "Wed, 21 May 2025 16:35:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

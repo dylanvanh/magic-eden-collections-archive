@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.228Z",
+  "slug": "ordinal-monkeys",
+  "tokenCount": 21,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "ordinal-monkeys",
+    "collection": {
+      "symbol": "ordinal-monkeys",
+      "name": "Ordinal Monkeys",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinal-monkeys.avif",
+      "chain": "btc",
+      "inscriptionIcon": "https://ordinals.com/inscription/ea1e090ed05c82ca9270f335f226d52d28a80a97a3010d3a199fe4b0c887ca79i0",
+      "description": "Ordinal Monkeys, a set of 21 Midcentury Midjourney Monkeys inspired by Joan Miró. Inscriptions #2226 - #2250 inscribed on 2/4/2023",
+      "supply": 21,
+      "twitterLink": "https://twitter.com/ordinallyfriend",
+      "discordLink": "https://discord.gg/r4bNMfNbJE",
+      "websiteLink": "",
+      "createdAt": "Sun, 23 Apr 2023 14:26:11 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

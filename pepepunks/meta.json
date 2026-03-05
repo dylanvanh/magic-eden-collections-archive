@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:39.905Z",
+  "slug": "pepepunks",
+  "tokenCount": 1450,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "pepepunks",
+    "collection": {
+      "symbol": "pepepunks",
+      "name": "Pepe Punks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-pepepunks_pfp_1696220616863.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Pepe Punks are inscribed on Legendary Block 9 sats and also re-inscribed on cursed sats. Each sat has both a regular inscription and a cursed inscription. The cursed sides also carry a cursed vibe.",
+      "supply": 3333,
+      "twitterLink": "https://twitter.com/SatoshiPunksNFT",
+      "discordLink": "https://discord.gg/satoshipunksnft",
+      "websiteLink": "https://www.pepepunks.art/",
+      "createdAt": "Mon, 27 Nov 2023 11:30:07 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

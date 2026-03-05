@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:51.541Z",
+  "slug": "mempoolio",
+  "tokenCount": 3325,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "mempoolio",
+    "collection": {
+      "symbol": "mempoolio",
+      "name": "Mempoolio",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-mempoolio_pfp_1753810157357.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "MEM THE POOLIO BRC 2.0",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "https://discord.gg/WmtGwKRJFw",
+      "websiteLink": "",
+      "createdAt": "Tue, 29 Jul 2025 17:48:49 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qnndecnh8qqh4r5vfggjfqd0danmzghsjatuj6m",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

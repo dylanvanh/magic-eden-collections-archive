@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:24.360Z",
+  "slug": "boons",
+  "tokenCount": 652,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "boons",
+    "collection": {
+      "symbol": "boons",
+      "name": "Boons v Lions",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-boons_pfp_1738605435549.png",
+      "chain": "btc",
+      "inscriptionIcon": "6bfb433e758f08d454739ef3be4e53332aa79c6cd97a842f16871352913b3f7bi0",
+      "description": "Boons and Shadow Lions battle on Bitcoin.",
+      "supply": 512,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BoonsvLions",
+      "discordLink": "https://discord.gg/yGJbgh8VbC",
+      "websiteLink": "https://hangry.net",
+      "createdAt": "Wed, 08 May 2024 15:43:09 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

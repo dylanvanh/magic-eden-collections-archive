@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.052Z",
+  "slug": "ordinal-bears",
+  "tokenCount": 1111,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "ordinal-bears",
+    "collection": {
+      "symbol": "ordinal-bears",
+      "name": "Ordinal Bears",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordinal-bears.avif",
+      "chain": "btc",
+      "inscriptionIcon": "3cf9a715f350a6f873bacf422f86b0b28678894a937edf4fa18f8f32462d8884i0",
+      "description": "1111 Ordinal Bears roaming on BTC. Ordinal Bears is the continuation of the Omni-Chain Moonbears collection on ETH.",
+      "supply": 1111,
+      "twitterLink": "https://twitter.com/moonbears_xyz",
+      "discordLink": "https://discord.gg/moonbears",
+      "websiteLink": "https://ordinalbears.xyz",
+      "createdAt": "Thu, 23 Mar 2023 08:01:32 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

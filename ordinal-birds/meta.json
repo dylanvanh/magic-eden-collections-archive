@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:29.123Z",
+  "slug": "ordinal-birds",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ordinal-birds",
+    "collection": {
+      "symbol": "ordinal-birds",
+      "name": "Ordinal Birds",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordinal-birds_pfp_1690869114662.png",
+      "chain": "btc",
+      "inscriptionIcon": "0a6bb0887af1ced974f141ee2bc93022df8eb0402b6982b3fd9fcddcb7462a87i0",
+      "description": "100 Unique, algorithmically generated and hand-picked Moonbirds",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/ordeclipse",
+      "discordLink": "https://discord.gg/ordeclipse",
+      "websiteLink": "",
+      "createdAt": "Wed, 27 Mar 2024 22:01:47 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

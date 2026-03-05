@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:09.771Z",
+  "slug": "node_wizards",
+  "tokenCount": 9983,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "node_wizards",
+    "collection": {
+      "symbol": "node_wizards",
+      "name": "Node Wizards",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/node_wizards.avif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "wizards in nodes",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/nodewizardsog",
+      "discordLink": "https://discord.gg/2tFs3MYXFy",
+      "websiteLink": "",
+      "createdAt": "Sat, 02 Dec 2023 02:35:07 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

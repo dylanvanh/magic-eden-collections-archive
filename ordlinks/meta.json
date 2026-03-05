@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:35.602Z",
+  "slug": "ordlinks",
+  "tokenCount": 10000,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "ordlinks",
+    "collection": {
+      "symbol": "ordlinks",
+      "name": "Ordlinks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordlinks_pfp_1703598459173.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Ordlinks is a collection of 10,000 unique pixel artifacts on Bitcoin, the first and most efficient without recursion, totaling 1.46 MB.\n\nEach Ordlink, inscribed as a dual inscription on one satoshi, pairs a normal Ordlink and a cursed inscription—both fully on-chain and self-contained—forming a Yin-Yang design that reflects balance and duality in the Ordinals ecosystem.\n\nThe collection showcases geometric Pixel Archetypes, including animals, structures, and symbolic forms, designed in a minimalist 45x45 pixel format. At 156 bytes, it’s native Bitcoin original artwork using Bitcoin’s limits.\n\nPost-@rodarmor’s 2024 Jubilee ending cursed inscriptions, Ordlinks, the last Yin-Yang collection, gained rarity, tying to Yelo lore and the Singular collection.",
+      "supply": 10000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Yelonft",
+      "discordLink": "https://discord.gg/MXWyESHyep",
+      "websiteLink": "https://ordlinks.com/",
+      "createdAt": "Sat, 23 Dec 2023 09:48:34 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1q962gnmj2524pkv3c9kltqs4dajk3mhu7gn7l3t",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

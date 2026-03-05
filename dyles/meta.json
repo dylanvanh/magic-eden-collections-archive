@@ -1,0 +1,37 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:04.091Z",
+  "slug": "dyles",
+  "tokenCount": 222,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "dyles",
+    "collection": {
+      "symbol": "dyles",
+      "name": "dyles by dyle",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-dyles_pfp_1709579428645.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "An expanding collection of Ordinals from visual artist 'dyle', with pieces added daily. It contains collections within collections, an infinite loop of original visual art which utilises computer malfunction, algorithms and mouse pointer.",
+      "supply": 999,
+      "twitterLink": "https://twitter.com/DYLE0800",
+      "discordLink": "",
+      "websiteLink": "https://linktr.ee/dyle0800",
+      "createdAt": "Mon, 04 Mar 2024 20:42:55 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

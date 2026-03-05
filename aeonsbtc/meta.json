@@ -1,0 +1,45 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:29.925Z",
+  "slug": "aeonsbtc",
+  "tokenCount": 3332,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "54f6eda5d9d4adf71f244ca8e0c6199223b2f20f9cf02902825e66b6d92a8bc8i0",
+    "collectionSymbol": "aeonsbtc",
+    "collection": {
+      "symbol": "aeonsbtc",
+      "name": "Aeons",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-aeonsbtc_pfp_1721160191374.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "54f6eda5d9d4adf71f244ca8e0c6199223b2f20f9cf02902825e66b6d92a8bc8i0",
+      "description": "Aeons are vibrant, chaotic, and rebellious beings, brought to life in a neo-expressionist style. Embodying a pursuit of exploration and a dream to bring art to the eternal chain, 3333 Aeons merge the worlds of fine art and PFPs, introducing a fresh and unique style to ordinals.",
+      "supply": 3333,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/AeonsBTC",
+      "discordLink": "https://discord.gg/2zqeHXZ6Tn",
+      "websiteLink": "https://aeonsbtc.com/",
+      "createdAt": "Tue, 16 Jul 2024 21:51:12 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [
+        "ART"
+      ],
+      "creatorTipsAddress": "3M8Zi2LBoWAc4o5QPiwd9RQMVezZfwZtVt",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

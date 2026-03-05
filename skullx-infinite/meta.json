@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:37.316Z",
+  "slug": "skullx-infinite",
+  "tokenCount": 6657,
+  "defaults": {
+    "contentType": "text/html",
+    "chain": "btc",
+    "collectionSymbol": "skullx-infinite",
+    "collection": {
+      "symbol": "skullx-infinite",
+      "name": "Skullx: Infinite",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-skullx-infinite_pfp_1731509259247.gif",
+      "chain": "btc",
+      "inscriptionIcon": "66676d9915aaba642645ef55566d81643350dd7435f72cde9cdd5cbbcc3a4666i98",
+      "description": "Skullx: Infinite is a groundbreaking collection of 6,666 digital collectibles fully inscribed on exotic Block 666 sats. With 66 distinct themes throughout the collection, every piece is a bold statement of individuality, creativity, and innovation. Among them, 7 animated 1/1s stand out, each inscribed on ultra-rare Block 666 Palindrome sats—highlighted by one extraordinary piece sealed on inscription number 66,666,66. Infinite harnesses the full power of the Ordinals protocol. Each piece has a custom transaction ID, creation fee, and utilizes Parent Child provenance to create on-chain metadata. Backed by a community that has thrived since 2021, Skullx: Infinite redefines what it means to own and experience true digital art on Bitcoin. This collection is the future of digital collectibles.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/SkullxNFT",
+      "discordLink": "",
+      "websiteLink": "https://linktr.ee/skullxnft",
+      "createdAt": "Sun, 20 Oct 2024 15:28:02 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pxz6f0kcz335n8mm2k06mg05qry7m3vv6lg0g06te9t2lchq0hwpqjz6h6h",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 666,
+    "satBlockTime": "Fri, 16 Jan 2009 04:10:36 GMT"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

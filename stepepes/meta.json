@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:40.050Z",
+  "slug": "stepepes",
+  "tokenCount": 2001,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "33d691762b8ec146c9d019eadf6a1736aab9e402457e502c8fc453c728450af7i0",
+    "collectionSymbol": "stepepes",
+    "collection": {
+      "symbol": "stepepes",
+      "name": "STEPEPES by LORS",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/stepepes.webp",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "2000 manually made ordinals by LORS, each with a unique vibe. The collection has been inscribed on Block 9 450x sequential sats, with parent-child provenance. Each ordinal is fully animated in SVG format.",
+      "supply": 2000,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/LorsOnChain",
+      "discordLink": "https://discord.gg/4sSRkc7h8Q",
+      "websiteLink": "",
+      "createdAt": "Wed, 10 Apr 2024 20:39:48 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "3M2HgSYmCmt4gnVfsHRnYMgjWdEZ73JSng",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

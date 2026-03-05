@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:19.903Z",
+  "slug": "bitmapsunset",
+  "tokenCount": 600,
+  "defaults": {
+    "chain": "btc",
+    "listed": false,
+    "listedPrice": 0,
+    "collectionSymbol": "bitmapsunset",
+    "collection": {
+      "symbol": "bitmapsunset",
+      "name": "Bitmap Sunset",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitmapsunset_pfp_1696452473426.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "7f77f71f5f289ed18f7749c51717c08a0b2f4f01965b024b9e299b82af8e546ci0",
+      "description": "Exploring The Bitcoin Multiverse.",
+      "supply": 100,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/BitmapSunset",
+      "discordLink": "",
+      "websiteLink": "https://ordinals.com/content/e820035fa706c6d1e2cb732bb7c0de4e5c91573a1645b4db75da75c96a7ea7d8i0",
+      "createdAt": "Fri, 06 Oct 2023 09:56:47 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pm6s2dhr8e8dc853r0269llrldm5lww7wl3pdp5apzswsqxl5ayeqsvz0fv",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ],
+    "hasTransientRbfProtection": false
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

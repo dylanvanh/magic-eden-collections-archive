@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:47.758Z",
+  "slug": "bitcoin-bees",
+  "tokenCount": 1327,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-bees",
+    "collection": {
+      "symbol": "bitcoin-bees",
+      "name": "Bitcoin Bees",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/bitcoin-bees.avif",
+      "chain": "btc",
+      "inscriptionIcon": "fae897c32b07c5c4ab3bf8996b07aad656d34b4b963328d30b99bf1d5db05e42i0",
+      "description": "First 1000+ Ordinals collection inscribed entirely on unique sats.1 Queen on a Palindrome30 Drones on Pizza sats1296 Worker Bees on Block 78 sats",
+      "supply": 1327,
+      "twitterLink": "https://twitter.com/OrdinalBees",
+      "discordLink": "https://discord.gg/9aX49Kbc5A",
+      "websiteLink": "",
+      "createdAt": "Thu, 15 Jun 2023 10:41:56 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:59.027Z",
+  "slug": "does",
+  "tokenCount": 33,
+  "defaults": {
+    "chain": "btc",
+    "outputValue": 330,
+    "collectionSymbol": "does",
+    "collection": {
+      "symbol": "does",
+      "name": "Lil Doe's",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-does_pfp_1771766766317.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Weird life on chain / FTW\nNo roadmap, creative freedom, no specific direction\n\n50ck5 574y 0n\n\n\nPositivity / Gratitude / Love / Light \n\n\nArtist: DJ Gl17ch \n\n333",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/DJ_Gl17ch",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 26 Jan 2026 21:08:08 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1phdavzy38npuyfh8dj37st55jvvmaq0f2wxeymnyt8h59sdna20vsgwx2um",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

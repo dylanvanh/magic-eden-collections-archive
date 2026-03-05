@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:17.523Z",
+  "slug": "frogspuppets",
+  "tokenCount": 9963,
+  "defaults": {
+    "contentType": "image/gif",
+    "chain": "btc",
+    "collectionSymbol": "frogspuppets",
+    "collection": {
+      "symbol": "frogspuppets",
+      "name": "Frogs Puppets",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-frogspuppets_pfp_1709594538567.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "10000 FrogsPuppets living on bitcoin launched on March 4 2024 RIBBIT.",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/NodeFrogs",
+      "discordLink": "https://discord.gg/DeSTaZVE69",
+      "websiteLink": "",
+      "createdAt": "Tue, 05 Mar 2024 00:30:35 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3Cn8yCg2ssbg6EdtAEAHWHewxFY1nnUwbA",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:20.601Z",
+  "slug": "fusion-art",
+  "tokenCount": 1229,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "fusion-art",
+    "collection": {
+      "symbol": "fusion-art",
+      "name": "Fusion by Billy Restey & Gabe Weis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fusion-art_pfp_1721244143975.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "An experimental generative art project using rare sats to create abstract, minimalist artwork––inscribed by the community using their own satoshis, by Billy Restey & Gabe Weis",
+      "supply": 865,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/billyrestey",
+      "discordLink": "https://discord.gg/dvdnsZDRzk",
+      "websiteLink": "",
+      "createdAt": "Wed, 17 Jul 2024 18:59:54 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "33wS3vdqmWYGopFWt3QM2XSv28usFGUjKv",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

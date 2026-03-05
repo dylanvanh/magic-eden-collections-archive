@@ -1,0 +1,51 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:27.596Z",
+  "slug": "hashed",
+  "tokenCount": 256,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "genesisTransaction": "0d450ffa130f2b21786f71d0110d3138b7cc037e4ab9e666a43347a15ec4710d",
+    "genesisTransactionBlockTime": "Fri, 20 Sep 2024 06:54:01 GMT",
+    "genesisTransactionBlockHash": "00000000000000000001f614a5c638930418dc0f88add92d9c7683e07b810755",
+    "genesisTransactionBlockHeight": 862084,
+    "chain": "btc",
+    "parentInscriptionId": "59409e1141221c05c78b31ae5db59223367db4486a5da46e710b29e5d1170acci0",
+    "collectionSymbol": "hashed",
+    "collection": {
+      "symbol": "hashed",
+      "name": "Hashed by Theezy",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-hashed_pfp_1733846460365.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "A collection of 256 abstract mining rigs, inspired by the old-school plugboards of cipher machines and responsive to real-time block data.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/theezy350",
+      "discordLink": "https://discord.gg/DDUcr9CNpS",
+      "websiteLink": "https://www.theezy.org",
+      "createdAt": "Tue, 24 Sep 2024 16:20:45 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "33EQ7EbeAxFerCVJpstrKSTAin2FnqjuVE",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 78,
+    "satBlockTime": "Sun, 11 Jan 2009 01:00:54 GMT",
+    "satributes": [
+      "Block 78",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

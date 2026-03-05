@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:36.663Z",
+  "slug": "central-wankers-gensler",
+  "tokenCount": 128,
+  "defaults": {
+    "contentType": "image/svg+xml",
+    "contentBody": "PHN2ZyB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48aW1hZ2UgaGVpZ2h0PSIxMDAlIiB3aWR0aD0iMTAwJSIgaHJlZj0iL2NvbnRlbnQvZWMxMTVhMTFmZWQ4MmRhMzQ0MDgzODc5NjViZmQxMDYzMTU2ZDBiZGIzNzFhYWI5NGY3MWJkM2RiZWQzZDYzNmkwIi8+PC9zdmc+",
+    "chain": "btc",
+    "collectionSymbol": "central-wankers-gensler",
+    "collection": {
+      "symbol": "central-wankers-gensler",
+      "name": "Central Wankers: Gensler",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-central-wankers-gensler_pfp_1697561965207.jpeg",
+      "chain": "btc",
+      "inscriptionIcon": "ec115a11fed82da34408387965bfd1063156d0bdb371aab94f71bd3dbed3d636i0",
+      "description": "Is Bitcoin a security? Uhhh.. it is a commodity? Uhhh……When Gary isn't “protecting the American public” from the concept of financial freedom he is probably looking up the definition of the word “security” in the dictionary at the MIT library. Gary’s time as SEC Chair displays a petty preoccupation with stifling blockchain technology and digital assets, as if it was finally time to take revenge on his high school bully. What's wrong, Gary? Tired of getting caught with your pants down?",
+      "supply": 128,
+      "twitterLink": "https://twitter.com/SeizeCTRL",
+      "discordLink": "https://discord.gg/seizectrl",
+      "websiteLink": "https://seizectrl.io/",
+      "createdAt": "Tue, 17 Oct 2023 19:58:28 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

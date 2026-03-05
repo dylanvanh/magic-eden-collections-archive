@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:21.964Z",
+  "slug": "oracles",
+  "tokenCount": 333,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "oracles",
+    "collection": {
+      "symbol": "oracles",
+      "name": "Oracles",
+      "imageURI": "https://bafkreianaykl56rgyfubwvw3mxztaa6eaumz2g4cr5r3zbkylue3cx5upe.ipfs.nftstorage.link/",
+      "chain": "btc",
+      "inscriptionIcon": "e901331294ed9e813db719556961b663768aea714b3ae8e7b6230f3244af0b1ci0",
+      "description": "333 Piece 1/1 Boutique Art Collection Inscribed on Bitcoin Block 9",
+      "supply": 333,
+      "twitterLink": "https://twitter.com/OraclesBTC",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Mon, 19 Jun 2023 15:29:50 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 9,
+    "satBlockTime": "Fri, 09 Jan 2009 03:54:39 GMT",
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

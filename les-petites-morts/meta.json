@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:45.553Z",
+  "slug": "les-petites-morts",
+  "tokenCount": 13,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "0eca6ec98f4872106c9e21570c8c1246aabfb65140ea2d09250927b83eae7ae2i0",
+    "collectionSymbol": "les-petites-morts",
+    "collection": {
+      "symbol": "les-petites-morts",
+      "name": "Les Petites Morts by XSULLO",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-les-petites-morts_pfp_1696493617017.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Death and Beauty. Both timeless adversaries yet secret lovers as well. Les Petites Morts reminds us to remember the playfulness and allure of being alive, even in the face of our own mortality. These little deaths dance on the precipice of excitement, unflinching in their celebration of life and the afterlife, beauty and decay, and the fun of that never-ending cycle.",
+      "supply": 13,
+      "twitterLink": "https://twitter.com/ordeclipse",
+      "discordLink": "https://discord.gg/ordeclipse",
+      "websiteLink": "",
+      "createdAt": "Thu, 05 Oct 2023 13:23:25 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "uncommon"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

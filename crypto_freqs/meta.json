@@ -1,0 +1,46 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:22:48.039Z",
+  "slug": "crypto_freqs",
+  "tokenCount": 1111,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "crypto_freqs",
+    "collection": {
+      "symbol": "crypto_freqs",
+      "name": "CRYPTO FREQ'S",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-crypto_freqs_pfp_1723826650140.gif",
+      "chain": "btc",
+      "inscriptionIcon": "478d6ed0338ec884ecb5cfe6e9e2a4f25faf6680b73fdb7defda660cc96650fai0",
+      "description": "Grafitti on Bitcoin. 1,111 Crypto FREQ's created by the artist known as 'FREQ' & immortalised forever on Bitcoin 666 sats (because they all have a lil of the devil in them)! \nParent/Child recursive inscriptions forever on Bitcoin. It'll be here long after we aren't!\nHave you 'Got ya FREQ on yet?'",
+      "supply": 1111,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/Crypto_FREQs",
+      "discordLink": "https://discord.gg/5TgPzMnVGS",
+      "websiteLink": "https://cryptofreqs.com/",
+      "createdAt": "Thu, 15 Aug 2024 10:05:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3BHiWFfiGJoqsyYnuWJthHxC1kdhQnojf8",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satBlockHeight": 666,
+    "satBlockTime": "Fri, 16 Jan 2009 04:10:36 GMT",
+    "satributes": [
+      "Block 666",
+      "Common",
+      "Vintage"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

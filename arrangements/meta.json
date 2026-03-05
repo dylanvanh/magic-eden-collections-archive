@@ -1,0 +1,40 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:32.695Z",
+  "slug": "arrangements",
+  "tokenCount": 824,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "parentInscriptionId": "bc3c3d715c6c1412fc8e33c26017afeb86b191d0f8613c9d48e2e3650da969b5i1",
+    "collectionSymbol": "arrangements",
+    "collection": {
+      "symbol": "arrangements",
+      "name": "Arrangements",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-arrangements_pfp_1734883483515.png",
+      "chain": "btc",
+      "inscriptionIcon": "c21e21265db7d79b1f76fba8c02c6b1bc8bff15c660b2d33b7383a01c5c64b86i0",
+      "description": "The Francisco Carolinum Linz presents 'Arrangements' on the occasion of the 200th anniversary of the birth of the famous Austrian composer Anton Bruckner. The poem, written by Ana María Caballero, is a contemporary response to Bruckner's tender proposal to 'Fräulein Josefine'. Based on this poetic dialogue, 824 generative works have been created with the support of Studio Harto to honour the musician's legacy. Realised by Ancora, this project redefines how art is preserved and shared.",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/CaballeroAnaMa",
+      "discordLink": "",
+      "websiteLink": "https://anamariacaballero.com/",
+      "createdAt": "Sun, 22 Dec 2024 15:09:50 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1p8lnnqc4p7c4npd94dqe92naufe89pwt6nja5p7hufs33e6dwptyqkudf4c",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

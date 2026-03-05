@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:31.746Z",
+  "slug": "aneemoo",
+  "tokenCount": 1111,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "aneemoo",
+    "collection": {
+      "symbol": "aneemoo",
+      "name": "Aneemoo's",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-aneemoo_pfp_1725219404833.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Building Bitcoins largest 1:1 pfp art collection 🦒 This is NOT your typical Generative Art Project. Every piece in the collection is a hand drawn 1 of 1. The entire creative process took over 5 months to complete and they will forever live on Bitcoin.",
+      "supply": 1111,
+      "twitterLink": "https://twitter.com/AneemoosBTC",
+      "discordLink": "https://discord.gg/unbXC5N5ez",
+      "websiteLink": "https://aneemoos.wtf/",
+      "createdAt": "Sun, 01 Sep 2024 19:59:15 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "35wBut6oLRobsuDN6rNBd8aNKqNfo1myyk",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

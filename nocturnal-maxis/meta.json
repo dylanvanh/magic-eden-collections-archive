@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:08.859Z",
+  "slug": "nocturnal-maxis",
+  "tokenCount": 189,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "genesisTransactionBlockTime": "Sun, 13 Aug 2023 21:48:13 GMT",
+    "genesisTransactionBlockHash": "000000000000000000029fbfb4efe1c4c804d025d5e135ff6db6fb38baf96209",
+    "genesisTransactionBlockHeight": 803012,
+    "chain": "btc",
+    "collectionSymbol": "nocturnal-maxis",
+    "collection": {
+      "symbol": "nocturnal-maxis",
+      "name": "Nocturnal Maxis",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-nocturnal-maxis_pfp_1690485853874.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "On-Chain, BRC69, Reactive, Recursive, Special Sat, Generative PFP'S. We change at night.",
+      "supply": 222,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/NocturnalMaxis",
+      "discordLink": "https://discord.gg/Qm6B3nmfda",
+      "websiteLink": "https://nocturnalmaxis.xyz",
+      "createdAt": "Mon, 14 Aug 2023 09:51:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

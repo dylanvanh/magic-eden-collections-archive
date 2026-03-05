@@ -1,0 +1,41 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:52.433Z",
+  "slug": "milliondollarcoins",
+  "tokenCount": 47,
+  "defaults": {
+    "contentType": "image/jpeg",
+    "chain": "btc",
+    "collectionSymbol": "milliondollarcoins",
+    "collection": {
+      "symbol": "milliondollarcoins",
+      "name": " Million Dollar Coins",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-milliondollarcoins_pfp_1754605327339.gif",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "47 Coins of Million Dollar were selected to be forever inscribed on Bitcoin",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/M_DollarCoins",
+      "discordLink": "",
+      "websiteLink": "https://milliondollarcoins.wixsite.com/million-dollar-coins",
+      "createdAt": "Sun, 05 Jan 2025 19:45:17 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

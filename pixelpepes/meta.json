@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:40.565Z",
+  "slug": "pixelpepes",
+  "tokenCount": 1563,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "pixelpepes",
+    "collection": {
+      "symbol": "pixelpepes",
+      "name": "Pixel Pepes",
+      "imageURI": "https://bafkreiga75vhw3346sfkqbbxmvizz4qfhdiq5xwkotpldlzrnipecweufm.ipfs.nftstorage.link",
+      "chain": "btc",
+      "inscriptionIcon": "47c1d21c508f6d49dfde64d958f14acd041244e1bb616f9b78114b8d9dc7b945i0",
+      "description": "The first ever airdrop on Bitcoin Ordinals. 1563 Pixel Pepe NFTs.",
+      "supply": 1563,
+      "twitterLink": "https://twitter.com/PepesPixel",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Thu, 23 Mar 2023 03:22:11 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

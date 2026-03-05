@@ -1,0 +1,44 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:25:45.344Z",
+  "slug": "theunion",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/avif",
+    "chain": "btc",
+    "parentInscriptionId": "2f0731248115d5472d6b554aad5073a96a960e0b5b39618e5f6d5e43cfd3b217i0",
+    "outputValue": 546,
+    "collectionSymbol": "theunion",
+    "collection": {
+      "symbol": "theunion",
+      "name": "TheUnion",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-theunion_pfp_1769440466261.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "1/1 artworks engraved on Bitcoin. From Struggle → Resistance → Hope → Harmony. Every piece tells part of a timeless journey. Not just art, but a movement: unity through creativity, forever on-chain.",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/theunion100",
+      "discordLink": "",
+      "websiteLink": "",
+      "createdAt": "Tue, 28 Oct 2025 15:56:57 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1qsk6eptt02n663rjz393nj566ufddu2c67nme4e",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

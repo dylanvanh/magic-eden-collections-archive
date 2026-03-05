@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:28.050Z",
+  "slug": "helpmedebugthis",
+  "tokenCount": 965,
+  "defaults": {
+    "contentType": "image/webp",
+    "chain": "btc",
+    "collectionSymbol": "helpmedebugthis",
+    "collection": {
+      "symbol": "helpmedebugthis",
+      "name": "HelpMeDebugThis",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/helpmedebugthis.avif",
+      "chain": "btc",
+      "inscriptionIcon": "f0c8750ca7027eb9d7163120762b01cf83e6c122e843837fb965480cad73f414i0",
+      "description": "Something is fundamentally wrong. H3lp M3 D3bu8 Th15!",
+      "supply": 870,
+      "twitterLink": "https://twitter.com/HelpMeDebugThis",
+      "discordLink": "https://discord.gg/helpmedebugthis",
+      "websiteLink": "https://helpmedebugthis.com/",
+      "createdAt": "Wed, 17 May 2023 17:01:22 GMT",
+      "overrideContentType": null,
+      "disableRichThumbnailGeneration": null,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

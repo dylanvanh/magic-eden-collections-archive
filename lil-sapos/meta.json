@@ -1,0 +1,35 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:47.203Z",
+  "slug": "lil-sapos",
+  "tokenCount": 9984,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "lil-sapos",
+    "collection": {
+      "symbol": "lil-sapos",
+      "name": "Lil Sapos",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-lil-sapos_pfp_1703890520147.png",
+      "chain": "btc",
+      "inscriptionIcon": "47382aa83fb66e2b4e25b4dc6b3456fae242d840297061b51e0dbd8e8de38975i0",
+      "description": "Sapo Sapo!",
+      "supply": 10000,
+      "twitterLink": "https://twitter.com/lilSapos",
+      "discordLink": "https://discord.gg/r6CpfjFcut",
+      "websiteLink": "",
+      "createdAt": "Fri, 29 Dec 2023 23:43:01 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

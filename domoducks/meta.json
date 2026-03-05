@@ -1,0 +1,38 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:03.724Z",
+  "slug": "domoducks",
+  "tokenCount": 300,
+  "defaults": {
+    "chain": "btc",
+    "collectionSymbol": "domoducks",
+    "collection": {
+      "symbol": "domoducks",
+      "name": "DomoDucks",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-domoducks_pfp_1706386128276.png",
+      "chain": "btc",
+      "inscriptionIcon": "84defb5e7db11f047b4bc58685b65654980be4a55e254a510048a71e0e43e532i0",
+      "description": "DomoDucks is a parent-child-provenance collection of 256 clickable/interactive domo-inspired ducks on Block 9 sats with a verifiably fixed supply that's descended from Inscription #256—the first duck inscribed on Bitcoin. We were also the first Ordinals community to implement on-chain breeding via multi-parent-child provenance, and the initial 42 offspring were appended to the collection to cap the total supply at 300 (i.e., Inscription #256 + Logo + 256 DomoDucks + 42 Offspring = 300).",
+      "supply": 258,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/DomoDucks",
+      "discordLink": "https://discord.gg/H9nG9ybKUt",
+      "websiteLink": "https://domoducks.gitbook.io/domoducks/",
+      "createdAt": "Sat, 27 Jan 2024 21:59:42 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": true,
+      "labels": [],
+      "creatorTipsAddress": "bc1qq8nhm2huatj77pdnt3drnd75vnaw6wnz0g7qfh",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

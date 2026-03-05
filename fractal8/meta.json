@@ -1,0 +1,42 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:16.477Z",
+  "slug": "fractal8",
+  "tokenCount": 856,
+  "defaults": {
+    "contentType": "text/html",
+    "contentBody": "PCFkb2N0eXBlIGh0bWw+PGh0bWwgbGFuZz1lbj48aGVhZD48bWV0YSBjaGFyc2V0PVVURi04PjxtZXRhIG5hbWU9dmlld3BvcnQgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLGluaXRpYWwtc2NhbGU9MSI+PHRpdGxlPk1hdHJpeCBHcmlkPC90aXRsZT48c3R5bGU+Ym9keXttYXJnaW46MDtiYWNrZ3JvdW5kOiMwMDA7Y29sb3I6I2ZmZjt0ZXh0LWFsaWduOmNlbnRlcn0jZ3JpZHtkaXNwbGF5OmdyaWQ7Z3JpZC10ZW1wbGF0ZS1jb2x1bW5zOnJlcGVhdCg4LDFmcik7Z3JpZC10ZW1wbGF0ZS1yb3dzOnJlcGVhdCg4LDFmcik7Z2FwOjFweDt3aWR0aDoxMDBweDtoZWlnaHQ6MTAwcHg7bWFyZ2luOmF1dG87dG9wOjQ1JTtsZWZ0OjUwJTtwb3NpdGlvbjphYnNvbHV0ZTt0cmFuc2Zvcm06dHJhbnNsYXRlKC01MCUsLTUwJSl9LnBpeGVse3dpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7Ym9yZGVyOjFweCBzb2xpZCAjMGYwO3Bvc2l0aW9uOnJlbGF0aXZlO3RyYW5zaXRpb246YWxsIC4xNXMgZWFzZTtjdXJzb3I6Z3JhYjtiYWNrZ3JvdW5kOiMwMDB9LmNpcmNsZXt3aWR0aDo0cHg7aGVpZ2h0OjRweDtiYWNrZ3JvdW5kOiMwZjA7Ym9yZGVyLXJhZGl1czo1MCU7cG9zaXRpb246YWJzb2x1dGU7dG9wOjUwJTtsZWZ0OjUwJTt0cmFuc2Zvcm06dHJhbnNsYXRlKC01MCUsLTUwJSl9LnBpeGVsOmhvdmVye3RyYW5zZm9ybTpzY2FsZSgxLjA1KX0uZHJhZ2dpbmd7Y3Vyc29yOmdyYWJiaW5nO3otaW5kZXg6MTB9I2ZyYWN0YWw4e3Bvc2l0aW9uOmFic29sdXRlO3RvcDo1NyU7bGVmdDo1MCU7dHJhbnNmb3JtOnRyYW5zbGF0ZSgtNTAlLDApO2ZvbnQtc2l6ZToxM3B4fTwvc3R5bGU+PC9oZWFkPjxib2R5PjxkaXYgaWQ9Z3JpZD48L2Rpdj48ZGl2IGlkPWZyYWN0YWw4PkZyYWN0YWwgODwvZGl2PjxzY3JpcHQ+Y29uc3QgZ3JpZD1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiZ3JpZCIpO2xldCBkcmFnZ2VkPW51bGwsb2Zmc2V0WD0wLG9mZnNldFk9MDtmdW5jdGlvbiBiZWVwKCl7Y29uc3QgZT1uZXcod2luZG93LkF1ZGlvQ29udGV4dHx8d2luZG93LndlYmtpdEF1ZGlvQ29udGV4dCksdD1lLmNyZWF0ZU9zY2lsbGF0b3IoKTt0LnR5cGU9InNpbmUiLHQuZnJlcXVlbmN5LnNldFZhbHVlQXRUaW1lKDUwMCxlLmN1cnJlbnRUaW1lKSx0LmNvbm5lY3QoZS5kZXN0aW5hdGlvbiksdC5zdGFydCgpLHQuc3RvcChlLmN1cnJlbnRUaW1lKy4wNSl9Zm9yKGxldCBpPTA7aTw2NDtpKyspe2NvbnN0IGU9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgiZGl2Iik7ZS5jbGFzc05hbWU9InBpeGVsIjtjb25zdCB0PWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoImRpdiIpO3QuY2xhc3NOYW1lPSJjaXJjbGUiLGUuYXBwZW5kQ2hpbGQodCksZ3JpZC5hcHBlbmRDaGlsZChlKSxlLm9ubW91c2Vkb3duPWE9PntkcmFnZ2VkPWEudGFyZ2V0LG9mZnNldFg9YS5jbGllbnRYLWRyYWdnZWQub2Zmc2V0TGVmdCxvZmZzZXRZPWEuY2xpZW50WS1kcmFnZ2VkLm9mZnNldFRvcCxkcmFnZ2VkLmNsYXNzTGlzdC5hZGQoImRyYWdnaW5nIil9LGRvY3VtZW50Lm9ubW91c2V1cD0oKT0+e2RyYWdnZWQmJihkcmFnZ2VkLmNsYXNzTGlzdC5yZW1vdmUoImRyYWdnaW5nIiksZHJhZ2dlZC5zdHlsZS5sZWZ0PSIiLGRyYWdnZWQuc3R5bGUudG9wPSIiLGRyYWdnZWQ9bnVsbCl9LGRvY3VtZW50Lm9ubW91c2Vtb3ZlPWE9PntpZihkcmFnZ2VkKXtjb25zdCBuPWEuY2xpZW50WC1vZmZzZXRYLG89YS5jbGllbnRZLW9mZnNldFk7ZHJhZ2dlZC5zdHlsZS5wb3NpdGlvbj0iYWJzb2x1dGUiLGRyYWdnZWQuc3R5bGUubGVmdD1uKyJweCIsZHJhZ2dlZC5zdHlsZS50b3A9bysicHgifX0sZS5vbmNsaWNrPSgpPT57ZS5zdHlsZS5ib3JkZXI9ZS5zdHlsZS5ib3JkZXI9PT0iIzBmMCAxcHggc29saWQiPyIxcHggc29saWQgI2ZmZiI6IjFweCBzb2xpZCAjMGYwIjt0LnN0eWxlLmJhY2tncm91bmQ9dC5zdHlsZS5iYWNrZ3JvdW5kPT09IiMwZjAiPyIjZmZmIjoiIzBmMCJ9LGUub25tb3VzZWVudGVyPWJlZXB9PC9zY3JpcHQ+PC9ib2R5PjwvaHRtbD4=",
+    "chain": "btc",
+    "collectionSymbol": "fractal8",
+    "collection": {
+      "symbol": "fractal8",
+      "name": "Fractal 8",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fractal8_pfp_1765941628646.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Despite ongoing challenges in the Fractal market—including a major disruption to our communication channels—the collection remains fully operational on-chain on Bitcoin L1. All next steps and upcoming updates for holders will be communicated directly via our website.",
+      "supply": 888,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "",
+      "discordLink": "",
+      "websiteLink": "https://www.fractal8.website",
+      "createdAt": "Mon, 09 Sep 2024 10:42:06 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:49.778Z",
+  "slug": "lucidbtc",
+  "tokenCount": 6007,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "lucidbtc",
+    "collection": {
+      "symbol": "lucidbtc",
+      "name": "Lucidbtc",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-lucidbtc_pfp_1718877462803.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Lucid is a lifestyle brand and ordinals project, Lucid's ecosystem is designed for simultaneous expanse bridging the gap between Web2 and Web3, breathing life into digital assets by leading the transition from retail to ordinals on a large scale.",
+      "supply": 6007,
+      "twitterLink": "https://twitter.com/lucidbtc",
+      "discordLink": "https://discord.gg/lucidbtc",
+      "websiteLink": "https://lucidwear.io",
+      "createdAt": "Thu, 20 Jun 2024 17:20:44 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3DpVtfkQVpDkQvsfTHbGpbRs3JPQPBghEr",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

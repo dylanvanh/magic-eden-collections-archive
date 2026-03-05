@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:24:13.565Z",
+  "slug": "noonesees_",
+  "tokenCount": 5555,
+  "defaults": {
+    "contentType": "text/html;charset=utf-8",
+    "chain": "btc",
+    "collectionSymbol": "noonesees_",
+    "collection": {
+      "symbol": "noonesees_",
+      "name": "NoOneSees: Runestone",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-noonesees__pfp_1735043580706.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "As the days turned to nights and seasons shifted, the forest prospered under the ever-watchful eyes of the NoOneSees. Long after the Runestone, rumors began to swell, climaxing in a deafening whisper that spread fear worldwide. Everyone felt they were being watched—though none knew why. Then came a moment of silence, followed by two words echoing across the globe: “WE’RE HERE!!!”",
+      "supply": 0,
+      "coinMarketCapLink": "",
+      "telegramLink": "",
+      "twitterLink": "https://twitter.com/noonesees_",
+      "discordLink": "",
+      "websiteLink": "https://noonesees.io/",
+      "createdAt": "Tue, 24 Dec 2024 14:05:18 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pmzss992ax8sn6gn7rhnn44jyvzcta5egwsckul0f97hxs3lrgw3qquyepr",
+      "enableCollectionOffer": true,
+      "useObjectTag": false
+    },
+    "itemType": "Inscription",
+    "satRarity": "common"
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

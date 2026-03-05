@@ -1,0 +1,43 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:23:50.282Z",
+  "slug": "magicalflowers",
+  "tokenCount": 2999,
+  "defaults": {
+    "contentType": "image/png",
+    "genesisTransactionBlockTime": "Fri, 25 Oct 2024 12:17:14 GMT",
+    "genesisTransactionBlockHash": "00000000000000000001220f8735774e9a9456c02381c31c7235da31ee7e3899",
+    "genesisTransactionBlockHeight": 867293,
+    "chain": "btc",
+    "collectionSymbol": "magicalflowers",
+    "collection": {
+      "symbol": "magicalflowers",
+      "name": "Magical Flowers by YOUNG & SICK",
+      "imageURI": "https://media.cdn.magiceden.dev/ordinals-collection-img/magicalflowers.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "Magical Flowers is an art piece by YOUNG & SICK to celebrate the Full Mempool Protection Tool. Mempool sniping has come to an end!",
+      "supply": 0,
+      "twitterLink": "https://twitter.com/youngandsick",
+      "discordLink": "",
+      "websiteLink": "https://youngandsick.com",
+      "createdAt": "Thu, 07 Nov 2024 00:07:36 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "3D6yU3ZnyX47BXKXGMjkWZVbTNNyLpiAsg",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common",
+      "Pizza"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}

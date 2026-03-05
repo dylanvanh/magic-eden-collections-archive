@@ -1,0 +1,39 @@
+{
+  "exportSchemaVersion": 1,
+  "generatedAt": "2026-03-05T13:21:47.676Z",
+  "slug": "bitcoin-bears",
+  "tokenCount": 100,
+  "defaults": {
+    "contentType": "image/png",
+    "chain": "btc",
+    "collectionSymbol": "bitcoin-bears",
+    "collection": {
+      "symbol": "bitcoin-bears",
+      "name": "Bitcoin Bears",
+      "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcoin-bears_pfp_1705594487182.png",
+      "chain": "btc",
+      "inscriptionIcon": "",
+      "description": "100 Beautifully Pixelated Bears within the first 5700 inscriptions on the BTC blockchain forever.",
+      "supply": 100,
+      "twitterLink": "https://twitter.com/bitcoinbearsord",
+      "discordLink": "https://discord.gg/bitcoinbears",
+      "websiteLink": "",
+      "createdAt": "Mon, 20 Mar 2023 21:01:54 GMT",
+      "overrideContentType": "",
+      "disableRichThumbnailGeneration": false,
+      "labels": [],
+      "creatorTipsAddress": "bc1pedv9etyz66x7ken3rztapd7u5x8qmnmmz22ue6h4hskdjvx56heqhhzcha",
+      "enableCollectionOffer": true
+    },
+    "itemType": "Inscription",
+    "satRarity": "common",
+    "satributes": [
+      "Common"
+    ]
+  },
+  "templates": {
+    "contentURI": "https://ord-mirror.magiceden.dev/content/{id}",
+    "contentPreviewURI": "https://ord-mirror.magiceden.dev/preview/{id}",
+    "genesisTransaction": "{id.txid}"
+  }
+}
