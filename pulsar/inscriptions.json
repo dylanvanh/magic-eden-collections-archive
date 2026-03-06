@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:74f818a371dd977cdb816a37d9bb2dc5e1d5e666d722a648fc2ce7b098d91aa6
-size 733884
+{
+  "notice": "inscriptions.json is distributed via GitHub Releases only due to GitHub LFS bandwidth limits.",
+  "download": "https://github.com/dylanvanh/magic-eden-collections-archive/releases/latest"
+}

@@ -2,5 +2,6 @@
 
 Static archive of Magic Eden Ordinals collection snapshots.
 
-Each collection directory contains `meta.json`, `count.json`, and `inscriptions.json`.
-Note: `*/inscriptions.json` is tracked with Git LFS.
+Collection directories in this repo include `meta.json`, `count.json`, and a placeholder `inscriptions.json`.
+
+The full `inscriptions.json` data is distributed via GitHub Release assets only due to GitHub LFS bandwidth limits.
